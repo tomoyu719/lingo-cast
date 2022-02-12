@@ -1,4 +1,6 @@
-### Hi there 👋
+### Overview
+
+Script for studying foreign languages for myself
 
 <!--
 **tomoyu719/tomoyu719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
