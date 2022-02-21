@@ -8,43 +8,60 @@ from utility.russian.russian_word_morph import RussianWordMorph
 
 
 class MakeExampleSentenceFromWiki40b():
+    SA = '_START_ARTICLE_'
+    SS = '_START_SECTION_'
+    SP = '_START_PARAGRAPH_'
+    NL = '_NEWLINE_'
+    META_TAGS = [SA, SS, SP, NL]
+
     def __init__(self, wiki40b_language_code) -> None:
+        # self.sentences = self._decode_wiki40b(
+        #     wiki40b_language_code)
         self.sentences = self._decode_wiki40b(
             wiki40b_language_code)
         self.morph = RussianWordMorph()
 
     # TODO 前後の単語を取得するだけならdecodeしなくても良さそう
-    def _decode_wiki40b(self, wiki40b_language_code) -> list:
+    # def _decode_wiki40b(self, wiki40b_language_code) -> list:
+    def _decode_wiki40b(self, wiki40b_language_code) -> str:
         # test : val : train = 5 : 5 : 90
         ds = tfds.load('wiki40b/' + wiki40b_language_code, split='test')
-        # ds = tfds.load('wiki40b/' + wiki40b_language_code, split='train')
 
-        texts = []
+        all_raw_text = ''
         for wiki in ds.as_numpy_iterator():
             raw_text = wiki['text'].decode()
-            text = self._remove_matetags(raw_text)
-            texts.append(text)
-        sentences = []
-        for text in texts:
-            sentences += re.split('[.\n]', text)
-        # removing empty sentence
-        sentences = list(filter(lambda x: x != '', sentences))
+            all_raw_text += raw_text
+        
+        # remove meta infomation tag
+        for meta_tag in self.META_TAGS:
+            all_raw_text = all_raw_text.replace(meta_tag, '')
+        all_raw_text = all_raw_text.replace('\n', '')
+        
+        all_text = all_raw_text.lower()
+        # sentences = re.split('[.\n]', all_text)
+        sentences = all_text.split('.')
+        
         return sentences
 
-    def _remove_matetags(self, raw_text):
-        SA = '_START_ARTICLE_'
-        SS = '_START_SECTION_'
-        SP = '_START_PARAGRAPH_'
-        NL = '_NEWLINE_'
-        META_TAGS = [SA, SS, SP, NL]
-        for meta_tag in META_TAGS:
-            raw_text = raw_text.replace(meta_tag, '')
-        return raw_text
+        # texts = []
+        # for wiki in ds.as_numpy_iterator():
+        #     raw_text = wiki['text'].decode()
+        #     text = self._remove_matetags(raw_text)
+        #     texts.append(text)
+        # sentences = []
+        # for text in texts:
+        #     sentences += re.split('[.\n]', text)
+        # # removing empty sentence
+        # sentences = list(filter(lambda x: x != '', sentences))
+        # return sentences
+
+    
 
     #Wiki40bから、wordの前後の単語を含んだ文を返す
     def _get_around_words(self, word, exclude_pos_list) -> list:
         short_sentences = []
-        for s in self.sentences:
+        sentences = list(filter(lambda s: word in s, self.sentences))
+        for s in sentences:
             split = s.split()
             if word in split:
                 index = split.index(word)
@@ -81,12 +98,16 @@ class MakeExampleSentenceFromWiki40b():
             else:
                 sentence_frequency_conter[s] += 1
 
-        # descending order
-        sentence_frequency_conter = sorted(sentence_frequency_conter.items(),
+        try:
+           # descending order
+            sentence_frequency_conter = sorted(sentence_frequency_conter.items(),
                          key=lambda x: x[1], reverse=True)
+            most_frequent_sentence = sentence_frequency_conter[0][0]
+            return most_frequent_sentence
 
-        # TODO error catch 
-        most_frequent_sentence = sentence_frequency_conter[0][0]
+        except IndexError:
+            print(word)
+            return word
 
-        return most_frequent_sentence
+
 
