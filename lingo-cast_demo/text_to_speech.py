@@ -3,7 +3,7 @@ from pydub import AudioSegment
 
 class MakeAudio():
 
-    def __init__(self, language) -> None:
+    def __init__(self, language, speaking_rate=1.0) -> None:
         self.language = language
         self.client = texttospeech.TextToSpeechClient()
         self.voice = texttospeech.VoiceSelectionParams(language_code=language,ssml_gender=texttospeech.SsmlVoiceGender.FEMALE)
@@ -12,11 +12,10 @@ class MakeAudio():
             # audio_encoding=texttospeech.AudioEncoding.LINEAR16,
             audio_encoding=texttospeech.AudioEncoding.MP3,
             # audio_encoding=texttospeech.AudioEncoding.AUDIO_ENCODING_UNSPECIFIED,
-            # speaking_rate=0.5
+            speaking_rate=speaking_rate
         )
 
     def synthesize_text(self,text):
-        
 
         input_text = texttospeech.SynthesisInput(text=text)
 
