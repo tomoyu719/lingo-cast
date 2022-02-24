@@ -1,12 +1,16 @@
-import os
+from multiprocessing.sharedctypes import Value
 import re
+import MeCab
 
 import tensorflow_datasets as tfds
-from utility.russian.russian_word_morph import RussianWordMorph
+from utility.russian.word_morph import WordMorph
 
 
 #  TODO 日本語、中国語などは文をparseする
 
+REQUIRED_WORD_SEPARATION_LANGUAGES = [
+    'ja', 'zh-cn', 'zh-tw', 'th', 
+]
 
 class MakeExampleSentenceFromWiki40b():
     SA = '_START_ARTICLE_'
@@ -15,16 +19,33 @@ class MakeExampleSentenceFromWiki40b():
     NL = '_NEWLINE_'
     META_TAGS = [SA, SS, SP, NL]
 
-    def __init__(self, wiki40b_language_code, exclude_pos_list=[], is_including_other_word_form=False) -> None:
+    def __init__(self, language_code, exclude_pos_list=[]) -> None:
+        self.language_code = language_code
+        if self._is_required_word_separation():
+            self.separator = self._separator()
         self.wiki40b_sentences, self.word_index_dict = self._decode_wiki40b(
-            wiki40b_language_code)
-        self.morph = RussianWordMorph()
+            language_code)
+        self.morph = WordMorph(language_code)
         self.exclude_pos_list = exclude_pos_list
-        self.is_including_other_word_form = is_including_other_word_form
-        
+        # self.is_including_other_word_form = is_including_other_word_form
+    
+    #TODO rename
+    def _separator(self):
+        if self.language_code == 'ja':
+            return MeCab.Tagger("-Owakati")
+        else:
+            raise ValueError
 
+    def _is_required_word_separation(self):
+        if self.language_code in REQUIRED_WORD_SEPARATION_LANGUAGES:
+            return True
+        return False
+
+    
+    # TODO? テキストを分割せずに一つの巨大な文字列として扱う？
     # TODO 数字等を置換する？　1994 -> XX    
     def _decode_wiki40b(self, wiki40b_language_code):
+
         # test : val : train = 5 : 5 : 90
         # ds = tfds.load('wiki40b/' + wiki40b_language_code, split='train')
         ds = tfds.load('wiki40b/' + wiki40b_language_code, split='test')
@@ -35,10 +56,16 @@ class MakeExampleSentenceFromWiki40b():
             for text in wiki['text'].decode().split('\n'):
                 if start_paragraph:
                     text = text.replace('_NEWLINE_', '').lower()
+                    # TODO '.'で分割できない言語に対応
                     sentences += text.split('.')
                     start_paragraph = False
                 if text == '_START_PARAGRAPH_':
                     start_paragraph = True
+        
+        
+        if self.is_required_word_separation:
+            sentences = [self._separate(s) for s in sentences]
+            raise ValueError
 
         word_index_dict = {}
         for i, s in enumerate(sentences):
@@ -48,6 +75,19 @@ class MakeExampleSentenceFromWiki40b():
                 else:
                     word_index_dict[word].append(i)
         return sentences, word_index_dict
+    
+    def _separate(self, sentence):
+        if self.language_code == 'ja':
+            sentence = self.separator.parse(sentence)
+            # sentence = ' '.join(words)
+            print(sentence)
+            return sentence
+        # elif language_code == 'zh-cn':
+        # elif language_code == 'zh-tw':
+        # elif language_code == 'th':
+        else:
+            raise ValueError
+
 
     def _get_around_words2(self, word) -> list:
         try:

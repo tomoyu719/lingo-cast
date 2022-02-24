@@ -1,8 +1,8 @@
-from utility.russian.russian_word_morph import RussianWordMorph
+from utility.russian.word_morph import WordMorph
 
 # 正規化した単語が重複すれば、取り除く
 def remove_duplicate_word(words):
-    morph = RussianWordMorph()
+    morph = WordMorph()
 
     norm_words = []
     no_duplicate_word = []

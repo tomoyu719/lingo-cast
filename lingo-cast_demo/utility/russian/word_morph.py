@@ -1,10 +1,15 @@
-# from utility.get_words import get_words
-
 import pymorphy2
 
 
-class RussianWordMorph():
-    morph = pymorphy2.MorphAnalyzer()
+class WordMorph():
+
+    # TODO デフォルト引数を後で消す
+    def __init__(self, language_code='en') -> None:
+        if language_code == 'ru':
+            self.morph = pymorphy2.MorphAnalyzer()
+        # else:
+        #     raise Exception
+
 
     # part-of-speech：品詞
     def get_word_pos(self, word):

@@ -1,41 +1,138 @@
-[
-    {
-        "en": [
-            {
-                "wiki40b": "en"
-            },
-            {
-                "translation": "en"
-            },
-            {
-                "audio": "en"
-            }
-        ]
+{
+    "en": {
+        "audio_code": "en-US",
+        "translation_code": "en"
     },
-    {
-        "ja": [
-            {
-                "wiki40b": "ru"
-            },
-            {
-                "translation": "ja"
-            },
-            {
-                "audio": "ja-JP"
-            }
-        ]
+    "ar": {
+        "audio_code": "ar-XA",
+        "translation_code": "ar"
     },
-    {
-        "ru": [
-            {
-                "wiki40b": "ru"
-            },
-            {
-                "translation": "ru"
-            },
-            {
-                "audio": "ru"
-            }
-        ]
+    "zh-cn": {
+        "audio_code": "cmn-CN",
+        "translation_code": "zh-cn"
+    },
+    "zh-tw": {
+        "audio_code": "cmn-TW",
+        "translation_code": "zh-tw"
+    },
+    "nl": {
+        "audio_code": "nl-NL",
+        "translation_code": "nl"
+    },
+    "fr": {
+        "audio_code": "fr-FR",
+        "translation_code": "fr"
+    },
+    "de": {
+        "audio_code": "de-DE",
+        "translation_code": "de"
+    },
+    "it": {
+        "audio_code": "it-IT",
+        "translation_code": "it"
+    },
+    "ja": {
+        "audio_code": "ja-JP",
+        "translation_code": "ja"
+    },
+    "ko": {
+        "audio_code": "ko-KR",
+        "translation_code": "ko"
+    },
+    "pl": {
+        "audio_code": "pl-PL",
+        "translation_code": "pl"
+    },
+    "pt": {
+        "audio_code": "pt-PT",
+        "translation_code": "pt"
+    },
+    "ru": {
+        "audio_code": "ru-RU",
+        "translation_code": "ru"
+    },
+    "es": {
+        "audio_code": "es-ES",
+        "translation_code": "es"
+    },
+    "th": {
+        "audio_code": "th-TH",
+        "translation_code": "th"
+    },
+    "tr": {
+        "audio_code": "tr-TR",
+        "translation_code": "tr"
+    },
+    "bg": {
+        "audio_code": "bg-BG",
+        "translation_code": "bg"
+    },
+    "ca": {
+        "audio_code": "ca-ES",
+        "translation_code": "ca"
+    },
+    "cs": {
+        "audio_code": "cs-CZ",
+        "translation_code": "cs"
+    },
+    "da": {
+        "audio_code": "da-DK",
+        "translation_code": "da"
+    },
+    "el": {
+        "audio_code": "el-GR",
+        "translation_code": "el"
+    },
+    "fi": {
+        "audio_code": "fi-FI",
+        "translation_code": "fi"
+    },
+    "hi": {
+        "audio_code": "hi-IN",
+        "translation_code": "hi"
+    },
+    "hu": {
+        "audio_code": "hu-HU",
+        "translation_code": "hu"
+    },
+    "id": {
+        "audio_code": "id-ID",
+        "translation_code": "id"
+    },
+    "lv": {
+        "audio_code": "lv-LV",
+        "translation_code": "lv"
+    },
+    "ms": {
+        "audio_code": "ms-MY",
+        "translation_code": "ms"
+    },
+    "no": {
+        "audio_code": "nb-NO",
+        "translation_code": "no"
+    },
+    "ro": {
+        "audio_code": "ro-RO",
+        "translation_code": "ro"
+    },
+    "sk": {
+        "audio_code": "sk-SK",
+        "translation_code": "sk"
+    },
+    "sr": {
+        "audio_code": "sr-RS",
+        "translation_code": "sr"
+    },
+    "sv": {
+        "audio_code": "sv-SE",
+        "translation_code": "sv"
+    },
+    "uk": {
+        "audio_code": "uk-UA",
+        "translation_code": "uk"
+    },
+    "vi": {
+        "audio_code": "vi-VN",
+        "translation_code": "vi"
     }
-]
+}
