@@ -1,13 +1,17 @@
+from mytranslater import MyTransrator
 from utility.russian.russian_word_morph import RussianWordMorph
 
-morph = RussianWordMorph()
-m = morph.get_word_pos
 
-word = 'к'
-print(word, m(word))
-word = 'в'
-print(word, m(word))
-word = 'не'
-print(word, m(word))
-word = 'от'
-print(word, m(word))
+word = 'смог'
+m = RussianWordMorph()
+a = m.get_word_pos(word)
+print(a)
+word = 'вовремя'
+a = m.get_word_pos(word)
+print(a)
+
+# m = MyTransrator('ru', 'en')
+# dictionaries = [('смог вовремя', 6), ('раз вовремя', 4), ('успели вовремя', 3), ('его вовремя', 3), ('вовремя —', 3), ('вовремя эвакуироваться', 2), ('лишь вовремя', 2), ('вовремя подоспевшие', 2), ('лишь вовремя подоспевшие', 2), ('были вовремя', 2)]
+# for d in dictionaries:
+#     word = d[0]
+#     print(word, m.translate(word), d[1])

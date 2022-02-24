@@ -11,6 +11,8 @@ def main():
     # TODO 翻訳と音声の言語設定をまとめる
     # source_language = 'ru'
     # target_language = 'en'
+    
+
     # TODO commnd line から設定できるようにする
     
     # remove same normalized word from source file
@@ -62,16 +64,20 @@ def main():
     morph = RussianWordMorph()
 
     audios = []
-    word_with_example_sentence = {}
+    word_with_example_sentences = []
     # TODO functionalize
     for i, word in enumerate(words):
         print(i+1, '/', len(words))
+        word_with_example_sentence = {}
         word = morph.get_normalized_word(word)
-        example_sentence = make_example_sentence.make_example_sentence(
+        word_with_example_sentence['word'] = word
+        example_sentence, count = make_example_sentence.make_example_sentence(
             word)
-        word_with_example_sentence[word] = example_sentence
-
+        word_with_example_sentence['example'] = example_sentence
+        word_with_example_sentence['count_in_dataset'] = count
         example_sentence_trans = translator.translate(example_sentence)
+        word_with_example_sentence['translation'] = example_sentence_trans
+        word_with_example_sentences.append(word_with_example_sentence)
 
         word_audio = text_to_speech_source.synthesize_text(word)
         example_sentence_trans_audio = text_to_speech_target.synthesize_text(
@@ -86,7 +92,7 @@ def main():
     audio.export(output_file_path, format="mp3")
 
     with open(output_file_dir + output_json_name, 'w',encoding='utf8') as f:
-        json.dump(word_with_example_sentence, f, indent=4, ensure_ascii=False)
+        json.dump(word_with_example_sentences, f, indent=4, ensure_ascii=False)
 
 
 if __name__ == '__main__':

@@ -1,0 +1,41 @@
+[
+    {
+        "en": [
+            {
+                "wiki40b": "en"
+            },
+            {
+                "translation": "en"
+            },
+            {
+                "audio": "en"
+            }
+        ]
+    },
+    {
+        "ja": [
+            {
+                "wiki40b": "ru"
+            },
+            {
+                "translation": "ja"
+            },
+            {
+                "audio": "ja-JP"
+            }
+        ]
+    },
+    {
+        "ru": [
+            {
+                "wiki40b": "ru"
+            },
+            {
+                "translation": "ru"
+            },
+            {
+                "audio": "ru"
+            }
+        ]
+    }
+]

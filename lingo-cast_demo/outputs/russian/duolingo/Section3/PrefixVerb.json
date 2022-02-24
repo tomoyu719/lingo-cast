@@ -1,19 +1,104 @@
-{
-    "прийти": "пришёл к выводу",
-    "прислать": "выводу пришли к выводу",
-    "вовремя": "раз вовремя ",
-    "уйти": "года ушёл в отставку",
-    "уехать": "уехал ",
-    "граница": "границы сельского",
-    "войти": "деревня вошла в состав",
-    "уходить": "уходит ",
-    "выйти": "она вышла замуж",
-    "убежать": "убежать ",
-    "уезжать": "уезжает ",
-    "прилететь": "срочно прилетевшей к ней",
-    "подойти": "части подошедшей чуть",
-    "отойти": "городов отошедших по мирному",
-    "проходить": "рядом проходит автомобильная",
-    "сквозь": "сквозь него",
-    "переходить": "раз переходил из рук"
-}
+[
+    {
+        "word": "прийти",
+        "example": "пришёл к выводу,",
+        "count_in_dataset": 17,
+        "translation": "has concluded,"
+    },
+    {
+        "word": "прислать",
+        "example": "они пришли",
+        "count_in_dataset": 4,
+        "translation": "they came"
+    },
+    {
+        "word": "вовремя",
+        "example": "раз вовремя —",
+        "count_in_dataset": 2,
+        "translation": "Once in time -"
+    },
+    {
+        "word": "уйти",
+        "example": "ушёл в отставку",
+        "count_in_dataset": 23,
+        "translation": "resigned"
+    },
+    {
+        "word": "уехать",
+        "example": "году уехал в германию",
+        "count_in_dataset": 4,
+        "translation": "year went to Germany"
+    },
+    {
+        "word": "граница",
+        "example": "границы сельского",
+        "count_in_dataset": 1098,
+        "translation": "The borders of agriculture"
+    },
+    {
+        "word": "войти",
+        "example": "вошёл в состав",
+        "count_in_dataset": 81,
+        "translation": "entered the composition"
+    },
+    {
+        "word": "уходить",
+        "example": "уходит",
+        "count_in_dataset": 19,
+        "translation": "goes away"
+    },
+    {
+        "word": "выйти",
+        "example": "она вышла замуж",
+        "count_in_dataset": 94,
+        "translation": "She got married"
+    },
+    {
+        "word": "убежать",
+        "example": "удаётся убежать",
+        "count_in_dataset": 4,
+        "translation": "Detected escape"
+    },
+    {
+        "word": "уезжать",
+        "example": "уезжает",
+        "count_in_dataset": 5,
+        "translation": "Leaving"
+    },
+    {
+        "word": "прилететь",
+        "example": "срочно прилетевшей к ней",
+        "count_in_dataset": 4,
+        "translation": "urgently coming to her"
+    },
+    {
+        "word": "подойти",
+        "example": "части подошедшей чуть",
+        "count_in_dataset": 4,
+        "translation": "Parts approached slightly"
+    },
+    {
+        "word": "отойти",
+        "example": "городов отошедших по мирному",
+        "count_in_dataset": 6,
+        "translation": "cities who have moved along the peaceful"
+    },
+    {
+        "word": "проходить",
+        "example": "рядом проходит автомобильная",
+        "count_in_dataset": 71,
+        "translation": "Nearby passes automotive"
+    },
+    {
+        "word": "сквозь",
+        "example": "проступая сквозь осенний",
+        "count_in_dataset": 3,
+        "translation": "Treating through the autumn"
+    },
+    {
+        "word": "переходить",
+        "example": "раз переходил из рук",
+        "count_in_dataset": 7,
+        "translation": "once passed from hands"
+    }
+]
