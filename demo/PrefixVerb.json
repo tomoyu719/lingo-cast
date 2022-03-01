@@ -1,0 +1,104 @@
+[
+    {
+        "word": "прийти",
+        "example": "пришёл к выводу,",
+        "count_in_dataset": 58,
+        "translation": "has concluded,"
+    },
+    {
+        "word": "прислать",
+        "example": "пришли к выводу,",
+        "count_in_dataset": 42,
+        "translation": "came to the conclusion,"
+    },
+    {
+        "word": "вовремя",
+        "example": "смог вовремя",
+        "count_in_dataset": 6,
+        "translation": "Used in time"
+    },
+    {
+        "word": "уйти",
+        "example": "ушёл в отставку",
+        "count_in_dataset": 121,
+        "translation": "resigned"
+    },
+    {
+        "word": "уехать",
+        "example": "году уехал",
+        "count_in_dataset": 58,
+        "translation": "year left"
+    },
+    {
+        "word": "граница",
+        "example": "на границе",
+        "count_in_dataset": 728,
+        "translation": "on the border"
+    },
+    {
+        "word": "войти",
+        "example": "вошёл в состав",
+        "count_in_dataset": 504,
+        "translation": "entered the composition"
+    },
+    {
+        "word": "уходить",
+        "example": "уходит корнями",
+        "count_in_dataset": 12,
+        "translation": "It is rooted"
+    },
+    {
+        "word": "выйти",
+        "example": "вышла замуж",
+        "count_in_dataset": 602,
+        "translation": "got married"
+    },
+    {
+        "word": "убежать",
+        "example": "он убежал",
+        "count_in_dataset": 6,
+        "translation": "He ran away"
+    },
+    {
+        "word": "уезжать",
+        "example": "году уезжает",
+        "count_in_dataset": 11,
+        "translation": "Leaving year"
+    },
+    {
+        "word": "прилететь",
+        "example": "срочно прилетевшей",
+        "count_in_dataset": 4,
+        "translation": "urgently arrival"
+    },
+    {
+        "word": "подойти",
+        "example": "не подошёл",
+        "count_in_dataset": 12,
+        "translation": "Not approached"
+    },
+    {
+        "word": "отойти",
+        "example": "вынужден отойти",
+        "count_in_dataset": 8,
+        "translation": "Forced to move"
+    },
+    {
+        "word": "проходить",
+        "example": "проходил службу",
+        "count_in_dataset": 175,
+        "translation": "Pass served"
+    },
+    {
+        "word": "сквозь",
+        "example": "проходит сквозь",
+        "count_in_dataset": 9,
+        "translation": "passes through"
+    },
+    {
+        "word": "переходить",
+        "example": "он переходит",
+        "count_in_dataset": 22,
+        "translation": "He proceeds"
+    }
+]

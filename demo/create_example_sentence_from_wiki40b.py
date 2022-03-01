@@ -1,10 +1,15 @@
 from dataclasses import dataclass, field
+import json
+import random
 import re
+import string
+
+import nltk
 import MeCab
 import ipadic
 
 import tensorflow_datasets as tfds
-from utility.russian.word_morph import WordMorph
+
 
 # TODO parse japanese and chinese sentence
 REQUIRED_WORD_SEPARATION_LANGUAGES = [
@@ -18,10 +23,9 @@ class DecodeWiki40b():
         self._is_required_word_separation = self._is_required_word_separation()
         if self._is_required_word_separation:
             self.separator = self._separator()
-        self._wiki40b_sentences, self._word_index_dict, self.word_counter = self._decode_wiki40b(
+        self._wiki40b_sentences, self._word_index_dict, word_counter = self._decode_wiki40b(
             language_code)
-        tmp = [w[0] for w in self.word_counter]
-        self.top100words = tmp[:100]
+        
 
     def _is_required_word_separation(self):
         if self.language_code in REQUIRED_WORD_SEPARATION_LANGUAGES:
@@ -50,11 +54,15 @@ class DecodeWiki40b():
         else:
             raise ValueError
 
+
     # TODO? テキストを分割せずに一つの巨大な文字列として扱う？
     def _decode_wiki40b(self, wiki40b_language_code):
+            
         # test : val : train = 5 : 5 : 90
         # ds = tfds.load('wiki40b/' + wiki40b_language_code, split='train')
         ds = tfds.load('wiki40b/' + wiki40b_language_code, split='test')
+
+        spacing_pattern = '«»'+ string.punctuation
 
         start_paragraph = False
         sentences = []
@@ -62,14 +70,27 @@ class DecodeWiki40b():
             for text in wiki['text'].decode().split('\n'):
                 if start_paragraph:
                     text = text.replace('_NEWLINE_', '').lower()
-                    # num => X
+                    # replace num to X
                     text = re.sub('\d', 'X', text)
+                    
+                    # replace special calactors to X
+                    # text = re.sub('[{spacing_pattern}]', ' ', text)
+
                     # TODO '.'で分割できない言語に対応
-                    sentences += text.split('.')
+                    texts = text.split('.')
+                    texts = [' '.join(nltk.word_tokenize(s)) for s in texts]
+                    # sentences += text.split('.')
+                    sentences += texts
+                    # sentences += re.split('[{string.punctuation}]', text)
                     start_paragraph = False
                 if text == '_START_PARAGRAPH_':
                     start_paragraph = True
         
+        # for s in random.sample(sentences, 200):
+        #     print(s)
+
+        # raise ValueError
+
         if self._is_required_word_separation:
             sentences = [self._spacing(s) for s in sentences]
             raise ValueError
@@ -97,108 +118,123 @@ class DecodeWiki40b():
         except KeyError:
             return []
 
+    def is_nltk_stopwords_supported_languge(self):
+        stopwords_language_code = self.get_nltk_stopwords_languge_code()
+        stopwords = nltk.corpus.stopwords.words(stopwords_language_code)
+        return stopwords
+
+
 
 class CreateExampleSentence():
 
     def __init__(self, language_code, is_include_other_word_form=False) -> None:
         self.language_code = language_code
         self.decodeWiki40b = DecodeWiki40b(language_code)
-        self.is_include_other_word_form = is_include_other_word_form
-        self.morph = WordMorph(language_code)
-        self.exclude_pos_list = self._get_exclude_pos_s()
+        # self.is_include_other_word_form = is_include_other_word_form
+        self.stopwords = self._get_stopwords()
 
-    def _get_exclude_pos_s(self):
-        if self.language_code == 'ru':
-            # 'CONJ':接続詞(and, or等)、だいたいの単語に対して共起度が高いので、除外しないとだいたいの例文に接続詞が入り込んでしまう
-            # TODO remove hard coding
-            return ['CONJ']
-        else:
-            raise ValueError
+    def _is_language_supported_nltk_stopwords(self):
+        with open('nltk_stopwords_supported_language_code.json') as f:
+            df = json.load(f)
+            is_language_supported_nltk_stopwords = self.language_code in df.keys()
+            return is_language_supported_nltk_stopwords
     
-    def _is_word_exclude_pos(self, word):
-        pos = self.morph.get_word_pos(word)
-        if pos in self.exclude_pos_list:
-            return True
-        return False
+    def _get_nltk_stopwords_languge_code(self):
+        with open('nltk_stopwords_supported_language_code.json') as f:
+            df = json.load(f)
+            return df[self.language_code]
+
+    def _get_stopwords(self):
+        if self._is_language_supported_nltk_stopwords():
+            nltk.download('stopwords')
+            nltk_stopwords_language_code = self._get_nltk_stopwords_languge_code()
+            nltk_stopwords = nltk.corpus.stopwords.words(nltk_stopwords_language_code)
+            return nltk_stopwords
+        # TODO implemant for other language not supported by nltk
+        else:
+            raise ValueError()
 
     def _is_idiom(self, word):
-        s = re.split('[-_ ]', word)
-        
+        s = re.split('[-_ ]', word)        
         if len(s) > 1:
             return True
         return False     
 
-    def _get_most_frequent_word_form_in_wiki40b(self, word):
-        all_word_forms = self.morph.get_other_forms(word)
-        frequent_count = -1
-        most_frequent_word_form_in_wiki40b = ''
-        for w in all_word_forms:
-            sentences_contain_word = self.decodeWiki40b.get_sentences_contain_word(w)
-            if len(sentences_contain_word) > frequent_count:
-                frequent_count = len(sentences_contain_word)
-                most_frequent_word_form_in_wiki40b = w
-        return most_frequent_word_form_in_wiki40b
-
     # 1単語ずつ ずらしながらn文字分抜き出す
-    def n_gram(self, words, n):
-        return [ ' '.join(words[idx:idx + n]) for idx in range(len(words) - n + 1)]
-    
-    # TODO return class not (str, value) 
-    def make_example_sentence(self, word) -> str:
-        word = word.lower()
+    def n_gram(self, split_sentence, n):
+        return [ ' '.join(split_sentence[idx:idx + n]) for idx in range(len(split_sentence) - n + 1)]
 
-        # idiomならそのままで良し?
-        if self._is_idiom(word):
-            return word, 0
+    def get_word_contained_n_grams(self, word, sentences, min_sentence_length, max_sentence_length):
+        n_grams = []
+        for sentence in sentences:
+            split = sentence.split()
+            for i in range(min_sentence_length, max_sentence_length + 1):
+                n_grams += self.n_gram(split, i)
+        # remove sentence not contained word 
+        n_grams = [x for x in n_grams if word in x ]        
+        return n_grams
 
-        # if self.is_include_other_word_form:
-        
-        sentences_contain_word = self.decodeWiki40b.get_sentences_contain_word(word)
-        count_other_word = {}
-        for sentence in sentences_contain_word:
+    # for scoring example sentence, count other words from sentences contain source-word, except stopwords
+    def count_other_words(self, word, sentences):
+        word_counter = {}
+        for sentence in sentences:
             split = sentence.split()
             for w in split:
-                if w == word:
+                if w == word or w in self.stopwords or w in string.punctuation:
                     continue
-                if w not in count_other_word:
-                    count_other_word[w] = 1
+                if w not in word_counter:
+                    word_counter[w] = 1
                 else:
-                    count_other_word[w] += 1
-        count_other_word = dict(sorted(count_other_word.items(),key=lambda item: item[1], reverse=True))
-        count_other_word = {k:v for k, v in count_other_word.items() if not self._is_word_exclude_pos(k)}
+                    word_counter[w] += 1
+        return word_counter
 
-        n_grams = []
-        for sentence in sentences_contain_word:
-            split = sentence.split()
-            for i in range(2, 6):
-                n_grams += self.n_gram(split, i)
-        
-        # remove sentence not contain word 
-        n_grams = [x for x in n_grams if word in x ]
-        
-        # scoring sentence
-        sentences_with_score = []
-        for sentence in n_grams:
+    # scoring sentence with add other word count
+    def scoring_sentence(self, sentences, word_counter):
+        example_sentences = []
+        for sentence in sentences:
             split = sentence.split()
             count = 0
             for word in split:
-                if word in count_other_word.keys() and word not in self.decodeWiki40b.top100words:
-                    count += count_other_word[word]
-            sentences_with_score.append(SentenceScore(sentence, count))
-        
-        sentences_with_score.sort(reverse=True)
-        
-        if len(sentences_with_score) == 0:
-            return word, 0
-        
-        return sentences_with_score[0].sentence, sentences_with_score[0].count
+                if word in self.stopwords or word in string.punctuation:
+                    continue
+                if word in word_counter.keys():
+                    count += word_counter[word]
+            example_sentences.append(ExampleSentence(sentence, count))
+        return example_sentences
 
+
+    def make_example_sentence(self, source_word, min_sentence_length, max_sentence_length) -> str:
+        source_word = source_word.lower()
+
+        # idiomならそのままで良し?
+        if self._is_idiom(source_word):
+            return source_word, 0
+        
+        # for optimization
+        sentences_contain_source_word = self.decodeWiki40b.get_sentences_contain_word(source_word)
+        
+        # source word doesnt exists in dataset
+        if len(sentences_contain_source_word) == 0:
+            return source_word
+
+        word_counter = self.count_other_words(source_word, sentences_contain_source_word)
+        
+        word_contained_n_grams = self.get_word_contained_n_grams(source_word, sentences_contain_source_word, min_sentence_length, max_sentence_length)
+        # scoring sentence
+        example_sentences = self.scoring_sentence(word_contained_n_grams, word_counter)
+        
+        example_sentences.sort(reverse=True)
+        highest_scored_example_sentence = example_sentences[0].sentence
+        
+        return highest_scored_example_sentence
 
 @dataclass(order=True)
-class SentenceScore():
+class ExampleSentence():
     sort_index: int = field(init=False)
     sentence: str
     count: int
     
     def __post_init__(self):
+        # self.score = self.count / len(self.sentence.split())
+        # self.sort_index = self.score
         self.sort_index = self.count
