@@ -1,6 +1,10 @@
-import string
+import nltk
 
+def get_word_pos(word):
+    token = [word]
+    pos = nltk.tag.pos_tag(token, lang='rus')
+    return pos[0][1]
 
-s = string.punctuation
-print(s)
-print(type(s))
+word = 'и'
+pos = get_word_pos(word)
+print(pos)

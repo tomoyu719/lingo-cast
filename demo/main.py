@@ -1,7 +1,10 @@
 import argparse
 import json
 import os
-from create_example_sentence_from_wiki40b import CreateExampleSentence
+import time
+from check_both_ends import check_both_ends
+from decode_wiki40b import DecodeWiki40b
+from ngram_language_model import NgramLanguageModel
 from process_language_code import LanguageCode
 from text_to_speech import MakeAudio
 from mytranslater import MyTransrator
@@ -27,9 +30,12 @@ def main():
     language_codes = LanguageCode(args.source_language_code, args.target_language_code)    
 
     audio_language_source_speaking_rate = 0.8
+    
+    
+    # make_example_sentence = CreateExampleSentence(language_codes.wiki40b_code, args.include_other_form)
 
-    make_example_sentence = CreateExampleSentence(language_codes.wiki40b_code, args.include_other_form)
-
+    wiki40b = DecodeWiki40b(language_codes.wiki40b_code)
+    
     translator = MyTransrator(language_codes.source_translation_code, language_codes.target_translation_code)
     
     text_to_speech_source = MakeAudio(language_codes.source_audio_code, speaking_rate=audio_language_source_speaking_rate)
@@ -52,13 +58,24 @@ def main():
         audios = []
         word_with_example_sentences = []
         for source_word in source_words:
+            word_in_dataset_num = wiki40b.get_word_num_in_sentences(source_word)
+            print(source_word, word_in_dataset_num)
+            if word_in_dataset_num == 0:
+                continue
+            sentences_contained_word = wiki40b.get_sentences_contained_word(source_word)
+            model = NgramLanguageModel(sentences_contained_word)
             word_with_example_sentence = {}
             word_with_example_sentence['word'] = source_word
-            example_sentence = make_example_sentence.make_example_sentence(source_word, args.min_example_sentence_length, args.max_example_sentence_length)
+            # example_sentence = make_example_sentence.make_example_sentence(source_word, args.min_example_sentence_length, args.max_example_sentence_length)
+            example_sentence = model.create_example_sentence(source_word)
+            example_sentence = check_both_ends(example_sentence)
+            
+            # example_sentence = model.create_example_sentence(source_word)
             word_with_example_sentence['example'] = example_sentence
             # example_sentence_trans = translator.translate(example_sentence)
             # word_with_example_sentence['translation'] = example_sentence_trans
             word_with_example_sentences.append(word_with_example_sentence)
+            print(word_with_example_sentences)
 
             # word_audio = text_to_speech_source.synthesize_text(source_word)
             # example_sentence_trans_audio = text_to_speech_target.synthesize_text(
