@@ -15,6 +15,7 @@ def main():
     parser.add_argument("-o", "--output_files_dir", default='outputs/')
     parser.add_argument("-min","--min_example_sentence_length", type=int, default=3)
     parser.add_argument("-max","--max_example_sentence_length", type=int, default=5)
+    parser.add_argument("-r","--remove_stopwords", type=bool, default=True)
 
     args = parser.parse_args()
     wiki40b = DecodeWiki40b(args.language_code)
@@ -28,10 +29,11 @@ def main():
         output_json_name = file_name.split('.')[0] + '.json'
         
         source_words = decode_input_file(file_path)
+        source_words = [w.lower() for w in source_words]
 
         word_with_example_sentences = []
         for source_word in source_words:
-            sentences_contained_word = wiki40b.get_sentences_contained_word(source_word)
+            sentences_contained_word = wiki40b.get_tokenized_sentences_contain_word(source_word)
             model = NgramLanguageModel(sentences_contained_word)
             word_with_example_sentence = {}
             word_with_example_sentence['word'] = source_word
