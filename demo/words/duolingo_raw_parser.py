@@ -5,23 +5,32 @@ words/ukrainian/duolingo_raw.txt
 import csv
 
 
-source_file = '/Users/kitanotoshiyuki/lingo-cast/demo/words/ukrainian/duolingo_raw.txt'
-out_dir = '/Users/kitanotoshiyuki/lingo-cast/demo/words/ukrainian/duolingo/'
-initial_name = 'Letters1'
+source_file = '/Users/kitanotoshiyuki/lingo-cast/demo/words/japanese/duolingo_raw.txt'
+out_dir = '/Users/kitanotoshiyuki/lingo-cast/demo/words/japanese/duolingo/'
+initial_name = 'Hiragana 1 [test]'
 
 with open(source_file) as f:
     s = f.read()
+is_empty_line = False
 is_after_words = False
 name = initial_name
-words = []
+words_with_title = ''
 for text in s.split('\n'):
+    if text == '':
+        is_after_words = False
+        name = words_with_title.split(',')[-2].replace(' [test]', '').replace(' ', '').replace('.','').replace('-', '_')
+        words = []
+        print(words_with_title)
+        print()
+        raise ValueError
+        words = words_with_title.split('\n')
+        # with open(out_dir + name + '.csv', 'w') as f:
+        #     writer = csv.writer(f)
+        #     writer.writerow(words)
+
     if 'Words:' in text:
         is_after_words = True
-        words = text.replace('Words: ','').split(', ')
-        with open(out_dir + name + '.csv', 'w') as f:
-            writer = csv.writer(f)
-            writer.writerow(words)
     elif is_after_words:
-        name = text.replace(' [test]', '').replace(' ', '').replace('.','').replace('-', '_')
+        words_with_title += text + ','
         
-        is_after_words = False
+        # is_after_words = False
