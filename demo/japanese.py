@@ -10,7 +10,7 @@ AVOID_END_JAPANESE_POS_LIST = ['接続詞', '助詞', '名詞']
 class JapaneseUtils():
     
     def __init__(self) -> None:
-        self.spacer = MeCab.Tagger('-Owakati ' + ipadic.MECAB_ARGS)
+        self.spacer = MeCab.Tagger('-O wakati ' + ipadic.MECAB_ARGS)
         self.tagger = MeCab.Tagger(ipadic.MECAB_ARGS)
         # self.spacer = MeCab.Tagger('-Owakati -d /usr/local/lib/mecab/dic/mecab-ipadic-neologd')
         # self.tagger = MeCab.Tagger('-d /usr/local/lib/mecab/dic/mecab-ipadic-neologd')
@@ -18,7 +18,7 @@ class JapaneseUtils():
         return text.split('。')
 
     def spacing_sentence(self, sentence) -> str:
-        return self.spacer.parse(sentence)
+        return self.spacer.parse(sentence).replace(' \n', '')
     
     def separate_sentence(self, sentence) -> list:
         return self.spacer.parse(sentence).split()
@@ -27,6 +27,9 @@ class JapaneseUtils():
         p = self.tagger.parse(word)
         pos = p.split("\n")[0].split()[1].split(',')[0]
         return pos
+    
+    def get_pos_tmp(self, sentence):
+        return self.tagger.parse(sentence)
     
     # def check_both_ends(self, sentence):
     #     sentence = self.separate_sentence(sentence)

@@ -1,5 +1,5 @@
-import time
-
+import itertools
+from re import S
 import tensorflow_datasets as tfds
 from nltk import sent_tokenize, word_tokenize
 
@@ -26,24 +26,24 @@ class DecodeWiki40b():
         texts = [t.lower() for t in texts]
         sentences = [sentence for t in texts for sentence in self.split_to_sentences(t)]
         self.sentences_tokenized = [self.split_to_words(s) for s in sentences]
-        self.word_index_dict = self.get_dict(self.sentences_tokenized)
+        # get sentences_indices by word
+        self.sentences_indices_dict = self.get_dict(self.sentences_tokenized)
     
-    def decode_wiki40b(self, max_paragraph_num = 100000) -> list:
+    def decode_wiki40b(self) -> list:
         # test : val : train = 5 : 5 : 90
+        # dss = [tfds.load('wiki40b/' + self.language_code, split='test'), tfds.load('wiki40b/' + self.language_code, split='validation')]
         ds = tfds.load('wiki40b/' + self.language_code, split='test')
+        # ds = tfds.load('wiki40b/' + self.language_code, split='validation')
         start_paragraph = False
         texts = []
         for wiki in ds.as_numpy_iterator():
             for text in wiki['text'].decode().split('\n'):
                 if start_paragraph:
-                    text = text.replace('_NEWLINE_', '')
+                    text = text.replace('_NEWLINE_', ' ')
                     texts.append(text)
-                    # sentences += self.split_to_sentences(text)
                     start_paragraph = False
                 if text == '_START_PARAGRAPH_':
                     start_paragraph = True
-            if len(texts) > max_paragraph_num:
-                break
         
         return texts
 
@@ -92,15 +92,54 @@ class DecodeWiki40b():
 
     def get_tokenized_sentences_contain_word(self, word) -> list:
         try:
-            indices = self.word_index_dict[word]
+            indices = self.sentences_indices_dict[word]
             return [self.sentences_tokenized[i] for i in indices]
         # word does not exist in wiki40b
         except KeyError:
             return []
+    
+    def get_tokenized_sentences_contain_words(self, words) -> list:
+        # wordsの全ての単語を含む文章のインデックスを取得
+        sentences_indieces_contain_words = {}
+        for i, word in enumerate(words):
+            if i == 0:
+                try:
+                    sentences_indieces_contain_words = set(self.sentences_indices_dict[word])
+                except KeyError:
+                    return []
+            else:
+                try:
+                    indices = self.sentences_indices_dict[word]
+                    sentences_indieces_contain_words = sentences_indieces_contain_words & set(indices )
+                except KeyError:
+                    return []
+        # 得られたインデックスから文章を取得
+        sentences_tokenized_contain_words = [self.sentences_tokenized[i] for i in sentences_indieces_contain_words]
+
+        return sentences_tokenized_contain_words
+
+    # TODO? 文中に単語が重複した場合、sentence.index(word)は最初の単語のインデックスを返すので、文中にイディオムが存在する場合でも、存在しない判定をされる可能性がある
+    def get_tokenized_sentences_contain_idiom(self, idiom) -> list:
+        words_of_idiom = idiom.split()
+        sentences_tokenized_contain_words = self.get_tokenized_sentences_contain_words(words_of_idiom)
+        
+        # idiom中の全ての単語を含む文章から、idiomが正しい語順のものを取得
+        sentences_tokenized_contain_idiom = []
+        for sentence in sentences_tokenized_contain_words:
+            for i, word in enumerate(words_of_idiom):
+                word_position = sentence.index(word)
+                if i == 0:                    
+                    initial_word_position = word_position
+                elif i == len(words_of_idiom) - 1 and initial_word_position + i == word_position:
+                    sentences_tokenized_contain_idiom.append(sentence)
+                if initial_word_position + i != word_position:
+                    break
+        return sentences_tokenized_contain_idiom
+
 
     def get_word_num_in_sentences(self, word) -> int:
         try:
-            indices = self._word_index_dict[word]
+            indices = self.sentences_indices_dict[word]
             word_num = len(indices)
             return word_num
         except KeyError:
