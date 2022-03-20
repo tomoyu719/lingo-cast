@@ -1,20 +1,16 @@
 import json
 
-from japanese import JapaneseUtils 
-file_path = 'outputs/japanese/duolingo/Ability.json'
-with open(file_path) as f:
+p = '/Users/kitanotoshiyuki/lingo-cast/demo/outputs/ukrainian/12_Food_2_-_Food_2.json'
+with open(p) as f:
     df = json.load(f)
 
-jp_utils = JapaneseUtils()
-
 for d in df:
-    word = d['word']
-    example_sentence = d['example']
-    example_sentence = example_sentence.replace(' ', '') + '.'
-    print(example_sentence)
-    # pos = jp_utils.get_pos_tmp(example_sentence)
-    
-    # print(example_sentence, word)
-    # print(pos)
-    
+    wn = d['word_contain_sentence_num']
+    print(wn)
+    s = d['example']
+    print(s, '.')
+    for w in s.split():
+        print(w,end='. ')
+    print()
+    print()
 

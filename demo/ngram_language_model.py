@@ -1,3 +1,4 @@
+import random
 import string
 import json
 from is_idiom import is_idiom
@@ -6,37 +7,43 @@ from nltk.lm        import Vocabulary
 from nltk.lm.models import MLE
 from nltk.util      import ngrams
 from nltk.lm.preprocessing import pad_sequence
+import nltk
 
 from nltk_languagecode import get_nltk_tokenizer_language_code, is_nltk_tokenizer_supported_language
 
-EXCLUDE_STR = string.punctuation + '<s></s>«»、「」（）『』・'
+# EXCLUDE_STR = string.punctuation + '<s></s>«»、「」（）『』・'
 
 # TODO consider the appropriate number
-MAX_PROCESS_SENTENCE_NUM = 100
+MAX_PROCESS_SENTENCE_NUM = 200
 
 class NgramLanguageModel():
     
-    def __init__(self, sentences_tokenized) -> None:        
-        sentences_tokenized = sentences_tokenized[:MAX_PROCESS_SENTENCE_NUM]
-        self.sentences_tokenized = sentences_tokenized
-        sentences_padded = self.padding_sentences(sentences_tokenized)
-        trigrams_forward = self.get_ngram(N=3, sentences_padded=sentences_padded)
-        trigrams_backward = self.get_ngram(N=3, sentences_padded=sentences_padded, backward=True)
-        vocabulary = self.get_vocab(sentences_padded)
-        self.trigram_forward_model = self.create_language_model(trigrams_forward, N=3,vocabulary=vocabulary)
-        self.trigram_backward_model = self.create_language_model(trigrams_backward, N=3, vocabulary=vocabulary)
+    def __init__(self, padded_sentences, ngram_num) -> None:        
+        padded_sentences = padded_sentences[:MAX_PROCESS_SENTENCE_NUM]
+        self.ngram_num = ngram_num
+        
+        self.padded_sentences = padded_sentences
+        self.vocabulary = self.get_vocab(padded_sentences)
+        self.backward_models = [self.create_language_model(n, backward=True) for n in range(2, ngram_num + 1)]
+        self.forward_models = [self.create_language_model(n) for n in range(2, ngram_num + 1)]
+        
     
-    def create_language_model(self, ngrams, N, vocabulary): # N-gram言語モデルの作成
-        ngram_language_model = MLE(order=N, vocabulary=vocabulary)
-        ngram_language_model.fit(ngrams, vocabulary)
+    def select_model(self, seed_words):
+        words_num = len(seed_words)
+        models_num = len(self.backward_models)
+        if words_num <= models_num:
+            prev_model = self.backward_models[words_num - 1]
+            next_model = self.forward_models[words_num - 1]
+        else:
+            prev_model = self.backward_models[-1]
+            next_model = self.forward_models[-1]
+        return prev_model, next_model
+    
+    def create_language_model(self, N, backward=False):
+        ngrams = self.get_ngram(N, self.padded_sentences, backward)
+        ngram_language_model = MLE(order=N, vocabulary=self.vocabulary)
+        ngram_language_model.fit(ngrams, self.vocabulary)
         return ngram_language_model
-    
-    def padding_sentences(self, sentences_tokenized):
-        sents = []
-        for sent in sentences_tokenized:
-            sent_padded = list(pad_sequence([word for word in sent],pad_left=True, left_pad_symbol="<s>",pad_right=True, right_pad_symbol="</s>", n=3))
-            sents.append(sent_padded)
-        return sents
 
     def get_vocab(self, sentences_padded):
         vocab = Vocabulary([word for sent in sentences_padded for word in sent])
@@ -51,78 +58,60 @@ class NgramLanguageModel():
     
     # Maximum Likelihood Estimator
     # P(new_word|context)
-    def get_mle_word(self, model, context):
-        word_prob_list = []
+    def get_mle_word(self, model, context, exclude_stopwords=False):
         ngram_words = model.context_counts(model.vocab.lookup(context))
         # model doesnt have context
         if len(ngram_words) == 0:
             return '', 0
+        word_prob_list = []
         for word in ngram_words:
             word_prob_list.append((word, model.score(word, context)))
         word_prob_list.sort(key=lambda x: x[1], reverse=True) # 出現確率順
 
         for word, prob in word_prob_list:
-            if not self.is_word_in_exclude_str(word):
+            if word not in ',.\'\'«»()!':
                 return word, prob
+            # if word not in  ',.and\'\'':
+            # if exclude_stopwords:
+            # else:
+            #     return word, prob
         return '', 0
-
-    def is_word_in_exclude_str(self, word):
-        return word in EXCLUDE_STR
-
-    def count_word_by_relative_position(self, word, relative_position):
-        word_counter = {}
-        for sent in self.sentences_tokenized:
-            word_position = sent.index(word)
-            try:
-                new_word = sent[word_position + relative_position]
-                if new_word not in word_counter:
-                    word_counter[new_word] = 1
-                else:
-                    word_counter[new_word] += 1
-            except IndexError:
-                continue
-        return word_counter
-        
-    def sort_word_counter(self, word_counter, isDescending=True):
-        return {k: v for k, v in sorted(word_counter.items(), key=lambda item: item[1], reverse=isDescending)}
-
-    def get_most_common_word_in_word_counter(self, word_counter):
-        word_counter = self.sort_word_counter(word_counter)
-        for w,c in word_counter.items():
-            if w not in EXCLUDE_STR:
-                return w, c
-        return '', 0
-                
-    #TODO clean
-    def create_example_sentence(self, word, max_sentence_length):
+    
+    def get_context(self, words):
+        prev_context = tuple(words[:self.ngram_num - 1][::-1])
+        next_context = tuple(words[-self.ngram_num + 1:])
+        return prev_context, next_context
+    
+    def create_example_sentence(self, word, max_sentence_length, min_sentence_length):
         if is_idiom(word):
             words = word.split()
-            max_sentence_length += len(words) - 1
-        else: 
-            # count most common both sides of source-word in sentence for trigram model
-            prev_word_counter = self.count_word_by_relative_position(word, -1)
-            next_word_counter = self.count_word_by_relative_position(word, +1)
-            most_common_prev_word, prev_count = self.get_most_common_word_in_word_counter(prev_word_counter)
-            most_common_next_word, next_count = self.get_most_common_word_in_word_counter(next_word_counter)
-            if prev_count > next_count:
-                words = [most_common_prev_word, word]
-            else:
-                words = [word, most_common_next_word]
-        while(len(words)) < max_sentence_length:
-            prev_context = tuple(words[:2][::-1])
-            prev_word, prev_word_prob = self.get_mle_word(self.trigram_backward_model, prev_context)
-            next_context = tuple(words[-2:])
-            next_word, next_word_prob = self.get_mle_word(self.trigram_forward_model, next_context)
+        else:
+            words = [word]
+        
+        example_sentences = []
 
-            if prev_word_prob == 0 and next_word_prob == 0:
-                return ' '.join(words)
-            elif prev_word_prob > next_word_prob:
+        while(len(words)) < max_sentence_length:
+            prev_model, next_model = self.select_model(words)
+            prev_context, next_context = self.get_context(words)
+
+            prev_word, prev_word_prob = self.get_mle_word(prev_model, prev_context)
+            next_word, next_word_prob = self.get_mle_word(next_model, next_context)
+            
+            if prev_word_prob == 0 and next_word_prob == 0: 
+                words = words + ['.END']
+                example_sentences.append(' '.join(words))  
+                return example_sentences
+            if prev_word_prob > next_word_prob:
+                if prev_word == '<s>':
+                    max_sentence_length += 1
+                    min_sentence_length += 1
                 words = [prev_word] + words
             else:
-                words = words + [next_word]
-            
-        return ' '.join(words)
-            
+                if next_word == '</s>':
+                    max_sentence_length += 1
+                    min_sentence_length += 1
+                words = words + [next_word]    
+            if len(words) >= min_sentence_length:
+                example_sentences.append(' '.join(words))  
 
-
-
+        return example_sentences
