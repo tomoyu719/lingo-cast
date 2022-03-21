@@ -6,6 +6,8 @@ with open(p) as f:
 
 for d in df:
     wn = d['word_contain_sentence_num']
+    w = d['word']
+    print(w)
     print(wn)
     s = d['example']
     print(s, '.')

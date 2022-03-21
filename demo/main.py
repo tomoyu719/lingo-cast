@@ -3,7 +3,7 @@ import json
 import os
 from decode_input_file import decode_input_file
 from make_example_sentence import MakeExampleSentence
-from mytranslater import MyTransrator
+
 
 
 def main():
@@ -22,7 +22,6 @@ def main():
     # TODO error check
     file_names = os.listdir(args.words_files_dir)
     make_example_sentence = MakeExampleSentence(args.language_code, args.max_example_sentence_length, args.min_example_sentence_length, args.ngram_num)
-    translator = MyTransrator('en')
 
     for i, file_name in enumerate(file_names):
         print(i+1,'/',len(file_names))
