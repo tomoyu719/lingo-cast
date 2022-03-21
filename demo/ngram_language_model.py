@@ -24,8 +24,8 @@ class NgramLanguageModel():
         
         self.padded_sentences = padded_sentences
         self.vocabulary = self.get_vocab(padded_sentences)
-        self.backward_models = [self.create_language_model(n, backward=True) for n in range(2, ngram_num + 1)]
         self.forward_models = [self.create_language_model(n) for n in range(2, ngram_num + 1)]
+        self.backward_models = [self.create_language_model(n, backward=True) for n in range(2, ngram_num + 1)]
         
     
     def select_model(self, seed_words):
@@ -78,7 +78,10 @@ class NgramLanguageModel():
         return '', 0
     
     def get_context(self, words):
+        # if ngram_num == 3
+        # He eats the apple => (the, eats, he)
         prev_context = tuple(words[:self.ngram_num - 1][::-1])
+        # He eats the apple => (eats, the, apple)
         next_context = tuple(words[-self.ngram_num + 1:])
         return prev_context, next_context
     
