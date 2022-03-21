@@ -12,7 +12,7 @@ def main():
     # TODO? guess soruce language from words file
     parser.add_argument("-l","--language_code", help="wiki40b language code: https://research.google/pubs/pub49029/?hl=ja")
     parser.add_argument("-d", "--words_files_dir")
-    parser.add_argument("-o", "--output_files_dir", default='outputs/')
+    parser.add_argument("-o", "--output_files_dir")
     parser.add_argument("-min","--min_example_sentence_length", type=int, default=3)
     parser.add_argument("-max","--max_example_sentence_length", type=int, default=5)
     parser.add_argument("-n","--ngram_num", type=int, default=3)
@@ -22,6 +22,11 @@ def main():
     # TODO error check
     file_names = os.listdir(args.words_files_dir)
     make_example_sentence = MakeExampleSentence(args.language_code, args.max_example_sentence_length, args.min_example_sentence_length, args.ngram_num)
+
+    try:
+        os.makedirs(args.output_files_dir)
+    except FileExistsError:
+        pass
 
     for i, file_name in enumerate(file_names):
         print(i+1,'/',len(file_names))
