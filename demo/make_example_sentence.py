@@ -1,41 +1,35 @@
-from decode_wiki40b import DecodeWiki40b
-from is_idiom import is_idiom
+import re
+
 from ngram_language_model import NgramLanguageModel
 from pos import Pos
+from sentence_db import SentenceDb
+from sentence_util import SentenceUtil
 
+MAX_PROCESS_SENTENCE_NUM = 200
 
 class MakeExampleSentence():
-    def __init__(self, wiki40b_language_code, max_sentence_length, min_sentence_length, ngram_num) -> None:
+    def __init__(self, language_code, max_sentence_length, min_sentence_length, ngram_num) -> None:
+        self.language_code = language_code
         self.ngram_num = ngram_num
         self.max_sentence_length = max_sentence_length 
         self.min_sentence_length = min_sentence_length
-        self.wiki40b = DecodeWiki40b(wiki40b_language_code, ngram_num)
-        self.pos = Pos(wiki40b_language_code)
+        self.sentence_db = SentenceDb(language_code)
+        self.pos = Pos(language_code)
+        self.sentence_util = SentenceUtil(language_code)
     
     def make_example_sentence(self, source_word):
-        if is_idiom(source_word):
-            # tokenized_sentences = self.wiki40b.get_tokenized_sentences_contain_idiom(source_word)
-            padded_sentences = self.wiki40b.get_sentences_contain_words(source_word.split())
+        if self.sentence_util.is_idiom(source_word):
+            sentences_contain_word = self.sentence_db.fetch_sentences_contain_many_words(source_word.split())
         else:
-            # tokenized_sentences = self.wiki40b.get_tokenized_sentences_contain_word(source_word)
-            padded_sentences = self.wiki40b.get_sentences_contain_word(source_word)
-        # something like confidence
-        self.word_contain_num = len(padded_sentences)
-        model = NgramLanguageModel(padded_sentences, self.ngram_num)
-        # example_sentence = model.create_example_sentence(source_word, self.max_sentence_length, self.min_sentence_length)
-        # example_sentence = self.check_sentence_both_sides(example_sentence, source_word)
-        # return example_sentence
-        # example_sentences, words_with_prob = model.create_example_sentence2(source_word, self.max_sentence_length, self.min_sentence_length)
-        # return example_sentences, words_with_prob
-        # example_sentences = model.create_example_sentence(source_word, self.max_sentence_length, self.min_sentence_length)
-        # return example_sentences
+            sentences_contain_word = self.sentence_db.fetch_sentences_contain_word(source_word)
+        sentences_contain_word = sentences_contain_word[:MAX_PROCESS_SENTENCE_NUM]
+        sentences_tokenized = [self.sentence_util.tokenize_sentence(s) for s in sentences_contain_word]
+        sentences_padded = [self.sentence_util.padding_sentence(s, self.ngram_num) for s in sentences_tokenized]
+        
+        model = NgramLanguageModel(sentences_padded, self.ngram_num, self.language_code)
         example_sentences = model.create_example_sentence(source_word, self.max_sentence_length, self.min_sentence_length)
-        # example_sentences = [self.remove_sp_chars(s) for s in example_sentences]
-        # example_sentences = [self.check_sentence_both_sides(s) for s in example_sentences]
-        # poses = [self.pos.get_word_pos(w) for w in example_sentence.split()] 
         example_sentence = self.remove_sp_chars(example_sentences[-1])
         example_sentence = self.check_sentence_both_sides(example_sentence, source_word)
-        
         return example_sentence
     
     def remove_sp_chars(self, sentence):
@@ -44,7 +38,8 @@ class MakeExampleSentence():
     def check_sentence_both_sides(self, sentence, source_word):
         split_sentence = sentence.split()
         words = split_sentence
-        is_word_idiom = is_idiom(source_word)
+        
+        is_word_idiom = self.sentence_util.is_idiom(source_word)
 
         for w in split_sentence:
             if w == source_word:

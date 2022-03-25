@@ -1,32 +1,24 @@
 import random
 import string
 import json
-from is_idiom import is_idiom
+
 
 from nltk.lm        import Vocabulary
 from nltk.lm.models import MLE
 from nltk.util      import ngrams
 from nltk.lm.preprocessing import pad_sequence
 import nltk
-
-from nltk_languagecode import get_nltk_tokenizer_language_code, is_nltk_tokenizer_supported_language
-
-# EXCLUDE_STR = string.punctuation + '<s></s>«»、「」（）『』・'
-
-# TODO consider the appropriate number
-MAX_PROCESS_SENTENCE_NUM = 200
+from sentence_util import SentenceUtil
 
 class NgramLanguageModel():
     
-    def __init__(self, padded_sentences, ngram_num) -> None:        
-        padded_sentences = padded_sentences[:MAX_PROCESS_SENTENCE_NUM]
+    def __init__(self, padded_sentences, ngram_num, language_code) -> None:        
         self.ngram_num = ngram_num
-        
         self.padded_sentences = padded_sentences
         self.vocabulary = self.get_vocab(padded_sentences)
         self.forward_models = [self.create_language_model(n) for n in range(2, ngram_num + 1)]
         self.backward_models = [self.create_language_model(n, backward=True) for n in range(2, ngram_num + 1)]
-        
+        self.sentence_util = SentenceUtil(language_code)
     
     def select_model(self, seed_words):
         words_num = len(seed_words)
@@ -86,7 +78,7 @@ class NgramLanguageModel():
         return prev_context, next_context
     
     def create_example_sentence(self, word, max_sentence_length, min_sentence_length):
-        if is_idiom(word):
+        if self.sentence_util.is_idiom(word):
             words = word.split()
         else:
             words = [word]
