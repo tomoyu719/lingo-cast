@@ -1,6 +1,3 @@
-import os
-import re
-
 from japanese import JapaneseUtils
 
 def decode_input_file(file_path, language_code) -> list:
@@ -21,17 +18,3 @@ def decode_input_file(file_path, language_code) -> list:
             words = [ja_utils.spacing_sentence(w) for w in words]
 
         return words
-
-
-# p = '/Users/kitanotoshiyuki/lingo-cast/demo/words/ukrainian/duolingo/12_Food_2_-_Food_2._Accusative_Case.csv'
-# x = decode_input_file(p, 'uk')
-# print(x)
-
-# p = '/Users/kitanotoshiyuki/lingo-cast/demo/words/ukrainian/duolingo/'
-# ns = os.listdir(p)
-# ns.sort()
-# for n in ns:
-#     print(n)
-#     x = decode_input_file(p+n,'uk')
-#     print(x)
-#     print('='*10)
