@@ -1,0 +1,232 @@
+[
+    {
+        "word": "двадцять один",
+        "example": "тривала двадцять один рік",
+        "word_contain_sentence_num": 92
+    },
+    {
+        "word": "двадцять одна",
+        "example": "була двадцять одна дитина",
+        "word_contain_sentence_num": 17
+    },
+    {
+        "word": "двадцять одне",
+        "example": "двадцять одне іноземне",
+        "word_contain_sentence_num": 11
+    },
+    {
+        "word": "година",
+        "example": "дорозі — 1 година",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "тридцять одна",
+        "example": "тридцять одна ілюстрація до",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "сорок одна",
+        "example": "сорок одна юрисдикція узаконили",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "гривня",
+        "example": "монета номіналом 1 гривня",
+        "word_contain_sentence_num": 114
+    },
+    {
+        "word": "долар",
+        "example": "за 1 долар США",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "двадцять два",
+        "example": "цілих двадцять два роки",
+        "word_contain_sentence_num": 95
+    },
+    {
+        "word": "двадцять дві",
+        "example": "двадцять дві тисячі років",
+        "word_contain_sentence_num": 41
+    },
+    {
+        "word": "двадцять три",
+        "example": "цілих двадцять три роки",
+        "word_contain_sentence_num": 85
+    },
+    {
+        "word": "двадцять чотири",
+        "example": "тривала двадцять чотири роки",
+        "word_contain_sentence_num": 119
+    },
+    {
+        "word": "години",
+        "example": "препарату складає 24 години",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "гривні",
+        "example": "монету номіналом 2 гривні",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "долари",
+        "example": "валюти на долари США",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "двадцять п'ять",
+        "example": "на двадцять п'ять років",
+        "word_contain_sentence_num": 149
+    },
+    {
+        "word": "тридцять шість",
+        "example": "За тридцять шість років",
+        "word_contain_sentence_num": 46
+    },
+    {
+        "word": "сорок сім",
+        "example": "сорок сім років",
+        "word_contain_sentence_num": 23
+    },
+    {
+        "word": "п'ятдесят вісім",
+        "example": "декорації зберегла п'ятдесят вісім",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "гривень",
+        "example": "виплатити 5 млн гривень",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "доларів",
+        "example": "за 2 млн доларів",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "це коштує",
+        "example": "це коштує 68 гривень",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "шістдесят дев'ять",
+        "example": "шістдесят дев'ять майстрів",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "сімдесят п'ять",
+        "example": "в сто сімдесят п'ять",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "вісімдесят шість",
+        "example": "Кашикчи у вісімдесят шість",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "дев'яносто сім",
+        "example": "тисячі дев'ятсот дев'яносто сім",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "цей суп коштує",
+        "example": "цей суп коштує",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "цей обід коштує",
+        "example": "цей обід коштує дешевше",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "двісті",
+        "example": "лише через двісті років",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "триста",
+        "example": "за останні триста років",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "чотириста",
+        "example": "за чотириста років до",
+        "word_contain_sentence_num": 68
+    },
+    {
+        "word": "п'ятсот",
+        "example": "п'ятсот років тому територія",
+        "word_contain_sentence_num": 96
+    },
+    {
+        "word": "шістсот",
+        "example": "тисяча шістсот років",
+        "word_contain_sentence_num": 62
+    },
+    {
+        "word": "сімсот",
+        "example": "сімсот тисяч чоловік",
+        "word_contain_sentence_num": 49
+    },
+    {
+        "word": "вісімсот",
+        "example": "понад вісімсот статей",
+        "word_contain_sentence_num": 38
+    },
+    {
+        "word": "дев'ятсот",
+        "example": "одна тисяча дев'ятсот сорок",
+        "word_contain_sentence_num": 57
+    },
+    {
+        "word": "тисяча",
+        "example": "1 тисяча га орної",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "дві тисячі",
+        "example": "за дві тисячі років",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "п'ять тисяч",
+        "example": "це понад п'ять тисяч",
+        "word_contain_sentence_num": 166
+    },
+    {
+        "word": "одна тисяча",
+        "example": "одна тисяча дев'ятсот сорок",
+        "word_contain_sentence_num": 28
+    },
+    {
+        "word": "сто тисяч",
+        "example": "понад сто тисяч примірників",
+        "word_contain_sentence_num": 109
+    },
+    {
+        "word": "мільйони",
+        "example": "2 мільйони доларів",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "мільйонів",
+        "example": "до 20 мільйонів доларів",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "тисяч",
+        "example": "тисяч тонн на рік",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "один мільйон",
+        "example": "в один мільйон доларів",
+        "word_contain_sentence_num": 154
+    },
+    {
+        "word": "один мільярд",
+        "example": "в один мільярд доларів",
+        "word_contain_sentence_num": 37
+    }
+]

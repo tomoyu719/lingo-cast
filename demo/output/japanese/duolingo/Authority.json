@@ -1,0 +1,327 @@
+[
+    {
+        "word": "ただ",
+        "example": "た ただ",
+        "word_contain_sentence_num": 1951
+    },
+    {
+        "word": "しろ",
+        "example": "しかし いずれ に しろ 国民党",
+        "word_contain_sentence_num": 294
+    },
+    {
+        "word": "来い",
+        "example": "干物 を 持っ て 来い",
+        "word_contain_sentence_num": 66
+    },
+    {
+        "word": "止まれ",
+        "example": "止まれ ！ ここ が 死",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "頑張れ",
+        "example": "沖 で の 頑張れ 日本",
+        "word_contain_sentence_num": 26
+    },
+    {
+        "word": "立て て",
+        "example": "生計 を 立て て い た",
+        "word_contain_sentence_num": 331
+    },
+    {
+        "word": "立てる",
+        "example": "を 立てる こと も ある",
+        "word_contain_sentence_num": 380
+    },
+    {
+        "word": "立て た",
+        "example": "進出 する 計画 を 立て た",
+        "word_contain_sentence_num": 284
+    },
+    {
+        "word": "立て ない で",
+        "example": "立て ない で",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "立て",
+        "example": "を 立て て い た",
+        "word_contain_sentence_num": 2089
+    },
+    {
+        "word": "さっさと",
+        "example": "さっさと 帰っ て しまっ た",
+        "word_contain_sentence_num": 16
+    },
+    {
+        "word": "命令",
+        "example": "の 命令 を 受け た",
+        "word_contain_sentence_num": 2961
+    },
+    {
+        "word": "支配",
+        "example": "世 の 支配 下 に",
+        "word_contain_sentence_num": 5270
+    },
+    {
+        "word": "支配 者",
+        "example": "の 支配 者 の 存在 を",
+        "word_contain_sentence_num": 318
+    },
+    {
+        "word": "支配 上",
+        "example": "支配 上",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "ご 援助",
+        "example": "ご 援助",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "援助",
+        "example": "の 援助 を 受け て",
+        "word_contain_sentence_num": 1355
+    },
+    {
+        "word": "独裁 者",
+        "example": "ある イタリア の 独裁 者 の",
+        "word_contain_sentence_num": 102
+    },
+    {
+        "word": "独裁",
+        "example": "に 染まっ た 独裁 者",
+        "word_contain_sentence_num": 580
+    },
+    {
+        "word": "政権",
+        "example": "政権 の 下 で 可決",
+        "word_contain_sentence_num": 3941
+    },
+    {
+        "word": "求める",
+        "example": "を 求める こと が できる",
+        "word_contain_sentence_num": 1945
+    },
+    {
+        "word": "求め て",
+        "example": "を 求め て いる ため だ",
+        "word_contain_sentence_num": 870
+    },
+    {
+        "word": "求め た",
+        "example": "する こと を 求め た が",
+        "word_contain_sentence_num": 797
+    },
+    {
+        "word": "求め",
+        "example": "を 求め た が 老",
+        "word_contain_sentence_num": 4541
+    },
+    {
+        "word": "援",
+        "example": "を 援 け て 匈奴",
+        "word_contain_sentence_num": 31
+    },
+    {
+        "word": "従わ なかっ た",
+        "example": "の 帰京 命令 に 従わ なかっ た",
+        "word_contain_sentence_num": 20
+    },
+    {
+        "word": "従わ なく て",
+        "example": "は 従わ なく て よい と 考え",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "従って",
+        "example": "た 従って",
+        "word_contain_sentence_num": 505
+    },
+    {
+        "word": "従う",
+        "example": "に 従う こと を 拒否",
+        "word_contain_sentence_num": 432
+    },
+    {
+        "word": "黙れ",
+        "example": "黙れ と は なん だ",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "黙っ て",
+        "example": "は 黙っ て い た が",
+        "word_contain_sentence_num": 52
+    },
+    {
+        "word": "断っ た",
+        "example": "の 申し出 を 断っ た が",
+        "word_contain_sentence_num": 118
+    },
+    {
+        "word": "断ら れ た",
+        "example": "面会 を 断ら れ た こと で",
+        "word_contain_sentence_num": 40
+    },
+    {
+        "word": "断り",
+        "example": "ランボー は これ を 断り",
+        "word_contain_sentence_num": 203
+    },
+    {
+        "word": "断る",
+        "example": "を 断る こと が でき",
+        "word_contain_sentence_num": 121
+    },
+    {
+        "word": "指示",
+        "example": "の 指示 で 被害 弁償",
+        "word_contain_sentence_num": 1604
+    },
+    {
+        "word": "反抗 的",
+        "example": "反抗 的 な 態度 を とっ",
+        "word_contain_sentence_num": 58
+    },
+    {
+        "word": "反抗",
+        "example": "政府 に 反抗 する と",
+        "word_contain_sentence_num": 272
+    },
+    {
+        "word": "黙",
+        "example": "郭 黙 の 乱 を",
+        "word_contain_sentence_num": 42
+    },
+    {
+        "word": "抗",
+        "example": "の 抗 うつ 薬 の",
+        "word_contain_sentence_num": 603
+    },
+    {
+        "word": "的",
+        "example": "は 社会 的 に は",
+        "word_contain_sentence_num": 88557
+    },
+    {
+        "word": "先輩",
+        "example": "の 先輩 で ある こと",
+        "word_contain_sentence_num": 821
+    },
+    {
+        "word": "非難",
+        "example": "た こと を 非難 する",
+        "word_contain_sentence_num": 1311
+    },
+    {
+        "word": "尊敬 語",
+        "example": "の 尊敬 語 として も 用い",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "尊敬",
+        "example": "を 尊敬 し て いる",
+        "word_contain_sentence_num": 496
+    },
+    {
+        "word": "値する",
+        "example": "こと は 注目 に 値する",
+        "word_contain_sentence_num": 167
+    },
+    {
+        "word": "輩",
+        "example": "の 輩 や マナー と",
+        "word_contain_sentence_num": 52
+    },
+    {
+        "word": "敬",
+        "example": "勒 は 郭 敬 は",
+        "word_contain_sentence_num": 598
+    },
+    {
+        "word": "後輩",
+        "example": "大学 の 後輩 で ある",
+        "word_contain_sentence_num": 514
+    },
+    {
+        "word": "老人",
+        "example": "の 老人 だっ た と",
+        "word_contain_sentence_num": 545
+    },
+    {
+        "word": "若者",
+        "example": "として 5 人 の 若者",
+        "word_contain_sentence_num": 1052
+    },
+    {
+        "word": "影響",
+        "example": "影響 を 受け て いる",
+        "word_contain_sentence_num": 10741
+    },
+    {
+        "word": "影響 力",
+        "example": "の 影響 力 を 持つ よう",
+        "word_contain_sentence_num": 1030
+    },
+    {
+        "word": "悪影響",
+        "example": "に 悪影響 を 及ぼす 可能",
+        "word_contain_sentence_num": 245
+    },
+    {
+        "word": "影",
+        "example": "の 影 が 薄い が",
+        "word_contain_sentence_num": 740
+    },
+    {
+        "word": "老",
+        "example": "の 老 紳士 が ファミレス",
+        "word_contain_sentence_num": 388
+    },
+    {
+        "word": "響",
+        "example": "n 響 団 友 オーケストラ",
+        "word_contain_sentence_num": 187
+    },
+    {
+        "word": "態度",
+        "example": "紳士 的 な 態度 を",
+        "word_contain_sentence_num": 1019
+    },
+    {
+        "word": "挑戦",
+        "example": "王座 に 挑戦 し た",
+        "word_contain_sentence_num": 2707
+    },
+    {
+        "word": "権威",
+        "example": "支配 する キリスト の 権威",
+        "word_contain_sentence_num": 836
+    },
+    {
+        "word": "申し込ん だ",
+        "example": "を 申し込ん だ が 断ら れ",
+        "word_contain_sentence_num": 31
+    },
+    {
+        "word": "申し込み",
+        "example": "の 申し込み を し た",
+        "word_contain_sentence_num": 130
+    },
+    {
+        "word": "威",
+        "example": "建 威 将軍 の 号",
+        "word_contain_sentence_num": 240
+    },
+    {
+        "word": "態",
+        "example": "期 の 硝酸 態 窒素",
+        "word_contain_sentence_num": 69
+    },
+    {
+        "word": "挑",
+        "example": "挑 五輪 大武 會編 において",
+        "word_contain_sentence_num": 2
+    }
+]

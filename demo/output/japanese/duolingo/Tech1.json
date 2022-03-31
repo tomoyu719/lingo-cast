@@ -1,0 +1,317 @@
+[
+    {
+        "word": "電子",
+        "example": "電子 決済 に 用い られる",
+        "word_contain_sentence_num": 3359
+    },
+    {
+        "word": "機械",
+        "example": "の 機械 式 計算 機",
+        "word_contain_sentence_num": 2334
+    },
+    {
+        "word": "エアコン",
+        "example": "エアコン の 普及 する 以前",
+        "word_contain_sentence_num": 72
+    },
+    {
+        "word": "ロボット",
+        "example": "複数 ロボット の 協調 作業",
+        "word_contain_sentence_num": 1309
+    },
+    {
+        "word": "壊し",
+        "example": "を 壊し て しまっ た",
+        "word_contain_sentence_num": 174
+    },
+    {
+        "word": "壊さ なかっ た",
+        "example": "壊さ なかっ た",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "壊し た",
+        "example": "を 壊し た の は メルケル",
+        "word_contain_sentence_num": 26
+    },
+    {
+        "word": "自動",
+        "example": "に は 自動 券売 機",
+        "word_contain_sentence_num": 2771
+    },
+    {
+        "word": "自動的",
+        "example": "た 場合 は 自動的 に",
+        "word_contain_sentence_num": 530
+    },
+    {
+        "word": "械",
+        "example": "生 茶 葉 蒸器 械",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "電波",
+        "example": "の 電波 を 受信 する",
+        "word_contain_sentence_num": 703
+    },
+    {
+        "word": "音量",
+        "example": "大 音量 を 上げ て",
+        "word_contain_sentence_num": 110
+    },
+    {
+        "word": "不便",
+        "example": "は 非常 に 不便 な",
+        "word_contain_sentence_num": 168
+    },
+    {
+        "word": "洗濯 機",
+        "example": "から 上 を 洗濯 機 の",
+        "word_contain_sentence_num": 36
+    },
+    {
+        "word": "利用 法",
+        "example": "の 利用 法 が ある と",
+        "word_contain_sentence_num": 32
+    },
+    {
+        "word": "ご 利用",
+        "example": "前 ポスト を ご 利用 ください",
+        "word_contain_sentence_num": 10
+    },
+    {
+        "word": "利用",
+        "example": "を 利用 し て いる",
+        "word_contain_sentence_num": 13240
+    },
+    {
+        "word": "自動 販売 機",
+        "example": "の 自動 販売 機 で も ミニッツメイドブランド",
+        "word_contain_sentence_num": 117
+    },
+    {
+        "word": "販",
+        "example": "番 販 ネット し て",
+        "word_contain_sentence_num": 23
+    },
+    {
+        "word": "ラジオ",
+        "example": "の ラジオ 局 で ヒット",
+        "word_contain_sentence_num": 4248
+    },
+    {
+        "word": "技術",
+        "example": "の 技術 を 導入 する",
+        "word_contain_sentence_num": 8456
+    },
+    {
+        "word": "技術 者",
+        "example": "日本 の 技術 者 の 立ち会い",
+        "word_contain_sentence_num": 571
+    },
+    {
+        "word": "作成",
+        "example": "が 作成 さ れ た",
+        "word_contain_sentence_num": 3190
+    },
+    {
+        "word": "現代",
+        "example": "現代 の 学者 は この",
+        "word_contain_sentence_num": 4223
+    },
+    {
+        "word": "インターネット",
+        "example": "が 惑星 間 インターネット の",
+        "word_contain_sentence_num": 1978
+    },
+    {
+        "word": "ネット",
+        "example": "の 完全 非 ネット 局",
+        "word_contain_sentence_num": 2213
+    },
+    {
+        "word": "技",
+        "example": "の 技 あり で 破っ",
+        "word_contain_sentence_num": 1947
+    },
+    {
+        "word": "代",
+        "example": "10 代 の 大 理国",
+        "word_contain_sentence_num": 8474
+    },
+    {
+        "word": "画面",
+        "example": "の 画面 で 可能 に",
+        "word_contain_sentence_num": 1578
+    },
+    {
+        "word": "画像",
+        "example": "1 枚 の 画像 を",
+        "word_contain_sentence_num": 1485
+    },
+    {
+        "word": "ビデオ",
+        "example": "ビデオ は youtube で 公開",
+        "word_contain_sentence_num": 2180
+    },
+    {
+        "word": "クリック",
+        "example": "｣ を クリック する と",
+        "word_contain_sentence_num": 152
+    },
+    {
+        "word": "映っ た",
+        "example": "ラウル は 鏡 に 映っ た",
+        "word_contain_sentence_num": 23
+    },
+    {
+        "word": "映っ て",
+        "example": "の 姿 が 映っ て いる",
+        "word_contain_sentence_num": 49
+    },
+    {
+        "word": "鮮明",
+        "example": "を 鮮明 に し て",
+        "word_contain_sentence_num": 133
+    },
+    {
+        "word": "像",
+        "example": "この 像 は 雄 牛",
+        "word_contain_sentence_num": 2430
+    },
+    {
+        "word": "印刷",
+        "example": "に 印刷 さ れ た",
+        "word_contain_sentence_num": 1084
+    },
+    {
+        "word": "電池",
+        "example": "太陽 電池 パネル を 4",
+        "word_contain_sentence_num": 522
+    },
+    {
+        "word": "夢中",
+        "example": "に 夢中 に なっ た",
+        "word_contain_sentence_num": 151
+    },
+    {
+        "word": "充電",
+        "example": "の 充電 で 2 分間",
+        "word_contain_sentence_num": 240
+    },
+    {
+        "word": "印",
+        "example": "印 地 打ち と 呼ぶ",
+        "word_contain_sentence_num": 808
+    },
+    {
+        "word": "刷",
+        "example": "加 刷 し た ｢",
+        "word_contain_sentence_num": 62
+    },
+    {
+        "word": "充",
+        "example": "は 王 世 充 が",
+        "word_contain_sentence_num": 226
+    },
+    {
+        "word": "調節",
+        "example": "の 洪水 調節 と 水力",
+        "word_contain_sentence_num": 543
+    },
+    {
+        "word": "削除",
+        "example": "が 削除 さ れ た",
+        "word_contain_sentence_num": 783
+    },
+    {
+        "word": "電球",
+        "example": "初めて 一般 白熱 電球 を",
+        "word_contain_sentence_num": 101
+    },
+    {
+        "word": "故障",
+        "example": "の 故障 で 60 日間",
+        "word_contain_sentence_num": 1653
+    },
+    {
+        "word": "自 撮り",
+        "example": "自 撮り し て sns の",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "削",
+        "example": "削 平 さ れ て",
+        "word_contain_sentence_num": 69
+    },
+    {
+        "word": "障",
+        "example": "障 が い 者 の",
+        "word_contain_sentence_num": 113
+    },
+    {
+        "word": "電源",
+        "example": "照明 など の 電源 を",
+        "word_contain_sentence_num": 682
+    },
+    {
+        "word": "掃除 機",
+        "example": "家庭 用 ロボット 掃除 機 の",
+        "word_contain_sentence_num": 35
+    },
+    {
+        "word": "コンセント",
+        "example": "コンセント が 設置 さ れ",
+        "word_contain_sentence_num": 41
+    },
+    {
+        "word": "つなぐ",
+        "example": "を つなぐ こと で 溜まる",
+        "word_contain_sentence_num": 265
+    },
+    {
+        "word": "つない で",
+        "example": "を つない で いる 管 で",
+        "word_contain_sentence_num": 42
+    },
+    {
+        "word": "つなぎ",
+        "example": "を つなぎ 合わせ て 大型",
+        "word_contain_sentence_num": 142
+    },
+    {
+        "word": "つながっ て",
+        "example": "に つながっ て いる こと から",
+        "word_contain_sentence_num": 250
+    },
+    {
+        "word": "つながる",
+        "example": "に つながる と 考え られ",
+        "word_contain_sentence_num": 573
+    },
+    {
+        "word": "つながっ た",
+        "example": "隊 の 活躍 に つながっ た",
+        "word_contain_sentence_num": 193
+    },
+    {
+        "word": "差し込み",
+        "example": "に 産卵 管 を 差し込み",
+        "word_contain_sentence_num": 21
+    },
+    {
+        "word": "差し込ん で",
+        "example": "ヘッドホン を 差し込ん で 作る 簡易",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "差し込ん だ",
+        "example": "差し込ん だ 太陽光 が コロイド の",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "込",
+        "example": "積 込 口 から の",
+        "word_contain_sentence_num": 214
+    }
+]

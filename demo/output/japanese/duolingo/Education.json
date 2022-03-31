@@ -1,0 +1,267 @@
+[
+    {
+        "word": "教育",
+        "example": "中等 教育 は 中等 程度",
+        "word_contain_sentence_num": 10728
+    },
+    {
+        "word": "生徒",
+        "example": "概ね 予科 の 生徒 は",
+        "word_contain_sentence_num": 2568
+    },
+    {
+        "word": "始め",
+        "example": "として 活動 を 始め た",
+        "word_contain_sentence_num": 8657
+    },
+    {
+        "word": "始め た",
+        "example": "に スポーツカー レース を 始め た",
+        "word_contain_sentence_num": 2867
+    },
+    {
+        "word": "始め ない",
+        "example": "に 発生 を 始め ない 場合",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "始め て",
+        "example": "準備 を 始め て い た",
+        "word_contain_sentence_num": 543
+    },
+    {
+        "word": "始める",
+        "example": "として の 活動 を 始める",
+        "word_contain_sentence_num": 2766
+    },
+    {
+        "word": "受け た",
+        "example": "思想家 の 影響 を 受け た",
+        "word_contain_sentence_num": 5463
+    },
+    {
+        "word": "受け",
+        "example": "の 影響 を 受け た",
+        "word_contain_sentence_num": 22594
+    },
+    {
+        "word": "受け て",
+        "example": "を 受け て いる こと を",
+        "word_contain_sentence_num": 5723
+    },
+    {
+        "word": "受け なかっ た",
+        "example": "で は 被害 を 受け なかっ た",
+        "word_contain_sentence_num": 56
+    },
+    {
+        "word": "受ける",
+        "example": "を 受ける こと が 出来る",
+        "word_contain_sentence_num": 4185
+    },
+    {
+        "word": "受",
+        "example": "は 右足 で 受 の",
+        "word_contain_sentence_num": 101
+    },
+    {
+        "word": "徒",
+        "example": "帝 の 大 司 徒",
+        "word_contain_sentence_num": 233
+    },
+    {
+        "word": "育",
+        "example": "主 は 王 育 は",
+        "word_contain_sentence_num": 240
+    },
+    {
+        "word": "入学",
+        "example": "学校 に 入学 し た",
+        "word_contain_sentence_num": 3449
+    },
+    {
+        "word": "中学校",
+        "example": "の 中学校 令 で あっ",
+        "word_contain_sentence_num": 3464
+    },
+    {
+        "word": "小学校",
+        "example": "3 つ の 小学校 に",
+        "word_contain_sentence_num": 4316
+    },
+    {
+        "word": "試験",
+        "example": "試験 が 行わ れ た",
+        "word_contain_sentence_num": 4393
+    },
+    {
+        "word": "卒業 後",
+        "example": "年 の 大学 卒業 後 は",
+        "word_contain_sentence_num": 3867
+    },
+    {
+        "word": "卒業",
+        "example": "学校 を 卒業 し た",
+        "word_contain_sentence_num": 11719
+    },
+    {
+        "word": "卒",
+        "example": "法政大学 文学部 哲学 科 卒",
+        "word_contain_sentence_num": 1107
+    },
+    {
+        "word": "験",
+        "example": "さらに 吹所 の 験 極印",
+        "word_contain_sentence_num": 56
+    },
+    {
+        "word": "成績",
+        "example": "の 成績 を 残し た",
+        "word_contain_sentence_num": 4417
+    },
+    {
+        "word": "締め切り",
+        "example": "の 締め切り は 8 月",
+        "word_contain_sentence_num": 73
+    },
+    {
+        "word": "歴史",
+        "example": "歴史 学派 の 経済 学",
+        "word_contain_sentence_num": 8952
+    },
+    {
+        "word": "歴史 書",
+        "example": "中国 の 歴史 書 に は",
+        "word_contain_sentence_num": 106
+    },
+    {
+        "word": "説明",
+        "example": "と 説明 し て いる",
+        "word_contain_sentence_num": 3281
+    },
+    {
+        "word": "史",
+        "example": "史 の 比重 が より",
+        "word_contain_sentence_num": 4357
+    },
+    {
+        "word": "成",
+        "example": "は 成 鶏 に 達する",
+        "word_contain_sentence_num": 1641
+    },
+    {
+        "word": "績",
+        "example": "藩主 酒井 忠 績 の",
+        "word_contain_sentence_num": 21
+    },
+    {
+        "word": "歴",
+        "example": "歴 が ある こと が",
+        "word_contain_sentence_num": 564
+    },
+    {
+        "word": "講義",
+        "example": "の 講義 を 行う よう",
+        "word_contain_sentence_num": 771
+    },
+    {
+        "word": "点",
+        "example": "する という 点 で ある",
+        "word_contain_sentence_num": 10574
+    },
+    {
+        "word": "地理",
+        "example": "地理 学 的 な 発見",
+        "word_contain_sentence_num": 1242
+    },
+    {
+        "word": "提出",
+        "example": "書 を 提出 し た",
+        "word_contain_sentence_num": 2229
+    },
+    {
+        "word": "義",
+        "example": "安田 義 定 は 義経",
+        "word_contain_sentence_num": 1953
+    },
+    {
+        "word": "講",
+        "example": "講 武 所 の 剣術",
+        "word_contain_sentence_num": 278
+    },
+    {
+        "word": "提",
+        "example": "提 クレ を 自粛 し",
+        "word_contain_sentence_num": 101
+    },
+    {
+        "word": "文学",
+        "example": "で 読売 文学 賞 の",
+        "word_contain_sentence_num": 4111
+    },
+    {
+        "word": "準備",
+        "example": "の 準備 を 進め て",
+        "word_contain_sentence_num": 2365
+    },
+    {
+        "word": "出席 者",
+        "example": "他 の 出席 者 の 中",
+        "word_contain_sentence_num": 67
+    },
+    {
+        "word": "出席",
+        "example": "会 に 出席 し た",
+        "word_contain_sentence_num": 1310
+    },
+    {
+        "word": "医学",
+        "example": "医学 博士 号 を 取得",
+        "word_contain_sentence_num": 1828
+    },
+    {
+        "word": "医学 生",
+        "example": "の 医学 生 だっ た ウィリアム",
+        "word_contain_sentence_num": 23
+    },
+    {
+        "word": "読ん だ",
+        "example": "を 読ん だ こと が 多い",
+        "word_contain_sentence_num": 254
+    },
+    {
+        "word": "準",
+        "example": "準 優勝 に 終わっ た",
+        "word_contain_sentence_num": 2968
+    },
+    {
+        "word": "合格",
+        "example": "試験 に 合格 し た",
+        "word_contain_sentence_num": 1920
+    },
+    {
+        "word": "独学",
+        "example": "ホーン アレンジ を 独学 で",
+        "word_contain_sentence_num": 203
+    },
+    {
+        "word": "頑張り",
+        "example": "を 決め て 頑張り たい",
+        "word_contain_sentence_num": 48
+    },
+    {
+        "word": "頑張っ て",
+        "example": "志賀 の よう に 頑張っ て",
+        "word_contain_sentence_num": 44
+    },
+    {
+        "word": "張",
+        "example": "で あっ た 張 純",
+        "word_contain_sentence_num": 1704
+    },
+    {
+        "word": "頑",
+        "example": "を 頑 なに 拒否 し",
+        "word_contain_sentence_num": 57
+    }
+]

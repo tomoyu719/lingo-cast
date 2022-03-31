@@ -1,0 +1,80 @@
+[
+    {
+        "word": "червоне",
+        "example": "на червоне світло",
+        "probs": "0.07480314960629922, 0, 0.4473684210526316",
+        "word_contain_sentence_num": 830
+    },
+    {
+        "word": "білі",
+        "example": "іноді майже білі",
+        "probs": "0.3333333333333333, 0.05172413793103448, 0",
+        "word_contain_sentence_num": 3521
+    },
+    {
+        "word": "чорні",
+        "example": "ноги чорні",
+        "probs": "0.5, 0.12903225806451613, 0",
+        "word_contain_sentence_num": 2719
+    },
+    {
+        "word": "жовтий",
+        "example": "в жовтий колір",
+        "probs": "0.1694915254237288, 0, 0.115234375",
+        "word_contain_sentence_num": 1622
+    },
+    {
+        "word": "зелені",
+        "example": "потопає в зелені",
+        "probs": "0.35714285714285715, 0.09090909090909091, 0",
+        "word_contain_sentence_num": 1781
+    },
+    {
+        "word": "рожеві",
+        "example": "білі або рожеві",
+        "probs": "0.4393939393939394, 0.2597402597402597, 0",
+        "word_contain_sentence_num": 440
+    },
+    {
+        "word": "сірий",
+        "example": "заєць сірий",
+        "probs": "0.10566037735849057, 0",
+        "word_contain_sentence_num": 1053
+    },
+    {
+        "word": "коричневі",
+        "example": "чорні або коричневі",
+        "probs": "0.14634146341463414, 0.0875, 0",
+        "word_contain_sentence_num": 727
+    },
+    {
+        "word": "сині",
+        "example": "квітки сині",
+        "probs": "0.06451612903225806, 0",
+        "word_contain_sentence_num": 639
+    },
+    {
+        "word": "оранжевий",
+        "example": "інший оранжевий",
+        "probs": "1.0, 0.3333333333333333, 0",
+        "word_contain_sentence_num": 17
+    },
+    {
+        "word": "фіолетовий",
+        "example": "синій і фіолетовий",
+        "probs": "0.18181818181818182, 0.19444444444444445, 0",
+        "word_contain_sentence_num": 228
+    },
+    {
+        "word": "який",
+        "example": "який був складовою",
+        "probs": "0, 0.03137254901960784, 0.0625",
+        "word_contain_sentence_num": 179834
+    },
+    {
+        "word": "колір",
+        "example": "в білий колір",
+        "probs": "0.21739130434782608, 0.11, 0",
+        "word_contain_sentence_num": 6436
+    }
+]

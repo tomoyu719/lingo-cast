@@ -1,0 +1,67 @@
+[
+    {
+        "word": "мене звуть",
+        "example": "мене звуть Rouge",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "тебе звуть",
+        "example": "тебе звуть ? —",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "лінда",
+        "example": "лінда",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "марк",
+        "example": "000 марк \"",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "його",
+        "example": "його сіквелі",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "її",
+        "example": "Софійської брами та її",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "чули",
+        "example": "навіть не чули про",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "нас",
+        "example": "дійшли до нас",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вас",
+        "example": "у вас є",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "їх",
+        "example": "їх портфоліо акредитовані",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вас звуть",
+        "example": "Як вас звуть ?",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "мене",
+        "example": "для мене це було",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "тебе",
+        "example": "в тебе є ціпок",
+        "word_contain_sentence_num": 201
+    }
+]

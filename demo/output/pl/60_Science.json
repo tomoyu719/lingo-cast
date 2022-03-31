@@ -1,0 +1,254 @@
+[
+    {
+        "word": "zjawisku",
+        "example": "się na zjawisku",
+        "probs": "0.34146341463414637, 0.155893536121673, 0",
+        "word_contain_sentence_num": 262
+    },
+    {
+        "word": "badań",
+        "example": "z badań nad",
+        "probs": "0.13513513513513514, 0, 0.07269155206286837",
+        "word_contain_sentence_num": 13579
+    },
+    {
+        "word": "nauka",
+        "example": "jest nauka o",
+        "probs": "0.09090909090909091, 0, 0.12915851272015655",
+        "word_contain_sentence_num": 1483
+    },
+    {
+        "word": "szczegółach",
+        "example": "się w szczegółach",
+        "probs": "0.15315315315315314, 0.47435897435897434, 0",
+        "word_contain_sentence_num": 234
+    },
+    {
+        "word": "energię",
+        "example": "na energię elektryczną",
+        "probs": "0.2736842105263158, 0, 0.18234165067178504",
+        "word_contain_sentence_num": 1767
+    },
+    {
+        "word": "analizy",
+        "example": "do analizy danych",
+        "probs": "0.10444874274661509, 0, 0.07407407407407407",
+        "word_contain_sentence_num": 3482
+    },
+    {
+        "word": "technologii",
+        "example": "w technologii led",
+        "probs": "0.16470588235294117, 0, 0.17857142857142858",
+        "word_contain_sentence_num": 4568
+    },
+    {
+        "word": "metody",
+        "example": "tej metody jest",
+        "probs": "0.07945736434108527, 0, 0.24390243902439024",
+        "word_contain_sentence_num": 5238
+    },
+    {
+        "word": "długość",
+        "example": "ma długość XX",
+        "probs": "0.24489795918367346, 0, 0.08551483420593368",
+        "word_contain_sentence_num": 7301
+    },
+    {
+        "word": "matematyce",
+        "example": "w matematyce i",
+        "probs": "0.7003891050583657, 0, 0.1",
+        "word_contain_sentence_num": 254
+    },
+    {
+        "word": "teorii",
+        "example": "w teorii i",
+        "probs": "0.10476190476190476, 0, 0.05454545454545454",
+        "word_contain_sentence_num": 7624
+    },
+    {
+        "word": "definicji",
+        "example": "z definicji jest",
+        "probs": "0.1614785992217899, 0, 0.04819277108433735",
+        "word_contain_sentence_num": 1217
+    },
+    {
+        "word": "biologii",
+        "example": "w biologii i",
+        "probs": "0.18840579710144928, 0, 0.1294559099437148",
+        "word_contain_sentence_num": 1334
+    },
+    {
+        "word": "ewolucja",
+        "example": "że ewolucja jest",
+        "probs": "0.11073825503355705, 0, 0.09090909090909091",
+        "word_contain_sentence_num": 287
+    },
+    {
+        "word": "prędkością",
+        "example": "z prędkością XX",
+        "probs": "0.5903846153846154, 0, 0.20521172638436483",
+        "word_contain_sentence_num": 2416
+    },
+    {
+        "word": "ograniczeń",
+        "example": "bez ograniczeń wysokości",
+        "probs": "0.128, 0, 0.0625",
+        "word_contain_sentence_num": 1054
+    },
+    {
+        "word": "laboratorium",
+        "example": "pracował w laboratorium",
+        "probs": "0.17054263565891473, 0.24855491329479767, 0",
+        "word_contain_sentence_num": 2237
+    },
+    {
+        "word": "fizyce",
+        "example": "w fizyce ciała",
+        "probs": "0.6621621621621622, 0, 0.07482993197278912",
+        "word_contain_sentence_num": 422
+    },
+    {
+        "word": "filozofia",
+        "example": "i filozofia prawa",
+        "probs": "0.07678244972577697, 0, 0.07142857142857142",
+        "word_contain_sentence_num": 785
+    },
+    {
+        "word": "pojęciach",
+        "example": "na pojęciach i",
+        "probs": "0.37777777777777777, 0, 0.11764705882352941",
+        "word_contain_sentence_num": 45
+    },
+    {
+        "word": "elektryczności",
+        "example": "elektryczności i wody",
+        "probs": "0, 0.1829787234042553, 0.11627906976744186",
+        "word_contain_sentence_num": 233
+    },
+    {
+        "word": "odległość",
+        "example": "na odległość XX",
+        "probs": "0.4375, 0, 0.26339285714285715",
+        "word_contain_sentence_num": 3690
+    },
+    {
+        "word": "powierzchnia",
+        "example": "a jej powierzchnia",
+        "probs": "0.7101449275362319, 0.12921348314606743, 0",
+        "word_contain_sentence_num": 3966
+    },
+    {
+        "word": "chemia",
+        "example": "chemia i fizyka",
+        "probs": "0, 0.07936507936507936, 0.2",
+        "word_contain_sentence_num": 238
+    },
+    {
+        "word": "odkrycie",
+        "example": "odkrycie w XXXX",
+        "probs": "0, 0.07297830374753451, 0.35135135135135137",
+        "word_contain_sentence_num": 1385
+    },
+    {
+        "word": "naukowiec",
+        "example": "jako naukowiec w",
+        "probs": "0.114, 0, 0.12280701754385964",
+        "word_contain_sentence_num": 800
+    },
+    {
+        "word": "geografia",
+        "example": "geografia i w-f",
+        "probs": "0, 0.048672566371681415, 0.09090909090909091",
+        "word_contain_sentence_num": 206
+    },
+    {
+        "word": "funkcje",
+        "example": "pełnił funkcje m.in.",
+        "probs": "0.20703125, 0, 0.05660377358490566",
+        "word_contain_sentence_num": 8170
+    },
+    {
+        "word": "wysokości",
+        "example": "na wysokości XXX",
+        "probs": "0.4143968871595331, 0, 0.215962441314554",
+        "word_contain_sentence_num": 24704
+    },
+    {
+        "word": "wniosek",
+        "example": "na wniosek ministerstwa",
+        "probs": "0.5, 0, 0.1607843137254902",
+        "word_contain_sentence_num": 4481
+    },
+    {
+        "word": "rozmiaru",
+        "example": "stosunku do rozmiaru",
+        "probs": "0.11764705882352941, 0.10386965376782077, 0",
+        "word_contain_sentence_num": 484
+    },
+    {
+        "word": "zmniejszyli",
+        "example": "nie zmniejszyli straty",
+        "probs": "0.6666666666666666, 0, 0.1",
+        "word_contain_sentence_num": 30
+    },
+    {
+        "word": "zwiększyła",
+        "example": "zwiększyła się do",
+        "probs": "0, 0.6593625498007968, 0.23564954682779457",
+        "word_contain_sentence_num": 762
+    },
+    {
+        "word": "temperatura",
+        "example": "średnia temperatura roczna",
+        "probs": "0.2672727272727273, 0, 0.19727891156462585",
+        "word_contain_sentence_num": 3439
+    },
+    {
+        "word": "gaz",
+        "example": "i gaz ziemny",
+        "probs": "0.21238938053097345, 0, 0.21564885496183206",
+        "word_contain_sentence_num": 871
+    },
+    {
+        "word": "masa",
+        "example": "masa ciała XX",
+        "probs": "0, 0.5046728971962616, 0.25925925925925924",
+        "word_contain_sentence_num": 4052
+    },
+    {
+        "word": "kilometrów",
+        "example": "około XX kilometrów",
+        "probs": "0.20809248554913296, 0.32765151515151514, 0",
+        "word_contain_sentence_num": 4450
+    },
+    {
+        "word": "kilogramy",
+        "example": "waży XX kilogramy",
+        "probs": "0.2857142857142857, 0.28, 0",
+        "word_contain_sentence_num": 50
+    },
+    {
+        "word": "metrów",
+        "example": "na XXX metrów",
+        "probs": "0.23873873873873874, 0.3985637342908438, 0",
+        "word_contain_sentence_num": 16184
+    },
+    {
+        "word": "centymetr",
+        "example": "na centymetr kwadratowy",
+        "probs": "0.23636363636363636, 0, 0.46153846153846156",
+        "word_contain_sentence_num": 55
+    },
+    {
+        "word": "litr",
+        "example": "komórek na litr",
+        "probs": "0.1935483870967742, 0.36046511627906974, 0",
+        "word_contain_sentence_num": 82
+    },
+    {
+        "word": "waży",
+        "example": "i waży XX",
+        "probs": "0.275049115913556, 0, 0.35714285714285715",
+        "word_contain_sentence_num": 516
+    }
+]

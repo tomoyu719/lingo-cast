@@ -1,0 +1,62 @@
+[
+    {
+        "word": "треба",
+        "example": "треба було довести",
+        "probs": "0, 0.1643835616438356, 0.047619047619047616",
+        "word_contain_sentence_num": 5022
+    },
+    {
+        "word": "мені треба",
+        "example": "мені треба",
+        "probs": "0.5555555555555556, 0",
+        "word_contain_sentence_num": 63
+    },
+    {
+        "word": "тобі треба",
+        "example": "тобі треба",
+        "probs": "0.2222222222222222, 0",
+        "word_contain_sentence_num": 24
+    },
+    {
+        "word": "йому",
+        "example": "коли йому було",
+        "probs": "0.4375, 0, 0.06274509803921569",
+        "word_contain_sentence_num": 47167
+    },
+    {
+        "word": "їй",
+        "example": "коли їй було",
+        "probs": "0.4074074074074074, 0, 0.05304518664047151",
+        "word_contain_sentence_num": 14755
+    },
+    {
+        "word": "нам",
+        "example": "нам не",
+        "probs": "0.125, 0, 0.046242774566473986",
+        "word_contain_sentence_num": 2989
+    },
+    {
+        "word": "холодно",
+        "example": "було дуже холодно",
+        "probs": "0.36363636363636365, 0.2571428571428571, 0",
+        "word_contain_sentence_num": 230
+    },
+    {
+        "word": "жарко",
+        "example": "влітку жарко",
+        "probs": "0.2857142857142857, 0",
+        "word_contain_sentence_num": 49
+    },
+    {
+        "word": "дали",
+        "example": "не дали результату",
+        "probs": "0.0992063492063492, 0, 0.12",
+        "word_contain_sentence_num": 3856
+    },
+    {
+        "word": "дзвонив",
+        "example": "він дзвонив би",
+        "probs": "0.20512820512820512, 0, 0.125",
+        "word_contain_sentence_num": 39
+    }
+]

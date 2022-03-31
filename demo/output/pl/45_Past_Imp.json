@@ -1,0 +1,194 @@
+[
+    {
+        "word": "chcieć",
+        "example": "może nie chcieć",
+        "probs": "0.2, 0.15151515151515152, 0",
+        "word_contain_sentence_num": 98
+    },
+    {
+        "word": "jadła",
+        "example": "nic nie jadła",
+        "probs": "0.6, 0.2222222222222222, 0",
+        "word_contain_sentence_num": 45
+    },
+    {
+        "word": "robiliście",
+        "example": "robiliście",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "czytały",
+        "example": "nie czytały młode",
+        "probs": "0.16666666666666666, 0, 0.5",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "pisałem",
+        "example": "wciąż pisałem wszystkie",
+        "probs": "0.12, 0, 0.6666666666666666",
+        "word_contain_sentence_num": 25
+    },
+    {
+        "word": "słuchać",
+        "example": "lubi słuchać muzyki",
+        "probs": "0.25925925925925924, 0, 0.08598726114649681",
+        "word_contain_sentence_num": 312
+    },
+    {
+        "word": "wtedy",
+        "example": "się wtedy do",
+        "probs": "0.07662082514734773, 0, 0.10256410256410256",
+        "word_contain_sentence_num": 20542
+    },
+    {
+        "word": "kupowałeś",
+        "example": "kupowałeś",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "lubić",
+        "example": "da się lubić",
+        "probs": "0.75, 0.45161290322580644, 0",
+        "word_contain_sentence_num": 61
+    },
+    {
+        "word": "sprzedawałeś",
+        "example": "sprzedawałeś",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "rozmawiała",
+        "example": "nie rozmawiała z",
+        "probs": "0.16, 0, 0.625",
+        "word_contain_sentence_num": 80
+    },
+    {
+        "word": "pracowałeś",
+        "example": "pracowałeś z zespołami",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "mówiła",
+        "example": "mówiła o tym",
+        "probs": "0, 0.25339366515837103, 0.11607142857142858",
+        "word_contain_sentence_num": 437
+    },
+    {
+        "word": "pomagali",
+        "example": "pomagali mu w",
+        "probs": "0, 0.1658291457286432, 0.12121212121212122",
+        "word_contain_sentence_num": 396
+    },
+    {
+        "word": "gotowałem",
+        "example": "gotowałem",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "sprzątał",
+        "example": "sprzątał w tym",
+        "probs": "0, 0.2857142857142857, 0.5",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "pokazywaliśmy",
+        "example": "pokazywaliśmy",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "szukałem",
+        "example": "nie szukałem tematu",
+        "probs": "0.2, 0, 0.5",
+        "word_contain_sentence_num": 10
+    },
+    {
+        "word": "myśleli",
+        "example": "nie myśleli o",
+        "probs": "0.15384615384615385, 0, 0.19548872180451127",
+        "word_contain_sentence_num": 132
+    },
+    {
+        "word": "patrzyli",
+        "example": "niechętnie patrzyli na",
+        "probs": "0.125, 0, 0.625",
+        "word_contain_sentence_num": 64
+    },
+    {
+        "word": "próbowali",
+        "example": "którzy próbowali uciec",
+        "probs": "0.092, 0, 0.08695652173913043",
+        "word_contain_sentence_num": 1416
+    },
+    {
+        "word": "wiedziałem",
+        "example": "nie wiedziałem jeszcze",
+        "probs": "0.5106382978723404, 0, 0.041666666666666664",
+        "word_contain_sentence_num": 45
+    },
+    {
+        "word": "wierzyć",
+        "example": "wierzyć w boga",
+        "probs": "0, 0.3181818181818182, 0.11224489795918367",
+        "word_contain_sentence_num": 304
+    },
+    {
+        "word": "używał",
+        "example": "nie używał jednak",
+        "probs": "0.0594059405940594, 0, 0.06666666666666667",
+        "word_contain_sentence_num": 1919
+    },
+    {
+        "word": "spała",
+        "example": "która spała w",
+        "probs": "0.18181818181818182, 0, 0.16417910447761194",
+        "word_contain_sentence_num": 67
+    },
+    {
+        "word": "szanowała",
+        "example": "szanowała ich służba",
+        "probs": "0, 0.3333333333333333, 0.5",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "piłam",
+        "example": "bardzo dużo piłam",
+        "probs": "1.0, 1.0, 0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "mieszkała",
+        "example": "XXXX mieszkała w",
+        "probs": "0.12195121951219512, 0, 0.48906560636182905",
+        "word_contain_sentence_num": 2300
+    },
+    {
+        "word": "odpoczywał",
+        "example": "odpoczywał w cieniu",
+        "probs": "0, 0.2692307692307692, 0.09523809523809523",
+        "word_contain_sentence_num": 78
+    },
+    {
+        "word": "siedziały",
+        "example": "rekowie siedziały rody",
+        "probs": "1.0, 0, 0.3548387096774194",
+        "word_contain_sentence_num": 31
+    },
+    {
+        "word": "rozumieli",
+        "example": "którzy nie rozumieli",
+        "probs": "0.1875, 0.31683168316831684, 0",
+        "word_contain_sentence_num": 101
+    },
+    {
+        "word": "chodziłaś",
+        "example": "chodziłaś",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    }
+]

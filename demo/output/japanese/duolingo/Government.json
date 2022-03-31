@@ -1,0 +1,257 @@
+[
+    {
+        "word": "首相",
+        "example": "首相 に 就任 し た",
+        "word_contain_sentence_num": 2703
+    },
+    {
+        "word": "大統領",
+        "example": "これ が 大統領 の 任期",
+        "word_contain_sentence_num": 5308
+    },
+    {
+        "word": "主張",
+        "example": "た と 主張 し た",
+        "word_contain_sentence_num": 5439
+    },
+    {
+        "word": "政治 的",
+        "example": "は 自身 の 政治 的 な",
+        "word_contain_sentence_num": 1355
+    },
+    {
+        "word": "政治",
+        "example": "の 香港 の 政治 的",
+        "word_contain_sentence_num": 9009
+    },
+    {
+        "word": "政",
+        "example": "に 伊達 政 宗 が",
+        "word_contain_sentence_num": 2039
+    },
+    {
+        "word": "統",
+        "example": "宣 統 3 年",
+        "word_contain_sentence_num": 605
+    },
+    {
+        "word": "領",
+        "example": "に 乗り込み オランダ 領 ニューギニア",
+        "word_contain_sentence_num": 4672
+    },
+    {
+        "word": "議員",
+        "example": "衆議院 議員 総 選挙 で",
+        "word_contain_sentence_num": 7263
+    },
+    {
+        "word": "議会",
+        "example": "州 議会 選挙 に 立候補",
+        "word_contain_sentence_num": 4774
+    },
+    {
+        "word": "政治 家",
+        "example": "日本 の 政治 家 で ある",
+        "word_contain_sentence_num": 1482
+    },
+    {
+        "word": "国際",
+        "example": "刑事 裁判所 へ の 国際",
+        "word_contain_sentence_num": 11808
+    },
+    {
+        "word": "国際 語",
+        "example": "国際 語",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "大使館",
+        "example": "大使館 の リスト に 掲載",
+        "word_contain_sentence_num": 658
+    },
+    {
+        "word": "大使",
+        "example": "大使 に 任命 さ れ",
+        "word_contain_sentence_num": 1424
+    },
+    {
+        "word": "員",
+        "example": "担当 する 男性 従業 員",
+        "word_contain_sentence_num": 8136
+    },
+    {
+        "word": "際",
+        "example": "し た 際 に は",
+        "word_contain_sentence_num": 15030
+    },
+    {
+        "word": "政府",
+        "example": "政府 は 運動 の 盛ん",
+        "word_contain_sentence_num": 11707
+    },
+    {
+        "word": "批判",
+        "example": "を 批判 し て いる",
+        "word_contain_sentence_num": 4686
+    },
+    {
+        "word": "市民",
+        "example": "行政 と 市民 の エリア",
+        "word_contain_sentence_num": 3745
+    },
+    {
+        "word": "国民",
+        "example": "彼 は ドイツ 国民 の",
+        "word_contain_sentence_num": 4916
+    },
+    {
+        "word": "府",
+        "example": "大阪 府 大阪 市 で",
+        "word_contain_sentence_num": 4901
+    },
+    {
+        "word": "批",
+        "example": "第 一 批 領海 基線",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "判",
+        "example": "は b 5 判 の",
+        "word_contain_sentence_num": 530
+    },
+    {
+        "word": "法案",
+        "example": "法案 の 成立 を 拒絶",
+        "word_contain_sentence_num": 1100
+    },
+    {
+        "word": "政党",
+        "example": "の 政党 が 参加 し",
+        "word_contain_sentence_num": 1567
+    },
+    {
+        "word": "可決",
+        "example": "が 可決 さ れ た",
+        "word_contain_sentence_num": 543
+    },
+    {
+        "word": "国会",
+        "example": "の 国会 議員 を 辞職",
+        "word_contain_sentence_num": 1601
+    },
+    {
+        "word": "ご 提案",
+        "example": "ご 提案",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "提案",
+        "example": "こと を 提案 し た",
+        "word_contain_sentence_num": 2897
+    },
+    {
+        "word": "可",
+        "example": "し て 毘伽 可 汗",
+        "word_contain_sentence_num": 1015
+    },
+    {
+        "word": "案",
+        "example": "側 も 調停 案 を",
+        "word_contain_sentence_num": 2582
+    },
+    {
+        "word": "党",
+        "example": "選挙 は ナチ 党 は",
+        "word_contain_sentence_num": 6041
+    },
+    {
+        "word": "選挙",
+        "example": "の 総 選挙 で は",
+        "word_contain_sentence_num": 9432
+    },
+    {
+        "word": "制度",
+        "example": "の 候補 者 制度 が",
+        "word_contain_sentence_num": 4714
+    },
+    {
+        "word": "投票",
+        "example": "住民 投票 が 行わ れ",
+        "word_contain_sentence_num": 2592
+    },
+    {
+        "word": "改革 案",
+        "example": "7 ヶ条 の 改革 案 を",
+        "word_contain_sentence_num": 44
+    },
+    {
+        "word": "改革",
+        "example": "の 改革 を 進め て",
+        "word_contain_sentence_num": 2960
+    },
+    {
+        "word": "挙",
+        "example": "公 出 挙 の 利子",
+        "word_contain_sentence_num": 177
+    },
+    {
+        "word": "改",
+        "example": "改 番 さ れ た",
+        "word_contain_sentence_num": 749
+    },
+    {
+        "word": "票",
+        "example": "た 場合 の 票 を",
+        "word_contain_sentence_num": 1391
+    },
+    {
+        "word": "市長",
+        "example": "市長 に 就任 し た",
+        "word_contain_sentence_num": 2336
+    },
+    {
+        "word": "指名",
+        "example": "に 指名 さ れ た",
+        "word_contain_sentence_num": 2845
+    },
+    {
+        "word": "市役所",
+        "example": "市 新しい 市役所 の 実現",
+        "word_contain_sentence_num": 505
+    },
+    {
+        "word": "役所",
+        "example": "の 役所 に 提出 する",
+        "word_contain_sentence_num": 281
+    },
+    {
+        "word": "候補 者",
+        "example": "の 候補 者 が い なかっ",
+        "word_contain_sentence_num": 587
+    },
+    {
+        "word": "候補",
+        "example": "兵種 の 士官 候補 生",
+        "word_contain_sentence_num": 3689
+    },
+    {
+        "word": "立候補",
+        "example": "選挙 に 立候補 し た",
+        "word_contain_sentence_num": 1197
+    },
+    {
+        "word": "補",
+        "example": "の 補 機 類 の",
+        "word_contain_sentence_num": 556
+    },
+    {
+        "word": "候",
+        "example": "直 馬 候 処 ニ",
+        "word_contain_sentence_num": 257
+    },
+    {
+        "word": "役",
+        "example": "役 に 起用 さ れ",
+        "word_contain_sentence_num": 7849
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "word": "кетчуп",
+        "example": "додають кетчуп",
+        "probs": "0.25, 0",
+        "word_contain_sentence_num": 19
+    },
+    {
+        "word": "помідор",
+        "example": "стиглий помідор",
+        "probs": "0.466, 0",
+        "word_contain_sentence_num": 641
+    },
+    {
+        "word": "яйце",
+        "example": "відкладає одне яйце",
+        "probs": "0.1388888888888889, 0.1702127659574468, 0",
+        "word_contain_sentence_num": 687
+    },
+    {
+        "word": "моркву",
+        "example": "картоплю і моркву",
+        "probs": "0.5, 0.11764705882352941, 0",
+        "word_contain_sentence_num": 122
+    },
+    {
+        "word": "котлету",
+        "example": "котлету по-київськи необхідно",
+        "probs": "0, 0.5, 1.0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "сосиску",
+        "example": "сосиску нарізують на",
+        "probs": "0, 0.3333333333333333, 1.0",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "з кетчупом",
+        "example": "з кетчупом",
+        "probs": "0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "з помідором",
+        "example": "випадку з помідором",
+        "probs": "1.0, 0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "з морквою",
+        "example": "з морквою",
+        "probs": "0, 0.2222222222222222",
+        "word_contain_sentence_num": 26
+    },
+    {
+        "word": "з котлетою",
+        "example": "з котлетою",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "з сосискою",
+        "example": "з сосискою",
+        "probs": "0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "сусід",
+        "example": "його сусід",
+        "probs": "0.13725490196078433, 0, 0.22857142857142856",
+        "word_contain_sentence_num": 253
+    },
+    {
+        "word": "з яйцем",
+        "example": "сендвіч з яйцем",
+        "probs": "0.06666666666666667, 0",
+        "word_contain_sentence_num": 42
+    },
+    {
+        "word": "кетчупу",
+        "example": "чилі чи кетчупу",
+        "probs": "1.0, 0.5, 0",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "моркви",
+        "example": "хни або моркви",
+        "probs": "0.5, 0.16666666666666666, 0",
+        "word_contain_sentence_num": 91
+    },
+    {
+        "word": "сосиски",
+        "example": "іноді використовують сосиски",
+        "probs": "1.0, 0.16666666666666666, 0",
+        "word_contain_sentence_num": 47
+    },
+    {
+        "word": "виноградом",
+        "example": "диким виноградом",
+        "probs": "0.75, 0.2222222222222222, 0",
+        "word_contain_sentence_num": 51
+    },
+    {
+        "word": "полуницю",
+        "example": "полуницю і квіти",
+        "probs": "0, 0.11538461538461539, 0.3333333333333333",
+        "word_contain_sentence_num": 26
+    },
+    {
+        "word": "персик",
+        "example": "персик і фіга",
+        "probs": "0, 0.12244897959183673, 0.16666666666666666",
+        "word_contain_sentence_num": 49
+    },
+    {
+        "word": "площу",
+        "example": "місто мало площу",
+        "probs": "0.751269035532995, 0.388560157790927, 0",
+        "word_contain_sentence_num": 9723
+    },
+    {
+        "word": "піцерію",
+        "example": "піцерію в м",
+        "probs": "0, 0.1, 1.0",
+        "word_contain_sentence_num": 10
+    },
+    {
+        "word": "пляж",
+        "example": "ходити на пляж",
+        "probs": "0.0410958904109589, 0.17590361445783131, 0",
+        "word_contain_sentence_num": 392
+    },
+    {
+        "word": "посольстві",
+        "example": "в посольстві сша",
+        "probs": "0.296969696969697, 0, 0.10884353741496598",
+        "word_contain_sentence_num": 486
+    },
+    {
+        "word": "на площі",
+        "example": "на площі XXX",
+        "probs": "0, 0.06666666666666667",
+        "word_contain_sentence_num": 5833
+    },
+    {
+        "word": "на пляжі",
+        "example": "час на пляжі",
+        "probs": "0.02564102564102564, 0",
+        "word_contain_sentence_num": 428
+    },
+    {
+        "word": "у зоопарку",
+        "example": "трапилось у зоопарку",
+        "probs": "0.1111111111111111, 0",
+        "word_contain_sentence_num": 155
+    },
+    {
+        "word": "у цирку",
+        "example": "працював у цирку",
+        "probs": "0.1111111111111111, 0",
+        "word_contain_sentence_num": 202
+    },
+    {
+        "word": "заводі",
+        "example": "працював на заводі",
+        "probs": "0.112, 0.49407114624505927, 0",
+        "word_contain_sentence_num": 6291
+    },
+    {
+        "word": "лазню",
+        "example": "споруджено турецьку лазню",
+        "probs": "0.3333333333333333, 0.21428571428571427, 0",
+        "word_contain_sentence_num": 117
+    },
+    {
+        "word": "алеї",
+        "example": "голлівудській алеї слави",
+        "probs": "0.7766990291262136, 0, 0.20355731225296442",
+        "word_contain_sentence_num": 756
+    }
+]

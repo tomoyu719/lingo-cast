@@ -1,0 +1,297 @@
+[
+    {
+        "word": "雲",
+        "example": "劉 備に 趙 雲 伝",
+        "word_contain_sentence_num": 1554
+    },
+    {
+        "word": "季節",
+        "example": "桜 の 季節 に は",
+        "word_contain_sentence_num": 622
+    },
+    {
+        "word": "予報",
+        "example": "の 天気 予報 は 赤",
+        "word_contain_sentence_num": 316
+    },
+    {
+        "word": "に よる と",
+        "example": "それ に よる と 周 の 尺",
+        "word_contain_sentence_num": 3411
+    },
+    {
+        "word": "季",
+        "example": "季 の 娘 と さ",
+        "word_contain_sentence_num": 547
+    },
+    {
+        "word": "報",
+        "example": "の 報 を 受け た",
+        "word_contain_sentence_num": 538
+    },
+    {
+        "word": "節",
+        "example": "は 第 1 節 の",
+        "word_contain_sentence_num": 2947
+    },
+    {
+        "word": "雲",
+        "example": "劉 備に 趙 雲 伝",
+        "word_contain_sentence_num": 1554
+    },
+    {
+        "word": "雷",
+        "example": "雷 十 字 党 の",
+        "word_contain_sentence_num": 539
+    },
+    {
+        "word": "現象",
+        "example": "の よう な 現象 が",
+        "word_contain_sentence_num": 1891
+    },
+    {
+        "word": "台風",
+        "example": "台風 が 発達 する こと",
+        "word_contain_sentence_num": 823
+    },
+    {
+        "word": "稲妻",
+        "example": "当て て 稲妻 の 平原",
+        "word_contain_sentence_num": 53
+    },
+    {
+        "word": "一時 的",
+        "example": "年 に は 一時 的 に",
+        "word_contain_sentence_num": 939
+    },
+    {
+        "word": "一時",
+        "example": "で は 一時 的 に",
+        "word_contain_sentence_num": 2937
+    },
+    {
+        "word": "一時 雨",
+        "example": "一時 雨",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "稲",
+        "example": "と 27 箇所 の 稲",
+        "word_contain_sentence_num": 238
+    },
+    {
+        "word": "雷",
+        "example": "雷 十 字 党 の",
+        "word_contain_sentence_num": 539
+    },
+    {
+        "word": "急",
+        "example": "は 急 な 坂 や",
+        "word_contain_sentence_num": 1129
+    },
+    {
+        "word": "地域",
+        "example": "地域 で の 検 注",
+        "word_contain_sentence_num": 14815
+    },
+    {
+        "word": "温度",
+        "example": "の 温度 は 約 7",
+        "word_contain_sentence_num": 1203
+    },
+    {
+        "word": "気温",
+        "example": "日 中 の 気温 が",
+        "word_contain_sentence_num": 586
+    },
+    {
+        "word": "温度 計",
+        "example": "排気 温度 計 を 操作 する",
+        "word_contain_sentence_num": 20
+    },
+    {
+        "word": "示さ ない",
+        "example": "ゴードン は 興味 を 示さ ない",
+        "word_contain_sentence_num": 46
+    },
+    {
+        "word": "示し",
+        "example": "ある こと を 示し た",
+        "word_contain_sentence_num": 3515
+    },
+    {
+        "word": "示し て",
+        "example": "た こと を 示し て いる",
+        "word_contain_sentence_num": 816
+    },
+    {
+        "word": "示",
+        "example": "機 を 停止 現 示",
+        "word_contain_sentence_num": 42
+    },
+    {
+        "word": "域",
+        "example": "町 域 の 大 部分",
+        "word_contain_sentence_num": 2968
+    },
+    {
+        "word": "気候",
+        "example": "の 気候 は 温暖 湿潤",
+        "word_contain_sentence_num": 1052
+    },
+    {
+        "word": "乾燥",
+        "example": "主 に 乾燥 し た",
+        "word_contain_sentence_num": 834
+    },
+    {
+        "word": "温暖",
+        "example": "地球 温暖 化 を 1",
+        "word_contain_sentence_num": 438
+    },
+    {
+        "word": "温暖 化",
+        "example": "地球 温暖 化 対策 の ため",
+        "word_contain_sentence_num": 166
+    },
+    {
+        "word": "がたがた",
+        "example": "が がたがた 震え て て",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "ガタガタ",
+        "example": "ガタガタ に なっ て い",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "蒸し暑い",
+        "example": "蒸し暑い 夏 に 特徴付け られる",
+        "word_contain_sentence_num": 11
+    },
+    {
+        "word": "蒸し暑 さ",
+        "example": "夏 の 蒸し暑 さ で 弱り",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "蒸し暑く",
+        "example": "蒸し暑く 体調 が 悪い",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "蒸",
+        "example": "蒸 ノ 湯 温泉 を",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "燥",
+        "example": "潤 燥",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "転ば ない で",
+        "example": "転ば ない で",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "転ん で",
+        "example": "生活 でも 転ん で は 起き",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "滑っ た",
+        "example": "で 滑っ た こと で 敗れ",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "滑ら せ て",
+        "example": "家康 が 手 を 滑ら せ て",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "滑り",
+        "example": "の 滑り 止め の ため",
+        "word_contain_sentence_num": 115
+    },
+    {
+        "word": "滑っ て",
+        "example": "助走 の 段階 で 滑っ て",
+        "word_contain_sentence_num": 20
+    },
+    {
+        "word": "流れ",
+        "example": "の 流れ を 汲む 頼",
+        "word_contain_sentence_num": 3447
+    },
+    {
+        "word": "流れ て",
+        "example": "の 川 が 流れ て いる",
+        "word_contain_sentence_num": 549
+    },
+    {
+        "word": "流れ た",
+        "example": "だ という 噂 が 流れ た",
+        "word_contain_sentence_num": 145
+    },
+    {
+        "word": "ごろごろ",
+        "example": "ごろごろ し て いる ――",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "ざあざあ",
+        "example": "ざあざあ ",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "びしょびしょ",
+        "example": "びしょびしょ ",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "滑",
+        "example": "125 mm 滑 腔砲 を",
+        "word_contain_sentence_num": 91
+    },
+    {
+        "word": "猛烈",
+        "example": "北朝鮮 軍 の 猛烈 な",
+        "word_contain_sentence_num": 144
+    },
+    {
+        "word": "霧",
+        "example": "夕 霧 の 中 で",
+        "word_contain_sentence_num": 470
+    },
+    {
+        "word": "近づい て",
+        "example": "に 近づい て き た ある",
+        "word_contain_sentence_num": 104
+    },
+    {
+        "word": "近づく",
+        "example": "が 終わり に 近づく と",
+        "word_contain_sentence_num": 259
+    },
+    {
+        "word": "じめじめ",
+        "example": "じめじめ し た 気象 条件",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "猛",
+        "example": "の 猛 練習 に 下級生",
+        "word_contain_sentence_num": 541
+    },
+    {
+        "word": "烈",
+        "example": "忠 烈 王 の 息子",
+        "word_contain_sentence_num": 160
+    },
+    {
+        "word": "霧",
+        "example": "夕 霧 の 中 で",
+        "word_contain_sentence_num": 470
+    }
+]

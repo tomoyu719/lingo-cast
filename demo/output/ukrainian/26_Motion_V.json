@@ -1,0 +1,42 @@
+[
+    {
+        "word": "іти",
+        "example": "іти на поступки кіностудії",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "куди",
+        "example": "куди він прибув десь",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "їхати",
+        "example": "відмовився їхати до Бостона",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "ідете",
+        "example": "чи ідете ; все",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "їдуть",
+        "example": "вони їдуть до будинку",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "гуляти",
+        "example": "випускати гуляти на вулицю",
+        "word_contain_sentence_num": 105
+    },
+    {
+        "word": "їздили",
+        "example": "їздили на полювання",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "ходили",
+        "example": "ходили до церкви",
+        "word_contain_sentence_num": 201
+    }
+]

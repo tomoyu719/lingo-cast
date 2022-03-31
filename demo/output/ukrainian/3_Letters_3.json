@@ -1,0 +1,217 @@
+[
+    {
+        "word": "люблю",
+        "example": "Я люблю тебе …",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "любите",
+        "example": "ви любите їсти смачних",
+        "word_contain_sentence_num": 24
+    },
+    {
+        "word": "але",
+        "example": "але і по його",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "п'ю",
+        "example": "п'ю м'ятний чай",
+        "word_contain_sentence_num": 16
+    },
+    {
+        "word": "люди",
+        "example": "рік як звичайні люди",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "суп",
+        "example": "— суп з галушками",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "сестра",
+        "example": "лишились батьки та сестра",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "брат",
+        "example": "його брат Дмитро",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "батько",
+        "example": "Його батько був дрібним",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "мої",
+        "example": "мої друзі займалися",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "батьки",
+        "example": "Залишились батьки та дружина",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "сім'я",
+        "example": "її сім'я переїхала",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "чиї",
+        "example": "чиї імена загубились",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "брати",
+        "example": "право брати участь",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "сестри",
+        "example": "брат та дві сестри",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "є",
+        "example": "не є найкращими друзями",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "місто",
+        "example": "простягається через все місто",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "село",
+        "example": "5 км розташоване село",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "моє",
+        "example": "все моє життя :",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "чиє",
+        "example": "чиє ім'я було присвоєно",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "п'єте",
+        "example": "коли ви п'єте",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "школа",
+        "example": "Була відкрита церковнопарафіяльна школа",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "шапка",
+        "example": "шапка з червоним шликом",
+        "word_contain_sentence_num": 185
+    },
+    {
+        "word": "машина",
+        "example": "Ця машина була захоплена",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "машини",
+        "example": "індивідуальні особливості друкарської машини",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "пити",
+        "example": "будем їсти й пити",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "їсти",
+        "example": "що їсти",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "хочу",
+        "example": "Я хочу створити більше",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "борщ",
+        "example": "переходили на зелений борщ",
+        "word_contain_sentence_num": 72
+    },
+    {
+        "word": "що",
+        "example": "що не раз їх",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "друг",
+        "example": "його друг і колега",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "подруга",
+        "example": "її найкраща подруга Гейл",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "друзі",
+        "example": "його друзі Річі",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "зараз",
+        "example": "залишаються актуальними і зараз",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "бізнес",
+        "example": "2013 року сімейний бізнес",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "теж",
+        "example": "теж не було далеко",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "дуже",
+        "example": "не дуже звертаючи увагу",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "дружина",
+        "example": "його дружина Ден",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "кафе",
+        "example": "сувенірний магазин і кафе",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "фонтан",
+        "example": "під назвою Великий фонтан",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "фото",
+        "example": "на фото і негативи",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "телефон",
+        "example": "пропущені виклики на телефон",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "у",
+        "example": "у 1999 році було",
+        "word_contain_sentence_num": 201
+    }
+]

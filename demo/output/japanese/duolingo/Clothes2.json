@@ -1,0 +1,247 @@
+[
+    {
+        "word": "ドレス",
+        "example": "の ドレス を 着 て",
+        "word_contain_sentence_num": 346
+    },
+    {
+        "word": "ハンドバッグ",
+        "example": "ハンドバッグ は 黒坂 真美 から",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "緑",
+        "example": "緑 の 革命 が 開始",
+        "word_contain_sentence_num": 1475
+    },
+    {
+        "word": "緑色",
+        "example": "レンズ に は 緑色 の",
+        "word_contain_sentence_num": 676
+    },
+    {
+        "word": "紫",
+        "example": "後 に 紫 の 王女",
+        "word_contain_sentence_num": 600
+    },
+    {
+        "word": "紫色",
+        "example": "クロマキー 合成 に 紫色 の",
+        "word_contain_sentence_num": 190
+    },
+    {
+        "word": "しゃれ た",
+        "example": "しゃれ た 料理 を 出す 店",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "おしゃれ",
+        "example": "ちゃり 女子 の おしゃれ な",
+        "word_contain_sentence_num": 56
+    },
+    {
+        "word": "緑",
+        "example": "緑 の 革命 が 開始",
+        "word_contain_sentence_num": 1475
+    },
+    {
+        "word": "紫",
+        "example": "後 に 紫 の 王女",
+        "word_contain_sentence_num": 600
+    },
+    {
+        "word": "靴下",
+        "example": "でも 靴 と 靴下 を",
+        "word_contain_sentence_num": 79
+    },
+    {
+        "word": "制服",
+        "example": "の 制服 を 着 て",
+        "word_contain_sentence_num": 503
+    },
+    {
+        "word": "二 足",
+        "example": "の 二 足 歩行 の よう",
+        "word_contain_sentence_num": 48
+    },
+    {
+        "word": "足",
+        "example": "の よう に 足 を",
+        "word_contain_sentence_num": 2401
+    },
+    {
+        "word": "灰色",
+        "example": "の 色彩 は 灰色 の",
+        "word_contain_sentence_num": 384
+    },
+    {
+        "word": "足",
+        "example": "の よう に 足 を",
+        "word_contain_sentence_num": 2401
+    },
+    {
+        "word": "制",
+        "example": "な 時間 制 で あり",
+        "word_contain_sentence_num": 5660
+    },
+    {
+        "word": "灰",
+        "example": "色彩 は 灰 褐色 で",
+        "word_contain_sentence_num": 383
+    },
+    {
+        "word": "革",
+        "example": "本 革 巻き 3 本",
+        "word_contain_sentence_num": 276
+    },
+    {
+        "word": "手袋",
+        "example": "手袋 を 着用 する と",
+        "word_contain_sentence_num": 121
+    },
+    {
+        "word": "ベルト",
+        "example": "ベルト を 奪取 し た",
+        "word_contain_sentence_num": 671
+    },
+    {
+        "word": "組",
+        "example": "ロビン・ゾルコーヴィ 組 が フリー ダンス",
+        "word_contain_sentence_num": 4894
+    },
+    {
+        "word": "革",
+        "example": "本 革 巻き 3 本",
+        "word_contain_sentence_num": 276
+    },
+    {
+        "word": "組",
+        "example": "ロビン・ゾルコーヴィ 組 が フリー ダンス",
+        "word_contain_sentence_num": 4894
+    },
+    {
+        "word": "半袖",
+        "example": "に 白 の 半袖 の",
+        "word_contain_sentence_num": 29
+    },
+    {
+        "word": "ジャケット",
+        "example": "cd シングル の ジャケット は",
+        "word_contain_sentence_num": 1123
+    },
+    {
+        "word": "短",
+        "example": "の 短 さ が 著しい",
+        "word_contain_sentence_num": 746
+    },
+    {
+        "word": "短い",
+        "example": "の 短い 伴奏 を 伴い",
+        "word_contain_sentence_num": 1308
+    },
+    {
+        "word": "短く",
+        "example": "エネルギー 充填 時間 は 短く",
+        "word_contain_sentence_num": 699
+    },
+    {
+        "word": "袖",
+        "example": "の 袖 の 形態 の",
+        "word_contain_sentence_num": 327
+    },
+    {
+        "word": "長袖",
+        "example": "白 の 長袖 の シャツ",
+        "word_contain_sentence_num": 23
+    },
+    {
+        "word": "袖",
+        "example": "の 袖 の 形態 の",
+        "word_contain_sentence_num": 327
+    },
+    {
+        "word": "短",
+        "example": "の 短 さ が 著しい",
+        "word_contain_sentence_num": 746
+    },
+    {
+        "word": "帯",
+        "example": "放送 休止 の 時間 帯",
+        "word_contain_sentence_num": 3178
+    },
+    {
+        "word": "浴衣",
+        "example": "に は 浴衣 など の",
+        "word_contain_sentence_num": 51
+    },
+    {
+        "word": "着物",
+        "example": "の 着物 を 着 て",
+        "word_contain_sentence_num": 153
+    },
+    {
+        "word": "サイズ",
+        "example": "サイズ の データ を 読み込む",
+        "word_contain_sentence_num": 1434
+    },
+    {
+        "word": "着",
+        "example": "体操 着 姿 の まま",
+        "word_contain_sentence_num": 5215
+    },
+    {
+        "word": "ぴったり",
+        "example": "に ぴったり と 合う もの",
+        "word_contain_sentence_num": 71
+    },
+    {
+        "word": "衣",
+        "example": "むばたまの 夜 の 衣 を",
+        "word_contain_sentence_num": 398
+    },
+    {
+        "word": "はめ",
+        "example": "ゴム 手袋 を はめ た",
+        "word_contain_sentence_num": 93
+    },
+    {
+        "word": "はめ て",
+        "example": "プレイヤー は 指輪 を はめ て",
+        "word_contain_sentence_num": 13
+    },
+    {
+        "word": "外し て",
+        "example": "を 外し て しまっ た 場合",
+        "word_contain_sentence_num": 80
+    },
+    {
+        "word": "外し",
+        "example": "を 外し て は なら",
+        "word_contain_sentence_num": 320
+    },
+    {
+        "word": "指輪",
+        "example": "と共に 一つ の 指輪 を",
+        "word_contain_sentence_num": 196
+    },
+    {
+        "word": "きつい",
+        "example": "が きつい 下着 や ジーンズ",
+        "word_contain_sentence_num": 44
+    },
+    {
+        "word": "きつく",
+        "example": "が きつく なっ た 事",
+        "word_contain_sentence_num": 31
+    },
+    {
+        "word": "輪",
+        "example": "と 三 輪 の もの",
+        "word_contain_sentence_num": 1681
+    },
+    {
+        "word": "指",
+        "example": "で 11 本 の 指",
+        "word_contain_sentence_num": 783
+    }
+]

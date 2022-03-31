@@ -1,0 +1,212 @@
+[
+    {
+        "word": "wszędzie",
+        "example": "wszędzie tam gdzie",
+        "probs": "0, 0.2003968253968254, 0.1485148514851485",
+        "word_contain_sentence_num": 896
+    },
+    {
+        "word": "istnieć",
+        "example": "przestała istnieć w",
+        "probs": "0.22023809523809523, 0, 0.11711711711711711",
+        "word_contain_sentence_num": 2191
+    },
+    {
+        "word": "spotykać",
+        "example": "spotykać się z",
+        "probs": "0, 0.5655021834061136, 0.7567567567567568",
+        "word_contain_sentence_num": 458
+    },
+    {
+        "word": "trzyma",
+        "example": "trzyma w ręku",
+        "probs": "0, 0.18271119842829076, 0.20430107526881722",
+        "word_contain_sentence_num": 1386
+    },
+    {
+        "word": "wyglądacie",
+        "example": "wyglądacie i niebogate",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "wątpię",
+        "example": "nie wątpię w",
+        "probs": "0.2222222222222222, 0, 0.5",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "wolimy",
+        "example": "wolimy wersję irlandzką",
+        "probs": "0, 0.5, 1.0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "dotyczyć",
+        "example": "może dotyczyć także",
+        "probs": "0.28043478260869564, 0, 0.06976744186046512",
+        "word_contain_sentence_num": 457
+    },
+    {
+        "word": "nigdzie",
+        "example": "nigdzie nie jest",
+        "probs": "0, 0.27906976744186046, 0.10833333333333334",
+        "word_contain_sentence_num": 426
+    },
+    {
+        "word": "mieszam",
+        "example": "mieszam",
+        "probs": "0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "należała",
+        "example": "administracyjnie należała do",
+        "probs": "0.40625, 0, 0.7634194831013916",
+        "word_contain_sentence_num": 11826
+    },
+    {
+        "word": "osiągnąłeś",
+        "example": "osiągnąłeś",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "planuję",
+        "example": "nie planuję napisać",
+        "probs": "0.25, 0, 0.5",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "obiecać",
+        "example": "miał obiecać hackenschmidtowi",
+        "probs": "0.18421052631578946, 0, 0.2857142857142857",
+        "word_contain_sentence_num": 38
+    },
+    {
+        "word": "chyba",
+        "example": "chyba że w",
+        "probs": "0, 0.4800796812749004, 0.06224066390041494",
+        "word_contain_sentence_num": 977
+    },
+    {
+        "word": "pochodzić",
+        "example": "może pochodzić z",
+        "probs": "0.175, 0, 0.398406374501992",
+        "word_contain_sentence_num": 859
+    },
+    {
+        "word": "tworzyć",
+        "example": "i zaczął tworzyć",
+        "probs": "0.10714285714285714, 0.11155378486055777, 0",
+        "word_contain_sentence_num": 2278
+    },
+    {
+        "word": "akceptować",
+        "example": "nie akceptować sposobu",
+        "probs": "0.08064516129032258, 0, 0.2",
+        "word_contain_sentence_num": 62
+    },
+    {
+        "word": "przyjdź",
+        "example": "przyjdź do nas",
+        "probs": "0, 0.13636363636363635, 0.6666666666666666",
+        "word_contain_sentence_num": 20
+    },
+    {
+        "word": "włączam",
+        "example": "włączam telewizor zaraz",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "wyłączyć",
+        "example": "można wyłączyć w",
+        "probs": "0.09937888198757763, 0, 0.1875",
+        "word_contain_sentence_num": 160
+    },
+    {
+        "word": "napełniłeś",
+        "example": "napełniłeś",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "zatrzymaj",
+        "example": "zatrzymaj się albo",
+        "probs": "0, 0.6666666666666666, 0.5",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "czyściłem",
+        "example": "czyściłem",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "spadło",
+        "example": "spadło do drugiej",
+        "probs": "0, 0.2664015904572565, 0.23134328358208955",
+        "word_contain_sentence_num": 589
+    },
+    {
+        "word": "pocałować",
+        "example": "mieli się pocałować",
+        "probs": "0.3333333333333333, 0.16981132075471697, 0",
+        "word_contain_sentence_num": 53
+    },
+    {
+        "word": "zawierać",
+        "example": "nie może zawierać",
+        "probs": "0.07079646017699115, 0.22287968441814596, 0",
+        "word_contain_sentence_num": 1138
+    },
+    {
+        "word": "można",
+        "example": "nie można było",
+        "probs": "0.09615384615384616, 0, 0.10176125244618395",
+        "word_contain_sentence_num": 40657
+    },
+    {
+        "word": "wybierać",
+        "example": "musi wybierać między",
+        "probs": "0.21212121212121213, 0, 0.102803738317757",
+        "word_contain_sentence_num": 318
+    },
+    {
+        "word": "sprawdza",
+        "example": "sprawdza się w",
+        "probs": "0, 0.5120192307692307, 0.3755868544600939",
+        "word_contain_sentence_num": 409
+    },
+    {
+        "word": "porównuj",
+        "example": "porównuj podobne z",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "spowodował",
+        "example": "który spowodował śmierć",
+        "probs": "0.07385229540918163, 0, 0.08108108108108109",
+        "word_contain_sentence_num": 2897
+    },
+    {
+        "word": "spędza",
+        "example": "zimę spędza w",
+        "probs": "0.1391304347826087, 0, 0.22954091816367264",
+        "word_contain_sentence_num": 806
+    },
+    {
+        "word": "trzeba",
+        "example": "nie trzeba było",
+        "probs": "0.12857142857142856, 0, 0.27450980392156865",
+        "word_contain_sentence_num": 2962
+    },
+    {
+        "word": "wolno",
+        "example": "nie wolno było",
+        "probs": "0.2992125984251969, 0, 0.27631578947368424",
+        "word_contain_sentence_num": 2288
+    }
+]

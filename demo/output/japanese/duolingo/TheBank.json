@@ -1,0 +1,367 @@
+[
+    {
+        "word": "口座",
+        "example": "つ の 匿名 口座 を",
+        "word_contain_sentence_num": 365
+    },
+    {
+        "word": "開か なかっ た",
+        "example": "最初 は 心 を 開か なかっ た",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "開く",
+        "example": "を 開く こと が できる",
+        "word_contain_sentence_num": 697
+    },
+    {
+        "word": "開い た",
+        "example": "の 演奏 会 を 開い た",
+        "word_contain_sentence_num": 611
+    },
+    {
+        "word": "開き",
+        "example": "は 記者 会見 を 開き",
+        "word_contain_sentence_num": 785
+    },
+    {
+        "word": "開い て",
+        "example": "展覧 会 を 開い て いる",
+        "word_contain_sentence_num": 407
+    },
+    {
+        "word": "預金",
+        "example": "べき 準備 預金 制度 は",
+        "word_contain_sentence_num": 325
+    },
+    {
+        "word": "暗証 番号",
+        "example": "暗証 番号 を 入力 し た",
+        "word_contain_sentence_num": 26
+    },
+    {
+        "word": "閉じ て",
+        "example": "が 目 を 閉じ て いる",
+        "word_contain_sentence_num": 68
+    },
+    {
+        "word": "閉じる",
+        "example": "で 幕 を 閉じる こと",
+        "word_contain_sentence_num": 141
+    },
+    {
+        "word": "閉じ",
+        "example": "に 幕 を 閉じ た",
+        "word_contain_sentence_num": 467
+    },
+    {
+        "word": "閉じ た",
+        "example": "歴史 に 幕 を 閉じ た",
+        "word_contain_sentence_num": 179
+    },
+    {
+        "word": "引き出せ なかっ た",
+        "example": "な 情報 を 一切 引き出せ なかっ た",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "引き出し た",
+        "example": "経済 的 支援 を 引き出し た",
+        "word_contain_sentence_num": 36
+    },
+    {
+        "word": "引き出し",
+        "example": "を 引き出し て いる の",
+        "word_contain_sentence_num": 209
+    },
+    {
+        "word": "証",
+        "example": "願 証 寺 は 長島",
+        "word_contain_sentence_num": 673
+    },
+    {
+        "word": "残高",
+        "example": "終了 まで に 残高 が",
+        "word_contain_sentence_num": 131
+    },
+    {
+        "word": "用紙",
+        "example": "用紙 の 在庫 が 無くなり",
+        "word_contain_sentence_num": 222
+    },
+    {
+        "word": "ローマ字",
+        "example": "の ローマ字 表記 で ある",
+        "word_contain_sentence_num": 126
+    },
+    {
+        "word": "会計士",
+        "example": "公認 会計士 試験 の 勉強",
+        "word_contain_sentence_num": 81
+    },
+    {
+        "word": "会計",
+        "example": "の 新 リース 会計 基準",
+        "word_contain_sentence_num": 768
+    },
+    {
+        "word": "お 会計",
+        "example": "お 会計",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "貯金",
+        "example": "年 に は 郵便 貯金",
+        "word_contain_sentence_num": 247
+    },
+    {
+        "word": "ご 記入",
+        "example": "ご 記入",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "記入",
+        "example": "を 記入 し て いる",
+        "word_contain_sentence_num": 138
+    },
+    {
+        "word": "貯",
+        "example": "貯 油層 の 範囲 は",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "ドル",
+        "example": "万 ドル を 提供 する",
+        "word_contain_sentence_num": 4448
+    },
+    {
+        "word": "小切手",
+        "example": "たとえ 自己 の 小切手 を",
+        "word_contain_sentence_num": 131
+    },
+    {
+        "word": "領収 書",
+        "example": "の 領収 書 を 証拠 として",
+        "word_contain_sentence_num": 42
+    },
+    {
+        "word": "両替",
+        "example": "の 両替 商 を 置き",
+        "word_contain_sentence_num": 107
+    },
+    {
+        "word": "署名",
+        "example": "書 に 署名 し た",
+        "word_contain_sentence_num": 1050
+    },
+    {
+        "word": "署",
+        "example": "警察 署 に 拘引 さ",
+        "word_contain_sentence_num": 905
+    },
+    {
+        "word": "替",
+        "example": "社殿 の 造 替 が",
+        "word_contain_sentence_num": 138
+    },
+    {
+        "word": "約",
+        "example": "na ⁺ は 約 1",
+        "word_contain_sentence_num": 16419
+    },
+    {
+        "word": "大金",
+        "example": "の ため に 大金 を",
+        "word_contain_sentence_num": 176
+    },
+    {
+        "word": "市場",
+        "example": "販売 価格 が 市場 に",
+        "word_contain_sentence_num": 3388
+    },
+    {
+        "word": "株式 市場",
+        "example": "世界 の 株式 市場 の 暴落",
+        "word_contain_sentence_num": 55
+    },
+    {
+        "word": "株",
+        "example": "阪急 それぞれ の 株 を",
+        "word_contain_sentence_num": 1037
+    },
+    {
+        "word": "株式",
+        "example": "株式 の 希薄 化 は",
+        "word_contain_sentence_num": 1246
+    },
+    {
+        "word": "投資",
+        "example": "毎月 分配 型 投資 信託",
+        "word_contain_sentence_num": 1776
+    },
+    {
+        "word": "もうける",
+        "example": "の 子 を もうける が",
+        "word_contain_sentence_num": 97
+    },
+    {
+        "word": "もうけ た",
+        "example": "人 の 子供 を もうけ た",
+        "word_contain_sentence_num": 258
+    },
+    {
+        "word": "もうけ",
+        "example": "一 女 を もうけ た",
+        "word_contain_sentence_num": 445
+    },
+    {
+        "word": "株",
+        "example": "阪急 それぞれ の 株 を",
+        "word_contain_sentence_num": 1037
+    },
+    {
+        "word": "唯一",
+        "example": "論評 し た 唯一 の",
+        "word_contain_sentence_num": 3700
+    },
+    {
+        "word": "億",
+        "example": "億 円 で あっ た",
+        "word_contain_sentence_num": 5090
+    },
+    {
+        "word": "億 人",
+        "example": "億 人 の 大 質問 !?",
+        "word_contain_sentence_num": 57
+    },
+    {
+        "word": "無 利子",
+        "example": "短期 の 無 利子 で 借り",
+        "word_contain_sentence_num": 13
+    },
+    {
+        "word": "利子",
+        "example": "挙 の 利子 率 の",
+        "word_contain_sentence_num": 151
+    },
+    {
+        "word": "財産",
+        "example": "日本 の 国有 財産 は",
+        "word_contain_sentence_num": 1332
+    },
+    {
+        "word": "全 財産",
+        "example": "の 全 財産 を 失っ た",
+        "word_contain_sentence_num": 33
+    },
+    {
+        "word": "億",
+        "example": "億 円 で あっ た",
+        "word_contain_sentence_num": 5090
+    },
+    {
+        "word": "唯",
+        "example": "唯 円 の 作 による",
+        "word_contain_sentence_num": 171
+    },
+    {
+        "word": "硬貨",
+        "example": "以上 の 全て の 硬貨",
+        "word_contain_sentence_num": 432
+    },
+    {
+        "word": "お札",
+        "example": "遠距離 攻撃 の お札 を",
+        "word_contain_sentence_num": 19
+    },
+    {
+        "word": "札",
+        "example": "で 全て の 札 を",
+        "word_contain_sentence_num": 475
+    },
+    {
+        "word": "発行",
+        "example": "が 発行 さ れ た",
+        "word_contain_sentence_num": 4416
+    },
+    {
+        "word": "営業",
+        "example": "営業 所 の 3 社",
+        "word_contain_sentence_num": 4086
+    },
+    {
+        "word": "貨",
+        "example": "が 10 セント 貨 の",
+        "word_contain_sentence_num": 128
+    },
+    {
+        "word": "営",
+        "example": "て おり 州 営 の",
+        "word_contain_sentence_num": 105
+    },
+    {
+        "word": "硬",
+        "example": "の 硬 さ を 備え",
+        "word_contain_sentence_num": 197
+    },
+    {
+        "word": "札",
+        "example": "で 全て の 札 を",
+        "word_contain_sentence_num": 475
+    },
+    {
+        "word": "借金",
+        "example": "万 円 の 借金 を",
+        "word_contain_sentence_num": 424
+    },
+    {
+        "word": "保険",
+        "example": "の 保険 会社 で は",
+        "word_contain_sentence_num": 1794
+    },
+    {
+        "word": "保険 証",
+        "example": "国民 健康 保険 証 など を",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "契約",
+        "example": "契約 を 結ん だ 後",
+        "word_contain_sentence_num": 9659
+    },
+    {
+        "word": "契約 書",
+        "example": "契約 書 に 署名 し た",
+        "word_contain_sentence_num": 67
+    },
+    {
+        "word": "勘定",
+        "example": "勘定 奉行 ━━━━━━━━━┳━ 勘定 組頭",
+        "word_contain_sentence_num": 248
+    },
+    {
+        "word": "お 勘定",
+        "example": "お 勘定 を し て もらう",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "取り消し",
+        "example": "に 出走 を 取り消し た",
+        "word_contain_sentence_num": 180
+    },
+    {
+        "word": "取り消し た",
+        "example": "前 に 出走 を 取り消し た",
+        "word_contain_sentence_num": 26
+    },
+    {
+        "word": "勘",
+        "example": "勘 解 由 長官 橘",
+        "word_contain_sentence_num": 218
+    },
+    {
+        "word": "契",
+        "example": "契 丹 に 太刀打ち でき",
+        "word_contain_sentence_num": 156
+    }
+]

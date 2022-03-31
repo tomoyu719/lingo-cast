@@ -1,0 +1,80 @@
+[
+    {
+        "word": "мене звуть",
+        "example": "мене звуть yamaha",
+        "probs": "0, 0.2",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "тебе звуть",
+        "example": "тебе звуть алісою",
+        "probs": "0, 0.3333333333333333",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "лінда",
+        "example": "лінда",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "марк",
+        "example": "марк твен",
+        "probs": "0, 0.3333333333333333",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "його",
+        "example": "його дружини",
+        "probs": "0.052830188679245285, 0, 0.14285714285714285",
+        "word_contain_sentence_num": 320583
+    },
+    {
+        "word": "її",
+        "example": "на її місці",
+        "probs": "0.03977272727272727, 0, 0.14285714285714285",
+        "word_contain_sentence_num": 136528
+    },
+    {
+        "word": "чули",
+        "example": "не чули про",
+        "probs": "0.24742268041237114, 0, 0.2638888888888889",
+        "word_contain_sentence_num": 290
+    },
+    {
+        "word": "нас",
+        "example": "дійшли до нас",
+        "probs": "0.20618556701030927, 0.18476190476190477, 0",
+        "word_contain_sentence_num": 5421
+    },
+    {
+        "word": "вас",
+        "example": "у вас є",
+        "probs": "0.18878504672897195, 0, 0.18811881188118812",
+        "word_contain_sentence_num": 1270
+    },
+    {
+        "word": "їх",
+        "example": "їх личинками",
+        "probs": "0.04752851711026616, 0, 0.08",
+        "word_contain_sentence_num": 105084
+    },
+    {
+        "word": "вас звуть",
+        "example": "як вас звуть",
+        "probs": "1.0, 0",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "мене",
+        "example": "у мене є",
+        "probs": "0.1544256120527307, 0, 0.0975609756097561",
+        "word_contain_sentence_num": 4511
+    },
+    {
+        "word": "тебе",
+        "example": "я тебе люблю",
+        "probs": "0.07509157509157509, 0, 0.1951219512195122",
+        "word_contain_sentence_num": 1538
+    }
+]

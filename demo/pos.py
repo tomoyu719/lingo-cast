@@ -22,3 +22,12 @@ class Pos():
         else:
             pos = None
         return pos
+
+
+# posser = Pos('uk')
+# p = posser.get_word_pos('можна')
+# print(p)
+# p = posser.get_word_pos('було')
+# print(p)
+# p = posser.get_word_pos('б')
+# print(p)

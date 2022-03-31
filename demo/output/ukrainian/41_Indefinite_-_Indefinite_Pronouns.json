@@ -1,0 +1,92 @@
+[
+    {
+        "word": "хтось",
+        "example": "хтось із них був",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "щось",
+        "example": "щось на зразок поліції",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "десь",
+        "example": "десь у середині VI",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "колись",
+        "example": "колись належала австрійському",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "кудись",
+        "example": "пішов кудись у ліс",
+        "word_contain_sentence_num": 197
+    },
+    {
+        "word": "хто-небудь",
+        "example": "хто-небудь з них",
+        "word_contain_sentence_num": 167
+    },
+    {
+        "word": "що-небудь",
+        "example": "говорити або робити що-небудь",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "де-небудь",
+        "example": "де-небудь в іншому місці",
+        "word_contain_sentence_num": 79
+    },
+    {
+        "word": "коли-небудь",
+        "example": "які коли-небудь будуть жити",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "куди-небудь",
+        "example": "звозить куди-небудь",
+        "word_contain_sentence_num": 27
+    },
+    {
+        "word": "ніхто не",
+        "example": "ніхто не міг",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "ніде не",
+        "example": "більше ніде не згадується",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "нікуди не",
+        "example": "нікуди не веде",
+        "word_contain_sentence_num": 171
+    },
+    {
+        "word": "нічого",
+        "example": "майже нічого не відомо",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "все",
+        "example": "перш за все",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "обидва",
+        "example": "по обидва боки річки",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "кожний",
+        "example": "кожний з яких складається",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "інший",
+        "example": "перейшов в інший клуб",
+        "word_contain_sentence_num": 201
+    }
+]

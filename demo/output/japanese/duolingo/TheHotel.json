@@ -1,0 +1,217 @@
+[
+    {
+        "word": "宿",
+        "example": "宿 の 南 で 参道",
+        "word_contain_sentence_num": 957
+    },
+    {
+        "word": "温泉",
+        "example": "ある 架空 の 温泉 街",
+        "word_contain_sentence_num": 2025
+    },
+    {
+        "word": "チェックイン",
+        "example": "に チェックイン する とき に",
+        "word_contain_sentence_num": 17
+    },
+    {
+        "word": "何 名",
+        "example": "の うち 何 名 か の",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "四 名",
+        "example": "と 岡 の 四 名 の",
+        "word_contain_sentence_num": 16
+    },
+    {
+        "word": "名",
+        "example": "の 名 を 加え ニカイア",
+        "word_contain_sentence_num": 24943
+    },
+    {
+        "word": "三 名",
+        "example": "第 三 名 の 著名 な",
+        "word_contain_sentence_num": 36
+    },
+    {
+        "word": "泊まっ た",
+        "example": "頼信 の 家 に 泊まっ た",
+        "word_contain_sentence_num": 22
+    },
+    {
+        "word": "泊まっ て",
+        "example": "ビジネス ホテル に 泊まっ て いる",
+        "word_contain_sentence_num": 22
+    },
+    {
+        "word": "泊まる",
+        "example": "友人 の 家 に 泊まる",
+        "word_contain_sentence_num": 30
+    },
+    {
+        "word": "泊まり",
+        "example": "家 に 泊まり に 行き",
+        "word_contain_sentence_num": 29
+    },
+    {
+        "word": "泊",
+        "example": "の ため 大 泊 着",
+        "word_contain_sentence_num": 351
+    },
+    {
+        "word": "泉",
+        "example": "の 泉 に なっ た",
+        "word_contain_sentence_num": 1127
+    },
+    {
+        "word": "和室",
+        "example": "和室 の ダイニング など 外国",
+        "word_contain_sentence_num": 27
+    },
+    {
+        "word": "休暇",
+        "example": "多神教 由来 の 休暇 を",
+        "word_contain_sentence_num": 344
+    },
+    {
+        "word": "三 泊",
+        "example": "三 泊 四 日 の 日程",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "二 泊",
+        "example": "二 泊 三 日 の 行程",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "一 泊",
+        "example": "一 泊 滞在 者 が 27",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "号 室",
+        "example": "号 室 に 集合 し た",
+        "word_contain_sentence_num": 49
+    },
+    {
+        "word": "何 号 室",
+        "example": "何 号 室",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "朝食",
+        "example": "で は 朝食 を とっ",
+        "word_contain_sentence_num": 137
+    },
+    {
+        "word": "過ごす",
+        "example": "で 過ごす こと と なっ",
+        "word_contain_sentence_num": 567
+    },
+    {
+        "word": "お過ごし",
+        "example": "お 元気 で お過ごし ください",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "過ごし た",
+        "example": "で 過ごし た 後 に アルベマール",
+        "word_contain_sentence_num": 644
+    },
+    {
+        "word": "過ごし",
+        "example": "で 過ごし た 後 に",
+        "word_contain_sentence_num": 1372
+    },
+    {
+        "word": "過ごし て",
+        "example": "日々 を 過ごし て い た",
+        "word_contain_sentence_num": 171
+    },
+    {
+        "word": "拭い た",
+        "example": "拭い た 頭 が きらり と",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "拭か れ て",
+        "example": "拭か れ て",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "拭き",
+        "example": "高層 ビル の 窓 拭き",
+        "word_contain_sentence_num": 25
+    },
+    {
+        "word": "拭い て",
+        "example": "を 拭い て い た 将",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "昼食",
+        "example": "12 日 の 昼食 会",
+        "word_contain_sentence_num": 141
+    },
+    {
+        "word": "宿泊",
+        "example": "の 宿泊 施設 で あり",
+        "word_contain_sentence_num": 743
+    },
+    {
+        "word": "宿泊 料",
+        "example": "歌手 の 宿泊 料 は 近隣",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "宿泊 先",
+        "example": "の 宿泊 先 の ホテル で",
+        "word_contain_sentence_num": 28
+    },
+    {
+        "word": "タオル",
+        "example": "練習 後 に タオル を",
+        "word_contain_sentence_num": 157
+    },
+    {
+        "word": "拭",
+        "example": "な 清 拭 により 清掃",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "ある",
+        "example": "で ある こと を ヒント",
+        "word_contain_sentence_num": 241623
+    },
+    {
+        "word": "フロント",
+        "example": "の フロント 下部 から 取り入れ",
+        "word_contain_sentence_num": 800
+    },
+    {
+        "word": "チェック アウト",
+        "example": "ホテル を チェック アウト し た",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "夕食",
+        "example": "の 昼食 と 夕食 の",
+        "word_contain_sentence_num": 132
+    },
+    {
+        "word": "金庫",
+        "example": "金庫 の 中 に ある",
+        "word_contain_sentence_num": 135
+    },
+    {
+        "word": "貴重 品",
+        "example": "は 貴重 品 で ある 畳表",
+        "word_contain_sentence_num": 28
+    },
+    {
+        "word": "貴",
+        "example": "貴 ノ 花 は 左",
+        "word_contain_sentence_num": 725
+    }
+]

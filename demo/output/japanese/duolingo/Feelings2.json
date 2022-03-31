@@ -1,0 +1,417 @@
+[
+    {
+        "word": "恋",
+        "example": "と 恋 に 落ちる が",
+        "word_contain_sentence_num": 1109
+    },
+    {
+        "word": "心配",
+        "example": "を 心配 し て いる",
+        "word_contain_sentence_num": 510
+    },
+    {
+        "word": "不安",
+        "example": "の 将来 に 不安 を",
+        "word_contain_sentence_num": 877
+    },
+    {
+        "word": "がっかり",
+        "example": "変化 なく がっかり し た",
+        "word_contain_sentence_num": 21
+    },
+    {
+        "word": "眠かっ た",
+        "example": "眠かっ た",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "眠く",
+        "example": "次第に 眠く なっ て くる",
+        "word_contain_sentence_num": 10
+    },
+    {
+        "word": "眠い",
+        "example": "眠い 人 に 銃口 を",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "寂しい",
+        "example": "ハッティ・キャロル の 寂しい 死",
+        "word_contain_sentence_num": 25
+    },
+    {
+        "word": "寂し そう",
+        "example": "が 寂し そう だっ た ので",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "寂しく",
+        "example": "人 寂しく し て いる",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "恋",
+        "example": "と 恋 に 落ちる が",
+        "word_contain_sentence_num": 1109
+    },
+    {
+        "word": "寂",
+        "example": "寂 心 さん の クス",
+        "word_contain_sentence_num": 48
+    },
+    {
+        "word": "冗談",
+        "example": "冗談 を 言っ た こと",
+        "word_contain_sentence_num": 164
+    },
+    {
+        "word": "笑っ て",
+        "example": "笑っ て いい と も !』",
+        "word_contain_sentence_num": 139
+    },
+    {
+        "word": "笑いもの",
+        "example": "の 事 を 笑いもの に",
+        "word_contain_sentence_num": 11
+    },
+    {
+        "word": "笑い事",
+        "example": "笑い事 ",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "笑い",
+        "example": "で 女神 の 笑い を",
+        "word_contain_sentence_num": 370
+    },
+    {
+        "word": "笑う",
+        "example": "側近 だっ た と 笑う",
+        "word_contain_sentence_num": 70
+    },
+    {
+        "word": "笑っ た",
+        "example": "笑っ た が 内心 周 昌",
+        "word_contain_sentence_num": 14
+    },
+    {
+        "word": "笑わ ない",
+        "example": "ブギーポップ は 笑わ ない 魚",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "精神 的",
+        "example": "精神 的 に 不安定 な ガブリエル",
+        "word_contain_sentence_num": 407
+    },
+    {
+        "word": "精神",
+        "example": "精神 的 な 裏付け と",
+        "word_contain_sentence_num": 2967
+    },
+    {
+        "word": "落ち着い て",
+        "example": "は 非常 に 落ち着い て いる",
+        "word_contain_sentence_num": 53
+    },
+    {
+        "word": "落ち着き",
+        "example": "落ち着き を 取り戻し て いる",
+        "word_contain_sentence_num": 77
+    },
+    {
+        "word": "落ち着い た",
+        "example": "に 落ち着い た 雰囲気 の 学校",
+        "word_contain_sentence_num": 129
+    },
+    {
+        "word": "笑",
+        "example": "5 代目 笑 福 亭",
+        "word_contain_sentence_num": 374
+    },
+    {
+        "word": "精",
+        "example": "に 精 を 出し た",
+        "word_contain_sentence_num": 421
+    },
+    {
+        "word": "冗",
+        "example": "冗 ",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "愛情",
+        "example": "動物 へ の 愛情 を",
+        "word_contain_sentence_num": 306
+    },
+    {
+        "word": "自信",
+        "example": "自信 を 持っ て い",
+        "word_contain_sentence_num": 374
+    },
+    {
+        "word": "得 られ なかっ た",
+        "example": "なかなか 出場 機会 を 得 られ なかっ た",
+        "word_contain_sentence_num": 105
+    },
+    {
+        "word": "得 て",
+        "example": "の 協力 を 得 て いる",
+        "word_contain_sentence_num": 2108
+    },
+    {
+        "word": "得る",
+        "example": "を 得る こと が できる",
+        "word_contain_sentence_num": 2874
+    },
+    {
+        "word": "得 た",
+        "example": "に 都市 権 を 得 た",
+        "word_contain_sentence_num": 1944
+    },
+    {
+        "word": "得",
+        "example": "せ ざる を 得 た",
+        "word_contain_sentence_num": 9841
+    },
+    {
+        "word": "微笑ん だ",
+        "example": "微笑ん だ 不 二 子 は",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "微笑み",
+        "example": "で ナイツ が 微笑み ながら",
+        "word_contain_sentence_num": 22
+    },
+    {
+        "word": "得",
+        "example": "せ ざる を 得 た",
+        "word_contain_sentence_num": 9841
+    },
+    {
+        "word": "微",
+        "example": "の 微 調整 が 困難",
+        "word_contain_sentence_num": 243
+    },
+    {
+        "word": "情",
+        "example": "敬愛 追慕 の 情 を",
+        "word_contain_sentence_num": 122
+    },
+    {
+        "word": "胸",
+        "example": "用 ユニフォーム の 胸 に",
+        "word_contain_sentence_num": 1004
+    },
+    {
+        "word": "お互い に",
+        "example": "は 2 人 は お互い に",
+        "word_contain_sentence_num": 121
+    },
+    {
+        "word": "互いに",
+        "example": "は 互いに 接し て 筒",
+        "word_contain_sentence_num": 862
+    },
+    {
+        "word": "お互い",
+        "example": "2 人 は お互い に",
+        "word_contain_sentence_num": 512
+    },
+    {
+        "word": "互い",
+        "example": "は 互い の ホーム は",
+        "word_contain_sentence_num": 377
+    },
+    {
+        "word": "関係",
+        "example": "と の 関係 を 結ん",
+        "word_contain_sentence_num": 13861
+    },
+    {
+        "word": "ドキドキ",
+        "example": "ドキドキ ★ ビジュアル な シチュエーション",
+        "word_contain_sentence_num": 31
+    },
+    {
+        "word": "互",
+        "example": "互 の 目 丁子 乱れ",
+        "word_contain_sentence_num": 21
+    },
+    {
+        "word": "係",
+        "example": "特命 係 の 一番 長い",
+        "word_contain_sentence_num": 453
+    },
+    {
+        "word": "胸",
+        "example": "用 ユニフォーム の 胸 に",
+        "word_contain_sentence_num": 1004
+    },
+    {
+        "word": "人気",
+        "example": "な 人気 を 博し た",
+        "word_contain_sentence_num": 6073
+    },
+    {
+        "word": "やっと",
+        "example": "の が やっと だっ た",
+        "word_contain_sentence_num": 230
+    },
+    {
+        "word": "怒っ た",
+        "example": "これ に 怒っ た 顔 を",
+        "word_contain_sentence_num": 130
+    },
+    {
+        "word": "怒っ て",
+        "example": "は 怒っ て い た と",
+        "word_contain_sentence_num": 81
+    },
+    {
+        "word": "怒ら ない",
+        "example": "怒ら ない 芸能人 を 無理矢理 怒ら",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "怒ら ない で",
+        "example": "怒ら ない で",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "怒り",
+        "example": "の 怒り を 買い 家督",
+        "word_contain_sentence_num": 926
+    },
+    {
+        "word": "怒る",
+        "example": "怒る と 怖い らしい が",
+        "word_contain_sentence_num": 61
+    },
+    {
+        "word": "恐れ ない",
+        "example": "戦 で 失点 を 恐れ ない",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "恐れ て",
+        "example": "さ れる こと を 恐れ て",
+        "word_contain_sentence_num": 221
+    },
+    {
+        "word": "恐れ",
+        "example": "れる こと を 恐れ た",
+        "word_contain_sentence_num": 1446
+    },
+    {
+        "word": "恐れる",
+        "example": "戴冠 したまわん こと を 恐れる",
+        "word_contain_sentence_num": 99
+    },
+    {
+        "word": "ときめか なかっ た",
+        "example": "ときめか なかっ た",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "ときめき",
+        "example": "ときめき メモリアル 4",
+        "word_contain_sentence_num": 49
+    },
+    {
+        "word": "ときめく",
+        "example": "今 を ときめく 人気 芸人",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "怒",
+        "example": "同省 の 怒 濤 の",
+        "word_contain_sentence_num": 58
+    },
+    {
+        "word": "恐",
+        "example": "み 恐 み も 白",
+        "word_contain_sentence_num": 24
+    },
+    {
+        "word": "驚い て",
+        "example": "に 驚い て いる と 神託",
+        "word_contain_sentence_num": 58
+    },
+    {
+        "word": "驚き",
+        "example": "見 た こと に 驚き",
+        "word_contain_sentence_num": 250
+    },
+    {
+        "word": "驚か せ た",
+        "example": "入っ て 周囲 を 驚か せ た",
+        "word_contain_sentence_num": 60
+    },
+    {
+        "word": "驚い た",
+        "example": "これ に 驚い た と 述べ",
+        "word_contain_sentence_num": 98
+    },
+    {
+        "word": "驚く",
+        "example": "驚く べき こと に 驚く",
+        "word_contain_sentence_num": 302
+    },
+    {
+        "word": "触る",
+        "example": "まるで 腫れ物 に 触る と",
+        "word_contain_sentence_num": 54
+    },
+    {
+        "word": "触っ た",
+        "example": "に 触っ た こと が ない",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "触り",
+        "example": "触り 心地 を 重視 し",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "個人 的",
+        "example": "は 彼 の 個人 的 な",
+        "word_contain_sentence_num": 533
+    },
+    {
+        "word": "個人",
+        "example": "の 個人 的 な 保証",
+        "word_contain_sentence_num": 4396
+    },
+    {
+        "word": "恥ずかしい",
+        "example": "見 られる の が 恥ずかしい",
+        "word_contain_sentence_num": 51
+    },
+    {
+        "word": "恥ずかしく",
+        "example": "に ベビィピーチ は 恥ずかしく て",
+        "word_contain_sentence_num": 21
+    },
+    {
+        "word": "恥ずかしかっ た",
+        "example": "自分 が 恥ずかしかっ た の か",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "恥",
+        "example": "恥 を かか せ て",
+        "word_contain_sentence_num": 109
+    },
+    {
+        "word": "触",
+        "example": "沖 で 触 雷 し",
+        "word_contain_sentence_num": 147
+    },
+    {
+        "word": "驚",
+        "example": "夜 驚 は 育て 方",
+        "word_contain_sentence_num": 20
+    }
+]

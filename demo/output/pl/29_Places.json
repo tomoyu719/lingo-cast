@@ -1,0 +1,338 @@
+[
+    {
+        "word": "kuchnia",
+        "example": "kuchnia i jadalnia",
+        "probs": "0, 0.10964083175803403, 0.22413793103448276",
+        "word_contain_sentence_num": 505
+    },
+    {
+        "word": "łazienka",
+        "example": "i łazienka na",
+        "probs": "0.1935483870967742, 0, 0.08333333333333333",
+        "word_contain_sentence_num": 61
+    },
+    {
+        "word": "hotel",
+        "example": "hotel i restauracja",
+        "probs": "0, 0.08592321755027423, 0.1702127659574468",
+        "word_contain_sentence_num": 1552
+    },
+    {
+        "word": "ogrodzie",
+        "example": "w ogrodzie zoologicznym",
+        "probs": "0.7202380952380952, 0, 0.049586776859504134",
+        "word_contain_sentence_num": 1003
+    },
+    {
+        "word": "mieszkaniu",
+        "example": "się w mieszkaniu",
+        "probs": "0.11483253588516747, 0.418, 0",
+        "word_contain_sentence_num": 1834
+    },
+    {
+        "word": "sypialnia",
+        "example": "salon i sypialnia",
+        "probs": "0.3, 0.13157894736842105, 0",
+        "word_contain_sentence_num": 76
+    },
+    {
+        "word": "korytarzu",
+        "example": "w korytarzu prowadzącym",
+        "probs": "0.4449760765550239, 0, 0.06451612903225806",
+        "word_contain_sentence_num": 207
+    },
+    {
+        "word": "lotnisko",
+        "example": "na lotnisko w",
+        "probs": "0.3320610687022901, 0, 0.21839080459770116",
+        "word_contain_sentence_num": 2447
+    },
+    {
+        "word": "ulica",
+        "example": "ulica w warszawie",
+        "probs": "0, 0.04864864864864865, 0.2222222222222222",
+        "word_contain_sentence_num": 3165
+    },
+    {
+        "word": "mieście",
+        "example": "w mieście znajduje",
+        "probs": "0.7245508982035929, 0, 0.049586776859504134",
+        "word_contain_sentence_num": 22444
+    },
+    {
+        "word": "plaży",
+        "example": "na plaży w",
+        "probs": "0.5655577299412916, 0, 0.17993079584775087",
+        "word_contain_sentence_num": 1022
+    },
+    {
+        "word": "restauracja",
+        "example": "znajduje się restauracja",
+        "probs": "0.43636363636363634, 0.10848126232741617, 0",
+        "word_contain_sentence_num": 935
+    },
+    {
+        "word": "kraju",
+        "example": "w kraju i",
+        "probs": "0.2563600782778865, 0, 0.20610687022900764",
+        "word_contain_sentence_num": 45971
+    },
+    {
+        "word": "kościoła",
+        "example": "kościoła w stylu",
+        "probs": "0, 0.07587548638132295, 0.1282051282051282",
+        "word_contain_sentence_num": 24978
+    },
+    {
+        "word": "szpitalu",
+        "example": "w szpitalu w",
+        "probs": "0.8027079303675049, 0, 0.2216867469879518",
+        "word_contain_sentence_num": 4853
+    },
+    {
+        "word": "biurze",
+        "example": "w biurze konstrukcyjnym",
+        "probs": "0.7844660194174757, 0, 0.1707920792079208",
+        "word_contain_sentence_num": 1439
+    },
+    {
+        "word": "centrum",
+        "example": "w centrum miasta",
+        "probs": "0.274703557312253, 0, 0.1223021582733813",
+        "word_contain_sentence_num": 16536
+    },
+    {
+        "word": "sklep",
+        "example": "sklep z pamiątkami",
+        "probs": "0, 0.12692307692307692, 0.30303030303030304",
+        "word_contain_sentence_num": 2115
+    },
+    {
+        "word": "zamek",
+        "example": "zamek w celu",
+        "probs": "0, 0.11423220973782772, 0.03278688524590164",
+        "word_contain_sentence_num": 6911
+    },
+    {
+        "word": "bar",
+        "example": "bar i restauracja",
+        "probs": "0, 0.05925925925925926, 0.15625",
+        "word_contain_sentence_num": 583
+    },
+    {
+        "word": "bank",
+        "example": "przez bank centralny",
+        "probs": "0.3064516129032258, 0, 0.11051693404634581",
+        "word_contain_sentence_num": 1192
+    },
+    {
+        "word": "park",
+        "example": "park krajobrazowy z",
+        "probs": "0, 0.056363636363636366, 0.12903225806451613",
+        "word_contain_sentence_num": 4210
+    },
+    {
+        "word": "adres",
+        "example": "adres ip lub",
+        "probs": "0, 0.08333333333333333, 0.06382978723404255",
+        "word_contain_sentence_num": 882
+    },
+    {
+        "word": "okolicy",
+        "example": "w okolicy miasta",
+        "probs": "0.6567460317460317, 0, 0.030211480362537766",
+        "word_contain_sentence_num": 8080
+    },
+    {
+        "word": "regionie",
+        "example": "w regionie i",
+        "probs": "0.7236580516898609, 0, 0.019230769230769232",
+        "word_contain_sentence_num": 5613
+    },
+    {
+        "word": "stacji",
+        "example": "na stacji kolejowej",
+        "probs": "0.10325047801147227, 0, 0.14814814814814814",
+        "word_contain_sentence_num": 14445
+    },
+    {
+        "word": "budynek",
+        "example": "XXXX budynek został",
+        "probs": "0.2558139534883721, 0, 0.08237547892720307",
+        "word_contain_sentence_num": 13886
+    },
+    {
+        "word": "muzea",
+        "example": "muzea i galerie",
+        "probs": "0, 0.12790697674418605, 0.2727272727272727",
+        "word_contain_sentence_num": 422
+    },
+    {
+        "word": "miejsca",
+        "example": "drugiego miejsca w",
+        "probs": "0.06666666666666667, 0, 0.14591439688715954",
+        "word_contain_sentence_num": 22204
+    },
+    {
+        "word": "ławek",
+        "example": "wymianę ławek i",
+        "probs": "0.11764705882352941, 0, 0.10429447852760736",
+        "word_contain_sentence_num": 163
+    },
+    {
+        "word": "rogu",
+        "example": "na rogu ulic",
+        "probs": "0.3968871595330739, 0, 0.27941176470588236",
+        "word_contain_sentence_num": 1752
+    },
+    {
+        "word": "droga",
+        "example": "przebiega droga wojewódzka",
+        "probs": "0.1524163568773234, 0, 0.2682926829268293",
+        "word_contain_sentence_num": 6800
+    },
+    {
+        "word": "dzielnica",
+        "example": "obecnie dzielnica katowic",
+        "probs": "0.1793372319688109, 0, 0.06521739130434782",
+        "word_contain_sentence_num": 1849
+    },
+    {
+        "word": "granicy",
+        "example": "na granicy z",
+        "probs": "0.19385796545105566, 0, 0.19801980198019803",
+        "word_contain_sentence_num": 12197
+    },
+    {
+        "word": "wieża",
+        "example": "się wieża z",
+        "probs": "0.08823529411764706, 0, 0.06551059730250482",
+        "word_contain_sentence_num": 3351
+    },
+    {
+        "word": "kino",
+        "example": "kino w mieście",
+        "probs": "0, 0.04797047970479705, 0.15384615384615385",
+        "word_contain_sentence_num": 1231
+    },
+    {
+        "word": "alei",
+        "example": "przy alei wojska",
+        "probs": "0.138996138996139, 0, 0.09722222222222222",
+        "word_contain_sentence_num": 1183
+    },
+    {
+        "word": "przodu",
+        "example": "z przodu i",
+        "probs": "0.490234375, 0, 0.1593625498007968",
+        "word_contain_sentence_num": 3607
+    },
+    {
+        "word": "tyłu",
+        "example": "z tyłu pojazdu",
+        "probs": "0.5810276679841897, 0, 0.047619047619047616",
+        "word_contain_sentence_num": 3655
+    },
+    {
+        "word": "więzieniu",
+        "example": "w więzieniu w",
+        "probs": "0.8508946322067594, 0, 0.2266355140186916",
+        "word_contain_sentence_num": 5142
+    },
+    {
+        "word": "stolica",
+        "example": "jako stolica państwa",
+        "probs": "0.08576998050682261, 0, 0.06818181818181818",
+        "word_contain_sentence_num": 1104
+    },
+    {
+        "word": "pałac",
+        "example": "pałac w stylu",
+        "probs": "0, 0.09315589353612168, 0.20408163265306123",
+        "word_contain_sentence_num": 4485
+    },
+    {
+        "word": "port",
+        "example": "międzynarodowy port lotniczy",
+        "probs": "0.21428571428571427, 0, 0.2303473491773309",
+        "word_contain_sentence_num": 3198
+    },
+    {
+        "word": "farmę",
+        "example": "na farmę w",
+        "probs": "0.25675675675675674, 0, 0.15789473684210525",
+        "word_contain_sentence_num": 295
+    },
+    {
+        "word": "zoo",
+        "example": "w zoo w",
+        "probs": "0.20166320166320167, 0, 0.16494845360824742",
+        "word_contain_sentence_num": 450
+    },
+    {
+        "word": "rynku",
+        "example": "się na rynku",
+        "probs": "0.08658008658008658, 0.4538310412573674, 0",
+        "word_contain_sentence_num": 9160
+    },
+    {
+        "word": "obszar",
+        "example": "i zajmuje obszar",
+        "probs": "0.5483870967741935, 0.05961538461538462, 0",
+        "word_contain_sentence_num": 11275
+    },
+    {
+        "word": "stronie",
+        "example": "się po stronie",
+        "probs": "0.11875, 0.3036053130929791, 0",
+        "word_contain_sentence_num": 20461
+    },
+    {
+        "word": "górze",
+        "example": "na górze i",
+        "probs": "0.5782178217821782, 0, 0.030821917808219176",
+        "word_contain_sentence_num": 2635
+    },
+    {
+        "word": "dół",
+        "example": "w dół rzeki",
+        "probs": "0.8208661417322834, 0, 0.07673860911270983",
+        "word_contain_sentence_num": 2428
+    },
+    {
+        "word": "północ",
+        "example": "na północ od",
+        "probs": "0.9706457925636007, 0, 0.5221774193548387",
+        "word_contain_sentence_num": 9334
+    },
+    {
+        "word": "południu",
+        "example": "na południu kraju",
+        "probs": "0.8217821782178217, 0, 0.06265060240963856",
+        "word_contain_sentence_num": 6309
+    },
+    {
+        "word": "wschodzie",
+        "example": "na wschodzie i",
+        "probs": "0.6514285714285715, 0, 0.07309941520467836",
+        "word_contain_sentence_num": 4529
+    },
+    {
+        "word": "zachodzie",
+        "example": "na zachodzie z",
+        "probs": "0.6944444444444444, 0, 0.08266666666666667",
+        "word_contain_sentence_num": 4347
+    },
+    {
+        "word": "prawej",
+        "example": "po prawej stronie",
+        "probs": "0.38779527559055116, 0, 0.6802030456852792",
+        "word_contain_sentence_num": 5958
+    },
+    {
+        "word": "lewej",
+        "example": "po lewej stronie",
+        "probs": "0.3671875, 0, 0.675531914893617",
+        "word_contain_sentence_num": 6519
+    }
+]

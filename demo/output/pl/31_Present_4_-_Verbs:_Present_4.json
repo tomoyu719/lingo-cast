@@ -1,0 +1,314 @@
+[
+    {
+        "word": "otwierają",
+        "example": "otwierają się do",
+        "probs": "0, 0.4356955380577428, 0.10843373493975904",
+        "word_contain_sentence_num": 381
+    },
+    {
+        "word": "myśleć",
+        "example": "zaczął myśleć o",
+        "probs": "0.15763546798029557, 0, 0.553133514986376",
+        "word_contain_sentence_num": 366
+    },
+    {
+        "word": "zmienia",
+        "example": "zmienia się w",
+        "probs": "0, 0.4534653465346535, 0.29694323144104806",
+        "word_contain_sentence_num": 3249
+    },
+    {
+        "word": "wracam",
+        "example": "wracam do siebie",
+        "probs": "0, 0.3076923076923077, 0.25",
+        "word_contain_sentence_num": 13
+    },
+    {
+        "word": "patrzysz",
+        "example": "patrzysz na wijącą",
+        "probs": "0, 0.4444444444444444, 0.25",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "tęsknią",
+        "example": "tęsknią za wyobrażoną",
+        "probs": "0, 0.4, 0.25",
+        "word_contain_sentence_num": 10
+    },
+    {
+        "word": "oferujesz",
+        "example": "oferujesz",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "ufać",
+        "example": "nie można ufać",
+        "probs": "0.75, 0.17142857142857143, 0",
+        "word_contain_sentence_num": 69
+    },
+    {
+        "word": "wierzyć",
+        "example": "wierzyć w boga",
+        "probs": "0, 0.3181818181818182, 0.11224489795918367",
+        "word_contain_sentence_num": 304
+    },
+    {
+        "word": "pomagać",
+        "example": "by pomagać w",
+        "probs": "0.07954545454545454, 0, 0.1752988047808765",
+        "word_contain_sentence_num": 638
+    },
+    {
+        "word": "dawać",
+        "example": "i może dawać",
+        "probs": "0.1276595744680851, 0.1260053619302949, 0",
+        "word_contain_sentence_num": 371
+    },
+    {
+        "word": "mi",
+        "example": "wydaje mi się",
+        "probs": "0.3076923076923077, 0, 0.14606741573033707",
+        "word_contain_sentence_num": 1985
+    },
+    {
+        "word": "ci",
+        "example": "a ci z",
+        "probs": "0.06470588235294118, 0, 0.09090909090909091",
+        "word_contain_sentence_num": 3175
+    },
+    {
+        "word": "jej",
+        "example": "w jej skład",
+        "probs": "0.09496124031007752, 0, 0.10204081632653061",
+        "word_contain_sentence_num": 133603
+    },
+    {
+        "word": "jemu",
+        "example": "i jemu podobnych",
+        "probs": "0.1, 0, 0.12",
+        "word_contain_sentence_num": 894
+    },
+    {
+        "word": "odpowiadają",
+        "example": "które odpowiadają za",
+        "probs": "0.13414634146341464, 0, 0.16334661354581673",
+        "word_contain_sentence_num": 945
+    },
+    {
+        "word": "wysyła",
+        "example": "i wysyła do",
+        "probs": "0.2047713717693837, 0, 0.4563106796116505",
+        "word_contain_sentence_num": 1047
+    },
+    {
+        "word": "podaję",
+        "example": "podaję że przy",
+        "probs": "0, 0.3333333333333333, 0.6666666666666666",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "pożyczać",
+        "example": "pożyczać pieniądze z",
+        "probs": "0, 0.3125, 0.2",
+        "word_contain_sentence_num": 16
+    },
+    {
+        "word": "przynosicie",
+        "example": "przynosicie ze sobą",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "nam",
+        "example": "uda nam się",
+        "probs": "0.1724137931034483, 0, 0.05576923076923077",
+        "word_contain_sentence_num": 1713
+    },
+    {
+        "word": "wam",
+        "example": "wam się podoba",
+        "probs": "0, 0.22955974842767296, 0.821917808219178",
+        "word_contain_sentence_num": 305
+    },
+    {
+        "word": "im",
+        "example": "w gimnazjum im",
+        "probs": "0.25, 0.04771371769383698, 0",
+        "word_contain_sentence_num": 55624
+    },
+    {
+        "word": "mieszkać",
+        "example": "musieli mieszkać w",
+        "probs": "0.0673076923076923, 0, 0.29461756373937675",
+        "word_contain_sentence_num": 352
+    },
+    {
+        "word": "rozmawiamy",
+        "example": "rozmawiamy i byłoby",
+        "probs": "0, 0.5, 1.0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "odpoczywają",
+        "example": "odpoczywają w ukryciu",
+        "probs": "0, 0.25, 0.125",
+        "word_contain_sentence_num": 64
+    },
+    {
+        "word": "dziękuję",
+        "example": "bogu dziękuję za",
+        "probs": "0.4, 0, 0.13513513513513514",
+        "word_contain_sentence_num": 34
+    },
+    {
+        "word": "zostawiać",
+        "example": "by nie zostawiać",
+        "probs": "0.25, 0.2553191489361702, 0",
+        "word_contain_sentence_num": 47
+    },
+    {
+        "word": "dzwonisz",
+        "example": "dzwonisz z gościnnym",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "liczy",
+        "example": "liczy XX XXX",
+        "probs": "0, 0.1454183266932271, 0.1232876712328767",
+        "word_contain_sentence_num": 3276
+    },
+    {
+        "word": "żyć",
+        "example": "się żyć w",
+        "probs": "0.060240963855421686, 0, 0.16533864541832669",
+        "word_contain_sentence_num": 1410
+    },
+    {
+        "word": "prosić",
+        "example": "prosić o pomoc",
+        "probs": "0, 0.44482758620689655, 0.20930232558139536",
+        "word_contain_sentence_num": 290
+    },
+    {
+        "word": "pytać",
+        "example": "pytać o zgodę",
+        "probs": "0, 0.3111111111111111, 0.14285714285714285",
+        "word_contain_sentence_num": 45
+    },
+    {
+        "word": "używać",
+        "example": "zaczęto używać nazwy",
+        "probs": "0.09940357852882704, 0, 0.2",
+        "word_contain_sentence_num": 2106
+    },
+    {
+        "word": "sprząta",
+        "example": "sprząta się domostwo",
+        "probs": "0, 0.14285714285714285, 0.3333333333333333",
+        "word_contain_sentence_num": 21
+    },
+    {
+        "word": "kładą",
+        "example": "kładą nacisk na",
+        "probs": "0, 0.32038834951456313, 0.9090909090909091",
+        "word_contain_sentence_num": 102
+    },
+    {
+        "word": "podnosi",
+        "example": "podnosi się w",
+        "probs": "0, 0.2485089463220676, 0.08",
+        "word_contain_sentence_num": 576
+    },
+    {
+        "word": "wiem",
+        "example": "nie wiem jak",
+        "probs": "0.6058631921824105, 0, 0.05913978494623656",
+        "word_contain_sentence_num": 289
+    },
+    {
+        "word": "śpiewać",
+        "example": "zaczęła śpiewać w",
+        "probs": "0.37623762376237624, 0, 0.2003968253968254",
+        "word_contain_sentence_num": 663
+    },
+    {
+        "word": "tańczyć",
+        "example": "zaczęła tańczyć w",
+        "probs": "0.27586206896551724, 0, 0.11068702290076336",
+        "word_contain_sentence_num": 260
+    },
+    {
+        "word": "naprawiać",
+        "example": "i naprawiać grody",
+        "probs": "0.09836065573770492, 0, 0.16666666666666666",
+        "word_contain_sentence_num": 61
+    },
+    {
+        "word": "zapominać",
+        "example": "należy zapominać o",
+        "probs": "0.23076923076923078, 0, 0.4406779661016949",
+        "word_contain_sentence_num": 59
+    },
+    {
+        "word": "wyjaśniamy",
+        "example": "wyjaśniamy i dopełniamy",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "oglądać",
+        "example": "można oglądać w",
+        "probs": "0.30677290836653387, 0, 0.37662337662337664",
+        "word_contain_sentence_num": 1122
+    },
+    {
+        "word": "siedzi",
+        "example": "siedzi na tronie",
+        "probs": "0, 0.28994082840236685, 0.08843537414965986",
+        "word_contain_sentence_num": 578
+    },
+    {
+        "word": "wkładasz",
+        "example": "wkładasz mu na",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "czekamy",
+        "example": "i czekamy na",
+        "probs": "0.6666666666666666, 0, 0.2727272727272727",
+        "word_contain_sentence_num": 10
+    },
+    {
+        "word": "rysować",
+        "example": "zaczął rysować i",
+        "probs": "0.21568627450980393, 0, 0.09090909090909091",
+        "word_contain_sentence_num": 102
+    },
+    {
+        "word": "rozumieć",
+        "example": "należy rozumieć jako",
+        "probs": "0.23488372093023255, 0, 0.26732673267326734",
+        "word_contain_sentence_num": 429
+    },
+    {
+        "word": "zapraszać",
+        "example": "zaczął zapraszać do",
+        "probs": "0.5, 0, 0.24390243902439024",
+        "word_contain_sentence_num": 40
+    },
+    {
+        "word": "uważacie",
+        "example": "uważacie to za",
+        "probs": "0, 0.3333333333333333, 1.0",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "zamykasz",
+        "example": "zamykasz się na",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    }
+]

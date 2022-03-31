@@ -1,0 +1,67 @@
+[
+    {
+        "word": "一 人",
+        "example": "者 の 一 人 で ある",
+        "word_contain_sentence_num": 4280
+    },
+    {
+        "word": "旅行",
+        "example": "旅行 を 行っ て いる",
+        "word_contain_sentence_num": 2141
+    },
+    {
+        "word": "いつも",
+        "example": "は いつも の よう に",
+        "word_contain_sentence_num": 732
+    },
+    {
+        "word": "ようこそ",
+        "example": "pia ♥ キャロット へ ようこそ",
+        "word_contain_sentence_num": 42
+    },
+    {
+        "word": "ときどき",
+        "example": "は ときどき 見 られる よう",
+        "word_contain_sentence_num": 47
+    },
+    {
+        "word": "時々",
+        "example": "基本 的 に は 時々",
+        "word_contain_sentence_num": 298
+    },
+    {
+        "word": "旅",
+        "example": "の 旅 を し た",
+        "word_contain_sentence_num": 1808
+    },
+    {
+        "word": "台湾",
+        "example": "専売 局 は 台湾 産業",
+        "word_contain_sentence_num": 3011
+    },
+    {
+        "word": "韓国",
+        "example": "韓国 料理 の 世界 化",
+        "word_contain_sentence_num": 4583
+    },
+    {
+        "word": "お 土産",
+        "example": "外国 人 の お 土産 として",
+        "word_contain_sentence_num": 32
+    },
+    {
+        "word": "産",
+        "example": "初年度 産 駒 が 走り",
+        "word_contain_sentence_num": 1886
+    },
+    {
+        "word": "湾",
+        "example": "湾 に 帰投 し た",
+        "word_contain_sentence_num": 2084
+    },
+    {
+        "word": "韓",
+        "example": "日 韓 併合 の 不当",
+        "word_contain_sentence_num": 1084
+    }
+]

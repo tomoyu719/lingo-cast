@@ -1,0 +1,80 @@
+[
+    {
+        "word": "kot",
+        "example": "czarny kot zawiera",
+        "probs": "0.07125307125307126, 0, 0.034482758620689655",
+        "word_contain_sentence_num": 378
+    },
+    {
+        "word": "zwierzę",
+        "example": "że zwierzę to",
+        "probs": "0.09072978303747535, 0, 0.2826086956521739",
+        "word_contain_sentence_num": 1396
+    },
+    {
+        "word": "pies",
+        "example": "jako pies stróżujący",
+        "probs": "0.0777988614800759, 0, 0.1951219512195122",
+        "word_contain_sentence_num": 1100
+    },
+    {
+        "word": "koń",
+        "example": "i jego koń",
+        "probs": "0.17391304347826086, 0.04423076923076923, 0",
+        "word_contain_sentence_num": 694
+    },
+    {
+        "word": "kaczka",
+        "example": "i kaczka krzyżówka",
+        "probs": "0.2777777777777778, 0, 0.2465753424657534",
+        "word_contain_sentence_num": 140
+    },
+    {
+        "word": "słoń",
+        "example": "słoń afrykański i",
+        "probs": "0, 0.11188811188811189, 0.0625",
+        "word_contain_sentence_num": 140
+    },
+    {
+        "word": "pająk",
+        "example": "czerwony pająk to",
+        "probs": "0.07692307692307693, 0, 0.16666666666666666",
+        "word_contain_sentence_num": 77
+    },
+    {
+        "word": "mysz",
+        "example": "kot i mysz",
+        "probs": "0.21052631578947367, 0.05337078651685393, 0",
+        "word_contain_sentence_num": 334
+    },
+    {
+        "word": "lew",
+        "example": "lew złoty wspięty",
+        "probs": "0, 0.05649717514124294, 0.16666666666666666",
+        "word_contain_sentence_num": 572
+    },
+    {
+        "word": "tygrys",
+        "example": "tygrys syberyjski i",
+        "probs": "0, 0.08130081300813008, 0.3",
+        "word_contain_sentence_num": 117
+    },
+    {
+        "word": "ptak",
+        "example": "jest to ptak",
+        "probs": "0.3333333333333333, 0.07662082514734773, 0",
+        "word_contain_sentence_num": 1022
+    },
+    {
+        "word": "krab",
+        "example": "maltański krab słodkowodny",
+        "probs": "1.0, 0, 0.0784313725490196",
+        "word_contain_sentence_num": 47
+    },
+    {
+        "word": "ryba",
+        "example": "jako ryba konsumpcyjna",
+        "probs": "0.08083140877598152, 0, 0.45714285714285713",
+        "word_contain_sentence_num": 424
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "word": "таксі",
+        "example": "маршрутні таксі",
+        "probs": "0.13846153846153847, 0.09523809523809523, 0",
+        "word_contain_sentence_num": 1161
+    },
+    {
+        "word": "метро",
+        "example": "до станції метро",
+        "probs": "0.0967741935483871, 0.17580340264650285, 0",
+        "word_contain_sentence_num": 2336
+    },
+    {
+        "word": "тролейбус",
+        "example": "перший тролейбус",
+        "probs": "0.06818181818181818, 0",
+        "word_contain_sentence_num": 567
+    },
+    {
+        "word": "транспорт",
+        "example": "залізничний транспорт",
+        "probs": "0.11842105263157894, 0",
+        "word_contain_sentence_num": 1863
+    },
+    {
+        "word": "трамвай",
+        "example": "на електричний трамвай",
+        "probs": "0.10526315789473684, 0.2786885245901639, 0",
+        "word_contain_sentence_num": 743
+    },
+    {
+        "word": "автобус",
+        "example": "день ходить автобус",
+        "probs": "0.25, 0.1282051282051282, 0",
+        "word_contain_sentence_num": 1246
+    },
+    {
+        "word": "поїзд",
+        "example": "перший поїзд",
+        "probs": "0.16326530612244897, 0",
+        "word_contain_sentence_num": 1012
+    },
+    {
+        "word": "літак",
+        "example": "один ворожий літак",
+        "probs": "0.2, 0.12121212121212122, 0",
+        "word_contain_sentence_num": 5148
+    },
+    {
+        "word": "корабель",
+        "example": "космічний корабель союз",
+        "probs": "0.08576998050682261, 0, 0.25",
+        "word_contain_sentence_num": 7248
+    },
+    {
+        "word": "маршрутка",
+        "example": "відвозить фірмова маршрутка",
+        "probs": "1.0, 0.2, 0",
+        "word_contain_sentence_num": 20
+    },
+    {
+        "word": "на автобусі",
+        "example": "на автобусі",
+        "probs": "0.06153846153846154, 0",
+        "word_contain_sentence_num": 150
+    },
+    {
+        "word": "на тролейбусі",
+        "example": "на тролейбусі застосована",
+        "probs": "0, 0.16666666666666666",
+        "word_contain_sentence_num": 24
+    },
+    {
+        "word": "на поїзді",
+        "example": "на поїзді до",
+        "probs": "0, 0.13274336283185842",
+        "word_contain_sentence_num": 190
+    },
+    {
+        "word": "на машині",
+        "example": "їде на машині",
+        "probs": "0.022857142857142857, 0",
+        "word_contain_sentence_num": 844
+    },
+    {
+        "word": "на літаку",
+        "example": "року на літаку",
+        "probs": "0.042483660130718956, 0",
+        "word_contain_sentence_num": 830
+    },
+    {
+        "word": "на маршрутці",
+        "example": "дістатися на маршрутці",
+        "probs": "1.0, 0",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "проїзд",
+        "example": "плата за проїзд",
+        "probs": "0.12903225806451613, 0.17613636363636365, 0",
+        "word_contain_sentence_num": 625
+    },
+    {
+        "word": "квиток",
+        "example": "квиток на літак",
+        "probs": "0, 0.15619047619047619, 0.13414634146341464",
+        "word_contain_sentence_num": 701
+    },
+    {
+        "word": "наступна",
+        "example": "кожна наступна",
+        "probs": "0.0796812749003984, 0, 0.075",
+        "word_contain_sentence_num": 705
+    },
+    {
+        "word": "автостанція",
+        "example": "пристань та автостанція",
+        "probs": "0.5, 0.18181818181818182, 0",
+        "word_contain_sentence_num": 110
+    },
+    {
+        "word": "зупинці",
+        "example": "на зупинці громадського",
+        "probs": "0.313953488372093, 0, 0.1111111111111111",
+        "word_contain_sentence_num": 172
+    }
+]

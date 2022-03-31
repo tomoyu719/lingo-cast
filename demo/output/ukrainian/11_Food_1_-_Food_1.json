@@ -1,0 +1,122 @@
+[
+    {
+        "word": "сир",
+        "example": "сметана і домашній сир",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вино",
+        "example": "рожеве або червоне вино",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "майонез",
+        "example": "салати і майонез",
+        "word_contain_sentence_num": 33
+    },
+    {
+        "word": "масло",
+        "example": "солі та вершкове масло",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "макарони",
+        "example": "згадати про чудові макарони",
+        "word_contain_sentence_num": 49
+    },
+    {
+        "word": "яйця",
+        "example": "Відкладає 2 яйця",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вареники",
+        "example": "вареники з сиром",
+        "word_contain_sentence_num": 91
+    },
+    {
+        "word": "салат",
+        "example": "салат з помідорів",
+        "word_contain_sentence_num": 188
+    },
+    {
+        "word": "риба",
+        "example": "Це демерсальна риба",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "піца",
+        "example": "тут піца та макарони",
+        "word_contain_sentence_num": 28
+    },
+    {
+        "word": "кава",
+        "example": "кондитерське виробництво та кава",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вода",
+        "example": "11 — вода",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "каша",
+        "example": "каша з кукурудзяного борошна",
+        "word_contain_sentence_num": 111
+    },
+    {
+        "word": "ковбаса",
+        "example": "в'ялена ковбаса з конини",
+        "word_contain_sentence_num": 102
+    },
+    {
+        "word": "каву",
+        "example": "кунжут та каву",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "піцу",
+        "example": "до того готував піцу",
+        "word_contain_sentence_num": 55
+    },
+    {
+        "word": "ковбасу",
+        "example": "ковбасу тощо як нагороду",
+        "word_contain_sentence_num": 35
+    },
+    {
+        "word": "воду",
+        "example": "був спущений на воду",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "кашу",
+        "example": "вкрав у нього кашу",
+        "word_contain_sentence_num": 125
+    },
+    {
+        "word": "рибу",
+        "example": "— полює на рибу",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "сніданок",
+        "example": "тостами на сніданок",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "обід",
+        "example": "годинною перервою на обід",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вечеря",
+        "example": "Поруч — Таємна вечеря",
+        "word_contain_sentence_num": 167
+    },
+    {
+        "word": "десерт",
+        "example": "не подаються як десерт",
+        "word_contain_sentence_num": 201
+    }
+]

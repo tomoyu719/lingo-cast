@@ -7,3 +7,5 @@ __pycache__/
 instant-sound-339505-21ffc866f93d.json
 db/
 db_cache/
+audio/output
+movie/output

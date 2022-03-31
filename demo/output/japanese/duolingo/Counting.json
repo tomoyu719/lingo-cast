@@ -1,0 +1,102 @@
+[
+    {
+        "word": "一つ",
+        "example": "の 一つ で ある と",
+        "word_contain_sentence_num": 7472
+    },
+    {
+        "word": "二つ",
+        "example": "その 任意 の 二つ の",
+        "word_contain_sentence_num": 1483
+    },
+    {
+        "word": "三つ",
+        "example": "に 以下 の 三つ の",
+        "word_contain_sentence_num": 480
+    },
+    {
+        "word": "四つ",
+        "example": "起訴 状 の 四つ の",
+        "word_contain_sentence_num": 290
+    },
+    {
+        "word": "いくつ",
+        "example": "スリット が いくつ か の",
+        "word_contain_sentence_num": 3721
+    },
+    {
+        "word": "五つ",
+        "example": "平等 の 五つ の 星",
+        "word_contain_sentence_num": 102
+    },
+    {
+        "word": "七つ",
+        "example": "七つ の 大罪 × 七つ",
+        "word_contain_sentence_num": 77
+    },
+    {
+        "word": "八つ",
+        "example": "の 八つ の 恐怖 を",
+        "word_contain_sentence_num": 43
+    },
+    {
+        "word": "六つ",
+        "example": "の 六つ の 改革 の",
+        "word_contain_sentence_num": 44
+    },
+    {
+        "word": "九つ",
+        "example": "九つ の 巡回 区 に",
+        "word_contain_sentence_num": 21
+    },
+    {
+        "word": "一 個",
+        "example": "は 一 個 の レモン に",
+        "word_contain_sentence_num": 84
+    },
+    {
+        "word": "二 個",
+        "example": "花粉 塊 は 二 個 師団",
+        "word_contain_sentence_num": 26
+    },
+    {
+        "word": "卵",
+        "example": "個 の 卵 を 産む",
+        "word_contain_sentence_num": 1718
+    },
+    {
+        "word": "たま ご",
+        "example": "ヨッシー の たま ご の 4",
+        "word_contain_sentence_num": 38
+    },
+    {
+        "word": "八 個",
+        "example": "八 個 の 太陽 と 七",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "個",
+        "example": "個 の 隕石 を 発見",
+        "word_contain_sentence_num": 4303
+    },
+    {
+        "word": "七 個",
+        "example": "七 個",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "三 個",
+        "example": "三 個 中隊 を 28 日",
+        "word_contain_sentence_num": 13
+    },
+    {
+        "word": "個",
+        "example": "個 の 隕石 を 発見",
+        "word_contain_sentence_num": 4303
+    },
+    {
+        "word": "卵",
+        "example": "個 の 卵 を 産む",
+        "word_contain_sentence_num": 1718
+    }
+]

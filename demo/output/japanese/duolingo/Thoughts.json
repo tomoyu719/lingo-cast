@@ -1,0 +1,447 @@
+[
+    {
+        "word": "心",
+        "example": "の 人 の 心 を",
+        "word_contain_sentence_num": 3759
+    },
+    {
+        "word": "通り",
+        "example": "前述 の 通り で ある",
+        "word_contain_sentence_num": 6707
+    },
+    {
+        "word": "について",
+        "example": "について は 不明 な 部分",
+        "word_contain_sentence_num": 22949
+    },
+    {
+        "word": "考える",
+        "example": "と 考える よう に なっ",
+        "word_contain_sentence_num": 1796
+    },
+    {
+        "word": "考え",
+        "example": "と 考え られ て いる",
+        "word_contain_sentence_num": 12478
+    },
+    {
+        "word": "考え られ て",
+        "example": "し た と 考え られ て いる",
+        "word_contain_sentence_num": 2015
+    },
+    {
+        "word": "考え られ ない",
+        "example": "で は 考え られ ない ほど の",
+        "word_contain_sentence_num": 87
+    },
+    {
+        "word": "考え て",
+        "example": "ある と 考え て い た",
+        "word_contain_sentence_num": 1329
+    },
+    {
+        "word": "考え た",
+        "example": "に しよ う と 考え た",
+        "word_contain_sentence_num": 697
+    },
+    {
+        "word": "意見",
+        "example": "と の 意見 も ある",
+        "word_contain_sentence_num": 2673
+    },
+    {
+        "word": "ご 意見",
+        "example": "の ご 意見 番 として 来",
+        "word_contain_sentence_num": 14
+    },
+    {
+        "word": "話し合っ た",
+        "example": "人物 像 について 話し合っ た 結果",
+        "word_contain_sentence_num": 52
+    },
+    {
+        "word": "話し合い",
+        "example": "と の 話し合い の 場",
+        "word_contain_sentence_num": 223
+    },
+    {
+        "word": "話し合う",
+        "example": "について 話し合う ため の 協議",
+        "word_contain_sentence_num": 66
+    },
+    {
+        "word": "考",
+        "example": "跡 に 彰 考 館",
+        "word_contain_sentence_num": 195
+    },
+    {
+        "word": "嘘",
+        "example": "嘘 を つい た か",
+        "word_contain_sentence_num": 363
+    },
+    {
+        "word": "考え",
+        "example": "と 考え られ て いる",
+        "word_contain_sentence_num": 12478
+    },
+    {
+        "word": "自分",
+        "example": "た ゲーリング は 自分 の",
+        "word_contain_sentence_num": 9883
+    },
+    {
+        "word": "人生",
+        "example": "これ まで の 人生 を",
+        "word_contain_sentence_num": 1311
+    },
+    {
+        "word": "つけ ない",
+        "example": "を つけ ない こと が 多い",
+        "word_contain_sentence_num": 34
+    },
+    {
+        "word": "つい て",
+        "example": "が つい て いる が それでも",
+        "word_contain_sentence_num": 680
+    },
+    {
+        "word": "つき",
+        "example": "に つき 始め てる こと",
+        "word_contain_sentence_num": 1003
+    },
+    {
+        "word": "つけ",
+        "example": "差 を つけ て いる",
+        "word_contain_sentence_num": 3506
+    },
+    {
+        "word": "つく",
+        "example": "に つく こと が でき",
+        "word_contain_sentence_num": 804
+    },
+    {
+        "word": "つい た",
+        "example": "伊達 稙宗 方 に つい た",
+        "word_contain_sentence_num": 709
+    },
+    {
+        "word": "学べ ない",
+        "example": "て 学べ ない 傾向 が ある",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "学ぶ",
+        "example": "を 学ぶ ため の 教育",
+        "word_contain_sentence_num": 1438
+    },
+    {
+        "word": "学ん で",
+        "example": "を 学ん で い た が",
+        "word_contain_sentence_num": 139
+    },
+    {
+        "word": "学び",
+        "example": "ほか で 医学 を 学び",
+        "word_contain_sentence_num": 1669
+    },
+    {
+        "word": "嘘",
+        "example": "嘘 を つい た か",
+        "word_contain_sentence_num": 363
+    },
+    {
+        "word": "秘密",
+        "example": "の 出生 の 秘密 を",
+        "word_contain_sentence_num": 1391
+    },
+    {
+        "word": "ちゃんと",
+        "example": "ため に ちゃんと し た",
+        "word_contain_sentence_num": 128
+    },
+    {
+        "word": "ご 自由",
+        "example": "ご 自由 に お 読み ください",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "自由",
+        "example": "行動 の 自由 を 含み",
+        "word_contain_sentence_num": 6306
+    },
+    {
+        "word": "わから なく",
+        "example": "わから なく なっ て い た",
+        "word_contain_sentence_num": 30
+    },
+    {
+        "word": "分から ない",
+        "example": "明確 に は 分から ない が",
+        "word_contain_sentence_num": 252
+    },
+    {
+        "word": "わかる",
+        "example": "い た こと が わかる",
+        "word_contain_sentence_num": 581
+    },
+    {
+        "word": "分かる",
+        "example": "い た こと が 分かる",
+        "word_contain_sentence_num": 503
+    },
+    {
+        "word": "わから ない",
+        "example": "か どう か は わから ない",
+        "word_contain_sentence_num": 293
+    },
+    {
+        "word": "わかっ た",
+        "example": "で ある こと が わかっ た",
+        "word_contain_sentence_num": 98
+    },
+    {
+        "word": "秘",
+        "example": "の 秘 儀 伝授 の",
+        "word_contain_sentence_num": 177
+    },
+    {
+        "word": "由",
+        "example": "富野 由 悠 季 監督",
+        "word_contain_sentence_num": 310
+    },
+    {
+        "word": "密",
+        "example": "短 毛 が 密 に",
+        "word_contain_sentence_num": 340
+    },
+    {
+        "word": "たった",
+        "example": "たった 1 人 に ある",
+        "word_contain_sentence_num": 293
+    },
+    {
+        "word": "きっと",
+        "example": "音楽 的 に は きっと",
+        "word_contain_sentence_num": 115
+    },
+    {
+        "word": "まあ まあ",
+        "example": "まあ まあ",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "初めて",
+        "example": "学科 において 日本 で 初めて",
+        "word_contain_sentence_num": 7939
+    },
+    {
+        "word": "初め",
+        "example": "1990 年代 初め に は",
+        "word_contain_sentence_num": 1881
+    },
+    {
+        "word": "お 邪魔",
+        "example": "お 邪魔 者 は 金塊 の",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "邪魔",
+        "example": "の 邪魔 に なる ため",
+        "word_contain_sentence_num": 248
+    },
+    {
+        "word": "気づい て",
+        "example": "こと に 気づい て い た",
+        "word_contain_sentence_num": 57
+    },
+    {
+        "word": "気づい た",
+        "example": "て いる こと に 気づい た",
+        "word_contain_sentence_num": 105
+    },
+    {
+        "word": "気づか なかっ た",
+        "example": "いる とき に は 気づか なかっ た",
+        "word_contain_sentence_num": 16
+    },
+    {
+        "word": "気づき",
+        "example": "い た こと に 気づき",
+        "word_contain_sentence_num": 188
+    },
+    {
+        "word": "魔",
+        "example": "獣 魔 の 卵 を",
+        "word_contain_sentence_num": 878
+    },
+    {
+        "word": "わけ",
+        "example": "た わけ で は ない",
+        "word_contain_sentence_num": 2295
+    },
+    {
+        "word": "単語",
+        "example": "という 単語 が 辞書 に",
+        "word_contain_sentence_num": 545
+    },
+    {
+        "word": "表現",
+        "example": "を 表現 する こと が",
+        "word_contain_sentence_num": 4536
+    },
+    {
+        "word": "ずっと",
+        "example": "よう … 私 は ずっと",
+        "word_contain_sentence_num": 572
+    },
+    {
+        "word": "ばか",
+        "example": "まがり ばか さ 歯車 は",
+        "word_contain_sentence_num": 32
+    },
+    {
+        "word": "バカ",
+        "example": "バカ に さ れ た",
+        "word_contain_sentence_num": 246
+    },
+    {
+        "word": "言語",
+        "example": "の 言語 に 並列 処理",
+        "word_contain_sentence_num": 3742
+    },
+    {
+        "word": "表",
+        "example": "として 貸借 対照 表 に",
+        "word_contain_sentence_num": 2011
+    },
+    {
+        "word": "反対 語",
+        "example": "の 反対 語 で は ない",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "反対 派",
+        "example": "他 の 反対 派 の 間",
+        "word_contain_sentence_num": 210
+    },
+    {
+        "word": "反対",
+        "example": "に 反対 し た が",
+        "word_contain_sentence_num": 4631
+    },
+    {
+        "word": "ご 返事",
+        "example": "plaît \"（＝ ご 返事 願い ます",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "返事",
+        "example": "の 返事 を し た",
+        "word_contain_sentence_num": 183
+    },
+    {
+        "word": "お 返事",
+        "example": "お 返事 し て て おもしろい",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "はっきり と",
+        "example": "に は はっきり と し た",
+        "word_contain_sentence_num": 240
+    },
+    {
+        "word": "はっきり",
+        "example": "は はっきり と し た",
+        "word_contain_sentence_num": 880
+    },
+    {
+        "word": "知っ た",
+        "example": "て いる こと を 知っ た",
+        "word_contain_sentence_num": 621
+    },
+    {
+        "word": "知る",
+        "example": "い た こと を 知る",
+        "word_contain_sentence_num": 1520
+    },
+    {
+        "word": "知らせ て",
+        "example": "を 知らせ て き た ため",
+        "word_contain_sentence_num": 21
+    },
+    {
+        "word": "知ら ない",
+        "example": "言っ た こと を 知ら ない",
+        "word_contain_sentence_num": 424
+    },
+    {
+        "word": "お知らせ",
+        "example": "スタッフ から の お知らせ を",
+        "word_contain_sentence_num": 48
+    },
+    {
+        "word": "知らせ",
+        "example": "の 知らせ を 受け た",
+        "word_contain_sentence_num": 387
+    },
+    {
+        "word": "知ら なかっ た",
+        "example": "太 の こと を 知ら なかっ た",
+        "word_contain_sentence_num": 106
+    },
+    {
+        "word": "対",
+        "example": "の 対 ポーランド 戦 や",
+        "word_contain_sentence_num": 6079
+    },
+    {
+        "word": "反",
+        "example": "反 政府 勢力 チャド 民族",
+        "word_contain_sentence_num": 2849
+    },
+    {
+        "word": "理由",
+        "example": "た こと を 理由 に",
+        "word_contain_sentence_num": 5860
+    },
+    {
+        "word": "使う",
+        "example": "を 使う こと が できる",
+        "word_contain_sentence_num": 2496
+    },
+    {
+        "word": "使わ ない で",
+        "example": "麺 を 使わ ない で 米 を",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "使っ た",
+        "example": "を 使っ た もの と 同じ",
+        "word_contain_sentence_num": 1065
+    },
+    {
+        "word": "絶対",
+        "example": "的 に は 絶対 に",
+        "word_contain_sentence_num": 1174
+    },
+    {
+        "word": "見つから ない",
+        "example": "が 見つから ない よう に し",
+        "word_contain_sentence_num": 69
+    },
+    {
+        "word": "見つかっ て",
+        "example": "の 跡 が 見つかっ て いる",
+        "word_contain_sentence_num": 292
+    },
+    {
+        "word": "見つかっ た",
+        "example": "が 見つかっ た と 発表 し",
+        "word_contain_sentence_num": 169
+    },
+    {
+        "word": "絶",
+        "example": "中国 の 三 絶 と",
+        "word_contain_sentence_num": 58
+    }
+]

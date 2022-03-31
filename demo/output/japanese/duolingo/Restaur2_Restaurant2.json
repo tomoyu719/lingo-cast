@@ -1,0 +1,407 @@
+[
+    {
+        "word": "和食",
+        "example": "和食 の 伝統 を 踏まえ",
+        "word_contain_sentence_num": 51
+    },
+    {
+        "word": "におい",
+        "example": "の におい を 追跡 し",
+        "word_contain_sentence_num": 63
+    },
+    {
+        "word": "うどん",
+        "example": "ある うどん を こよなく 愛し",
+        "word_contain_sentence_num": 186
+    },
+    {
+        "word": "ごちそう",
+        "example": "の ごちそう なにわ 歌謡 ステージ",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "注文",
+        "example": "の 注文 を 完了 する",
+        "word_contain_sentence_num": 436
+    },
+    {
+        "word": "ご 注文",
+        "example": "ご 注文 は うさぎ です か",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "和",
+        "example": "江戸 和 竿 の 工房",
+        "word_contain_sentence_num": 1869
+    },
+    {
+        "word": "注",
+        "example": "検 注 に は 目的",
+        "word_contain_sentence_num": 361
+    },
+    {
+        "word": "味",
+        "example": "味 が 基本 だ が",
+        "word_contain_sentence_num": 954
+    },
+    {
+        "word": "汁",
+        "example": "汁 を かけ て 食べる",
+        "word_contain_sentence_num": 235
+    },
+    {
+        "word": "味噌",
+        "example": "味噌 を 使用 し た",
+        "word_contain_sentence_num": 194
+    },
+    {
+        "word": "濃",
+        "example": "濃 硫酸 → 希 硫酸",
+        "word_contain_sentence_num": 265
+    },
+    {
+        "word": "濃い",
+        "example": "紫 の 色 の 濃い",
+        "word_contain_sentence_num": 271
+    },
+    {
+        "word": "濃",
+        "example": "濃 硫酸 → 希 硫酸",
+        "word_contain_sentence_num": 265
+    },
+    {
+        "word": "噌",
+        "example": "噌 ",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "汁",
+        "example": "汁 を かけ て 食べる",
+        "word_contain_sentence_num": 235
+    },
+    {
+        "word": "質",
+        "example": "細胞 質 へ 輸送 さ",
+        "word_contain_sentence_num": 1783
+    },
+    {
+        "word": "量",
+        "example": "量 が 急増 し た",
+        "word_contain_sentence_num": 6208
+    },
+    {
+        "word": "そば",
+        "example": "の そば に は 冷",
+        "word_contain_sentence_num": 620
+    },
+    {
+        "word": "残し て",
+        "example": "好 成績 を 残し て いる",
+        "word_contain_sentence_num": 992
+    },
+    {
+        "word": "残し た",
+        "example": "三振 の 成績 を 残し た",
+        "word_contain_sentence_num": 1434
+    },
+    {
+        "word": "残し",
+        "example": "の 成績 を 残し た",
+        "word_contain_sentence_num": 3885
+    },
+    {
+        "word": "苦かっ た",
+        "example": "苦かっ た",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "苦い",
+        "example": "の 苦い 経験 から 自分",
+        "word_contain_sentence_num": 55
+    },
+    {
+        "word": "残",
+        "example": "残 基 の うち n",
+        "word_contain_sentence_num": 400
+    },
+    {
+        "word": "苦",
+        "example": "を 苦 に し て",
+        "word_contain_sentence_num": 160
+    },
+    {
+        "word": "量",
+        "example": "量 が 急増 し た",
+        "word_contain_sentence_num": 6208
+    },
+    {
+        "word": "様",
+        "example": "ある か の 様 に",
+        "word_contain_sentence_num": 2099
+    },
+    {
+        "word": "客",
+        "example": "から の 観光 客 が",
+        "word_contain_sentence_num": 2992
+    },
+    {
+        "word": "お客",
+        "example": "の お客 さん が あんまり",
+        "word_contain_sentence_num": 75
+    },
+    {
+        "word": "選ん だ",
+        "example": "ジャーナリズム の 道 を 選ん だ",
+        "word_contain_sentence_num": 704
+    },
+    {
+        "word": "選ぶ",
+        "example": "を 選ぶ こと が でき",
+        "word_contain_sentence_num": 691
+    },
+    {
+        "word": "選ば ない",
+        "example": "平 の 手段 を 選ば ない",
+        "word_contain_sentence_num": 32
+    },
+    {
+        "word": "選び",
+        "example": "へ の 道 を 選び",
+        "word_contain_sentence_num": 344
+    },
+    {
+        "word": "食事",
+        "example": "で 食事 を し て",
+        "word_contain_sentence_num": 931
+    },
+    {
+        "word": "うまく",
+        "example": "が うまく いか ない 事",
+        "word_contain_sentence_num": 659
+    },
+    {
+        "word": "うまい",
+        "example": "が うまい 王座 決定 戦",
+        "word_contain_sentence_num": 83
+    },
+    {
+        "word": "うま",
+        "example": "いち !! やじ うま プラス",
+        "word_contain_sentence_num": 129
+    },
+    {
+        "word": "いらっしゃい ませ",
+        "example": "東京 上空 いらっしゃい ませ",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "いらっしゃい",
+        "example": "新婚 さん いらっしゃい !』 を",
+        "word_contain_sentence_num": 20
+    },
+    {
+        "word": "様",
+        "example": "ある か の 様 に",
+        "word_contain_sentence_num": 2099
+    },
+    {
+        "word": "客",
+        "example": "から の 観光 客 が",
+        "word_contain_sentence_num": 2992
+    },
+    {
+        "word": "いっぱい",
+        "example": "年 3 月 いっぱい で",
+        "word_contain_sentence_num": 300
+    },
+    {
+        "word": "お湯",
+        "example": "アルコール ランプ で お湯 を",
+        "word_contain_sentence_num": 45
+    },
+    {
+        "word": "湯",
+        "example": "の 湯 ヶ 島 まで",
+        "word_contain_sentence_num": 908
+    },
+    {
+        "word": "予約",
+        "example": "応答 サービス で の 予約",
+        "word_contain_sentence_num": 512
+    },
+    {
+        "word": "お 勧め",
+        "example": "ある プレイヤー に お 勧め の",
+        "word_contain_sentence_num": 19
+    },
+    {
+        "word": "予",
+        "example": "南 予 地方 と 3",
+        "word_contain_sentence_num": 92
+    },
+    {
+        "word": "湯",
+        "example": "の 湯 ヶ 島 まで",
+        "word_contain_sentence_num": 908
+    },
+    {
+        "word": "約",
+        "example": "na ⁺ は 約 1",
+        "word_contain_sentence_num": 16419
+    },
+    {
+        "word": "勧",
+        "example": "勧 農 局 試験場 に",
+        "word_contain_sentence_num": 43
+    },
+    {
+        "word": "氷",
+        "example": "氷 の 中 で 越冬",
+        "word_contain_sentence_num": 909
+    },
+    {
+        "word": "なし",
+        "example": "を なし て いる もの",
+        "word_contain_sentence_num": 2130
+    },
+    {
+        "word": "アレルギー",
+        "example": "に アレルギー 反応 を 起こす",
+        "word_contain_sentence_num": 186
+    },
+    {
+        "word": "ベジタリアン",
+        "example": "ベジタリアン で ある と 主張",
+        "word_contain_sentence_num": 35
+    },
+    {
+        "word": "入ら ない で",
+        "example": "より 中 に 入ら ない で 下さい",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "入っ た",
+        "example": "で 3 位 に 入っ た",
+        "word_contain_sentence_num": 2128
+    },
+    {
+        "word": "入り",
+        "example": "第 3 位 に 入り",
+        "word_contain_sentence_num": 7279
+    },
+    {
+        "word": "入る",
+        "example": "1990 年代 に 入る と",
+        "word_contain_sentence_num": 4306
+    },
+    {
+        "word": "入っ て",
+        "example": "3 位 に 入っ て いる",
+        "word_contain_sentence_num": 2338
+    },
+    {
+        "word": "決まっ て",
+        "example": "が 決まっ て い た が",
+        "word_contain_sentence_num": 355
+    },
+    {
+        "word": "決まり",
+        "example": "さ れる こと が 決まり",
+        "word_contain_sentence_num": 452
+    },
+    {
+        "word": "お決まり",
+        "example": "する の が お決まり で",
+        "word_contain_sentence_num": 17
+    },
+    {
+        "word": "決まっ た",
+        "example": "と する こと が 決まっ た",
+        "word_contain_sentence_num": 605
+    },
+    {
+        "word": "決",
+        "example": "童子 南蛮寺 の 決 斗",
+        "word_contain_sentence_num": 52
+    },
+    {
+        "word": "氷",
+        "example": "氷 の 中 で 越冬",
+        "word_contain_sentence_num": 909
+    },
+    {
+        "word": "別 々",
+        "example": "uhf 別 々 入出力",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "外食",
+        "example": "外食 産業 に も 本格",
+        "word_contain_sentence_num": 76
+    },
+    {
+        "word": "現金",
+        "example": "万 ドル の 現金 を",
+        "word_contain_sentence_num": 508
+    },
+    {
+        "word": "噛ん で",
+        "example": "馬 が ハミ を 噛ん で",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "噛ま ない",
+        "example": "噛ま ない",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "噛ん だ",
+        "example": "acuo を 噛ん だ だけ",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "支払う",
+        "example": "を 支払う こと で 和解",
+        "word_contain_sentence_num": 454
+    },
+    {
+        "word": "支払い",
+        "example": "の 支払い を 命じ た",
+        "word_contain_sentence_num": 769
+    },
+    {
+        "word": "支払っ て",
+        "example": "料 を 支払っ て い た",
+        "word_contain_sentence_num": 97
+    },
+    {
+        "word": "払う",
+        "example": "注意 を 払う こと で",
+        "word_contain_sentence_num": 223
+    },
+    {
+        "word": "払っ た",
+        "example": "様々 な 努力 を 払っ た",
+        "word_contain_sentence_num": 39
+    },
+    {
+        "word": "支払っ た",
+        "example": "が 保釈 金 を 支払っ た",
+        "word_contain_sentence_num": 100
+    },
+    {
+        "word": "支",
+        "example": "北 支 事変 から 大",
+        "word_contain_sentence_num": 85
+    },
+    {
+        "word": "噛",
+        "example": "に 噛 付き た がっ",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "現",
+        "example": "現 ： セルビア 領 スレムスカ・ミトロヴィツァ",
+        "word_contain_sentence_num": 8833
+    }
+]

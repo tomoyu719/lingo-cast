@@ -1,0 +1,152 @@
+[
+    {
+        "word": "понеділок",
+        "example": "в понеділок XX",
+        "probs": "0.2644135188866799, 0, 0.15789473684210525",
+        "word_contain_sentence_num": 487
+    },
+    {
+        "word": "вівторок",
+        "example": "у вівторок XX",
+        "probs": "0.5704697986577181, 0, 0.12352941176470589",
+        "word_contain_sentence_num": 293
+    },
+    {
+        "word": "середа",
+        "example": "день використовувалася середа",
+        "probs": "1.0, 0.36363636363636365, 0",
+        "word_contain_sentence_num": 71
+    },
+    {
+        "word": "четвер",
+        "example": "у четвер XX",
+        "probs": "0.27789473684210525, 0, 0.13636363636363635",
+        "word_contain_sentence_num": 465
+    },
+    {
+        "word": "субота",
+        "example": "вже починалася субота",
+        "probs": "1.0, 0.07142857142857142, 0",
+        "word_contain_sentence_num": 178
+    },
+    {
+        "word": "неділя",
+        "example": "це була неділя",
+        "probs": "0.21428571428571427, 0.10638297872340426, 0",
+        "word_contain_sentence_num": 291
+    },
+    {
+        "word": "п'ятниця",
+        "example": "адже це п'ятниця",
+        "probs": "0.6666666666666666, 0.18181818181818182, 0",
+        "word_contain_sentence_num": 135
+    },
+    {
+        "word": "день",
+        "example": "в день X",
+        "probs": "0.09416195856873823, 0, 0.1",
+        "word_contain_sentence_num": 20417
+    },
+    {
+        "word": "сьогодні",
+        "example": "на сьогодні не",
+        "probs": "0.29365079365079366, 0, 0.06756756756756757",
+        "word_contain_sentence_num": 10830
+    },
+    {
+        "word": "у понеділок",
+        "example": "у понеділок XX",
+        "probs": "0, 0.11627906976744186",
+        "word_contain_sentence_num": 162
+    },
+    {
+        "word": "у вівторок",
+        "example": "у вівторок XX",
+        "probs": "0, 0.1048951048951049",
+        "word_contain_sentence_num": 183
+    },
+    {
+        "word": "у середу",
+        "example": "у середу XX",
+        "probs": "0, 0.11538461538461539",
+        "word_contain_sentence_num": 101
+    },
+    {
+        "word": "у четвер",
+        "example": "у четвер XX",
+        "probs": "0, 0.09278350515463918",
+        "word_contain_sentence_num": 189
+    },
+    {
+        "word": "у п’ятницю",
+        "example": "у п’ятницю",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "у суботу",
+        "example": "у суботу",
+        "probs": "0, 0.09316770186335403",
+        "word_contain_sentence_num": 308
+    },
+    {
+        "word": "у неділю",
+        "example": "у неділю XX",
+        "probs": "0, 0.12033195020746888",
+        "word_contain_sentence_num": 491
+    },
+    {
+        "word": "коли",
+        "example": "коли він був",
+        "probs": "0, 0.04873294346978557, 0.28",
+        "word_contain_sentence_num": 74851
+    },
+    {
+        "word": "уранці",
+        "example": "уранці X грудня",
+        "probs": "0, 0.15517241379310345, 0.3333333333333333",
+        "word_contain_sentence_num": 57
+    },
+    {
+        "word": "удень",
+        "example": "активний удень",
+        "probs": "0.4473684210526316, 0",
+        "word_contain_sentence_num": 115
+    },
+    {
+        "word": "увечері",
+        "example": "увечері XX серпня",
+        "probs": "0, 0.1497005988023952, 0.12",
+        "word_contain_sentence_num": 518
+    },
+    {
+        "word": "уночі",
+        "example": "активний уночі",
+        "probs": "0.5121951219512195, 0",
+        "word_contain_sentence_num": 321
+    },
+    {
+        "word": "влітку",
+        "example": "влітку XXXX року",
+        "probs": "0, 0.5952380952380952, 0.7833333333333333",
+        "word_contain_sentence_num": 7483
+    },
+    {
+        "word": "взимку",
+        "example": "взимку XXXX року",
+        "probs": "0, 0.16334661354581673, 0.524390243902439",
+        "word_contain_sentence_num": 2955
+    },
+    {
+        "word": "восени",
+        "example": "восени XXXX року",
+        "probs": "0, 0.614314115308151, 0.7572815533980582",
+        "word_contain_sentence_num": 4316
+    },
+    {
+        "word": "навесні",
+        "example": "навесні XXXX року",
+        "probs": "0, 0.5248508946322068, 0.7045454545454546",
+        "word_contain_sentence_num": 3648
+    }
+]

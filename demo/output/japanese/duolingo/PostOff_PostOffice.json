@@ -1,0 +1,267 @@
+[
+    {
+        "word": "切手",
+        "example": "さ れ た 切手 の",
+        "word_contain_sentence_num": 368
+    },
+    {
+        "word": "郵便 局",
+        "example": "の 郵便 局 の 業務 を",
+        "word_contain_sentence_num": 388
+    },
+    {
+        "word": "貼っ て",
+        "example": "コード の シール を 貼っ て",
+        "word_contain_sentence_num": 34
+    },
+    {
+        "word": "貼り",
+        "example": "を 貼り 付け て い",
+        "word_contain_sentence_num": 302
+    },
+    {
+        "word": "貼",
+        "example": "裏 貼 資料 の 発見",
+        "word_contain_sentence_num": 20
+    },
+    {
+        "word": "郵",
+        "example": "全逓 東京 中 郵 事件",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "局",
+        "example": "pso 2 放送 局 の",
+        "word_contain_sentence_num": 10602
+    },
+    {
+        "word": "が",
+        "example": "考案 さ れ た が",
+        "word_contain_sentence_num": 903879
+    },
+    {
+        "word": "送っ て",
+        "example": "生活 を 送っ て い た",
+        "word_contain_sentence_num": 680
+    },
+    {
+        "word": "送っ た",
+        "example": "で の 生活 を 送っ た",
+        "word_contain_sentence_num": 638
+    },
+    {
+        "word": "送り",
+        "example": "無縁 の 生活 を 送り",
+        "word_contain_sentence_num": 870
+    },
+    {
+        "word": "ハガキ",
+        "example": "ハガキ が 封入 さ れ",
+        "word_contain_sentence_num": 97
+    },
+    {
+        "word": "葉書",
+        "example": "読者 から の 葉書 を",
+        "word_contain_sentence_num": 35
+    },
+    {
+        "word": "郵便",
+        "example": "郵便 局 が 記さ れ",
+        "word_contain_sentence_num": 1655
+    },
+    {
+        "word": "郵便 物",
+        "example": "郵便 物 の 航空機 積載 や",
+        "word_contain_sentence_num": 72
+    },
+    {
+        "word": "かかっ た",
+        "example": "まで に 時間 が かかっ た",
+        "word_contain_sentence_num": 370
+    },
+    {
+        "word": "かかる",
+        "example": "に かかる 時間 が かかる",
+        "word_contain_sentence_num": 1231
+    },
+    {
+        "word": "かかっ て",
+        "example": "電話 が かかっ て い た",
+        "word_contain_sentence_num": 321
+    },
+    {
+        "word": "送",
+        "example": "送 粉 者 に 郵便",
+        "word_contain_sentence_num": 150
+    },
+    {
+        "word": "中身",
+        "example": "マーク 区間 の 中身 が",
+        "word_contain_sentence_num": 209
+    },
+    {
+        "word": "封筒",
+        "example": "円 入り の 封筒 を",
+        "word_contain_sentence_num": 137
+    },
+    {
+        "word": "ポスト",
+        "example": "の ポスト は 数 に",
+        "word_contain_sentence_num": 1002
+    },
+    {
+        "word": "小包",
+        "example": "小包 を 積み下ろし する 取扱",
+        "word_contain_sentence_num": 27
+    },
+    {
+        "word": "包み",
+        "example": "スーツ に 身 を 包み",
+        "word_contain_sentence_num": 107
+    },
+    {
+        "word": "包",
+        "example": "部 仮性 毛 包 炎",
+        "word_contain_sentence_num": 205
+    },
+    {
+        "word": "封",
+        "example": "移 封 さ れ た",
+        "word_contain_sentence_num": 916
+    },
+    {
+        "word": "筒",
+        "example": "生地 を 筒 状 に",
+        "word_contain_sentence_num": 476
+    },
+    {
+        "word": "変更",
+        "example": "に 変更 さ れ た",
+        "word_contain_sentence_num": 9915
+    },
+    {
+        "word": "通知",
+        "example": "の 通知 を 受け た",
+        "word_contain_sentence_num": 425
+    },
+    {
+        "word": "出し た",
+        "example": "の 負傷 者 を 出し た",
+        "word_contain_sentence_num": 1123
+    },
+    {
+        "word": "出す",
+        "example": "を 出す こと が 探ら",
+        "word_contain_sentence_num": 1679
+    },
+    {
+        "word": "住所",
+        "example": "8 住所 ： 〒 989",
+        "word_contain_sentence_num": 526
+    },
+    {
+        "word": "ご 住所",
+        "example": "ご 住所",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "届ける",
+        "example": "を 届ける こと に なっ",
+        "word_contain_sentence_num": 138
+    },
+    {
+        "word": "届け ない",
+        "example": "届け ない",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "お 届け 物",
+        "example": "お 届け 物",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "届け て",
+        "example": "な 物資 を 届け て いる",
+        "word_contain_sentence_num": 17
+    },
+    {
+        "word": "届",
+        "example": "届 を 提出 し た",
+        "word_contain_sentence_num": 297
+    },
+    {
+        "word": "更",
+        "example": "工場 へ の 更 なる",
+        "word_contain_sentence_num": 394
+    },
+    {
+        "word": "お 宅",
+        "example": "司会 の お 宅 様 の",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "届き",
+        "example": "たい という 手紙 が 届き",
+        "word_contain_sentence_num": 139
+    },
+    {
+        "word": "届い た",
+        "example": "から の 手紙 が 届い た",
+        "word_contain_sentence_num": 122
+    },
+    {
+        "word": "届く",
+        "example": "数 の メール が 届く",
+        "word_contain_sentence_num": 260
+    },
+    {
+        "word": "配達 物",
+        "example": "配達 物",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "配達",
+        "example": "全 地域 へ の 配達",
+        "word_contain_sentence_num": 174
+    },
+    {
+        "word": "配",
+        "example": "複数 の 配 位 子",
+        "word_contain_sentence_num": 378
+    },
+    {
+        "word": "宅",
+        "example": "宅 に 下宿 し ながら",
+        "word_contain_sentence_num": 466
+    },
+    {
+        "word": "船便",
+        "example": "から 船便 で 送ら れ",
+        "word_contain_sentence_num": 18
+    },
+    {
+        "word": "航空 便",
+        "example": "航空 便 の 運航 を 行なっ",
+        "word_contain_sentence_num": 37
+    },
+    {
+        "word": "書き留め た",
+        "example": "に 書き留め た と さ れる",
+        "word_contain_sentence_num": 14
+    },
+    {
+        "word": "書留",
+        "example": "書留 郵便 物 用 で",
+        "word_contain_sentence_num": 16
+    },
+    {
+        "word": "航",
+        "example": "航 士 の 関係 資料",
+        "word_contain_sentence_num": 420
+    },
+    {
+        "word": "船",
+        "example": "ブレーメン の 船 が 就航",
+        "word_contain_sentence_num": 6038
+    }
+]

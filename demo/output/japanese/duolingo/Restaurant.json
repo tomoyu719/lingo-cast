@@ -1,0 +1,242 @@
+[
+    {
+        "word": "この",
+        "example": "用い た この 作品 は",
+        "word_contain_sentence_num": 97018
+    },
+    {
+        "word": "からい",
+        "example": "的 な は からい により",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "いくら",
+        "example": "に は いくら か の",
+        "word_contain_sentence_num": 269
+    },
+    {
+        "word": "メニュー",
+        "example": "の メニュー に エスカロップ を",
+        "word_contain_sentence_num": 509
+    },
+    {
+        "word": "レストラン",
+        "example": "の レストラン を 作る 構想",
+        "word_contain_sentence_num": 929
+    },
+    {
+        "word": "円",
+        "example": "万 円 の 予定 価格",
+        "word_contain_sentence_num": 9508
+    },
+    {
+        "word": "百",
+        "example": "数 百 万 人 の",
+        "word_contain_sentence_num": 3349
+    },
+    {
+        "word": "万",
+        "example": "所得 は 4500 万 ドル",
+        "word_contain_sentence_num": 19712
+    },
+    {
+        "word": "千",
+        "example": "千 花子 の 舞踊 会",
+        "word_contain_sentence_num": 3736
+    },
+    {
+        "word": "千",
+        "example": "千 花子 の 舞踊 会",
+        "word_contain_sentence_num": 3736
+    },
+    {
+        "word": "万",
+        "example": "所得 は 4500 万 ドル",
+        "word_contain_sentence_num": 19712
+    },
+    {
+        "word": "百",
+        "example": "数 百 万 人 の",
+        "word_contain_sentence_num": 3349
+    },
+    {
+        "word": "円",
+        "example": "万 円 の 予定 価格",
+        "word_contain_sentence_num": 9508
+    },
+    {
+        "word": "その",
+        "example": "コンスタンティヌス 1 世 は その",
+        "word_contain_sentence_num": 74627
+    },
+    {
+        "word": "朝 ご飯",
+        "example": "朝 ご飯",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "晩 ご飯",
+        "example": "晩 ご飯 を 食べよ う 企画",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "昼 ご飯",
+        "example": "昼 ご飯",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "おいし",
+        "example": "の おいし さ に びっくり",
+        "word_contain_sentence_num": 19
+    },
+    {
+        "word": "おいしい",
+        "example": "六甲 の おいしい 水 富士山",
+        "word_contain_sentence_num": 81
+    },
+    {
+        "word": "昼",
+        "example": "昼 の 帯 ドラマ の",
+        "word_contain_sentence_num": 614
+    },
+    {
+        "word": "晩",
+        "example": "一 晩 中 を シャンパン",
+        "word_contain_sentence_num": 358
+    },
+    {
+        "word": "で",
+        "example": "の 講道館 杯 で は",
+        "word_contain_sentence_num": 875518
+    },
+    {
+        "word": "どの",
+        "example": "それ が どの よう な",
+        "word_contain_sentence_num": 2187
+    },
+    {
+        "word": "あの",
+        "example": "あの 日 あの とき あの",
+        "word_contain_sentence_num": 751
+    },
+    {
+        "word": "食堂",
+        "example": "の 食堂 車 に 乗っ",
+        "word_contain_sentence_num": 453
+    },
+    {
+        "word": "まずい",
+        "example": "人 は まずい ない し",
+        "word_contain_sentence_num": 36
+    },
+    {
+        "word": "ステーキ",
+        "example": "の ステーキ の 代金 を",
+        "word_contain_sentence_num": 67
+    },
+    {
+        "word": "堂",
+        "example": "朝 堂 院 は 朝政",
+        "word_contain_sentence_num": 2001
+    },
+    {
+        "word": "好き",
+        "example": "は 木彫 が 好き な",
+        "word_contain_sentence_num": 2357
+    },
+    {
+        "word": "じゃ ない",
+        "example": "なかっ た ん じゃ ない か",
+        "word_contain_sentence_num": 483
+    },
+    {
+        "word": "熱",
+        "example": "で 得 た 熱 を",
+        "word_contain_sentence_num": 1663
+    },
+    {
+        "word": "熱い",
+        "example": "へ の 熱い 夏 〜",
+        "word_contain_sentence_num": 145
+    },
+    {
+        "word": "冷た",
+        "example": "の 冷た さ と 強い",
+        "word_contain_sentence_num": 10
+    },
+    {
+        "word": "冷たい",
+        "example": "夏季 に は 冷たい 水温",
+        "word_contain_sentence_num": 156
+    },
+    {
+        "word": "好",
+        "example": "高度 好 塩 菌 は",
+        "word_contain_sentence_num": 1310
+    },
+    {
+        "word": "熱",
+        "example": "で 得 た 熱 を",
+        "word_contain_sentence_num": 1663
+    },
+    {
+        "word": "冷",
+        "example": "の 冷 麺 は 日本",
+        "word_contain_sentence_num": 166
+    },
+    {
+        "word": "嫌い",
+        "example": "たり する こと を 嫌い",
+        "word_contain_sentence_num": 448
+    },
+    {
+        "word": "ケーキ",
+        "example": "カップ ケーキ を 焼く とき",
+        "word_contain_sentence_num": 280
+    },
+    {
+        "word": "甘",
+        "example": "祥 の 甘 さ が",
+        "word_contain_sentence_num": 231
+    },
+    {
+        "word": "甘い",
+        "example": "甘い もの が 好き で",
+        "word_contain_sentence_num": 199
+    },
+    {
+        "word": "安い",
+        "example": "が 人件 費 の 安い",
+        "word_contain_sentence_num": 222
+    },
+    {
+        "word": "安",
+        "example": "天 安 郡 と なり",
+        "word_contain_sentence_num": 1849
+    },
+    {
+        "word": "高",
+        "example": "人口 密度 の 高 さ",
+        "word_contain_sentence_num": 9691
+    },
+    {
+        "word": "高い",
+        "example": "ため 難易 度 の 高い",
+        "word_contain_sentence_num": 7085
+    },
+    {
+        "word": "甘",
+        "example": "祥 の 甘 さ が",
+        "word_contain_sentence_num": 231
+    },
+    {
+        "word": "安",
+        "example": "天 安 郡 と なり",
+        "word_contain_sentence_num": 1849
+    },
+    {
+        "word": "嫌",
+        "example": "嫌 な 顔 を さ",
+        "word_contain_sentence_num": 182
+    }
+]

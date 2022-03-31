@@ -1,0 +1,182 @@
+[
+    {
+        "word": "彼",
+        "example": "彼 は この 難解 な",
+        "word_contain_sentence_num": 20003
+    },
+    {
+        "word": "彼女",
+        "example": "彼女 は ロールモデル だ ね",
+        "word_contain_sentence_num": 6845
+    },
+    {
+        "word": "誰",
+        "example": "は 誰 も い なかっ",
+        "word_contain_sentence_num": 2199
+    },
+    {
+        "word": "だれ",
+        "example": "だれ も が 良く 知る",
+        "word_contain_sentence_num": 168
+    },
+    {
+        "word": "誰",
+        "example": "は 誰 も い なかっ",
+        "word_contain_sentence_num": 2199
+    },
+    {
+        "word": "彼",
+        "example": "彼 は この 難解 な",
+        "word_contain_sentence_num": 20003
+    },
+    {
+        "word": "女",
+        "example": "の 女 が いる パリ",
+        "word_contain_sentence_num": 3747
+    },
+    {
+        "word": "姉",
+        "example": "姉 の 影響 で 吹奏楽",
+        "word_contain_sentence_num": 1309
+    },
+    {
+        "word": "兄",
+        "example": "妻 の 兄 で ある",
+        "word_contain_sentence_num": 3193
+    },
+    {
+        "word": "弟",
+        "example": "の 弟 の 王 審",
+        "word_contain_sentence_num": 3361
+    },
+    {
+        "word": "妹",
+        "example": "ぼく の 妹 で ある",
+        "word_contain_sentence_num": 1615
+    },
+    {
+        "word": "兄",
+        "example": "妻 の 兄 で ある",
+        "word_contain_sentence_num": 3193
+    },
+    {
+        "word": "姉",
+        "example": "姉 の 影響 で 吹奏楽",
+        "word_contain_sentence_num": 1309
+    },
+    {
+        "word": "弟",
+        "example": "の 弟 の 王 審",
+        "word_contain_sentence_num": 3361
+    },
+    {
+        "word": "妹",
+        "example": "ぼく の 妹 で ある",
+        "word_contain_sentence_num": 1615
+    },
+    {
+        "word": "彼ら",
+        "example": "に なっ た 彼ら は",
+        "word_contain_sentence_num": 5892
+    },
+    {
+        "word": "姉妹",
+        "example": "の 姉妹 誌 に 位置づけ",
+        "word_contain_sentence_num": 1434
+    },
+    {
+        "word": "兄弟",
+        "example": "向坂 三 兄弟 の 反逆",
+        "word_contain_sentence_num": 3026
+    },
+    {
+        "word": "お 姉さん",
+        "example": "ド・レ・ミ の 歌 の お 姉さん",
+        "word_contain_sentence_num": 36
+    },
+    {
+        "word": "お 兄さん",
+        "example": "おば た の お 兄さん が",
+        "word_contain_sentence_num": 23
+    },
+    {
+        "word": "ご",
+        "example": "ご う 型 や あたご",
+        "word_contain_sentence_num": 2008
+    },
+    {
+        "word": "両親",
+        "example": "の 両親 の 元 へ",
+        "word_contain_sentence_num": 1607
+    },
+    {
+        "word": "あなた",
+        "example": "あなた の 子孫 に 与え",
+        "word_contain_sentence_num": 1050
+    },
+    {
+        "word": "子供",
+        "example": "人 の 子供 が いる",
+        "word_contain_sentence_num": 4837
+    },
+    {
+        "word": "子ども",
+        "example": "子ども たち は ドーソン に",
+        "word_contain_sentence_num": 1185
+    },
+    {
+        "word": "供",
+        "example": "に 供 さ れる こと",
+        "word_contain_sentence_num": 420
+    },
+    {
+        "word": "親",
+        "example": "の 親 で ある 阿南",
+        "word_contain_sentence_num": 2465
+    },
+    {
+        "word": "両",
+        "example": "の 両 脇 に 沿っ",
+        "word_contain_sentence_num": 10141
+    },
+    {
+        "word": "父",
+        "example": "だっ た 父 ハインリヒ は",
+        "word_contain_sentence_num": 8689
+    },
+    {
+        "word": "母",
+        "example": "母 の 王 氏 は",
+        "word_contain_sentence_num": 4472
+    },
+    {
+        "word": "家族",
+        "example": "家族 の 助け に なり",
+        "word_contain_sentence_num": 4007
+    },
+    {
+        "word": "お父さん",
+        "example": "お父さん は 心配 症",
+        "word_contain_sentence_num": 70
+    },
+    {
+        "word": "お母さん",
+        "example": "いい加減 あなた の お母さん の",
+        "word_contain_sentence_num": 79
+    },
+    {
+        "word": "母",
+        "example": "母 の 王 氏 は",
+        "word_contain_sentence_num": 4472
+    },
+    {
+        "word": "父",
+        "example": "だっ た 父 ハインリヒ は",
+        "word_contain_sentence_num": 8689
+    },
+    {
+        "word": "族",
+        "example": "キャンプ の スー 族 の",
+        "word_contain_sentence_num": 5053
+    }
+]

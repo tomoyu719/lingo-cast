@@ -1,0 +1,77 @@
+[
+    {
+        "word": "меню",
+        "example": "найскладніша страва в меню",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "дайте",
+        "example": "дайте мені смерть",
+        "word_contain_sentence_num": 69
+    },
+    {
+        "word": "рахунок",
+        "example": "за рахунок приватних",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "принесіть",
+        "example": "принесіть ноти і свою",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "офіціант",
+        "example": "Bootie робота як офіціант",
+        "word_contain_sentence_num": 49
+    },
+    {
+        "word": "офіціантка",
+        "example": "— офіціантка з місцевої",
+        "word_contain_sentence_num": 44
+    },
+    {
+        "word": "free",
+        "example": "free —",
+        "word_contain_sentence_num": 116
+    },
+    {
+        "word": "столик",
+        "example": "невеликий столик з ящиком",
+        "word_contain_sentence_num": 79
+    },
+    {
+        "word": "серветки",
+        "example": "накинуто на звороті серветки",
+        "word_contain_sentence_num": 68
+    },
+    {
+        "word": "хочу",
+        "example": "Я хочу створити більше",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "замовити",
+        "example": "можна замовити",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вегетаріанець",
+        "example": "письменник — вегетаріанець",
+        "word_contain_sentence_num": 36
+    },
+    {
+        "word": "вегетаріанка",
+        "example": "Ізабель — вегетаріанка",
+        "word_contain_sentence_num": 25
+    },
+    {
+        "word": "туалет",
+        "example": "знаходився умивальник і туалет",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вегетаріанці",
+        "example": "вони з Йо-Ланді вегетаріанці",
+        "word_contain_sentence_num": 26
+    }
+]

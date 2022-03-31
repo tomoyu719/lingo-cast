@@ -1,0 +1,357 @@
+[
+    {
+        "word": "星",
+        "example": "星 の ひとつ で ある",
+        "word_contain_sentence_num": 4329
+    },
+    {
+        "word": "太陽",
+        "example": "“ ディセプティコン が 太陽 の",
+        "word_contain_sentence_num": 1633
+    },
+    {
+        "word": "月",
+        "example": "年 9 月 に は",
+        "word_contain_sentence_num": 212966
+    },
+    {
+        "word": "つき",
+        "example": "に つき 始め てる こと",
+        "word_contain_sentence_num": 1003
+    },
+    {
+        "word": "光る",
+        "example": "に 光る もの を 書い",
+        "word_contain_sentence_num": 115
+    },
+    {
+        "word": "光っ て",
+        "example": "が 光っ て いる よう に",
+        "word_contain_sentence_num": 17
+    },
+    {
+        "word": "光っ た",
+        "example": "が 虹 色 に 光っ た",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "きらきら",
+        "example": "きらきら ひかる 2",
+        "word_contain_sentence_num": 46
+    },
+    {
+        "word": "キラキラ",
+        "example": "キラキラ し た ｢ 華麗",
+        "word_contain_sentence_num": 55
+    },
+    {
+        "word": "光",
+        "example": "の 光 を 受信 する",
+        "word_contain_sentence_num": 4802
+    },
+    {
+        "word": "陽",
+        "example": "キネマ 甲 陽 軍 鑑",
+        "word_contain_sentence_num": 1415
+    },
+    {
+        "word": "星",
+        "example": "星 の ひとつ で ある",
+        "word_contain_sentence_num": 4329
+    },
+    {
+        "word": "湖",
+        "example": "河水 を ダム 湖 に",
+        "word_contain_sentence_num": 2535
+    },
+    {
+        "word": "空気",
+        "example": "の 空気 中 の 空気",
+        "word_contain_sentence_num": 1740
+    },
+    {
+        "word": "田舎",
+        "example": "遠く 離れ た 田舎 の",
+        "word_contain_sentence_num": 304
+    },
+    {
+        "word": "浜辺",
+        "example": "浜辺 に 打ち上げ られ た",
+        "word_contain_sentence_num": 68
+    },
+    {
+        "word": "舎",
+        "example": "は 長岡 市役所 本庁 舎",
+        "word_contain_sentence_num": 553
+    },
+    {
+        "word": "浜",
+        "example": "にて 浜 学園 シラベテ は",
+        "word_contain_sentence_num": 629
+    },
+    {
+        "word": "湖",
+        "example": "河水 を ダム 湖 に",
+        "word_contain_sentence_num": 2535
+    },
+    {
+        "word": "枝",
+        "example": "の 木 の 枝 を",
+        "word_contain_sentence_num": 987
+    },
+    {
+        "word": "森",
+        "example": "の 森 と する 説",
+        "word_contain_sentence_num": 2619
+    },
+    {
+        "word": "島",
+        "example": "島 の 戦い や ブーゲンビル",
+        "word_contain_sentence_num": 10177
+    },
+    {
+        "word": "島々",
+        "example": "の 島々 を 総称 し",
+        "word_contain_sentence_num": 188
+    },
+    {
+        "word": "折っ て",
+        "example": "を 折っ て しまう こと を",
+        "word_contain_sentence_num": 30
+    },
+    {
+        "word": "折る",
+        "example": "顎 の 骨 を 折る",
+        "word_contain_sentence_num": 37
+    },
+    {
+        "word": "折り",
+        "example": "られ て 筆 を 折り",
+        "word_contain_sentence_num": 132
+    },
+    {
+        "word": "折っ た",
+        "example": "僕 は 腕 を 折っ た",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "折",
+        "example": "の 折 に は 父親",
+        "word_contain_sentence_num": 536
+    },
+    {
+        "word": "枝",
+        "example": "の 木 の 枝 を",
+        "word_contain_sentence_num": 987
+    },
+    {
+        "word": "森",
+        "example": "の 森 と する 説",
+        "word_contain_sentence_num": 2619
+    },
+    {
+        "word": "島",
+        "example": "島 の 戦い や ブーゲンビル",
+        "word_contain_sentence_num": 10177
+    },
+    {
+        "word": "草",
+        "example": "草 の 者 の 頭領",
+        "word_contain_sentence_num": 1084
+    },
+    {
+        "word": "葉",
+        "example": "玉 葉",
+        "word_contain_sentence_num": 2991
+    },
+    {
+        "word": "石",
+        "example": "に 国内 鉄鉱 石 の",
+        "word_contain_sentence_num": 5739
+    },
+    {
+        "word": "景色",
+        "example": "の 景色 を 見る こと",
+        "word_contain_sentence_num": 159
+    },
+    {
+        "word": "濡れる",
+        "example": "は 水 に 濡れる と",
+        "word_contain_sentence_num": 28
+    },
+    {
+        "word": "濡れ て",
+        "example": "に 水 に 濡れ て いる",
+        "word_contain_sentence_num": 13
+    },
+    {
+        "word": "濡",
+        "example": "唇 濡 の 吐息",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "景",
+        "example": "弟 の 景 次 は",
+        "word_contain_sentence_num": 1279
+    },
+    {
+        "word": "草",
+        "example": "草 の 者 の 頭領",
+        "word_contain_sentence_num": 1084
+    },
+    {
+        "word": "林",
+        "example": "など の 広葉樹 林 が",
+        "word_contain_sentence_num": 2380
+    },
+    {
+        "word": "浅い",
+        "example": "て いる 水深 の 浅い",
+        "word_contain_sentence_num": 290
+    },
+    {
+        "word": "浅",
+        "example": "浅 屈腱 炎 を 発症",
+        "word_contain_sentence_num": 105
+    },
+    {
+        "word": "浅かっ た",
+        "example": "から の 経年 が 浅かっ た",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "深かっ た",
+        "example": "南野 と 親交 が 深かっ た",
+        "word_contain_sentence_num": 86
+    },
+    {
+        "word": "深く なかっ た",
+        "example": "切り傷 そのもの は それほど 深く なかっ た",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "深い",
+        "example": "の 深い 関係 で わたし",
+        "word_contain_sentence_num": 1432
+    },
+    {
+        "word": "深",
+        "example": "5 メートル の 深 さ",
+        "word_contain_sentence_num": 648
+    },
+    {
+        "word": "深く",
+        "example": "に も 造詣 が 深く",
+        "word_contain_sentence_num": 1207
+    },
+    {
+        "word": "乾い た",
+        "example": "れ ゆく 情景 を 乾い た",
+        "word_contain_sentence_num": 48
+    },
+    {
+        "word": "乾い て",
+        "example": "路面 は 乾い て い ない",
+        "word_contain_sentence_num": 11
+    },
+    {
+        "word": "浅",
+        "example": "浅 屈腱 炎 を 発症",
+        "word_contain_sentence_num": 105
+    },
+    {
+        "word": "深",
+        "example": "5 メートル の 深 さ",
+        "word_contain_sentence_num": 648
+    },
+    {
+        "word": "乾",
+        "example": "は 乾 量 単位 は",
+        "word_contain_sentence_num": 438
+    },
+    {
+        "word": "林",
+        "example": "など の 広葉樹 林 が",
+        "word_contain_sentence_num": 2380
+    },
+    {
+        "word": "火",
+        "example": "に 火 を つけ た",
+        "word_contain_sentence_num": 1673
+    },
+    {
+        "word": "光",
+        "example": "の 光 を 受信 する",
+        "word_contain_sentence_num": 4802
+    },
+    {
+        "word": "波",
+        "example": "清 波 は 第 二",
+        "word_contain_sentence_num": 2361
+    },
+    {
+        "word": "富士山",
+        "example": "に は 富士山 と 三保の松原",
+        "word_contain_sentence_num": 359
+    },
+    {
+        "word": "富",
+        "example": "は 莫大 な 富 を",
+        "word_contain_sentence_num": 642
+    },
+    {
+        "word": "士",
+        "example": "他 の 修道 士 の",
+        "word_contain_sentence_num": 3924
+    },
+    {
+        "word": "波",
+        "example": "清 波 は 第 二",
+        "word_contain_sentence_num": 2361
+    },
+    {
+        "word": "生き物",
+        "example": "の 生き物 を よみがえら せる",
+        "word_contain_sentence_num": 122
+    },
+    {
+        "word": "釣り",
+        "example": "の 釣り 餌 を 使う",
+        "word_contain_sentence_num": 492
+    },
+    {
+        "word": "釣っ た",
+        "example": "釣っ た 魚 の こと を",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "見つけ",
+        "example": "を 見つけ た の は",
+        "word_contain_sentence_num": 741
+    },
+    {
+        "word": "見つけ た",
+        "example": "を 見つけ た と 公表 し",
+        "word_contain_sentence_num": 179
+    },
+    {
+        "word": "見つけ て",
+        "example": "を 見つけ て は 同憂 の",
+        "word_contain_sentence_num": 84
+    },
+    {
+        "word": "揺れ て",
+        "example": "離脱 問題 で 揺れ て いる",
+        "word_contain_sentence_num": 16
+    },
+    {
+        "word": "揺",
+        "example": "減 揺 タンク が 採用",
+        "word_contain_sentence_num": 45
+    },
+    {
+        "word": "釣",
+        "example": "袖 釣 込 腰 で",
+        "word_contain_sentence_num": 92
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "word": "jabłko",
+        "example": "w lewej jabłko królewskie",
+        "probs": "1.0, 0.5689655172413793, 0, 0.1939799331103679",
+        "word_contain_sentence_num": 287
+    },
+    {
+        "word": "mężczyzna",
+        "example": "się jako mężczyzna żonaty",
+        "probs": "0.09090909090909091, 0.06521739130434782, 0, 0.48484848484848486",
+        "word_contain_sentence_num": 2240
+    },
+    {
+        "word": "dziewczynka",
+        "example": "jako mała dziewczynka o",
+        "probs": "0.3188405797101449, 0.13717693836978131, 0, 0.043478260869565216",
+        "word_contain_sentence_num": 601
+    },
+    {
+        "word": "kobieta",
+        "example": "pierwsza kobieta w historii",
+        "probs": "0.3409090909090909, 0, 0.0859375, 0.3409090909090909",
+        "word_contain_sentence_num": 3575
+    },
+    {
+        "word": "chłopiec",
+        "example": "jako chłopiec w wieku",
+        "probs": "0.12103174603174603, 0, 0.08196721311475409, 0.13333333333333333",
+        "word_contain_sentence_num": 1447
+    },
+    {
+        "word": "je",
+        "example": "je w XXXX roku",
+        "probs": "0, 0.09197651663405088, 0.19148936170212766, 0.32",
+        "word_contain_sentence_num": 33938
+    },
+    {
+        "word": "jestem",
+        "example": "nie jestem w stanie",
+        "probs": "0.16457960644007155, 0, 0.06521739130434782, 0.44",
+        "word_contain_sentence_num": 862
+    },
+    {
+        "word": "ja",
+        "example": "tylko ty i ja",
+        "probs": "0.36363636363636365, 0.21153846153846154, 0.09647495361781076, 0",
+        "word_contain_sentence_num": 1702
+    },
+    {
+        "word": "jest",
+        "example": "nie jest znany jego",
+        "probs": "0.04119850187265917, 0, 0.09090909090909091, 0.25",
+        "word_contain_sentence_num": 463991
+    },
+    {
+        "word": "ona",
+        "example": "jest ona używana samodzielnie",
+        "probs": "0.1067193675889328, 0, 0.05555555555555555, 0.3333333333333333",
+        "word_contain_sentence_num": 28668
+    },
+    {
+        "word": "on",
+        "example": "został on w życie",
+        "probs": "0.09664694280078895, 0, 0.04081632653061224, 0.06451612903225806",
+        "word_contain_sentence_num": 58236
+    },
+    {
+        "word": "chleb",
+        "example": "chleb i wino w",
+        "probs": "0, 0.15028901734104047, 0.3333333333333333, 0.07692307692307693",
+        "word_contain_sentence_num": 579
+    },
+    {
+        "word": "mleko",
+        "example": "grzybkowe i mleko wapienne",
+        "probs": "0.3023255813953488, 0.359375, 0, 0.12213740458015267",
+        "word_contain_sentence_num": 601
+    },
+    {
+        "word": "piję",
+        "example": "nie piję i nie",
+        "probs": "0.4, 0, 0.5, 1.0",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "woda",
+        "example": "przekopany a woda z",
+        "probs": "0.1, 0.10714285714285714, 0, 0.05405405405405406",
+        "word_contain_sentence_num": 2734
+    },
+    {
+        "word": "i",
+        "example": "i XX autosanów hX-XX",
+        "probs": "0, 0.019138755980861243, 0.16666666666666666, 1.0",
+        "word_contain_sentence_num": 2081694
+    }
+]

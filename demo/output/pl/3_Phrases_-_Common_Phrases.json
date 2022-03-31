@@ -1,0 +1,110 @@
+[
+    {
+        "word": "cześć",
+        "example": "nazwana na cześć",
+        "probs": "0.07272727272727272, 0.6483300589390962, 0",
+        "word_contain_sentence_num": 6169
+    },
+    {
+        "word": "pa",
+        "example": "XX pa opl",
+        "probs": "0.14835164835164835, 0, 0.7037037037037037",
+        "word_contain_sentence_num": 153
+    },
+    {
+        "word": "dzięki",
+        "example": "dzięki czemu nie",
+        "probs": "0, 0.20594059405940593, 0.04807692307692308",
+        "word_contain_sentence_num": 33228
+    },
+    {
+        "word": "tak",
+        "example": "tak jak w",
+        "probs": "0, 0.11394891944990176, 0.20689655172413793",
+        "word_contain_sentence_num": 37550
+    },
+    {
+        "word": "nie",
+        "example": "nie jest to",
+        "probs": "0, 0.04914933837429111, 0.07692307692307693",
+        "word_contain_sentence_num": 349271
+    },
+    {
+        "word": "proszę",
+        "example": "nie proszę o",
+        "probs": "0.1875, 0, 0.09815950920245399",
+        "word_contain_sentence_num": 160
+    },
+    {
+        "word": "dziękuję",
+        "example": "bogu dziękuję za",
+        "probs": "0.4, 0, 0.13513513513513514",
+        "word_contain_sentence_num": 34
+    },
+    {
+        "word": "dobrze",
+        "example": "jest bardzo dobrze",
+        "probs": "0.14814814814814814, 0.1073558648111332, 0",
+        "word_contain_sentence_num": 12083
+    },
+    {
+        "word": "witaj",
+        "example": "witaj bramo",
+        "probs": "0, 0.125",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "przepraszam",
+        "example": "zatem przepraszam",
+        "probs": "0.10526315789473684, 0",
+        "word_contain_sentence_num": 18
+    },
+    {
+        "word": "dobranoc",
+        "example": "pocałunek na dobranoc",
+        "probs": "0.17647058823529413, 0.4358974358974359, 0",
+        "word_contain_sentence_num": 39
+    },
+    {
+        "word": "dzień dobry",
+        "example": "na dzień dobry",
+        "probs": "0.3888888888888889, 0",
+        "word_contain_sentence_num": 31
+    },
+    {
+        "word": "mówię",
+        "example": "nie mówię o",
+        "probs": "0.15294117647058825, 0, 0.23076923076923078",
+        "word_contain_sentence_num": 79
+    },
+    {
+        "word": "mówi",
+        "example": "mówi o tym",
+        "probs": "0, 0.17623762376237623, 0.19101123595505617",
+        "word_contain_sentence_num": 5423
+    },
+    {
+        "word": "mówisz",
+        "example": "kiedy mówisz otwarcie",
+        "probs": "0.25925925925925924, 0, 0.14285714285714285",
+        "word_contain_sentence_num": 26
+    },
+    {
+        "word": "do widzenia",
+        "example": "do widzenia w",
+        "probs": "0, 0.17073170731707318",
+        "word_contain_sentence_num": 760
+    },
+    {
+        "word": "po angielsku",
+        "example": "po angielsku i",
+        "probs": "0, 0.1048780487804878",
+        "word_contain_sentence_num": 739
+    },
+    {
+        "word": "po polsku",
+        "example": "czyli po polsku",
+        "probs": "0.2, 0",
+        "word_contain_sentence_num": 1495
+    }
+]

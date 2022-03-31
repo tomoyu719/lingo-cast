@@ -1,0 +1,74 @@
+[
+    {
+        "word": "idę",
+        "example": "idę do ojca",
+        "probs": "0, 0.17391304347826086, 0.25",
+        "word_contain_sentence_num": 44
+    },
+    {
+        "word": "chodzę",
+        "example": "chodzę do nocnych",
+        "probs": "0, 0.3333333333333333, 0.5",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "jeździć",
+        "example": "jeździć na nartach",
+        "probs": "0, 0.21264367816091953, 0.20270270270270271",
+        "word_contain_sentence_num": 346
+    },
+    {
+        "word": "jedzie",
+        "example": "i jedzie do",
+        "probs": "0.08974358974358974, 0, 0.32432432432432434",
+        "word_contain_sentence_num": 477
+    },
+    {
+        "word": "biec",
+        "example": "biec w kierunku",
+        "probs": "0, 0.15151515151515152, 0.44",
+        "word_contain_sentence_num": 160
+    },
+    {
+        "word": "biegamy",
+        "example": "biegamy",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "nosić",
+        "example": "miał nosić nazwę",
+        "probs": "0.24561403508771928, 0, 0.11332007952286283",
+        "word_contain_sentence_num": 945
+    },
+    {
+        "word": "nieść",
+        "example": "się nieść pomoc",
+        "probs": "0.11320754716981132, 0, 0.3192771084337349",
+        "word_contain_sentence_num": 166
+    },
+    {
+        "word": "płyniemy",
+        "example": "płyniemy pisą przez",
+        "probs": "0, 0.2, 1.0",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "pływać",
+        "example": "pływać w wieku",
+        "probs": "0, 0.08888888888888889, 0.17857142857142858",
+        "word_contain_sentence_num": 314
+    },
+    {
+        "word": "lecą",
+        "example": "i lecą na",
+        "probs": "0.13043478260869565, 0, 0.17557251908396945",
+        "word_contain_sentence_num": 128
+    },
+    {
+        "word": "lata",
+        "example": "dwa lata później",
+        "probs": "0.525, 0, 0.3187250996015936",
+        "word_contain_sentence_num": 44416
+    }
+]

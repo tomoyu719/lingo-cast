@@ -1,0 +1,507 @@
+[
+    {
+        "word": "音",
+        "example": "様々 な 効果 音 を",
+        "word_contain_sentence_num": 3789
+    },
+    {
+        "word": "行け ない",
+        "example": "いる ので トイレ に 行け ない",
+        "word_contain_sentence_num": 31
+    },
+    {
+        "word": "行ける",
+        "example": "セントラル 駅 に 行ける よう",
+        "word_contain_sentence_num": 130
+    },
+    {
+        "word": "行け た",
+        "example": "行け た として も 自分 だけ",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "行け",
+        "example": "どこ に 行け ば よい",
+        "word_contain_sentence_num": 209
+    },
+    {
+        "word": "見え ない",
+        "example": "メリセルト の 姿 が 見え ない",
+        "word_contain_sentence_num": 322
+    },
+    {
+        "word": "見え なかっ た",
+        "example": "明子 に は 見え なかっ た が",
+        "word_contain_sentence_num": 18
+    },
+    {
+        "word": "見える",
+        "example": "に 見える よう に 見える",
+        "word_contain_sentence_num": 1721
+    },
+    {
+        "word": "見え た",
+        "example": "て いる よう に 見え た",
+        "word_contain_sentence_num": 158
+    },
+    {
+        "word": "見え",
+        "example": "いる よう に 見え た",
+        "word_contain_sentence_num": 1541
+    },
+    {
+        "word": "会え",
+        "example": "会え ない の が 恨めしい",
+        "word_contain_sentence_num": 40
+    },
+    {
+        "word": "会える",
+        "example": "に 会える と 思っ た",
+        "word_contain_sentence_num": 26
+    },
+    {
+        "word": "会え ない",
+        "example": "会え ない の だっ た が",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "会え て",
+        "example": "： あなた に 会え て よかっ",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "会え なかっ た",
+        "example": "に 会え なかっ た こと が ある",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "買え",
+        "example": "を 買え なかっ た ため",
+        "word_contain_sentence_num": 29
+    },
+    {
+        "word": "買え ない",
+        "example": "買え ない よう に し て",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "買える",
+        "example": "国会 議員 枠 で 買える",
+        "word_contain_sentence_num": 43
+    },
+    {
+        "word": "動け",
+        "example": "て 動け なく なっ て",
+        "word_contain_sentence_num": 104
+    },
+    {
+        "word": "動け なかっ た",
+        "example": "動け なかっ た",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "聞こえる",
+        "example": "の 音 が 聞こえる こと",
+        "word_contain_sentence_num": 147
+    },
+    {
+        "word": "聞こえ なかっ た",
+        "example": "お互い の 話 は 聞こえ なかっ た",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "聞こえ た",
+        "example": "よう な 音 が 聞こえ た",
+        "word_contain_sentence_num": 32
+    },
+    {
+        "word": "聞こえ",
+        "example": "が 聞こえ て き た",
+        "word_contain_sentence_num": 232
+    },
+    {
+        "word": "カード",
+        "example": "など の カード を 使い",
+        "word_contain_sentence_num": 3670
+    },
+    {
+        "word": "使え た",
+        "example": "息子 オワイン に 使え た が",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "使え ない",
+        "example": "もの の 武器 が 使え ない",
+        "word_contain_sentence_num": 136
+    },
+    {
+        "word": "使え",
+        "example": "版 で は 使え ない",
+        "word_contain_sentence_num": 425
+    },
+    {
+        "word": "使える",
+        "example": "に 使える よう に なっ",
+        "word_contain_sentence_num": 490
+    },
+    {
+        "word": "飲め",
+        "example": "お 酒 が 飲め ない",
+        "word_contain_sentence_num": 39
+    },
+    {
+        "word": "飲め ない",
+        "example": "お 酒 が 飲め ない が",
+        "word_contain_sentence_num": 19
+    },
+    {
+        "word": "書け て",
+        "example": "書け て い た 自由 な",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "書ける",
+        "example": "を 書ける よう に なっ",
+        "word_contain_sentence_num": 68
+    },
+    {
+        "word": "書け",
+        "example": "自分 に は 書け ない",
+        "word_contain_sentence_num": 95
+    },
+    {
+        "word": "作れ",
+        "example": "は 見せ場 を 作れ ば",
+        "word_contain_sentence_num": 107
+    },
+    {
+        "word": "作れる",
+        "example": "が 作れる よう に なっ",
+        "word_contain_sentence_num": 100
+    },
+    {
+        "word": "飛べ た",
+        "example": "年 に 飛べ た の は",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "飛べ ない",
+        "example": "飛べ ない 鳥 なんて いる の",
+        "word_contain_sentence_num": 14
+    },
+    {
+        "word": "飛べる",
+        "example": "を 飛べる よう に なる",
+        "word_contain_sentence_num": 21
+    },
+    {
+        "word": "飛べ",
+        "example": "飛行機 は 飛べ ない 鳥",
+        "word_contain_sentence_num": 33
+    },
+    {
+        "word": "食べ られ",
+        "example": "など で 食べ られ て いる",
+        "word_contain_sentence_num": 148
+    },
+    {
+        "word": "食べ られ ない",
+        "example": "食べ られ ない もの は 食べ られ",
+        "word_contain_sentence_num": 22
+    },
+    {
+        "word": "言わ ない で",
+        "example": "さよなら だけ は 言わ ない で スペシャル",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "言っ た",
+        "example": "と 言っ た 場合 は 手動",
+        "word_contain_sentence_num": 744
+    },
+    {
+        "word": "言わ なかっ た",
+        "example": "平生 余り 戯言 も 言わ なかっ た",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "言う",
+        "example": "し た と 言う と",
+        "word_contain_sentence_num": 3530
+    },
+    {
+        "word": "読め",
+        "example": "次いで 空気 が 読め ない",
+        "word_contain_sentence_num": 81
+    },
+    {
+        "word": "読め ない",
+        "example": "の まま 先 が 読め ない",
+        "word_contain_sentence_num": 30
+    },
+    {
+        "word": "読め た",
+        "example": "読め た 総 文字数 で 表記",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "読める",
+        "example": "が 読める よう に なっ",
+        "word_contain_sentence_num": 92
+    },
+    {
+        "word": "描け",
+        "example": "た 絵 は 描け ない",
+        "word_contain_sentence_num": 47
+    },
+    {
+        "word": "描け て",
+        "example": "デロップ を 手 描け て いる",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "信じ られ なかっ た",
+        "example": "ラウル は にわかに は 信じ られ なかっ た",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "信じ られ ない",
+        "example": "し た と は 信じ られ ない",
+        "word_contain_sentence_num": 62
+    },
+    {
+        "word": "信じ られ",
+        "example": "ある と 信じ られ て いる",
+        "word_contain_sentence_num": 339
+    },
+    {
+        "word": "信",
+        "example": "大和絵 西川 照 信 の",
+        "word_contain_sentence_num": 1564
+    },
+    {
+        "word": "直し た",
+        "example": "埋葬 し 直し た もの が",
+        "word_contain_sentence_num": 29
+    },
+    {
+        "word": "直す",
+        "example": "し 直す こと を 繰り返す",
+        "word_contain_sentence_num": 150
+    },
+    {
+        "word": "直し て",
+        "example": "に 解釈 し 直し て いる",
+        "word_contain_sentence_num": 34
+    },
+    {
+        "word": "踊り",
+        "example": "つ の ヴェール の 踊り",
+        "word_contain_sentence_num": 616
+    },
+    {
+        "word": "踊っ た",
+        "example": "バレエ・リュス の 主役 を 踊っ た",
+        "word_contain_sentence_num": 44
+    },
+    {
+        "word": "踊る",
+        "example": "を 踊る こと を 企画",
+        "word_contain_sentence_num": 330
+    },
+    {
+        "word": "でき なかっ た",
+        "example": "する こと が でき なかっ た が",
+        "word_contain_sentence_num": 1228
+    },
+    {
+        "word": "でき",
+        "example": "する こと が でき ない",
+        "word_contain_sentence_num": 17692
+    },
+    {
+        "word": "でき ない",
+        "example": "理解 する こと は でき ない",
+        "word_contain_sentence_num": 4561
+    },
+    {
+        "word": "でき た",
+        "example": "進出 する こと が でき た",
+        "word_contain_sentence_num": 2176
+    },
+    {
+        "word": "できる",
+        "example": "利用 する こと が できる",
+        "word_contain_sentence_num": 22547
+    },
+    {
+        "word": "でき て",
+        "example": "こと が でき て い ない",
+        "word_contain_sentence_num": 513
+    },
+    {
+        "word": "でき なく て",
+        "example": "言い換える こと が でき なく て も",
+        "word_contain_sentence_num": 14
+    },
+    {
+        "word": "どういう",
+        "example": "と は どういう もの で",
+        "word_contain_sentence_num": 118
+    },
+    {
+        "word": "こういう",
+        "example": "は こういう こと に なる",
+        "word_contain_sentence_num": 150
+    },
+    {
+        "word": "そういう",
+        "example": "そういう こと で は ない",
+        "word_contain_sentence_num": 292
+    },
+    {
+        "word": "直",
+        "example": "宇文 直 は 伊予 松山",
+        "word_contain_sentence_num": 2116
+    },
+    {
+        "word": "踊",
+        "example": "盆 踊 唄 の 一種",
+        "word_contain_sentence_num": 23
+    },
+    {
+        "word": "道具",
+        "example": "する ため の 道具 として",
+        "word_contain_sentence_num": 922
+    },
+    {
+        "word": "小説",
+        "example": "の 小説 家 で ある",
+        "word_contain_sentence_num": 4571
+    },
+    {
+        "word": "サラダ",
+        "example": "形 の フルーツ サラダ は",
+        "word_contain_sentence_num": 84
+    },
+    {
+        "word": "サンドイッチ",
+        "example": "サンドイッチ の よう に する",
+        "word_contain_sentence_num": 64
+    },
+    {
+        "word": "やすく",
+        "example": "が 利用 し やすく なる",
+        "word_contain_sentence_num": 904
+    },
+    {
+        "word": "やすかっ た",
+        "example": "し やすかっ た ため で ある",
+        "word_contain_sentence_num": 42
+    },
+    {
+        "word": "やすい",
+        "example": "し やすい よう に なっ",
+        "word_contain_sentence_num": 2023
+    },
+    {
+        "word": "やすく なかっ た",
+        "example": "使い やすく なかっ た ため で ある",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "にくい",
+        "example": "し にくい ため 蓄積 する",
+        "word_contain_sentence_num": 793
+    },
+    {
+        "word": "にくかっ た",
+        "example": "発見 し にくかっ た ため か",
+        "word_contain_sentence_num": 24
+    },
+    {
+        "word": "具",
+        "example": "魔法 や 魔法 具 を",
+        "word_contain_sentence_num": 623
+    },
+    {
+        "word": "仕方",
+        "example": "の 仕方 は どう だっ",
+        "word_contain_sentence_num": 332
+    },
+    {
+        "word": "のに",
+        "example": "の 動き が ない のに",
+        "word_contain_sentence_num": 1059
+    },
+    {
+        "word": "十 分",
+        "example": "ある ため の 必要 十 分",
+        "word_contain_sentence_num": 103
+    },
+    {
+        "word": "両方",
+        "example": "軍 の 両方 を 行い",
+        "word_contain_sentence_num": 1325
+    },
+    {
+        "word": "ぴかぴか",
+        "example": "ぴかぴか し て いる",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "ピカピカ",
+        "example": "は ピカピカ に 光っ て",
+        "word_contain_sentence_num": 10
+    },
+    {
+        "word": "読み方",
+        "example": "と 元号 の 読み方 は",
+        "word_contain_sentence_num": 85
+    },
+    {
+        "word": "書き方",
+        "example": "の 書き方 と に は",
+        "word_contain_sentence_num": 58
+    },
+    {
+        "word": "使い方",
+        "example": "の 使い方 を 教え て",
+        "word_contain_sentence_num": 197
+    },
+    {
+        "word": "泳ぎ方",
+        "example": "泳ぎ方 は 小回り が 効か",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "作り方",
+        "example": "の 作り方 を 教え た",
+        "word_contain_sentence_num": 105
+    },
+    {
+        "word": "み た",
+        "example": "は し て み た が",
+        "word_contain_sentence_num": 214
+    },
+    {
+        "word": "み て",
+        "example": "の 面倒 を み て いる",
+        "word_contain_sentence_num": 219
+    },
+    {
+        "word": "みたい",
+        "example": "みたい な もの な ん",
+        "word_contain_sentence_num": 285
+    },
+    {
+        "word": "みる",
+        "example": "と し て みる と",
+        "word_contain_sentence_num": 693
+    },
+    {
+        "word": "み",
+        "example": "い た と み られる",
+        "word_contain_sentence_num": 4457
+    }
+]

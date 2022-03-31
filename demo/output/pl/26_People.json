@@ -1,0 +1,218 @@
+[
+    {
+        "word": "człowiekiem",
+        "example": "był człowiekiem o",
+        "probs": "0.16699410609037327, 0, 0.10588235294117647",
+        "word_contain_sentence_num": 2225
+    },
+    {
+        "word": "dorosłych",
+        "example": "dla dorosłych w",
+        "probs": "0.22134387351778656, 0, 0.08928571428571429",
+        "word_contain_sentence_num": 3184
+    },
+    {
+        "word": "mężczyzn",
+        "example": "mężczyzn i XX",
+        "probs": "0, 0.15860735009671179, 0.25609756097560976",
+        "word_contain_sentence_num": 8666
+    },
+    {
+        "word": "kobiet",
+        "example": "kobiet i mężczyzn",
+        "probs": "0, 0.11954459203036052, 0.2857142857142857",
+        "word_contain_sentence_num": 13132
+    },
+    {
+        "word": "dziecko",
+        "example": "jako dziecko był",
+        "probs": "0.23471400394477318, 0, 0.06722689075630252",
+        "word_contain_sentence_num": 5318
+    },
+    {
+        "word": "dziewczyny",
+        "example": "młodej dziewczyny imieniem",
+        "probs": "0.04771371769383698, 0, 0.08333333333333333",
+        "word_contain_sentence_num": 2070
+    },
+    {
+        "word": "chłopak",
+        "example": "jako młody chłopak",
+        "probs": "0.39285714285714285, 0.1111111111111111, 0",
+        "word_contain_sentence_num": 1132
+    },
+    {
+        "word": "kolega",
+        "example": "jego kolega z",
+        "probs": "0.40993788819875776, 0, 0.3207171314741036",
+        "word_contain_sentence_num": 599
+    },
+    {
+        "word": "przyjaciół",
+        "example": "rodziny i przyjaciół",
+        "probs": "0.2962962962962963, 0.10714285714285714, 0",
+        "word_contain_sentence_num": 3494
+    },
+    {
+        "word": "wrogiem",
+        "example": "walki z wrogiem",
+        "probs": "0.1015625, 0.25396825396825395, 0",
+        "word_contain_sentence_num": 840
+    },
+    {
+        "word": "grupy",
+        "example": "należał do grupy",
+        "probs": "0.109375, 0.12284069097888675, 0",
+        "word_contain_sentence_num": 36130
+    },
+    {
+        "word": "pan",
+        "example": "pan na zamku",
+        "probs": "0, 0.039473684210526314, 0.09523809523809523",
+        "word_contain_sentence_num": 1390
+    },
+    {
+        "word": "pani",
+        "example": "pani de la",
+        "probs": "0, 0.046065259117082535, 0.125",
+        "word_contain_sentence_num": 1730
+    },
+    {
+        "word": "znajomy",
+        "example": "jego znajomy z",
+        "probs": "0.1469387755102041, 0, 0.1388888888888889",
+        "word_contain_sentence_num": 244
+    },
+    {
+        "word": "społeczeństwo",
+        "example": "ufundowany przez społeczeństwo",
+        "probs": "0.20689655172413793, 0.169921875, 0",
+        "word_contain_sentence_num": 1685
+    },
+    {
+        "word": "naród",
+        "example": "że naród polski",
+        "probs": "0.05747126436781609, 0, 0.1",
+        "word_contain_sentence_num": 866
+    },
+    {
+        "word": "ofiara",
+        "example": "ofiara zbrodni katyńskiej",
+        "probs": "0, 0.12524461839530332, 0.953125",
+        "word_contain_sentence_num": 720
+    },
+    {
+        "word": "osobą",
+        "example": "związane z osobą",
+        "probs": "0.07407407407407407, 0.16135458167330677, 0",
+        "word_contain_sentence_num": 3144
+    },
+    {
+        "word": "wieś",
+        "example": "roku XXXX wieś",
+        "probs": "0.38181818181818183, 0.10576923076923077, 0",
+        "word_contain_sentence_num": 20843
+    },
+    {
+        "word": "kulturę",
+        "example": "historię i kulturę",
+        "probs": "0.11594202898550725, 0.134765625, 0",
+        "word_contain_sentence_num": 1699
+    },
+    {
+        "word": "związek",
+        "example": "ma związek z",
+        "probs": "0.13013698630136986, 0, 0.2802303262955854",
+        "word_contain_sentence_num": 6789
+    },
+    {
+        "word": "sąsiad",
+        "example": "jego sąsiad winston",
+        "probs": "0.13970588235294118, 0, 0.05263157894736842",
+        "word_contain_sentence_num": 136
+    },
+    {
+        "word": "obywatelom",
+        "example": "przysługuje wszystkim obywatelom",
+        "probs": "0.08333333333333333, 0.07422680412371134, 0",
+        "word_contain_sentence_num": 476
+    },
+    {
+        "word": "fundacja",
+        "example": "XXXX roku fundacja",
+        "probs": "0.9210526315789473, 0.07142857142857142, 0",
+        "word_contain_sentence_num": 541
+    },
+    {
+        "word": "parą",
+        "example": "z parą wodną",
+        "probs": "0.3645224171539961, 0, 0.0855614973262032",
+        "word_contain_sentence_num": 1282
+    },
+    {
+        "word": "partner",
+        "example": "i jego partner",
+        "probs": "0.22, 0.1953125, 0",
+        "word_contain_sentence_num": 672
+    },
+    {
+        "word": "młodzieży",
+        "example": "dzieci i młodzieży",
+        "probs": "0.8468468468468469, 0.2172211350293542, 0",
+        "word_contain_sentence_num": 6210
+    },
+    {
+        "word": "konferencja",
+        "example": "odbyła się konferencja",
+        "probs": "0.8768115942028986, 0.26744186046511625, 0",
+        "word_contain_sentence_num": 665
+    },
+    {
+        "word": "gość",
+        "example": "jako gość specjalny",
+        "probs": "0.562, 0, 0.29537366548042704",
+        "word_contain_sentence_num": 499
+    },
+    {
+        "word": "adamem",
+        "example": "adamem",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "julię",
+        "example": "julię",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "martę",
+        "example": "martę",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "jacek",
+        "example": "jacek",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "imienia",
+        "example": "od jego imienia",
+        "probs": "0.19718309859154928, 0.1392156862745098, 0",
+        "word_contain_sentence_num": 6074
+    },
+    {
+        "word": "nazwisko",
+        "example": "jego nazwisko znalazło",
+        "probs": "0.21875, 0, 0.16964285714285715",
+        "word_contain_sentence_num": 5486
+    },
+    {
+        "word": "jak",
+        "example": "jak i w",
+        "probs": "0, 0.22674418604651161, 0.08547008547008547",
+        "word_contain_sentence_num": 153756
+    }
+]

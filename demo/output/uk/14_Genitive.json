@@ -1,0 +1,158 @@
+[
+    {
+        "word": "води",
+        "example": "мінеральні води",
+        "probs": "0.2857142857142857, 0.0379746835443038, 0",
+        "word_contain_sentence_num": 20615
+    },
+    {
+        "word": "машини",
+        "example": "агрегатів машини",
+        "probs": "1.0, 0.047619047619047616, 0",
+        "word_contain_sentence_num": 9661
+    },
+    {
+        "word": "сестри",
+        "example": "дві сестри",
+        "probs": "0.24390243902439024, 0.25, 0",
+        "word_contain_sentence_num": 3745
+    },
+    {
+        "word": "роботи",
+        "example": "відмовився від роботи",
+        "probs": "0.16666666666666666, 0.07142857142857142, 0",
+        "word_contain_sentence_num": 45401
+    },
+    {
+        "word": "немає",
+        "example": "авіоли згадок немає",
+        "probs": "0.2, 0.050505050505050504, 0",
+        "word_contain_sentence_num": 13181
+    },
+    {
+        "word": "у мене немає",
+        "example": "у мене немає",
+        "probs": "0",
+        "word_contain_sentence_num": 49
+    },
+    {
+        "word": "у вас немає",
+        "example": "у вас немає",
+        "probs": "0",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "без",
+        "example": "без того",
+        "probs": "0.025193798449612403, 0, 0.15384615384615385",
+        "word_contain_sentence_num": 40091
+    },
+    {
+        "word": "кави",
+        "example": "чаю і кави",
+        "probs": "0.29411764705882354, 0.07476635514018691, 0",
+        "word_contain_sentence_num": 903
+    },
+    {
+        "word": "риби",
+        "example": "це демерсальні риби",
+        "probs": "0.9444444444444444, 0.15254237288135594, 0",
+        "word_contain_sentence_num": 3384
+    },
+    {
+        "word": "піци",
+        "example": "при приготуванні піци",
+        "probs": "0.5, 0.08333333333333333, 0",
+        "word_contain_sentence_num": 82
+    },
+    {
+        "word": "сиру",
+        "example": "масла і сиру",
+        "probs": "0.125, 0.0641025641025641, 0",
+        "word_contain_sentence_num": 698
+    },
+    {
+        "word": "лимону",
+        "example": "з ароматом лимону",
+        "probs": "1.0, 0.16666666666666666, 0",
+        "word_contain_sentence_num": 34
+    },
+    {
+        "word": "без цукру",
+        "example": "готується без цукру",
+        "probs": "0.07407407407407407, 0",
+        "word_contain_sentence_num": 47
+    },
+    {
+        "word": "без хліба",
+        "example": "залишившись без хліба",
+        "probs": "0.10526315789473684, 0",
+        "word_contain_sentence_num": 37
+    },
+    {
+        "word": "цукор",
+        "example": "какао та цукор",
+        "probs": "0.16666666666666666, 0.11428571428571428, 0",
+        "word_contain_sentence_num": 757
+    },
+    {
+        "word": "масла",
+        "example": "вершкового масла",
+        "probs": "0.23157894736842105, 0",
+        "word_contain_sentence_num": 714
+    },
+    {
+        "word": "сала",
+        "example": "м'яса і сала",
+        "probs": "0.6666666666666666, 0.2, 0",
+        "word_contain_sentence_num": 137
+    },
+    {
+        "word": "м'яса",
+        "example": "молока та м'яса",
+        "probs": "0.45454545454545453, 0.09195402298850575, 0",
+        "word_contain_sentence_num": 1893
+    },
+    {
+        "word": "молока",
+        "example": "м'яса і молока",
+        "probs": "0.25, 0.06086956521739131, 0",
+        "word_contain_sentence_num": 2059
+    },
+    {
+        "word": "вина",
+        "example": "шафи для вина",
+        "probs": "0.1111111111111111, 0.07894736842105263, 0",
+        "word_contain_sentence_num": 2125
+    },
+    {
+        "word": "брата",
+        "example": "смерті свого брата",
+        "probs": "0.07407407407407407, 0.1594488188976378, 0",
+        "word_contain_sentence_num": 8716
+    },
+    {
+        "word": "сина",
+        "example": "користь свого сина",
+        "probs": "0.08163265306122448, 0.14545454545454545, 0",
+        "word_contain_sentence_num": 14044
+    },
+    {
+        "word": "батька",
+        "example": "смерті свого батька",
+        "probs": "0.14814814814814814, 0.23655913978494625, 0",
+        "word_contain_sentence_num": 16380
+    },
+    {
+        "word": "друга",
+        "example": "від свого друга",
+        "probs": "0.08163265306122448, 0.09683794466403162, 0",
+        "word_contain_sentence_num": 7599
+    },
+    {
+        "word": "віктора",
+        "example": "віктора",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    }
+]

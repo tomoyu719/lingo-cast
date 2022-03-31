@@ -1,0 +1,112 @@
+[
+    {
+        "word": "знаю",
+        "example": "Я не знаю чи",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "думаєте",
+        "example": "ви думаєте",
+        "word_contain_sentence_num": 43
+    },
+    {
+        "word": "українська",
+        "example": "— українська радянська діячка",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "англійську",
+        "example": "перекладено на англійську мову",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "читає",
+        "example": "читає лекції з історії",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "слухати",
+        "example": "не захотів його слухати",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "музику",
+        "example": "покладених на музику",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "книга",
+        "example": "книга була створена",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "журнал",
+        "example": "журнал",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "блог",
+        "example": "веде блог на сайті",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "радіо",
+        "example": "лише виходили на радіо",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "планують",
+        "example": "вони планують інвестувати",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "зустріч",
+        "example": "на зустріч з Миколою",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "візит",
+        "example": "здійснив офіційний візит до",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "подорож",
+        "example": "подорож до Італії",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "готувати",
+        "example": "почав готувати її",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "працюєте",
+        "example": "над якими ви працюєте",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "подорожувати",
+        "example": "змогу подорожувати по світу",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "бачите",
+        "example": "яку ви бачите на",
+        "word_contain_sentence_num": 63
+    },
+    {
+        "word": "вчити",
+        "example": "вчити людей релігії",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "говорити",
+        "example": "не можна говорити про",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "мови",
+        "example": "української мови та літератури",
+        "word_contain_sentence_num": 201
+    }
+]

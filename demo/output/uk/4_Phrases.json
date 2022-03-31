@@ -1,0 +1,122 @@
+[
+    {
+        "word": "привіт",
+        "example": "майбутнє шлю привіт",
+        "probs": "0.3333333333333333, 0.14285714285714285, 0",
+        "word_contain_sentence_num": 67
+    },
+    {
+        "word": "добрий день",
+        "example": "добрий день",
+        "probs": "0",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "добрий ранок",
+        "example": "добрий ранок",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "добрий вечір",
+        "example": "вечір добрий вечір",
+        "probs": "0.07407407407407407, 0",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "до побачення",
+        "example": "сказати до побачення",
+        "probs": "0.09302325581395349, 0",
+        "word_contain_sentence_num": 118
+    },
+    {
+        "word": "віктор",
+        "example": "віктор четін розпочав",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "мені теж",
+        "example": "мені теж хотілося",
+        "probs": "0, 0.3333333333333333",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "вас звати",
+        "example": "вас звати",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "вікторія",
+        "example": "вікторія амазонська надає",
+        "probs": "0, 0.15384615384615385, 0.5",
+        "word_contain_sentence_num": 11
+    },
+    {
+        "word": "мене звати",
+        "example": "як мене звати",
+        "probs": "0.4, 0",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "дуже приємно",
+        "example": "було дуже приємно",
+        "probs": "0.2608695652173913, 0",
+        "word_contain_sentence_num": 32
+    },
+    {
+        "word": "як",
+        "example": "як",
+        "probs": "0, 0.055133079847908745, 0.1724137931034483",
+        "word_contain_sentence_num": 332842
+    },
+    {
+        "word": "вибачте",
+        "example": "вибачте мене",
+        "probs": "0, 0.13333333333333333",
+        "word_contain_sentence_num": 14
+    },
+    {
+        "word": "мене звуть",
+        "example": "так мене звуть",
+        "probs": "0.2, 0",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "як справи?",
+        "example": "як справи?",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "дякую",
+        "example": "я дякую вам",
+        "probs": "0.25862068965517243, 0, 0.3333333333333333",
+        "word_contain_sentence_num": 56
+    },
+    {
+        "word": "добре",
+        "example": "добре організований",
+        "probs": "0.03968253968253968, 0, 0.1",
+        "word_contain_sentence_num": 15839
+    },
+    {
+        "word": "погано",
+        "example": "дуже погано",
+        "probs": "0.16666666666666666, 0.1282051282051282, 0",
+        "word_contain_sentence_num": 2772
+    },
+    {
+        "word": "так собі",
+        "example": "це так собі",
+        "probs": "0.16666666666666666, 0",
+        "word_contain_sentence_num": 597
+    },
+    {
+        "word": "будь ласка",
+        "example": "будь ласка",
+        "probs": "0, 0.03389830508474576",
+        "word_contain_sentence_num": 56
+    }
+]

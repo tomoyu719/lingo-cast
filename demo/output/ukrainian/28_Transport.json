@@ -1,0 +1,107 @@
+[
+    {
+        "word": "таксі",
+        "example": "широко використовується в таксі",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "метро",
+        "example": "1 біля станції метро",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "тролейбус",
+        "example": "придбаний лише 1 тролейбус",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "транспорт",
+        "example": "авто- і залізничний транспорт",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "трамвай",
+        "example": "конку замінив електричний трамвай",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "автобус",
+        "example": "курсує міжміський рейковий автобус",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "поїзд",
+        "example": "щоб потрапити на поїзд",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "літак",
+        "example": "збитий ворожий літак",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "корабель",
+        "example": "наказав затопити корабель",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "маршрутка",
+        "example": "разів на день маршрутка",
+        "word_contain_sentence_num": 20
+    },
+    {
+        "word": "на автобусі",
+        "example": "до міста на автобусі",
+        "word_contain_sentence_num": 150
+    },
+    {
+        "word": "на тролейбусі",
+        "example": "на тролейбусі стоїть система",
+        "word_contain_sentence_num": 24
+    },
+    {
+        "word": "на поїзді",
+        "example": "наздоганяють його на поїзді",
+        "word_contain_sentence_num": 190
+    },
+    {
+        "word": "на машині",
+        "example": "на машині з ручним",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "на літаку",
+        "example": "Зумів втекти на літаку",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "на маршрутці",
+        "example": "можна дістатися на маршрутці",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "проїзд",
+        "example": "плати за проїзд на",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "квиток",
+        "example": "партійний квиток № 1",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "наступна",
+        "example": "наступна : у киян",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "автостанція",
+        "example": "діє пристань та автостанція",
+        "word_contain_sentence_num": 110
+    },
+    {
+        "word": "зупинці",
+        "example": "на зупинці громадського транспорту",
+        "word_contain_sentence_num": 172
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "word": "літо",
+        "example": "літо відмикати",
+        "probs": "0, 0.25",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "пора року",
+        "example": "пора року",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "осінь",
+        "example": "осінь шляхи розмила",
+        "probs": "0, 0.2, 1.0",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "зима",
+        "example": "зима XXXX года",
+        "probs": "0, 0.09404990403071017, 0.1836734693877551",
+        "word_contain_sentence_num": 1556
+    },
+    {
+        "word": "весну",
+        "example": "весну XXXX года",
+        "probs": "0, 0.30278884462151395, 0.868421052631579",
+        "word_contain_sentence_num": 1137
+    },
+    {
+        "word": "тепле",
+        "example": "в тепле",
+        "probs": "0.625, 0, 0.32",
+        "word_contain_sentence_num": 80
+    },
+    {
+        "word": "грудень",
+        "example": "грудень XXXX",
+        "probs": "0, 0.5",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "січень",
+        "example": "січень XXXX",
+        "probs": "0, 0.3333333333333333",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "лютий",
+        "example": "лютий",
+        "probs": "0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "березень",
+        "example": "березень XXXX",
+        "probs": "0, 0.6666666666666666",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "квітень",
+        "example": "що не квітень",
+        "probs": "1.0, 0.5, 0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "травень",
+        "example": "травень",
+        "probs": "0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "місяць",
+        "example": "місяць у небі",
+        "probs": "0, 0.5, 1.0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "червень",
+        "example": "червень XXXX",
+        "probs": "0, 0.4",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "липень",
+        "example": "липень XXXX",
+        "probs": "0, 0.3333333333333333",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "серпень",
+        "example": "гарячий серпень",
+        "probs": "0.25, 0",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "вересень",
+        "example": "тревожный месяц вересень",
+        "probs": "1.0, 0.6666666666666666, 0",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "жовтень",
+        "example": "червоный жовтень",
+        "probs": "0.6666666666666666, 0",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "листопад",
+        "example": "массовый листопад",
+        "probs": "0.5, 0, 0.13793103448275862",
+        "word_contain_sentence_num": 28
+    }
+]

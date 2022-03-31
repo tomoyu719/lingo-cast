@@ -1,0 +1,296 @@
+[
+    {
+        "word": "noc",
+        "example": "w noc sylwestrową",
+        "probs": "0.137524557956778, 0, 0.22857142857142856",
+        "word_contain_sentence_num": 2265
+    },
+    {
+        "word": "dziś",
+        "example": "do dziś jest",
+        "probs": "0.5308151093439364, 0, 0.0449438202247191",
+        "word_contain_sentence_num": 15975
+    },
+    {
+        "word": "jutro",
+        "example": "dziś i jutro",
+        "probs": "0.8064516129032258, 0.12916666666666668, 0",
+        "word_contain_sentence_num": 234
+    },
+    {
+        "word": "rano",
+        "example": "o X rano",
+        "probs": "0.2708333333333333, 0.19047619047619047, 0",
+        "word_contain_sentence_num": 1962
+    },
+    {
+        "word": "czas",
+        "example": "przez pewien czas",
+        "probs": "0.8055555555555556, 0.14173228346456693, 0",
+        "word_contain_sentence_num": 25953
+    },
+    {
+        "word": "wieczorem",
+        "example": "późnym wieczorem XX",
+        "probs": "0.17105263157894737, 0, 0.1504950495049505",
+        "word_contain_sentence_num": 1778
+    },
+    {
+        "word": "po południu",
+        "example": "po południu w",
+        "probs": "0, 0.05574912891986063",
+        "word_contain_sentence_num": 934
+    },
+    {
+        "word": "kalendarz",
+        "example": "kalendarz gregoriański w",
+        "probs": "0, 0.06605504587155964, 0.1111111111111111",
+        "word_contain_sentence_num": 497
+    },
+    {
+        "word": "poniedziałek",
+        "example": "w poniedziałek XX",
+        "probs": "0.6034063260340633, 0, 0.2620967741935484",
+        "word_contain_sentence_num": 396
+    },
+    {
+        "word": "wtorek",
+        "example": "we wtorek XX",
+        "probs": "0.512987012987013, 0, 0.2974683544303797",
+        "word_contain_sentence_num": 303
+    },
+    {
+        "word": "środa",
+        "example": "krwawa środa w",
+        "probs": "0.14893617021276595, 0, 0.14285714285714285",
+        "word_contain_sentence_num": 45
+    },
+    {
+        "word": "czwartek",
+        "example": "w czwartek XX",
+        "probs": "0.4906976744186046, 0, 0.35545023696682465",
+        "word_contain_sentence_num": 412
+    },
+    {
+        "word": "piątek",
+        "example": "w piątek XX",
+        "probs": "0.5117647058823529, 0, 0.31800766283524906",
+        "word_contain_sentence_num": 627
+    },
+    {
+        "word": "dzień",
+        "example": "w dzień i",
+        "probs": "0.1252371916508539, 0, 0.13636363636363635",
+        "word_contain_sentence_num": 10507
+    },
+    {
+        "word": "w",
+        "example": "w XXXX roku",
+        "probs": "0, 0.13493975903614458, 0.38392857142857145",
+        "word_contain_sentence_num": 3343636
+    },
+    {
+        "word": "sobota",
+        "example": "i złota sobota",
+        "probs": "0.5, 0.08163265306122448, 0",
+        "word_contain_sentence_num": 92
+    },
+    {
+        "word": "niedziela",
+        "example": "krwawa niedziela w",
+        "probs": "0.0995850622406639, 0, 0.20833333333333334",
+        "word_contain_sentence_num": 213
+    },
+    {
+        "word": "rok",
+        "example": "a rok później",
+        "probs": "0.3263888888888889, 0, 0.2845849802371542",
+        "word_contain_sentence_num": 32373
+    },
+    {
+        "word": "wiek",
+        "example": "względu na wiek",
+        "probs": "0.5740740740740741, 0.10266159695817491, 0",
+        "word_contain_sentence_num": 5878
+    },
+    {
+        "word": "tydzień",
+        "example": "tydzień później w",
+        "probs": "0, 0.2648221343873518, 0.1865671641791045",
+        "word_contain_sentence_num": 2336
+    },
+    {
+        "word": "miesiąc",
+        "example": "a miesiąc później",
+        "probs": "0.15436241610738255, 0, 0.2962226640159046",
+        "word_contain_sentence_num": 3123
+    },
+    {
+        "word": "godzina",
+        "example": "godzina XX minut",
+        "probs": "0, 0.13333333333333333, 0.1111111111111111",
+        "word_contain_sentence_num": 257
+    },
+    {
+        "word": "weekend",
+        "example": "w weekend otwarcia",
+        "probs": "0.17254901960784313, 0, 0.32954545454545453",
+        "word_contain_sentence_num": 490
+    },
+    {
+        "word": "styczeń",
+        "example": "na styczeń XXXX",
+        "probs": "0.5305555555555556, 0, 0.6936416184971098",
+        "word_contain_sentence_num": 1181
+    },
+    {
+        "word": "luty",
+        "example": "na luty XXXX",
+        "probs": "0.15606936416184972, 0, 0.6479400749063671",
+        "word_contain_sentence_num": 597
+    },
+    {
+        "word": "marzec",
+        "example": "na marzec XXXX",
+        "probs": "0.24102564102564103, 0, 0.7155963302752294",
+        "word_contain_sentence_num": 591
+    },
+    {
+        "word": "kwiecień",
+        "example": "na kwiecień XXXX",
+        "probs": "0.2, 0, 0.6272727272727273",
+        "word_contain_sentence_num": 620
+    },
+    {
+        "word": "maj",
+        "example": "na maj XXXX",
+        "probs": "0.13157894736842105, 0, 0.5703564727954972",
+        "word_contain_sentence_num": 726
+    },
+    {
+        "word": "czerwiec",
+        "example": "na czerwiec XXXX",
+        "probs": "0.14473684210526316, 0, 0.5661080074487895",
+        "word_contain_sentence_num": 649
+    },
+    {
+        "word": "data",
+        "example": "dokładna data powstania",
+        "probs": "0.2119460500963391, 0, 0.15454545454545454",
+        "word_contain_sentence_num": 2595
+    },
+    {
+        "word": "lipiec",
+        "example": "na lipiec XXXX",
+        "probs": "0.16666666666666666, 0, 0.4867924528301887",
+        "word_contain_sentence_num": 757
+    },
+    {
+        "word": "sierpień",
+        "example": "na sierpień XXXX",
+        "probs": "0.12618296529968454, 0, 0.5958646616541353",
+        "word_contain_sentence_num": 647
+    },
+    {
+        "word": "wrzesień",
+        "example": "na wrzesień XXXX",
+        "probs": "0.2111111111111111, 0, 0.6741573033707865",
+        "word_contain_sentence_num": 701
+    },
+    {
+        "word": "październik",
+        "example": "na październik XXXX",
+        "probs": "0.17714285714285713, 0, 0.6554307116104869",
+        "word_contain_sentence_num": 699
+    },
+    {
+        "word": "listopad",
+        "example": "na listopad XXXX",
+        "probs": "0.10109289617486339, 0, 0.6931818181818182",
+        "word_contain_sentence_num": 550
+    },
+    {
+        "word": "grudzień",
+        "example": "na grudzień XXXX",
+        "probs": "0.21875, 0, 0.7314285714285714",
+        "word_contain_sentence_num": 639
+    },
+    {
+        "word": "zima",
+        "example": "ostra zima XXXX",
+        "probs": "0.10638297872340426, 0, 0.1323943661971831",
+        "word_contain_sentence_num": 353
+    },
+    {
+        "word": "wiosna",
+        "example": "wiosna XXXX roku",
+        "probs": "0, 0.22375690607734808, 0.2222222222222222",
+        "word_contain_sentence_num": 326
+    },
+    {
+        "word": "lato",
+        "example": "lato XXXX roku",
+        "probs": "0, 0.185546875, 0.2736842105263158",
+        "word_contain_sentence_num": 857
+    },
+    {
+        "word": "jesień",
+        "example": "na jesień XXXX",
+        "probs": "0.4444444444444444, 0, 0.3306122448979592",
+        "word_contain_sentence_num": 465
+    },
+    {
+        "word": "okres",
+        "example": "na okres od",
+        "probs": "0.16085271317829458, 0, 0.13253012048192772",
+        "word_contain_sentence_num": 14450
+    },
+    {
+        "word": "minuta",
+        "example": "X minuta to",
+        "probs": "0.21794871794871795, 0, 0.11764705882352941",
+        "word_contain_sentence_num": 75
+    },
+    {
+        "word": "pora roku",
+        "example": "pora roku trwa",
+        "probs": "0, 0.09090909090909091",
+        "word_contain_sentence_num": 66
+    },
+    {
+        "word": "impreza",
+        "example": "cykliczna impreza organizowana",
+        "probs": "0.05765407554671968, 0, 0.20689655172413793",
+        "word_contain_sentence_num": 833
+    },
+    {
+        "word": "pokolenie",
+        "example": "pokolenia na pokolenie",
+        "probs": "0.9117647058823529, 0.19729206963249515, 0",
+        "word_contain_sentence_num": 970
+    },
+    {
+        "word": "urodziny",
+        "example": "swoje XX urodziny",
+        "probs": "0.2962962962962963, 0.1067193675889328, 0",
+        "word_contain_sentence_num": 612
+    },
+    {
+        "word": "dekada",
+        "example": "pierwsza dekada xxi",
+        "probs": "0.17582417582417584, 0, 0.3125",
+        "word_contain_sentence_num": 91
+    },
+    {
+        "word": "sekunda",
+        "example": "X sekunda przerwy",
+        "probs": "0.16666666666666666, 0, 0.25",
+        "word_contain_sentence_num": 45
+    },
+    {
+        "word": "chwila",
+        "example": "co chwila się",
+        "probs": "0.17088607594936708, 0, 0.07407407407407407",
+        "word_contain_sentence_num": 156
+    }
+]

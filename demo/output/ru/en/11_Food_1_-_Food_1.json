@@ -1,0 +1,146 @@
+[
+    {
+        "word": "сир",
+        "example": "сир де кран",
+        "probs": "0, 0.17518248175182483, 0.125",
+        "word_contain_sentence_num": 125
+    },
+    {
+        "word": "вино",
+        "example": "вино и фрукты",
+        "probs": "0, 0.08193668528864059, 0.09090909090909091",
+        "word_contain_sentence_num": 2643
+    },
+    {
+        "word": "майонез",
+        "example": "майонез и кетчуп",
+        "probs": "0, 0.09210526315789473, 0.2857142857142857",
+        "word_contain_sentence_num": 75
+    },
+    {
+        "word": "масло",
+        "example": "эфирное масло",
+        "probs": "0.1270718232044199, 0, 0.043478260869565216",
+        "word_contain_sentence_num": 3665
+    },
+    {
+        "word": "макарони",
+        "example": "античности появляется макарони",
+        "probs": "1.0, 0.5, 0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "яйця",
+        "example": "зоряні яйця",
+        "probs": "1.0, 0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "вареники",
+        "example": "вареники с творогом",
+        "probs": "0, 0.11904761904761904, 0.2",
+        "word_contain_sentence_num": 42
+    },
+    {
+        "word": "салат",
+        "example": "салат из капусты",
+        "probs": "0, 0.14838709677419354, 0.08695652173913043",
+        "word_contain_sentence_num": 290
+    },
+    {
+        "word": "риба",
+        "example": "риба является",
+        "probs": "0.17857142857142858, 0, 0.4",
+        "word_contain_sentence_num": 27
+    },
+    {
+        "word": "піца",
+        "example": "піца",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "кава",
+        "example": "кава и ткань",
+        "probs": "0, 0.08571428571428572, 0.3333333333333333",
+        "word_contain_sentence_num": 33
+    },
+    {
+        "word": "вода",
+        "example": "вода в реке",
+        "probs": "0, 0.07514450867052024, 0.15384615384615385",
+        "word_contain_sentence_num": 10271
+    },
+    {
+        "word": "каша",
+        "example": "каша из кукурузной",
+        "probs": "0, 0.1449814126394052, 0.10256410256410256",
+        "word_contain_sentence_num": 257
+    },
+    {
+        "word": "ковбаса",
+        "example": "ковбаса",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "каву",
+        "example": "каву традиционным способом",
+        "probs": "0, 0.1111111111111111, 1.0",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "піцу",
+        "example": "піцу",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "ковбасу",
+        "example": "дайте ковбасу",
+        "probs": "1.0, 0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "воду",
+        "example": "на воду XX",
+        "probs": "0.3567251461988304, 0, 0.3333333333333333",
+        "word_contain_sentence_num": 13367
+    },
+    {
+        "word": "кашу",
+        "example": "в кашу один",
+        "probs": "0.076, 0, 0.05263157894736842",
+        "word_contain_sentence_num": 246
+    },
+    {
+        "word": "рибу",
+        "example": "рибу от дебитора",
+        "probs": "0, 0.3333333333333333, 1.0",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "сніданок",
+        "example": "сніданок",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "обід",
+        "example": "сусід на обід",
+        "probs": "1.0, 1.0, 0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "вечеря",
+        "example": "тайная вечеря",
+        "probs": "0.8675496688741722, 0, 0.022900763358778626",
+        "word_contain_sentence_num": 147
+    },
+    {
+        "word": "десерт",
+        "example": "на десерт подают",
+        "probs": "0.18473895582329317, 0, 0.13043478260869565",
+        "word_contain_sentence_num": 248
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "word": "хобі",
+        "example": "як хобі",
+        "translate": "as a hobby",
+        "word_contain_sentence_num": 340
+    },
+    {
+        "word": "робити",
+        "example": "відмовився це робити",
+        "translate": "refused to do so",
+        "word_contain_sentence_num": 4543
+    },
+    {
+        "word": "спорт",
+        "example": "на професійний спорт",
+        "translate": "for professional sports",
+        "word_contain_sentence_num": 1052
+    },
+    {
+        "word": "кіно",
+        "example": "кар'єру в кіно",
+        "translate": "career in cinema",
+        "word_contain_sentence_num": 8660
+    },
+    {
+        "word": "вебдизайн",
+        "example": "вебдизайн зазвичай використовують",
+        "translate": "web design is commonly used",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "історія",
+        "example": "це історія про",
+        "translate": "this is a story about",
+        "word_contain_sentence_num": 7370
+    },
+    {
+        "word": "література",
+        "example": "мова і література",
+        "translate": "language and literature",
+        "word_contain_sentence_num": 2397
+    },
+    {
+        "word": "ваше",
+        "example": "змінити ваше життя",
+        "translate": "change your life",
+        "word_contain_sentence_num": 120
+    },
+    {
+        "word": "читати",
+        "example": "вміли читати XX",
+        "translate": "were able to read XX",
+        "word_contain_sentence_num": 2355
+    },
+    {
+        "word": "готувати",
+        "example": "почав готувати",
+        "translate": "started cooking",
+        "word_contain_sentence_num": 901
+    },
+    {
+        "word": "співати",
+        "example": "хтось буде співати",
+        "translate": "someone will sing",
+        "word_contain_sentence_num": 1048
+    },
+    {
+        "word": "подорожувати",
+        "example": "подорожувати по світу",
+        "translate": "travel the world",
+        "word_contain_sentence_num": 568
+    },
+    {
+        "word": "писати",
+        "example": "почав писати вірші",
+        "translate": "began to write poetry",
+        "word_contain_sentence_num": 4348
+    },
+    {
+        "word": "фотографувати",
+        "example": "почав фотографувати",
+        "translate": "started taking pictures",
+        "word_contain_sentence_num": 99
+    },
+    {
+        "word": "танцювати",
+        "example": "співати і танцювати",
+        "translate": "sing and dance",
+        "word_contain_sentence_num": 411
+    },
+    {
+        "word": "бігати",
+        "example": "бігати по колу",
+        "translate": "run in a circle",
+        "word_contain_sentence_num": 192
+    },
+    {
+        "word": "грати у",
+        "example": "почав грати у",
+        "translate": "started playing in",
+        "word_contain_sentence_num": 2655
+    },
+    {
+        "word": "грати на",
+        "example": "почав грати на",
+        "translate": "started playing on",
+        "word_contain_sentence_num": 2845
+    },
+    {
+        "word": "піаніно",
+        "example": "грати на піаніно",
+        "translate": "play the piano",
+        "word_contain_sentence_num": 462
+    },
+    {
+        "word": "шахи",
+        "example": "грати в шахи",
+        "translate": "Play Chess",
+        "word_contain_sentence_num": 750
+    },
+    {
+        "word": "банджо",
+        "example": "грати на банджо",
+        "translate": "play the banjo",
+        "word_contain_sentence_num": 81
+    },
+    {
+        "word": "баскетбол",
+        "example": "баскетбол у команді",
+        "translate": "basketball in the team",
+        "word_contain_sentence_num": 488
+    },
+    {
+        "word": "теніс",
+        "example": "грати в теніс",
+        "translate": "Play Tennis",
+        "word_contain_sentence_num": 417
+    },
+    {
+        "word": "футбол",
+        "example": "грати у футбол",
+        "translate": "play football",
+        "word_contain_sentence_num": 2399
+    },
+    {
+        "word": "люблять",
+        "example": "вони не люблять",
+        "translate": "they don't like",
+        "word_contain_sentence_num": 701
+    },
+    {
+        "word": "машини",
+        "example": "особливості друкарської машини",
+        "translate": "features of the printing machine",
+        "word_contain_sentence_num": 9661
+    },
+    {
+        "word": "компьютери",
+        "example": "компьютери чи мобільні",
+        "translate": "computers or mobile",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "письменник",
+        "example": "відомий український письменник",
+        "translate": "famous Ukrainian writer",
+        "word_contain_sentence_num": 5281
+    },
+    {
+        "word": "письменниця",
+        "example": "українська письменниця ольга",
+        "translate": "Ukrainian writer Olga",
+        "word_contain_sentence_num": 977
+    },
+    {
+        "word": "театр",
+        "example": "народний ляльковий театр",
+        "translate": "folk puppet theater",
+        "word_contain_sentence_num": 6762
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "word": "літо",
+        "example": "літо XXXX року",
+        "probs": "0, 0.20710059171597633, 0.5047619047619047",
+        "word_contain_sentence_num": 1550
+    },
+    {
+        "word": "пора року",
+        "example": "тепла пора року",
+        "probs": "0.14, 0",
+        "word_contain_sentence_num": 62
+    },
+    {
+        "word": "осінь",
+        "example": "осінь XXXX року",
+        "probs": "0, 0.36363636363636365, 0.4734042553191489",
+        "word_contain_sentence_num": 777
+    },
+    {
+        "word": "зима",
+        "example": "порівняно м'яка зима",
+        "probs": "0.15384615384615385, 0.1917808219178082, 0",
+        "word_contain_sentence_num": 703
+    },
+    {
+        "word": "весну",
+        "example": "на весну XXXX",
+        "probs": "0.4247787610619469, 0, 0.6944444444444444",
+        "word_contain_sentence_num": 338
+    },
+    {
+        "word": "тепле",
+        "example": "літо тепле",
+        "probs": "0.16013071895424835, 0, 0.16326530612244897",
+        "word_contain_sentence_num": 303
+    },
+    {
+        "word": "грудень",
+        "example": "грудень XXXX року",
+        "probs": "0, 0.8380952380952381, 0.425",
+        "word_contain_sentence_num": 2006
+    },
+    {
+        "word": "січень",
+        "example": "січень XXXX року",
+        "probs": "0, 0.7875243664717348, 0.44554455445544555",
+        "word_contain_sentence_num": 1850
+    },
+    {
+        "word": "лютий",
+        "example": "по лютий XXXX",
+        "probs": "0.4427083333333333, 0, 0.75",
+        "word_contain_sentence_num": 1676
+    },
+    {
+        "word": "березень",
+        "example": "березень XXXX року",
+        "probs": "0, 0.7475915221579962, 0.45103092783505155",
+        "word_contain_sentence_num": 1973
+    },
+    {
+        "word": "квітень",
+        "example": "квітень XXXX року",
+        "probs": "0, 0.7739463601532567, 0.4504950495049505",
+        "word_contain_sentence_num": 1899
+    },
+    {
+        "word": "травень",
+        "example": "травень XXXX року",
+        "probs": "0, 0.7038461538461539, 0.4972677595628415",
+        "word_contain_sentence_num": 2057
+    },
+    {
+        "word": "місяць",
+        "example": "раз на місяць",
+        "probs": "0.13131313131313133, 0.19111969111969113, 0",
+        "word_contain_sentence_num": 5208
+    },
+    {
+        "word": "червень",
+        "example": "червень XXXX року",
+        "probs": "0, 0.7359223300970874, 0.48548812664907653",
+        "word_contain_sentence_num": 2046
+    },
+    {
+        "word": "липень",
+        "example": "липень XXXX року",
+        "probs": "0, 0.7262357414448669, 0.5418848167539267",
+        "word_contain_sentence_num": 2240
+    },
+    {
+        "word": "серпень",
+        "example": "серпень XXXX року",
+        "probs": "0, 0.6862745098039216, 0.4257142857142857",
+        "word_contain_sentence_num": 1957
+    },
+    {
+        "word": "вересень",
+        "example": "вересень XXXX року",
+        "probs": "0, 0.6906614785992218, 0.5070422535211268",
+        "word_contain_sentence_num": 2124
+    },
+    {
+        "word": "жовтень",
+        "example": "жовтень XXXX року",
+        "probs": "0, 0.736346516007533, 0.4322250639386189",
+        "word_contain_sentence_num": 1958
+    },
+    {
+        "word": "листопад",
+        "example": "листопад XXXX року",
+        "probs": "0, 0.7926356589147286, 0.4792176039119804",
+        "word_contain_sentence_num": 1793
+    }
+]

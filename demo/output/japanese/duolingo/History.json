@@ -1,0 +1,282 @@
+[
+    {
+        "word": "忍者",
+        "example": "科学 忍者 隊 ガッチャマン ii",
+        "word_contain_sentence_num": 256
+    },
+    {
+        "word": "かつて",
+        "example": "際 に は かつて の",
+        "word_contain_sentence_num": 6970
+    },
+    {
+        "word": "昔",
+        "example": "は 昔 から の 思い",
+        "word_contain_sentence_num": 911
+    },
+    {
+        "word": "昔 々",
+        "example": "昔 々 亭 桃太郎 の 復員",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "再建 中",
+        "example": "に は 経営 再建 中 の",
+        "word_contain_sentence_num": 13
+    },
+    {
+        "word": "再建",
+        "example": "に 再建 さ れ た",
+        "word_contain_sentence_num": 1821
+    },
+    {
+        "word": "戦後",
+        "example": "た 戦後",
+        "word_contain_sentence_num": 3787
+    },
+    {
+        "word": "忍",
+        "example": "都 と 忍 の 両親",
+        "word_contain_sentence_num": 434
+    },
+    {
+        "word": "昔",
+        "example": "は 昔 から の 思い",
+        "word_contain_sentence_num": 911
+    },
+    {
+        "word": "しばしば",
+        "example": "高校 で は しばしば ローマ帝国",
+        "word_contain_sentence_num": 2743
+    },
+    {
+        "word": "世紀",
+        "example": "世紀 の 危機 と 呼ば",
+        "word_contain_sentence_num": 12746
+    },
+    {
+        "word": "一 世紀",
+        "example": "内乱 の 一 世紀 の 間",
+        "word_contain_sentence_num": 33
+    },
+    {
+        "word": "発明",
+        "example": "の 発明 者 で ある",
+        "word_contain_sentence_num": 1084
+    },
+    {
+        "word": "発見",
+        "example": "が 発見 さ れ た",
+        "word_contain_sentence_num": 6331
+    },
+    {
+        "word": "生み出す",
+        "example": "を 生み出す こと が 可能",
+        "word_contain_sentence_num": 308
+    },
+    {
+        "word": "生み出し",
+        "example": "の 作品 を 生み出し た",
+        "word_contain_sentence_num": 537
+    },
+    {
+        "word": "建て られ た",
+        "example": "年 に 建て られ た もの で",
+        "word_contain_sentence_num": 684
+    },
+    {
+        "word": "建て られ",
+        "example": "記念 碑 が 建て られ た",
+        "word_contain_sentence_num": 1370
+    },
+    {
+        "word": "紀",
+        "example": "これ は カンブリア 紀 の",
+        "word_contain_sentence_num": 805
+    },
+    {
+        "word": "昭和",
+        "example": "昭和 20 年",
+        "word_contain_sentence_num": 21706
+    },
+    {
+        "word": "令 和",
+        "example": "令 和 元年 台風 第 19",
+        "word_contain_sentence_num": 151
+    },
+    {
+        "word": "平成",
+        "example": "平成 17 年",
+        "word_contain_sentence_num": 13279
+    },
+    {
+        "word": "もはや",
+        "example": "と 同じ で は もはや",
+        "word_contain_sentence_num": 548
+    },
+    {
+        "word": "記念",
+        "example": "修 武 台 記念 館",
+        "word_contain_sentence_num": 6049
+    },
+    {
+        "word": "記念 日",
+        "example": "の 記念 日 に は 礼拝",
+        "word_contain_sentence_num": 133
+    },
+    {
+        "word": "令",
+        "example": "19 年 勅 令 第",
+        "word_contain_sentence_num": 2548
+    },
+    {
+        "word": "昭",
+        "example": "司馬 昭 と 諱 が",
+        "word_contain_sentence_num": 466
+    },
+    {
+        "word": "刀",
+        "example": "呂 が 節 刀 を",
+        "word_contain_sentence_num": 982
+    },
+    {
+        "word": "江戸",
+        "example": "は 江戸 時代 に は",
+        "word_contain_sentence_num": 6005
+    },
+    {
+        "word": "武士",
+        "example": "明治 時代 の 武士 が",
+        "word_contain_sentence_num": 821
+    },
+    {
+        "word": "当時",
+        "example": "これ は 当時 の ドイツ",
+        "word_contain_sentence_num": 21101
+    },
+    {
+        "word": "自殺",
+        "example": "ため に 自殺 し た",
+        "word_contain_sentence_num": 1172
+    },
+    {
+        "word": "江",
+        "example": "西 江 の 区間 は",
+        "word_contain_sentence_num": 1136
+    },
+    {
+        "word": "刀",
+        "example": "呂 が 節 刀 を",
+        "word_contain_sentence_num": 982
+    },
+    {
+        "word": "保障",
+        "example": "安全 保障 理事 会 の",
+        "word_contain_sentence_num": 1236
+    },
+    {
+        "word": "1990 年",
+        "example": "1990 年 に は ルール 第",
+        "word_contain_sentence_num": 2425
+    },
+    {
+        "word": "2018 年",
+        "example": "2018 年 3 月 31 日",
+        "word_contain_sentence_num": 5476
+    },
+    {
+        "word": "1914 年",
+        "example": "性質 は 1914 年 に は",
+        "word_contain_sentence_num": 781
+    },
+    {
+        "word": "何 年",
+        "example": "は 何 年 も 前 から",
+        "word_contain_sentence_num": 154
+    },
+    {
+        "word": "1789 年",
+        "example": "1789 年 の フランス 革命 が",
+        "word_contain_sentence_num": 171
+    },
+    {
+        "word": "持っ た",
+        "example": "少年 と 関係 を 持っ た",
+        "word_contain_sentence_num": 1016
+    },
+    {
+        "word": "持つ",
+        "example": "を 持つ よう に なっ",
+        "word_contain_sentence_num": 10488
+    },
+    {
+        "word": "持た ない",
+        "example": "を 持た ない もの が ある",
+        "word_contain_sentence_num": 891
+    },
+    {
+        "word": "革命",
+        "example": "フランス 革命 後 の ヨーロッパ",
+        "word_contain_sentence_num": 3759
+    },
+    {
+        "word": "共産党",
+        "example": "い た 日本 共産党 の",
+        "word_contain_sentence_num": 1512
+    },
+    {
+        "word": "共産",
+        "example": "共産 主義 者 の 裏切り",
+        "word_contain_sentence_num": 1089
+    },
+    {
+        "word": "憲法",
+        "example": "日本国 憲法 第 35 条",
+        "word_contain_sentence_num": 2971
+    },
+    {
+        "word": "憲",
+        "example": "憲 が 隠居 し て",
+        "word_contain_sentence_num": 387
+    },
+    {
+        "word": "以前",
+        "example": "以前 の 修理 の 際",
+        "word_contain_sentence_num": 6017
+    },
+    {
+        "word": "領土",
+        "example": "の 領土 で ある と",
+        "word_contain_sentence_num": 1331
+    },
+    {
+        "word": "英国",
+        "example": "は 英国 の 億 万",
+        "word_contain_sentence_num": 1728
+    },
+    {
+        "word": "米国",
+        "example": "は は 米国 の 音楽",
+        "word_contain_sentence_num": 3203
+    },
+    {
+        "word": "共和 国",
+        "example": "共和 国 の 首都 と なっ",
+        "word_contain_sentence_num": 2504
+    },
+    {
+        "word": "君主 国",
+        "example": "は ハプスブルク 君主 国 の 首都",
+        "word_contain_sentence_num": 34
+    },
+    {
+        "word": "君主",
+        "example": "完全 に 立憲 君主 制",
+        "word_contain_sentence_num": 965
+    },
+    {
+        "word": "立憲",
+        "example": "立憲 君主 制 を とる",
+        "word_contain_sentence_num": 578
+    }
+]

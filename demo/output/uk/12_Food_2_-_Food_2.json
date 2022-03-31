@@ -1,0 +1,176 @@
+[
+    {
+        "word": "to eat",
+        "example": "to eat",
+        "probs": "0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "to drink",
+        "example": "to drink the",
+        "probs": "0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "на сніданок",
+        "example": "їдять на сніданок",
+        "probs": "0.0641025641025641, 0",
+        "word_contain_sentence_num": 120
+    },
+    {
+        "word": "на обід",
+        "example": "себе на обід",
+        "probs": "0.04285714285714286, 0",
+        "word_contain_sentence_num": 246
+    },
+    {
+        "word": "на вечерю",
+        "example": "його на вечерю",
+        "probs": "0.05434782608695652, 0",
+        "word_contain_sentence_num": 170
+    },
+    {
+        "word": "мюслі",
+        "example": "мюслі з родзинками",
+        "probs": "0, 0.16666666666666666, 0.3333333333333333",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "на десерт",
+        "example": "подають на десерт",
+        "probs": "0.15789473684210525, 0",
+        "word_contain_sentence_num": 59
+    },
+    {
+        "word": "фрукти",
+        "example": "овочі і фрукти",
+        "probs": "0.41304347826086957, 0.26373626373626374, 0",
+        "word_contain_sentence_num": 1037
+    },
+    {
+        "word": "яблука",
+        "example": "до очного яблука",
+        "probs": "0.06578947368421052, 0.16101694915254236, 0",
+        "word_contain_sentence_num": 466
+    },
+    {
+        "word": "банани",
+        "example": "манго і банани",
+        "probs": "0.11764705882352941, 0.2222222222222222, 0",
+        "word_contain_sentence_num": 289
+    },
+    {
+        "word": "orange",
+        "example": "orange wine запровадив",
+        "probs": "0, 0.4, 0.5",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "бутерброд",
+        "example": "бутерброд з салом",
+        "probs": "0, 0.2608695652173913, 0.3333333333333333",
+        "word_contain_sentence_num": 22
+    },
+    {
+        "word": "лимони",
+        "example": "базилік та лимони",
+        "probs": "0.5, 0.25, 0",
+        "word_contain_sentence_num": 49
+    },
+    {
+        "word": "торт",
+        "example": "сукню і торт",
+        "probs": "0.3333333333333333, 0.1875, 0",
+        "word_contain_sentence_num": 158
+    },
+    {
+        "word": "сало",
+        "example": "ковбаси і сало",
+        "probs": "0.18181818181818182, 0.17391304347826086, 0",
+        "word_contain_sentence_num": 158
+    },
+    {
+        "word": "овочі",
+        "example": "фрукти та овочі",
+        "probs": "0.3902439024390244, 0.21505376344086022, 0",
+        "word_contain_sentence_num": 1007
+    },
+    {
+        "word": "сметану",
+        "example": "вино і сметану",
+        "probs": "0.25, 0.125, 0",
+        "word_contain_sentence_num": 62
+    },
+    {
+        "word": "картоплю",
+        "example": "овес і картоплю",
+        "probs": "0.14285714285714285, 0.12087912087912088, 0",
+        "word_contain_sentence_num": 533
+    },
+    {
+        "word": "цибуля",
+        "example": "трапляються цибуля ведмежа",
+        "probs": "0.06666666666666667, 0, 0.09615384615384616",
+        "word_contain_sentence_num": 298
+    },
+    {
+        "word": "капусту",
+        "example": "як цвітну капусту",
+        "probs": "0.4117647058823529, 0.15151515151515152, 0",
+        "word_contain_sentence_num": 182
+    },
+    {
+        "word": "ці",
+        "example": "всі ці особливості",
+        "probs": "0.06772908366533864, 0, 0.058823529411764705",
+        "word_contain_sentence_num": 27563
+    },
+    {
+        "word": "коштують",
+        "example": "товарів коштують дешевше",
+        "probs": "0.1111111111111111, 0, 0.08181818181818182",
+        "word_contain_sentence_num": 110
+    },
+    {
+        "word": "ця",
+        "example": "ця інформація",
+        "probs": "0.08582834331337326, 0, 0.046511627906976744",
+        "word_contain_sentence_num": 16863
+    },
+    {
+        "word": "дорого",
+        "example": "коштували дуже дорого",
+        "probs": "0.13793103448275862, 0.2564102564102564, 0",
+        "word_contain_sentence_num": 334
+    },
+    {
+        "word": "дешево",
+        "example": "зовсім не дешево",
+        "probs": "0.5, 0.2, 0",
+        "word_contain_sentence_num": 67
+    },
+    {
+        "word": "смачні",
+        "example": "дуже смачні",
+        "probs": "0.18571428571428572, 0, 0.15384615384615385",
+        "word_contain_sentence_num": 70
+    },
+    {
+        "word": "свіжі",
+        "example": "свіжі овочі",
+        "probs": "0, 0.0646900269541779, 0.375",
+        "word_contain_sentence_num": 370
+    },
+    {
+        "word": "hungry",
+        "example": "hungry that if",
+        "probs": "0, 0.5, 1.0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "їжа",
+        "example": "складає рослинна їжа",
+        "probs": "0.14285714285714285, 0.12280701754385964, 0",
+        "word_contain_sentence_num": 796
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "word": "京都",
+        "example": "京都 府 京都 市 出身",
+        "word_contain_sentence_num": 5944
+    },
+    {
+        "word": "東京",
+        "example": "現在 の 東京 都 渋谷",
+        "word_contain_sentence_num": 19490
+    },
+    {
+        "word": "住ん で",
+        "example": "に 住ん で い た が",
+        "word_contain_sentence_num": 1039
+    },
+    {
+        "word": "い ます",
+        "example": "と 確信 し て い ます",
+        "word_contain_sentence_num": 614
+    },
+    {
+        "word": "い ませ ん",
+        "example": "さ れ て い ませ ん でし",
+        "word_contain_sentence_num": 62
+    },
+    {
+        "word": "都",
+        "example": "東京 都 の 尖閣諸島 購入",
+        "word_contain_sentence_num": 6275
+    },
+    {
+        "word": "住",
+        "example": "に 住 し て い",
+        "word_contain_sentence_num": 431
+    },
+    {
+        "word": "東",
+        "example": "後 の 東 に は",
+        "word_contain_sentence_num": 9004
+    },
+    {
+        "word": "京",
+        "example": "は 京 の 発言 出版",
+        "word_contain_sentence_num": 1483
+    },
+    {
+        "word": "申し",
+        "example": "いる と 申し た ところ",
+        "word_contain_sentence_num": 64
+    },
+    {
+        "word": "大阪",
+        "example": "及び 大阪 府 大阪 市",
+        "word_contain_sentence_num": 8228
+    },
+    {
+        "word": "二 歳",
+        "example": "二 歳 の 時 に 両親",
+        "word_contain_sentence_num": 14
+    },
+    {
+        "word": "二 十 歳",
+        "example": "子 は 二 十 歳 の エチュード",
+        "word_contain_sentence_num": 25
+    },
+    {
+        "word": "歳",
+        "example": "歳 の 時 に 東京",
+        "word_contain_sentence_num": 17514
+    },
+    {
+        "word": "十 歳",
+        "example": "は 二 十 歳 の エチュード",
+        "word_contain_sentence_num": 40
+    },
+    {
+        "word": "何 歳",
+        "example": "何 歳 に なっ て も",
+        "word_contain_sentence_num": 10
+    },
+    {
+        "word": "五 歳",
+        "example": "十 五 歳 の 年 の",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "百 歳",
+        "example": "百 歳 の 双子 姉妹 きん",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "八 歳",
+        "example": "十 八 歳 の とき 渟",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "九 歳",
+        "example": "の 十 九 歳 の 地図",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "大",
+        "example": "の 大 規模 な もの",
+        "word_contain_sentence_num": 24884
+    },
+    {
+        "word": "阪",
+        "example": "東名 阪 道 と 伊勢",
+        "word_contain_sentence_num": 320
+    },
+    {
+        "word": "歳",
+        "example": "歳 の 時 に 東京",
+        "word_contain_sentence_num": 17514
+    },
+    {
+        "word": "申",
+        "example": "が 破産 の 申 立て",
+        "word_contain_sentence_num": 438
+    },
+    {
+        "word": "ね",
+        "example": "せ ね ば なら ない",
+        "word_contain_sentence_num": 2163
+    },
+    {
+        "word": "よ",
+        "example": "て いる ん だ よ",
+        "word_contain_sentence_num": 2898
+    },
+    {
+        "word": "そう",
+        "example": "れ そう に なる ”",
+        "word_contain_sentence_num": 3104
+    },
+    {
+        "word": "外国 人",
+        "example": "史上 初 の 外国 人 の",
+        "word_contain_sentence_num": 1365
+    },
+    {
+        "word": "留学生",
+        "example": "留学生 として 来日 し て",
+        "word_contain_sentence_num": 426
+    },
+    {
+        "word": "留学",
+        "example": "大学 に 留学 し た",
+        "word_contain_sentence_num": 1511
+    },
+    {
+        "word": "外",
+        "example": "外 白 渡橋 は 2",
+        "word_contain_sentence_num": 5619
+    },
+    {
+        "word": "留",
+        "example": "陳 留 を 認め られ",
+        "word_contain_sentence_num": 309
+    },
+    {
+        "word": "生",
+        "example": "兵種 の 士官 候補 生",
+        "word_contain_sentence_num": 5135
+    },
+    {
+        "word": "年 生",
+        "example": "年 生",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "小学",
+        "example": "小学 館 の 学習 雑誌",
+        "word_contain_sentence_num": 673
+    },
+    {
+        "word": "中学",
+        "example": "中学 2 年 の 時",
+        "word_contain_sentence_num": 1990
+    },
+    {
+        "word": "小",
+        "example": "の 小 動物 や 昆虫",
+        "word_contain_sentence_num": 5092
+    },
+    {
+        "word": "年",
+        "example": "年 に は 正力 国際",
+        "word_contain_sentence_num": 525344
+    },
+    {
+        "word": "たち",
+        "example": "厳格 主義 者 たち は",
+        "word_contain_sentence_num": 16788
+    },
+    {
+        "word": "違い",
+        "example": "2 と の 違い は",
+        "word_contain_sentence_num": 2807
+    },
+    {
+        "word": "高校",
+        "example": "高校 時代 に は 全国",
+        "word_contain_sentence_num": 7482
+    },
+    {
+        "word": "大学",
+        "example": "大学 に 入学 する も",
+        "word_contain_sentence_num": 22124
+    },
+    {
+        "word": "高",
+        "example": "人口 密度 の 高 さ",
+        "word_contain_sentence_num": 9691
+    },
+    {
+        "word": "違",
+        "example": "045 邪 猿 気 違",
+        "word_contain_sentence_num": 31
+    },
+    {
+        "word": "直美",
+        "example": "渡辺 直美 が 務め た",
+        "word_contain_sentence_num": 70
+    },
+    {
+        "word": "健太",
+        "example": "健太 が 担当 し て",
+        "word_contain_sentence_num": 109
+    },
+    {
+        "word": "美",
+        "example": "は 水墨 の 美 は",
+        "word_contain_sentence_num": 1335
+    },
+    {
+        "word": "太",
+        "example": "太 宗 は 模 翰",
+        "word_contain_sentence_num": 2399
+    },
+    {
+        "word": "直",
+        "example": "宇文 直 は 伊予 松山",
+        "word_contain_sentence_num": 2116
+    },
+    {
+        "word": "健",
+        "example": "た 時 に 健 さん",
+        "word_contain_sentence_num": 599
+    }
+]

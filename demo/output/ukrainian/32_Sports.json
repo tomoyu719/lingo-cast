@@ -1,0 +1,87 @@
+[
+    {
+        "word": "команди",
+        "example": "був основним гравцем команди",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "гра",
+        "example": "гра в жанрі тактичного",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "гравці",
+        "example": "такі гравці як Костас",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "м'яч",
+        "example": "забивши м'яч у ворота",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "полі",
+        "example": "загинув на полі бою",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "популярний",
+        "example": "дуже популярний в культурі",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "американський",
+        "example": "— американський журналіст залишив",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "бейсбол",
+        "example": "грати в бейсбол",
+        "word_contain_sentence_num": 144
+    },
+    {
+        "word": "хокей",
+        "example": "грати в хокей",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "грати",
+        "example": "навчився грати на гітарі",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "марафон",
+        "example": "місті проводиться міжнародний марафон",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "плавати",
+        "example": "не почнуть вільно плавати",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "бігаю",
+        "example": "\" бігаю \"",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "фітнес-зал",
+        "example": "фітнес-зал і адміністративні приміщення",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "тренування",
+        "example": "брав її на тренування",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "виграли",
+        "example": "виграли з рахунком 2",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "програла",
+        "example": "його команда програла",
+        "word_contain_sentence_num": 201
+    }
+]

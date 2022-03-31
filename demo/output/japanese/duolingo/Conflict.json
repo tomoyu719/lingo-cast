@@ -1,0 +1,337 @@
+[
+    {
+        "word": "兵士",
+        "example": "の メキシコ 軍 兵士 の",
+        "word_contain_sentence_num": 2109
+    },
+    {
+        "word": "基地",
+        "example": "空軍 基地 や トルコ の",
+        "word_contain_sentence_num": 2791
+    },
+    {
+        "word": "大 戦後",
+        "example": "大 戦後",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "大戦",
+        "example": "第 二 次 世界 大戦",
+        "word_contain_sentence_num": 5542
+    },
+    {
+        "word": "第 二 次",
+        "example": "第 二 次 世界 大戦 後 の",
+        "word_contain_sentence_num": 3982
+    },
+    {
+        "word": "第 一 次",
+        "example": "第 一 次 世界 大戦 中 に",
+        "word_contain_sentence_num": 2087
+    },
+    {
+        "word": "第 一",
+        "example": "第 一 次 世界 大戦 中",
+        "word_contain_sentence_num": 6038
+    },
+    {
+        "word": "第 三",
+        "example": "の 第 三 セクター 鉄道 の",
+        "word_contain_sentence_num": 1538
+    },
+    {
+        "word": "第 二",
+        "example": "第 二 次 世界 大戦 後",
+        "word_contain_sentence_num": 6519
+    },
+    {
+        "word": "基",
+        "example": "を 基 に し た",
+        "word_contain_sentence_num": 4958
+    },
+    {
+        "word": "兵",
+        "example": "平 氏 の 兵 を",
+        "word_contain_sentence_num": 5048
+    },
+    {
+        "word": "第",
+        "example": "第 1 回 から 第",
+        "word_contain_sentence_num": 68805
+    },
+    {
+        "word": "敵",
+        "example": "敵 の 増援 部隊 を",
+        "word_contain_sentence_num": 4269
+    },
+    {
+        "word": "剣",
+        "example": "剣 を そ はや の",
+        "word_contain_sentence_num": 1274
+    },
+    {
+        "word": "盾",
+        "example": "の 後ろ 盾 に し",
+        "word_contain_sentence_num": 564
+    },
+    {
+        "word": "戦い",
+        "example": "の 戦い で あっ た",
+        "word_contain_sentence_num": 7088
+    },
+    {
+        "word": "戦っ た",
+        "example": "魏 軍 と 戦っ た が",
+        "word_contain_sentence_num": 565
+    },
+    {
+        "word": "戦う",
+        "example": "と 戦う ため に 戦う",
+        "word_contain_sentence_num": 1116
+    },
+    {
+        "word": "敵",
+        "example": "敵 の 増援 部隊 を",
+        "word_contain_sentence_num": 4269
+    },
+    {
+        "word": "剣",
+        "example": "剣 を そ はや の",
+        "word_contain_sentence_num": 1274
+    },
+    {
+        "word": "盾",
+        "example": "の 後ろ 盾 に し",
+        "word_contain_sentence_num": 564
+    },
+    {
+        "word": "矢",
+        "example": "の 矢 羽 を 付け",
+        "word_contain_sentence_num": 712
+    },
+    {
+        "word": "弓",
+        "example": "と 各 咽頭 弓 の",
+        "word_contain_sentence_num": 418
+    },
+    {
+        "word": "攻撃",
+        "example": "攻撃 を 仕掛け た こと",
+        "word_contain_sentence_num": 9654
+    },
+    {
+        "word": "武器",
+        "example": "に 武器 を 持た ず",
+        "word_contain_sentence_num": 2050
+    },
+    {
+        "word": "武",
+        "example": "修 武 台 記念 館",
+        "word_contain_sentence_num": 2623
+    },
+    {
+        "word": "矢",
+        "example": "の 矢 羽 を 付け",
+        "word_contain_sentence_num": 712
+    },
+    {
+        "word": "撃",
+        "example": "技 の 斬 撃 を",
+        "word_contain_sentence_num": 73
+    },
+    {
+        "word": "弓",
+        "example": "と 各 咽頭 弓 の",
+        "word_contain_sentence_num": 418
+    },
+    {
+        "word": "命",
+        "example": "の 命 を 受け て",
+        "word_contain_sentence_num": 2758
+    },
+    {
+        "word": "銃",
+        "example": "ブレン 軽 機関 銃 を",
+        "word_contain_sentence_num": 2722
+    },
+    {
+        "word": "手段",
+        "example": "の ため の 手段 として",
+        "word_contain_sentence_num": 1765
+    },
+    {
+        "word": "撃っ た",
+        "example": "思摩 の 部 を 撃っ た",
+        "word_contain_sentence_num": 40
+    },
+    {
+        "word": "撃ち",
+        "example": "から 火炎 弾 を 撃ち",
+        "word_contain_sentence_num": 174
+    },
+    {
+        "word": "撃た れ た",
+        "example": "の 操縦 者 が 撃た れ た",
+        "word_contain_sentence_num": 37
+    },
+    {
+        "word": "自衛隊 員",
+        "example": "自衛隊 員 が 使用 す べき",
+        "word_contain_sentence_num": 20
+    },
+    {
+        "word": "自衛",
+        "example": "即応 予備 自衛 官 の",
+        "word_contain_sentence_num": 348
+    },
+    {
+        "word": "衛",
+        "example": "衛 将軍 張 瓘 は",
+        "word_contain_sentence_num": 728
+    },
+    {
+        "word": "隊",
+        "example": "突撃 隊 の 日常 的",
+        "word_contain_sentence_num": 9141
+    },
+    {
+        "word": "銃",
+        "example": "ブレン 軽 機関 銃 を",
+        "word_contain_sentence_num": 2722
+    },
+    {
+        "word": "紛争",
+        "example": "年 から ユーゴスラビア 紛争 の",
+        "word_contain_sentence_num": 1079
+    },
+    {
+        "word": "両国",
+        "example": "両国 の 防衛 を 統括",
+        "word_contain_sentence_num": 859
+    },
+    {
+        "word": "交渉 中",
+        "example": "交渉 中 で ある こと が",
+        "word_contain_sentence_num": 38
+    },
+    {
+        "word": "交渉",
+        "example": "と の 交渉 を 行っ",
+        "word_contain_sentence_num": 2550
+    },
+    {
+        "word": "解決",
+        "example": "を 解決 する ため の",
+        "word_contain_sentence_num": 2007
+    },
+    {
+        "word": "外交",
+        "example": "の 外交 官 の 娘",
+        "word_contain_sentence_num": 2042
+    },
+    {
+        "word": "外交 官",
+        "example": "日本 の 外交 官 で あっ",
+        "word_contain_sentence_num": 477
+    },
+    {
+        "word": "紛",
+        "example": "紛 を 避け て 職",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "渉",
+        "example": "川 を 渉 る の",
+        "word_contain_sentence_num": 102
+    },
+    {
+        "word": "年々",
+        "example": "は 年々 減少 し て",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "暴力",
+        "example": "と 暴力 的 に なり",
+        "word_contain_sentence_num": 1087
+    },
+    {
+        "word": "競争 率",
+        "example": "列車 乗務 員 の 競争 率",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "競争",
+        "example": "品 と の 競争 圧力",
+        "word_contain_sentence_num": 1177
+    },
+    {
+        "word": "激しく",
+        "example": "が 激しく なり パイロット の",
+        "word_contain_sentence_num": 875
+    },
+    {
+        "word": "激しい",
+        "example": "の 生活 と の 激しい",
+        "word_contain_sentence_num": 1427
+    },
+    {
+        "word": "暴",
+        "example": "暴 で 恩愛 の 情",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "激",
+        "example": "プロ レスリング 華 ☆ 激",
+        "word_contain_sentence_num": 74
+    },
+    {
+        "word": "率",
+        "example": "年 は 防御 率 2",
+        "word_contain_sentence_num": 7382
+    },
+    {
+        "word": "競",
+        "example": "競 願 と なっ た",
+        "word_contain_sentence_num": 51
+    },
+    {
+        "word": "爆弾",
+        "example": "爆弾 を 搭載 する 必要",
+        "word_contain_sentence_num": 1072
+    },
+    {
+        "word": "爆発",
+        "example": "の 爆発 的 な 人気",
+        "word_contain_sentence_num": 1769
+    },
+    {
+        "word": "訓練",
+        "example": "訓練 を 受け て いる",
+        "word_contain_sentence_num": 2809
+    },
+    {
+        "word": "敵 軍",
+        "example": "石 勒 は 敵 軍 の",
+        "word_contain_sentence_num": 126
+    },
+    {
+        "word": "軍隊",
+        "example": "軍隊 区分 津軽 防備 部隊",
+        "word_contain_sentence_num": 1246
+    },
+    {
+        "word": "軍事",
+        "example": "の 軍事 的 な 軍事",
+        "word_contain_sentence_num": 4017
+    },
+    {
+        "word": "爆",
+        "example": "拡大 ニッポン “ 爆 買い",
+        "word_contain_sentence_num": 125
+    },
+    {
+        "word": "訓",
+        "example": "の 戦 訓 により アメリカ",
+        "word_contain_sentence_num": 301
+    }
+]

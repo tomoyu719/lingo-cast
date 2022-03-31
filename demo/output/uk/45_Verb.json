@@ -1,0 +1,56 @@
+[
+    {
+        "word": "прочитали",
+        "example": "які прочитали його",
+        "probs": "0.0945945945945946, 0, 0.2857142857142857",
+        "word_contain_sentence_num": 74
+    },
+    {
+        "word": "написати",
+        "example": "щоб написати про",
+        "probs": "0.05555555555555555, 0, 0.14285714285714285",
+        "word_contain_sentence_num": 1465
+    },
+    {
+        "word": "вже",
+        "example": "вже в XXXX",
+        "probs": "0, 0.08316831683168317, 0.19047619047619047",
+        "word_contain_sentence_num": 63508
+    },
+    {
+        "word": "приготувати",
+        "example": "можна приготувати",
+        "probs": "0.2336065573770492, 0, 0.12280701754385964",
+        "word_contain_sentence_num": 240
+    },
+    {
+        "word": "ще не",
+        "example": "ще не було",
+        "probs": "0, 0.09545454545454546",
+        "word_contain_sentence_num": 12245
+    },
+    {
+        "word": "зробили",
+        "example": "які зробили значний",
+        "probs": "0.06786427145708583, 0, 0.14705882352941177",
+        "word_contain_sentence_num": 4822
+    },
+    {
+        "word": "з'їм",
+        "example": "з'їм в затишку",
+        "probs": "0, 0.5, 1.0",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "випили",
+        "example": "вперше випили XX",
+        "probs": "0.14285714285714285, 0, 0.25",
+        "word_contain_sentence_num": 28
+    },
+    {
+        "word": "нарешті",
+        "example": "нарешті повідомив",
+        "probs": "0.074, 0, 0.02702702702702703",
+        "word_contain_sentence_num": 4520
+    }
+]

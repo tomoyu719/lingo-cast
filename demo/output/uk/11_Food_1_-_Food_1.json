@@ -1,0 +1,146 @@
+[
+    {
+        "word": "сир",
+        "example": "йогурт і сир",
+        "probs": "0.10526315789473684, 0.05357142857142857, 0",
+        "word_contain_sentence_num": 742
+    },
+    {
+        "word": "вино",
+        "example": "кров та вино",
+        "probs": "0.2222222222222222, 0.05714285714285714, 0",
+        "word_contain_sentence_num": 1413
+    },
+    {
+        "word": "майонез",
+        "example": "картопля і майонез",
+        "probs": "0.5, 0.4, 0",
+        "word_contain_sentence_num": 33
+    },
+    {
+        "word": "масло",
+        "example": "на вершкове масло",
+        "probs": "0.0641025641025641, 0.15028901734104047, 0",
+        "word_contain_sentence_num": 573
+    },
+    {
+        "word": "макарони",
+        "example": "про чудові макарони",
+        "probs": "1.0, 0.125, 0",
+        "word_contain_sentence_num": 49
+    },
+    {
+        "word": "яйця",
+        "example": "відкладає X яйця",
+        "probs": "0.4473684210526316, 0.18691588785046728, 0",
+        "word_contain_sentence_num": 3175
+    },
+    {
+        "word": "вареники",
+        "example": "вареники з сиром",
+        "probs": "0, 0.28125, 0.2962962962962963",
+        "word_contain_sentence_num": 91
+    },
+    {
+        "word": "салат",
+        "example": "салат з помідорів",
+        "probs": "0, 0.11224489795918367, 0.09090909090909091",
+        "word_contain_sentence_num": 188
+    },
+    {
+        "word": "риба",
+        "example": "це демерсальна риба",
+        "probs": "0.43478260869565216, 0.14754098360655737, 0",
+        "word_contain_sentence_num": 1388
+    },
+    {
+        "word": "піца",
+        "example": "піца та каталонська",
+        "probs": "0, 0.1, 0.3333333333333333",
+        "word_contain_sentence_num": 28
+    },
+    {
+        "word": "кава",
+        "example": "чай та кава",
+        "probs": "0.3125, 0.2222222222222222, 0",
+        "word_contain_sentence_num": 472
+    },
+    {
+        "word": "вода",
+        "example": "вітер і вода",
+        "probs": "0.11764705882352941, 0.04838709677419355, 0",
+        "word_contain_sentence_num": 4747
+    },
+    {
+        "word": "каша",
+        "example": "каша з кукурудзяного",
+        "probs": "0, 0.19130434782608696, 0.18181818181818182",
+        "word_contain_sentence_num": 111
+    },
+    {
+        "word": "ковбаса",
+        "example": "ковбаса та чарка",
+        "probs": "0, 0.10476190476190476, 0.7272727272727273",
+        "word_contain_sentence_num": 102
+    },
+    {
+        "word": "каву",
+        "example": "чай та каву",
+        "probs": "0.25, 0.13725490196078433, 0",
+        "word_contain_sentence_num": 383
+    },
+    {
+        "word": "піцу",
+        "example": "трохи нагадує піцу",
+        "probs": "0.5, 0.16666666666666666, 0",
+        "word_contain_sentence_num": 55
+    },
+    {
+        "word": "ковбасу",
+        "example": "ковбасу складали",
+        "probs": "0, 0.05405405405405406, 1.0",
+        "word_contain_sentence_num": 35
+    },
+    {
+        "word": "воду",
+        "example": "його у воду",
+        "probs": "0.03418803418803419, 0.22896281800391388, 0",
+        "word_contain_sentence_num": 5697
+    },
+    {
+        "word": "кашу",
+        "example": "у нього кашу",
+        "probs": "0.6666666666666666, 0.12, 0",
+        "word_contain_sentence_num": 125
+    },
+    {
+        "word": "рибу",
+        "example": "багата на рибу",
+        "probs": "0.15384615384615385, 0.09009009009009009, 0",
+        "word_contain_sentence_num": 1157
+    },
+    {
+        "word": "сніданок",
+        "example": "на сніданок",
+        "probs": "0.3442622950819672, 0",
+        "word_contain_sentence_num": 238
+    },
+    {
+        "word": "обід",
+        "example": "його на обід",
+        "probs": "0.0410958904109589, 0.3237250554323725, 0",
+        "word_contain_sentence_num": 439
+    },
+    {
+        "word": "вечеря",
+        "example": "таємна вечеря",
+        "probs": "0.30177514792899407, 0, 0.0196078431372549",
+        "word_contain_sentence_num": 167
+    },
+    {
+        "word": "десерт",
+        "example": "їдять як десерт",
+        "probs": "0.16666666666666666, 0.14218009478672985, 0",
+        "word_contain_sentence_num": 209
+    }
+]

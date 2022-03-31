@@ -1,0 +1,267 @@
+[
+    {
+        "word": "娘",
+        "example": "世 の 娘 で ある",
+        "word_contain_sentence_num": 5443
+    },
+    {
+        "word": "息子",
+        "example": "の 息子 で ある 副",
+        "word_contain_sentence_num": 4548
+    },
+    {
+        "word": "親戚",
+        "example": "の 親戚 の 家 に",
+        "word_contain_sentence_num": 306
+    },
+    {
+        "word": "息",
+        "example": "が 息 を 引き取っ た",
+        "word_contain_sentence_num": 426
+    },
+    {
+        "word": "戚",
+        "example": "から 戚 に 移し て",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "娘",
+        "example": "世 の 娘 で ある",
+        "word_contain_sentence_num": 5443
+    },
+    {
+        "word": "おじ",
+        "example": "若くして 母方 の おじ の",
+        "word_contain_sentence_num": 105
+    },
+    {
+        "word": "おば",
+        "example": "母方 の おば に あたる",
+        "word_contain_sentence_num": 81
+    },
+    {
+        "word": "二 人",
+        "example": "俊 霖 の 二 人 は",
+        "word_contain_sentence_num": 2514
+    },
+    {
+        "word": "いとこ",
+        "example": "は 彼 の いとこ の",
+        "word_contain_sentence_num": 199
+    },
+    {
+        "word": "孫 息子",
+        "example": "の 孫 息子 の 姿 に",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "孫",
+        "example": "人 の 孫 で ある",
+        "word_contain_sentence_num": 2320
+    },
+    {
+        "word": "お孫さん",
+        "example": "お孫さん ",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "孫娘",
+        "example": "曹操 の 孫娘 で ある",
+        "word_contain_sentence_num": 114
+    },
+    {
+        "word": "千 人",
+        "example": "数 千 人 の 人々 が",
+        "word_contain_sentence_num": 529
+    },
+    {
+        "word": "百 人",
+        "example": "に は 数 百 人 の",
+        "word_contain_sentence_num": 258
+    },
+    {
+        "word": "何 人",
+        "example": "人物 の 何 人 か の",
+        "word_contain_sentence_num": 262
+    },
+    {
+        "word": "五 人",
+        "example": "の 五 人 の 将軍 に",
+        "word_contain_sentence_num": 80
+    },
+    {
+        "word": "八 人",
+        "example": "清水 二 十 八 人 衆",
+        "word_contain_sentence_num": 25
+    },
+    {
+        "word": "四 人",
+        "example": "高中 正義 の 四 人 の",
+        "word_contain_sentence_num": 89
+    },
+    {
+        "word": "万 人",
+        "example": "陸軍 は 10 万 人 の",
+        "word_contain_sentence_num": 2371
+    },
+    {
+        "word": "十 人",
+        "example": "少なくとも 百 数 十 人 の",
+        "word_contain_sentence_num": 144
+    },
+    {
+        "word": "三 人",
+        "example": "舟越 と の 三 人 の",
+        "word_contain_sentence_num": 461
+    },
+    {
+        "word": "孫",
+        "example": "人 の 孫 で ある",
+        "word_contain_sentence_num": 2320
+    },
+    {
+        "word": "夫",
+        "example": "の 夫 と なる という",
+        "word_contain_sentence_num": 2618
+    },
+    {
+        "word": "妻",
+        "example": "最初 の 妻 の ヘレン",
+        "word_contain_sentence_num": 5060
+    },
+    {
+        "word": "こちら",
+        "example": "こちら は 後 に 56",
+        "word_contain_sentence_num": 1305
+    },
+    {
+        "word": "お いくつ",
+        "example": "お いくつ",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "お子さん",
+        "example": "お子さん は 肉食 が 好き",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "妻",
+        "example": "最初 の 妻 の ヘレン",
+        "word_contain_sentence_num": 5060
+    },
+    {
+        "word": "奥さん",
+        "example": "の 奥さん を 車 に",
+        "word_contain_sentence_num": 38
+    },
+    {
+        "word": "ご 在宅",
+        "example": "ご 在宅",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "ご 主人",
+        "example": "ご 主人 様 と し た",
+        "word_contain_sentence_num": 21
+    },
+    {
+        "word": "主",
+        "example": "例 で は 主 に",
+        "word_contain_sentence_num": 12868
+    },
+    {
+        "word": "奥",
+        "example": "の 奥 に ある 地獄谷",
+        "word_contain_sentence_num": 788
+    },
+    {
+        "word": "在",
+        "example": "に 在 陣 し て",
+        "word_contain_sentence_num": 1058
+    },
+    {
+        "word": "宅",
+        "example": "宅 に 下宿 し ながら",
+        "word_contain_sentence_num": 466
+    },
+    {
+        "word": "祖父",
+        "example": "忠 喬 が 祖父 の",
+        "word_contain_sentence_num": 1249
+    },
+    {
+        "word": "祖母",
+        "example": "や 母方 の 祖母 の",
+        "word_contain_sentence_num": 431
+    },
+    {
+        "word": "おばさん",
+        "example": "で ｢ 男 おばさん の",
+        "word_contain_sentence_num": 66
+    },
+    {
+        "word": "おじさん",
+        "example": "なん ちゃっ て おじさん の",
+        "word_contain_sentence_num": 105
+    },
+    {
+        "word": "おばあさん",
+        "example": "おじいさん と おばあさん が い",
+        "word_contain_sentence_num": 19
+    },
+    {
+        "word": "おじいさん",
+        "example": "そのまま おじいさん が ねずみ もち",
+        "word_contain_sentence_num": 33
+    },
+    {
+        "word": "祖",
+        "example": "氏 の 祖 と する",
+        "word_contain_sentence_num": 1202
+    },
+    {
+        "word": "似 て",
+        "example": "に 似 て いる が 関連",
+        "word_contain_sentence_num": 1110
+    },
+    {
+        "word": "ただいま",
+        "example": "ただいま 満室",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "父親",
+        "example": "父親 は イギリス 出身 の",
+        "word_contain_sentence_num": 2999
+    },
+    {
+        "word": "親",
+        "example": "の 親 で ある 阿南",
+        "word_contain_sentence_num": 2465
+    },
+    {
+        "word": "母親",
+        "example": "の 母親 の 間 で",
+        "word_contain_sentence_num": 2105
+    },
+    {
+        "word": "行っ て き ます",
+        "example": "行っ て き ます",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "おかえりなさい",
+        "example": "おかえりなさい ご 主人 様 !!』",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "行っ て らっしゃい",
+        "example": "パパ 行っ て らっしゃい",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "似",
+        "example": "に 似 た よう な",
+        "word_contain_sentence_num": 2726
+    }
+]

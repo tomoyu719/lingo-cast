@@ -1,0 +1,194 @@
+[
+    {
+        "word": "квартира",
+        "example": "квартира",
+        "probs": "0.1590909090909091, 0, 0.08576998050682261",
+        "word_contain_sentence_num": 1558
+    },
+    {
+        "word": "кухні",
+        "example": "кухні",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "кімната",
+        "example": "кімната",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "спальня",
+        "example": "кабинет и спальня",
+        "probs": "0.27586206896551724, 0.16201117318435754, 0",
+        "word_contain_sentence_num": 174
+    },
+    {
+        "word": "твої",
+        "example": "люблю твої кроки",
+        "probs": "1.0, 0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "наші",
+        "example": "наші зелені карпати",
+        "probs": "0, 0.3333333333333333, 1.0",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "сумка",
+        "example": "сумка с вещами",
+        "probs": "0, 0.12539184952978055, 0.075",
+        "word_contain_sentence_num": 305
+    },
+    {
+        "word": "рюкзак",
+        "example": "рюкзак с вещами",
+        "probs": "0, 0.19753086419753085, 0.09375",
+        "word_contain_sentence_num": 160
+    },
+    {
+        "word": "окуляри",
+        "example": "окуляри",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "ключі",
+        "example": "ключі",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "парасоля",
+        "example": "парасоля",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "ось",
+        "example": "на ось",
+        "probs": "0.09523809523809523, 0, 0.11538461538461539",
+        "word_contain_sentence_num": 1570
+    },
+    {
+        "word": "ніж",
+        "example": "більше ніж друг",
+        "probs": "1.0, 0, 0.5",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "стільці",
+        "example": "стільці",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "вікно",
+        "example": "вікно",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "полиці",
+        "example": "полиці",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "столі",
+        "example": "столі",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "тарілки",
+        "example": "тарілки",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "крісло",
+        "example": "крісло",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "чашки",
+        "example": "чашки и блюдца",
+        "probs": "0, 0.084375, 0.1111111111111111",
+        "word_contain_sentence_num": 312
+    },
+    {
+        "word": "холодильник",
+        "example": "в холодильник",
+        "probs": "0.14285714285714285, 0, 0.10802469135802469",
+        "word_contain_sentence_num": 315
+    },
+    {
+        "word": "чайнику",
+        "example": "чайнику",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "холодні",
+        "example": "холодні",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "гарячі",
+        "example": "гарячі",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "чи",
+        "example": "в X чи",
+        "probs": "0.2, 0.06269592476489028, 0",
+        "word_contain_sentence_num": 277
+    },
+    {
+        "word": "цікавий",
+        "example": "цікавий",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "дорогий",
+        "example": "дорогий",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "дешевий",
+        "example": "дешевий",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "улюблений",
+        "example": "улюблений",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "її",
+        "example": "та її народ",
+        "probs": "0.2, 0, 0.5",
+        "word_contain_sentence_num": 10
+    },
+    {
+        "word": "його",
+        "example": "та його урядовцям",
+        "probs": "0.1935483870967742, 0, 0.3333333333333333",
+        "word_contain_sentence_num": 30
+    },
+    {
+        "word": "речі",
+        "example": "речі",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    }
+]

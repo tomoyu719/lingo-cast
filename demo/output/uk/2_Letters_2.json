@@ -1,0 +1,158 @@
+[
+    {
+        "word": "сад",
+        "example": "ботанічний сад",
+        "probs": "0.19736842105263158, 0",
+        "word_contain_sentence_num": 3122
+    },
+    {
+        "word": "син",
+        "example": "його син",
+        "probs": "0.16796875, 0",
+        "word_contain_sentence_num": 18600
+    },
+    {
+        "word": "сік",
+        "example": "молочний сік",
+        "probs": "0.13513513513513514, 0",
+        "word_contain_sentence_num": 673
+    },
+    {
+        "word": "донька",
+        "example": "дружина та донька",
+        "probs": "0.574468085106383, 0.25806451612903225, 0",
+        "word_contain_sentence_num": 4059
+    },
+    {
+        "word": "дядько",
+        "example": "його дядько",
+        "probs": "0.30158730158730157, 0",
+        "word_contain_sentence_num": 1193
+    },
+    {
+        "word": "мій",
+        "example": "на мій погляд",
+        "probs": "0.04664179104477612, 0, 0.8",
+        "word_contain_sentence_num": 1180
+    },
+    {
+        "word": "моя",
+        "example": "я і моя",
+        "probs": "0.3333333333333333, 0.03790613718411552, 0",
+        "word_contain_sentence_num": 1024
+    },
+    {
+        "word": "чай",
+        "example": "як і чай",
+        "probs": "0.14285714285714285, 0.0821917808219178, 0",
+        "word_contain_sentence_num": 853
+    },
+    {
+        "word": "чий",
+        "example": "чий батько був",
+        "probs": "0, 0.033797216699801194, 0.29411764705882354",
+        "word_contain_sentence_num": 990
+    },
+    {
+        "word": "чия",
+        "example": "чия діяльність підпадає",
+        "probs": "0, 0.04563492063492063, 0.17391304347826086",
+        "word_contain_sentence_num": 1024
+    },
+    {
+        "word": "студент",
+        "example": "студент київського державного",
+        "probs": "0, 0.05304518664047151, 0.2962962962962963",
+        "word_contain_sentence_num": 1905
+    },
+    {
+        "word": "студентка",
+        "example": "як робоча студентка",
+        "probs": "1.0, 0.11764705882352941, 0",
+        "word_contain_sentence_num": 306
+    },
+    {
+        "word": "студенти",
+        "example": "викладачі та студенти",
+        "probs": "0.36666666666666664, 0.05847953216374269, 0",
+        "word_contain_sentence_num": 2200
+    },
+    {
+        "word": "він",
+        "example": "року він був",
+        "probs": "0.08333333333333333, 0, 0.06896551724137931",
+        "word_contain_sentence_num": 238312
+    },
+    {
+        "word": "вона",
+        "example": "році вона була",
+        "probs": "0.1282051282051282, 0, 0.07442748091603053",
+        "word_contain_sentence_num": 77640
+    },
+    {
+        "word": "вони",
+        "example": "вони не",
+        "probs": "0.08253358925143954, 0, 0.09302325581395349",
+        "word_contain_sentence_num": 86736
+    },
+    {
+        "word": "ви",
+        "example": "ви не",
+        "probs": "0.1356521739130435, 0, 0.08974358974358974",
+        "word_contain_sentence_num": 3310
+    },
+    {
+        "word": "тут",
+        "example": "саме тут він",
+        "probs": "0.04142011834319527, 0, 0.09523809523809523",
+        "word_contain_sentence_num": 33253
+    },
+    {
+        "word": "будинок",
+        "example": "сільський будинок культури",
+        "probs": "0.14583333333333334, 0, 0.09142857142857143",
+        "word_contain_sentence_num": 15087
+    },
+    {
+        "word": "чоловік",
+        "example": "X чоловік",
+        "probs": "0.3776223776223776, 0, 0.27766990291262134",
+        "word_contain_sentence_num": 23732
+    },
+    {
+        "word": "сіль",
+        "example": "кам'яна сіль",
+        "probs": "0.08045977011494253, 0",
+        "word_contain_sentence_num": 1441
+    },
+    {
+        "word": "хліб",
+        "example": "ціни на хліб",
+        "probs": "0.11627906976744186, 0.11428571428571428, 0",
+        "word_contain_sentence_num": 1743
+    },
+    {
+        "word": "молоко",
+        "example": "в грудне молоко",
+        "probs": "0.8620689655172413, 0.68125, 0",
+        "word_contain_sentence_num": 1733
+    },
+    {
+        "word": "їм",
+        "example": "їм буде",
+        "probs": "0.037109375, 0, 0.10526315789473684",
+        "word_contain_sentence_num": 17461
+    },
+    {
+        "word": "їсте",
+        "example": "коли ви їсте",
+        "probs": "0.6666666666666666, 0.75, 0",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "м'ясо",
+        "example": "яйця і м'ясо",
+        "probs": "0.10526315789473684, 0.08620689655172414, 0",
+        "word_contain_sentence_num": 1675
+    }
+]

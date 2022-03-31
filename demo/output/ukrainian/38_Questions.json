@@ -1,0 +1,47 @@
+[
+    {
+        "word": "чому",
+        "example": "завдяки чому вони раптово",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "тому що",
+        "example": "тому що вона розташована",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "про що",
+        "example": "про що він ще",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "звідки",
+        "example": "звідки був звільнений 26",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "як довго",
+        "example": "як довго цей процес",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "питання",
+        "example": "До питання про мікроскопічну",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "відповідь",
+        "example": "у відповідь на дію",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "питає",
+        "example": "той і питає :",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "відповісти",
+        "example": "відповісти на питання :",
+        "word_contain_sentence_num": 201
+    }
+]

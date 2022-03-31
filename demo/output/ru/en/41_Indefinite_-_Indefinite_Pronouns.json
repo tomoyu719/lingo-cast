@@ -1,0 +1,110 @@
+[
+    {
+        "word": "хтось",
+        "example": "хтось лукаво гляне",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "щось",
+        "example": "щось негаразд з",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "десь",
+        "example": "десь вони поділися",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "колись",
+        "example": "було колись",
+        "probs": "0.5, 0",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "кудись",
+        "example": "кудись",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "хто-небудь",
+        "example": "хто-небудь",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "що-небудь",
+        "example": "що-небудь",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "де-небудь",
+        "example": "де-небудь",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "коли-небудь",
+        "example": "коли-небудь",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "куди-небудь",
+        "example": "куди-небудь",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "ніхто не",
+        "example": "ніхто не кохав",
+        "probs": "0, 1.0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "ніде не",
+        "example": "ніде не",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "нікуди не",
+        "example": "нікуди не",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "нічого",
+        "example": "нічого",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "все",
+        "example": "все же",
+        "probs": "0.046153846153846156, 0, 0.08333333333333333",
+        "word_contain_sentence_num": 173494
+    },
+    {
+        "word": "обидва",
+        "example": "ланцухи обидва добрые",
+        "probs": "1.0, 0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "кожний",
+        "example": "кожний",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "інший",
+        "example": "інший спосіб неможливо",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    }
+]

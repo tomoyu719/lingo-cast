@@ -1,0 +1,507 @@
+[
+    {
+        "word": "リサイクル",
+        "example": "に対して の リサイクル へ の",
+        "word_contain_sentence_num": 192
+    },
+    {
+        "word": "プラスチック",
+        "example": "で は プラスチック 製 の",
+        "word_contain_sentence_num": 419
+    },
+    {
+        "word": "ペットボトル",
+        "example": "て い た ペットボトル を",
+        "word_contain_sentence_num": 61
+    },
+    {
+        "word": "ごみ",
+        "example": "表通り から は ごみ の",
+        "word_contain_sentence_num": 131
+    },
+    {
+        "word": "ゴミ",
+        "example": "場 の 生 ゴミ を",
+        "word_contain_sentence_num": 271
+    },
+    {
+        "word": "捨て た",
+        "example": "スパルタ と 家族 を 捨て た",
+        "word_contain_sentence_num": 64
+    },
+    {
+        "word": "捨て ない で",
+        "example": "捨て ない で",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "捨て て",
+        "example": "祁済 は 軍 を 捨て て",
+        "word_contain_sentence_num": 146
+    },
+    {
+        "word": "捨て",
+        "example": "を 捨て て しまう なら",
+        "word_contain_sentence_num": 722
+    },
+    {
+        "word": "捨てる",
+        "example": "を 捨てる こと は なく",
+        "word_contain_sentence_num": 114
+    },
+    {
+        "word": "燃え",
+        "example": "理想 に 燃え て いる",
+        "word_contain_sentence_num": 163
+    },
+    {
+        "word": "燃える",
+        "example": "怒り に 燃える 彼 は",
+        "word_contain_sentence_num": 86
+    },
+    {
+        "word": "燃え ない",
+        "example": "燃え ない が 機 が ガックリ",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "捨",
+        "example": "捨 つる 身 に なき",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "燃",
+        "example": "燃 ゆる 大空 だっ た",
+        "word_contain_sentence_num": 74
+    },
+    {
+        "word": "はず",
+        "example": "て い た はず の",
+        "word_contain_sentence_num": 1428
+    },
+    {
+        "word": "会話",
+        "example": "い た と の 会話",
+        "word_contain_sentence_num": 846
+    },
+    {
+        "word": "ことに",
+        "example": "た ことに",
+        "word_contain_sentence_num": 74
+    },
+    {
+        "word": "す べき",
+        "example": "は 特筆 す べき で ある",
+        "word_contain_sentence_num": 1619
+    },
+    {
+        "word": "べき",
+        "example": "す べき で ある と",
+        "word_contain_sentence_num": 5180
+    },
+    {
+        "word": "おい て",
+        "example": "を おい て い た が",
+        "word_contain_sentence_num": 137
+    },
+    {
+        "word": "おき",
+        "example": "し て おき たい の",
+        "word_contain_sentence_num": 578
+    },
+    {
+        "word": "おい た",
+        "example": "医 に し て おい た",
+        "word_contain_sentence_num": 148
+    },
+    {
+        "word": "おく",
+        "example": "し て おく こと が",
+        "word_contain_sentence_num": 837
+    },
+    {
+        "word": "参加",
+        "example": "に 参加 し て いる",
+        "word_contain_sentence_num": 14373
+    },
+    {
+        "word": "参加 者",
+        "example": "000 人 の 参加 者 は",
+        "word_contain_sentence_num": 594
+    },
+    {
+        "word": "加",
+        "example": "加 番 ┃ ┃ ┃",
+        "word_contain_sentence_num": 846
+    },
+    {
+        "word": "参",
+        "example": "参 軍 の 柳 光",
+        "word_contain_sentence_num": 477
+    },
+    {
+        "word": "行か せ",
+        "example": "に 行か せ て い た",
+        "word_contain_sentence_num": 52
+    },
+    {
+        "word": "行か せる",
+        "example": "に 行か せる こと に 成功",
+        "word_contain_sentence_num": 26
+    },
+    {
+        "word": "行か せ た",
+        "example": "を 取り に 行か せ た が",
+        "word_contain_sentence_num": 10
+    },
+    {
+        "word": "習わ せる",
+        "example": "に 書 を 習わ せる ため",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "習わ せ た",
+        "example": "を 習わ せ た こと も 起源",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "習わ せ",
+        "example": "に ピアノ を 習わ せ た",
+        "word_contain_sentence_num": 11
+    },
+    {
+        "word": "飲ま せ",
+        "example": "に 酒 を 飲ま せ て",
+        "word_contain_sentence_num": 45
+    },
+    {
+        "word": "飲ま せ た",
+        "example": "達 に 酒 を 飲ま せ た",
+        "word_contain_sentence_num": 10
+    },
+    {
+        "word": "飲ま せる",
+        "example": "を 飲ま せる こと が 最良",
+        "word_contain_sentence_num": 23
+    },
+    {
+        "word": "預け た",
+        "example": "を 孤児 院 に 預け た",
+        "word_contain_sentence_num": 32
+    },
+    {
+        "word": "預け",
+        "example": "に 預け られ た と",
+        "word_contain_sentence_num": 319
+    },
+    {
+        "word": "お預け",
+        "example": "に お預け と なっ た",
+        "word_contain_sentence_num": 30
+    },
+    {
+        "word": "預け て",
+        "example": "に 預け て い た 歌稿",
+        "word_contain_sentence_num": 44
+    },
+    {
+        "word": "お 待た せ",
+        "example": "年間 お 待た せ し まし た",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "待た せ た",
+        "example": "待た せ た",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "食べ させ た",
+        "example": "切り取っ て 父親 に 食べ させ た",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "食べ させる",
+        "example": "に 食べ させる と 好評 だっ",
+        "word_contain_sentence_num": 23
+    },
+    {
+        "word": "食べ させ",
+        "example": "餌 を 食べ させ て いる",
+        "word_contain_sentence_num": 46
+    },
+    {
+        "word": "預",
+        "example": "で は 杜 預 の",
+        "word_contain_sentence_num": 110
+    },
+    {
+        "word": "禁止",
+        "example": "を 禁止 する 法律 を",
+        "word_contain_sentence_num": 2995
+    },
+    {
+        "word": "なさい",
+        "example": "しっかり 勉強 し なさい",
+        "word_contain_sentence_num": 222
+    },
+    {
+        "word": "さ せ た",
+        "example": "て 詞 を 完成 さ せ た",
+        "word_contain_sentence_num": 3908
+    },
+    {
+        "word": "さ せる",
+        "example": "さ せる こと が でき た",
+        "word_contain_sentence_num": 7465
+    },
+    {
+        "word": "さ せ ない",
+        "example": "さ せ ない よう に し た",
+        "word_contain_sentence_num": 155
+    },
+    {
+        "word": "さ せ",
+        "example": "詞 を 完成 さ せ た",
+        "word_contain_sentence_num": 13284
+    },
+    {
+        "word": "さ せ ない で",
+        "example": "さ せ ない で くれ と 注文 が",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "さ せ て",
+        "example": "を 完成 さ せ て いる が",
+        "word_contain_sentence_num": 1920
+    },
+    {
+        "word": "ない で",
+        "example": "の 戦争 を し ない で",
+        "word_contain_sentence_num": 317
+    },
+    {
+        "word": "飲ま ない で",
+        "example": "飲ま ない で 生き て いく",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "持た ない で",
+        "example": "持た ない で",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "お 任せ",
+        "example": "想像 に お 任せ し ます",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "任せ ない で",
+        "example": "任せ ない で",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "任せ て",
+        "example": "怒り に 任せ て いる が",
+        "word_contain_sentence_num": 96
+    },
+    {
+        "word": "任せ た",
+        "example": "ボーリュー に 指揮 を 任せ た",
+        "word_contain_sentence_num": 60
+    },
+    {
+        "word": "任せ",
+        "example": "に 任せ て いる が",
+        "word_contain_sentence_num": 427
+    },
+    {
+        "word": "立入",
+        "example": "へ の 立入 や 不要",
+        "word_contain_sentence_num": 29
+    },
+    {
+        "word": "禁",
+        "example": "ある 通常 の 18 禁",
+        "word_contain_sentence_num": 170
+    },
+    {
+        "word": "任",
+        "example": "に 任 ぜ られ た",
+        "word_contain_sentence_num": 1746
+    },
+    {
+        "word": "倍",
+        "example": "地球 の 2 倍 の",
+        "word_contain_sentence_num": 2460
+    },
+    {
+        "word": "禁煙",
+        "example": "を 機 に 禁煙 を",
+        "word_contain_sentence_num": 101
+    },
+    {
+        "word": "ご 注意",
+        "example": "ませ ん ので ご 注意 ください",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "注意",
+        "example": "注意 が 必要 で ある",
+        "word_contain_sentence_num": 1552
+    },
+    {
+        "word": "不 注意",
+        "example": "の 不 注意 により 流産 し",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "動かす",
+        "example": "を 動かす こと が でき",
+        "word_contain_sentence_num": 348
+    },
+    {
+        "word": "動かし",
+        "example": "を 動かし て いる が",
+        "word_contain_sentence_num": 275
+    },
+    {
+        "word": "動かし た",
+        "example": "タモリ の 心 を 動かし た",
+        "word_contain_sentence_num": 35
+    },
+    {
+        "word": "動かさ なけれ ば",
+        "example": "を 動かさ なけれ ば なり ませ ん",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "けれ ば",
+        "example": "ない けれ ば なら なかっ た",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "よけれ ば",
+        "example": "条件 が よけれ ば 全て よし",
+        "word_contain_sentence_num": 18
+    },
+    {
+        "word": "やめ なけれ ば",
+        "example": "妨害 を やめ なけれ ば なら ない",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "なけれ ば",
+        "example": "を し なけれ ば なら ない",
+        "word_contain_sentence_num": 4146
+    },
+    {
+        "word": "行か なけれ ば",
+        "example": "塁 に 行か なけれ ば なら ない",
+        "word_contain_sentence_num": 17
+    },
+    {
+        "word": "守ら なけれ ば",
+        "example": "を 守ら なけれ ば なら ない と",
+        "word_contain_sentence_num": 13
+    },
+    {
+        "word": "いけ ない",
+        "example": "て は いけ ない と 思っ",
+        "word_contain_sentence_num": 378
+    },
+    {
+        "word": "いけ なかっ た",
+        "example": "を 集め なけれ ば いけ なかっ た",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "いけ ませ ん",
+        "example": "を し て は いけ ませ ん",
+        "word_contain_sentence_num": 25
+    },
+    {
+        "word": "煙",
+        "example": "煙 を 食材 に 当て",
+        "word_contain_sentence_num": 419
+    },
+    {
+        "word": "倍",
+        "example": "地球 の 2 倍 の",
+        "word_contain_sentence_num": 2460
+    },
+    {
+        "word": "約束",
+        "example": "こと を 約束 し た",
+        "word_contain_sentence_num": 1154
+    },
+    {
+        "word": "破ら ない",
+        "example": "破ら ない 限り は その 信仰",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "破っ た",
+        "example": "する フランス 軍 を 破っ た",
+        "word_contain_sentence_num": 371
+    },
+    {
+        "word": "破っ て",
+        "example": "を 破っ て 優勝 し た",
+        "word_contain_sentence_num": 563
+    },
+    {
+        "word": "破る",
+        "example": "を 破る こと が できる",
+        "word_contain_sentence_num": 376
+    },
+    {
+        "word": "守る",
+        "example": "身 を 守る ため に",
+        "word_contain_sentence_num": 1514
+    },
+    {
+        "word": "守り",
+        "example": "を 守り 続け て き",
+        "word_contain_sentence_num": 598
+    },
+    {
+        "word": "守れる",
+        "example": "を 守れる よう に する",
+        "word_contain_sentence_num": 33
+    },
+    {
+        "word": "守っ た",
+        "example": "で ポジション を 守っ た が",
+        "word_contain_sentence_num": 159
+    },
+    {
+        "word": "守っ て",
+        "example": "を 守っ て い た が",
+        "word_contain_sentence_num": 240
+    },
+    {
+        "word": "ダメ",
+        "example": "で は ダメ だ と",
+        "word_contain_sentence_num": 184
+    },
+    {
+        "word": "だめ",
+        "example": "の だめ カンタービレ 最終 楽章",
+        "word_contain_sentence_num": 71
+    },
+    {
+        "word": "束",
+        "example": "た カード の 束 を",
+        "word_contain_sentence_num": 295
+    },
+    {
+        "word": "破",
+        "example": "破 却 さ れ た",
+        "word_contain_sentence_num": 304
+    },
+    {
+        "word": "守",
+        "example": "守 に 叙任 さ れる",
+        "word_contain_sentence_num": 1777
+    }
+]
