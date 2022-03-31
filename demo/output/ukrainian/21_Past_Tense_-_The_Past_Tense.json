@@ -1,0 +1,107 @@
+[
+    {
+        "word": "бути",
+        "example": "не може бути виміряна",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "знали",
+        "example": "нічого не знали про",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "читали",
+        "example": "читали лекції з агротехніки",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "працювали",
+        "example": "активних мешканців працювали 73",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "думали",
+        "example": "вони і не думали",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "про",
+        "example": "з'явилася інформація про те",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "грали",
+        "example": "які грали в аматорській",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "купили",
+        "example": "купили у поміщика Йосипа",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вчили",
+        "example": "яких вчили дітей боротися",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "бачили",
+        "example": "раніше ніколи не бачили",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "все",
+        "example": "перш за все",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "готували",
+        "example": "які готували вчителів",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "подорожував",
+        "example": "багато подорожував по Європі",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "сказали",
+        "example": "сказали : \"",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "фотографувати",
+        "example": "розшифровувати і фотографувати",
+        "word_contain_sentence_num": 99
+    },
+    {
+        "word": "вчора",
+        "example": "які ще вчора збирали",
+        "word_contain_sentence_num": 170
+    },
+    {
+        "word": "робили",
+        "example": "робили з боку тротуару",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "позавчора",
+        "example": "позавчора в цій студії",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "мали",
+        "example": "Дітей не мали",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "спали",
+        "example": "Ми спали на підлозі",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "жила",
+        "example": "вона жила в районі",
+        "word_contain_sentence_num": 201
+    }
+]

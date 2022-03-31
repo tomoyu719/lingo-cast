@@ -10,8 +10,6 @@ from sentence_util import SentenceUtil
 
 DB_DIR = 'db'
 MAX_PROCESS_SENTENCE_NUM = 200
-MAX_PROCESS_WIKI_SENTENCE_NUM = 100000
-
 
 class SentenceDb():
     
@@ -42,34 +40,21 @@ class SentenceDb():
         sentences = []
         for text in decoder:
             sentences += self.sentence_util.split_to_sentences(text)
-            if len(sentences) > MAX_PROCESS_WIKI_SENTENCE_NUM:
-                records = [(None, sent) for sent in sentences]
-                cur.executemany("INSERT INTO wiki_sentences VALUES (?, ?)", records)
-                sentences = []
         records = [(None, sent) for sent in sentences]
         cur.executemany("INSERT INTO wiki_sentences VALUES (?, ?)", records)
             
-    def _fetch_sentences_by_many_ids(self, ids):
-        sentences = []
-        for id in ids:
-            s = self._fetch_sentences_by_id(id)
-            sentences.append(s)
-            if len(sentences) > MAX_PROCESS_SENTENCE_NUM:
-                break
-        return sentences
-
-    def _fetch_sentences_by_id(self, id):
+    def _fetch_sentences_by_ids(self, ids):
         con = sqlite3.connect(self.db_path, isolation_level=None)
         cur = con.cursor()
-        cur.execute('SELECT sentence FROM wiki_sentences WHERE id=:id', {"id": id})
+        cur.execute('SELECT sentence FROM wiki_sentences WHERE id IN ({})'.format(', '.join('{}'.format(i) for i in ids)))
         record = cur.fetchall()
-        sentence = record[0][0]
-        return sentence
+        sentences = [r[0] for r in record]
+        return sentences
 
     def fetch_sentences_contain_word(self, word):
         if self.cache_db.is_word_exist(word):
             ids = self.cache_db.fetch_ids_by_word(word)
-            sentences = self._fetch_sentences_by_many_ids(ids)
+            sentences = self._fetch_sentences_by_ids(ids)
             return sentences
         con = sqlite3.connect(self.db_path, isolation_level=None)
         cur = con.cursor()
@@ -78,7 +63,7 @@ class SentenceDb():
         ids = [id for id, _ in records]
         sentences = [sent for _, sent in records]
         self.insert_cache_db(word, ids)
-        return sentences[:MAX_PROCESS_SENTENCE_NUM]
+        return sentences
 
     def fetch_ids_contain_word(self, word):
         if self.cache_db.is_word_exist(word):
@@ -96,12 +81,31 @@ class SentenceDb():
         self.cache_db.insert(word, ids)
             
     def fetch_sentences_contain_many_words(self, words):
-        for i, word in enumerate(words):
-            ids = self.fetch_ids_contain_word(word)
-            if i == 0:
-                ids_set = set(ids)
-            else:
-                ids_set = ids_set & set(ids)
-        ids_contain_words = list(ids_set)
-        sentences = self._fetch_sentences_by_many_ids(ids_contain_words)
+        ids_contain_words = self._get_words_intersection_ids(words)
+        sentences = self._fetch_sentences_by_ids(ids_contain_words)
         return sentences
+
+    def _get_intersection(self, items_list):
+        items_set = set(items_list[0])
+        for items in items_list:
+            items_set = items_set & set(items)
+        return list(items_set)
+
+    def _get_words_intersection_ids(self, words):
+        words_ids = []
+        for word in words:
+            ids = self.fetch_ids_contain_word(word)
+            words_ids.append(ids)
+        words_intersection_ids = self._get_intersection(words_ids)
+        return words_intersection_ids
+
+    def fetch_sentence_num_contain_word(self, word):
+        if self.cache_db.is_word_exist(word):
+            ids = self.cache_db.fetch_ids_by_word(word)
+            return len(ids)
+        else:
+            ids = self.fetch_ids_contain_word(word)
+            return len(ids)
+
+    def fetch_sentence_num_contain_many_words(self, words):
+        return len(self._get_words_intersection_ids(words))

@@ -1,0 +1,134 @@
+[
+    {
+        "word": "spać",
+        "example": "kładzie się spać",
+        "probs": "0.21951219512195122, 0.14909090909090908, 0",
+        "word_contain_sentence_num": 273
+    },
+    {
+        "word": "kroją",
+        "example": "dół kroją jajko",
+        "probs": "1.0, 0, 0.5",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "robią",
+        "example": "jak robią to",
+        "probs": "0.20930232558139536, 0, 0.1902654867256637",
+        "word_contain_sentence_num": 451
+    },
+    {
+        "word": "niosą",
+        "example": "niosą ze sobą",
+        "probs": "0, 0.18333333333333332, 1.0",
+        "word_contain_sentence_num": 180
+    },
+    {
+        "word": "dotykać",
+        "example": "może dotykać piłki",
+        "probs": "0.10679611650485436, 0, 0.18181818181818182",
+        "word_contain_sentence_num": 101
+    },
+    {
+        "word": "szukać",
+        "example": "należy szukać w",
+        "probs": "0.4, 0, 0.11",
+        "word_contain_sentence_num": 1207
+    },
+    {
+        "word": "odwiedzasz",
+        "example": "odwiedzasz miejsca takie",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "wspierają",
+        "example": "wspierają się na",
+        "probs": "0, 0.1306532663316583, 0.4423076923076923",
+        "word_contain_sentence_num": 397
+    },
+    {
+        "word": "pamiętają",
+        "example": "i nie pamiętają",
+        "probs": "0.13636363636363635, 0.2391304347826087, 0",
+        "word_contain_sentence_num": 92
+    },
+    {
+        "word": "czytają",
+        "example": "nie czytają instrukcji",
+        "probs": "0.08, 0, 0.25",
+        "word_contain_sentence_num": 50
+    },
+    {
+        "word": "pokazujecie",
+        "example": "pokazujecie",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "kupować",
+        "example": "gracz może kupować",
+        "probs": "0.5, 0.06862745098039216, 0",
+        "word_contain_sentence_num": 204
+    },
+    {
+        "word": "gotuję",
+        "example": "gotuję",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "produkujemy",
+        "example": "produkujemy element do",
+        "probs": "0, 0.5, 1.0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "szanują",
+        "example": "którzy nie szanują",
+        "probs": "0.3333333333333333, 0.4, 0",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "jemy",
+        "example": "jemy ciało",
+        "probs": "0, 0.5",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "pijecie",
+        "example": "albo pijecie kielich",
+        "probs": "1.0, 0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "sprzedajecie",
+        "example": "sprzedajecie",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "biorą",
+        "example": "biorą udział w",
+        "probs": "0, 0.5278884462151394, 0.4641509433962264",
+        "word_contain_sentence_num": 1468
+    },
+    {
+        "word": "dostarczamy",
+        "example": "dostarczamy razem a",
+        "probs": "0, 0.3333333333333333, 1.0",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "dostać",
+        "example": "dostać się do",
+        "probs": "0, 0.5537848605577689, 0.5179856115107914",
+        "word_contain_sentence_num": 1846
+    },
+    {
+        "word": "wychowują",
+        "example": "wychowują się w",
+        "probs": "0, 0.17105263157894737, 0.3076923076923077",
+        "word_contain_sentence_num": 76
+    }
+]

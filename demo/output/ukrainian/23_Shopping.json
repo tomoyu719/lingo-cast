@@ -1,0 +1,79 @@
+[
+    {
+        "word": "жіноче",
+        "example": "єпархіальне жіноче училище",
+        "probs": "0.1836734693877551, 0, 0.09741550695825049",
+        "translate": "eparchial women's school",
+        "word_contain_sentence_num": 549
+    },
+    {
+        "word": "можна",
+        "example": "можна було б",
+        "probs": "0, 0.11439842209072978, 0.10344827586206896",
+        "translate": "we could",
+        "word_contain_sentence_num": 49308
+    },
+    {
+        "word": "чоловічі",
+        "example": "чоловічі і жіночі",
+        "probs": "0, 0.07662082514734773, 0.8461538461538461",
+        "translate": "men's and women's",
+        "word_contain_sentence_num": 642
+    },
+    {
+        "word": "поміряти",
+        "example": "поміряти гіромагнітне співвідношення",
+        "probs": "0, 0.2, 1.0",
+        "translate": "measure the gyromagnetic ratio",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "елегантний",
+        "example": "елегантний образ",
+        "probs": "0.1744186046511628, 0, 0.13333333333333333",
+        "translate": "elegant image",
+        "word_contain_sentence_num": 86
+    },
+    {
+        "word": "модна",
+        "example": "була модна",
+        "probs": "0.4, 0, 0.10416666666666667",
+        "translate": "was fashionable",
+        "word_contain_sentence_num": 48
+    },
+    {
+        "word": "спортивне",
+        "example": "українське спортивне товариство",
+        "probs": "0.22727272727272727, 0, 0.40325865580448067",
+        "translate": "Ukrainian Sports Association",
+        "word_contain_sentence_num": 489
+    },
+    {
+        "word": "розмір",
+        "example": "середній розмір родини",
+        "probs": "0.14122137404580154, 0, 0.6621621621621622",
+        "translate": "average family size",
+        "word_contain_sentence_num": 4411
+    },
+    {
+        "word": "просто",
+        "example": "це не просто",
+        "probs": "0.12727272727272726, 0.10934393638170974, 0",
+        "translate": "it's not easy",
+        "word_contain_sentence_num": 11248
+    },
+    {
+        "word": "покажіть",
+        "example": "покажіть його",
+        "probs": "0.2857142857142857, 0, 0.5",
+        "translate": "show it",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "шарф",
+        "example": "легендарний зелений шарф",
+        "probs": "0.3333333333333333, 0.13333333333333333, 0",
+        "translate": "legendary green scarf",
+        "word_contain_sentence_num": 69
+    }
+]

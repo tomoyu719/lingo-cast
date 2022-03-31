@@ -1,0 +1,257 @@
+[
+    {
+        "word": "誤解",
+        "example": "と 誤解 さ れ た",
+        "word_contain_sentence_num": 512
+    },
+    {
+        "word": "ついに",
+        "example": "ついに は 我 を 忘れ",
+        "word_contain_sentence_num": 1235
+    },
+    {
+        "word": "謎",
+        "example": "さ れ た 謎 の",
+        "word_contain_sentence_num": 1157
+    },
+    {
+        "word": "謎 々",
+        "example": "謎 々",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "解き",
+        "example": "駅 分 の 謎 解き",
+        "word_contain_sentence_num": 130
+    },
+    {
+        "word": "解ける",
+        "example": "が 解ける まで 3 日間",
+        "word_contain_sentence_num": 32
+    },
+    {
+        "word": "解け ない",
+        "example": "は 一般 に は 解け ない",
+        "word_contain_sentence_num": 14
+    },
+    {
+        "word": "解け た",
+        "example": "洗脳 が 解け た 後 は",
+        "word_contain_sentence_num": 18
+    },
+    {
+        "word": "しょうが ない",
+        "example": "邪魔 に なっ て しょうが ない",
+        "word_contain_sentence_num": 18
+    },
+    {
+        "word": "誤",
+        "example": "の 誤 作動 を 起こし",
+        "word_contain_sentence_num": 213
+    },
+    {
+        "word": "謎",
+        "example": "さ れ た 謎 の",
+        "word_contain_sentence_num": 1157
+    },
+    {
+        "word": "集中",
+        "example": "に 集中 し て いる",
+        "word_contain_sentence_num": 1691
+    },
+    {
+        "word": "暗記",
+        "example": "を 暗記 し て い",
+        "word_contain_sentence_num": 48
+    },
+    {
+        "word": "さすが",
+        "example": "年 に は さすが に",
+        "word_contain_sentence_num": 105
+    },
+    {
+        "word": "例えば",
+        "example": "ある 例えば",
+        "word_contain_sentence_num": 3800
+    },
+    {
+        "word": "当たり前",
+        "example": "の が 当たり前 で あっ",
+        "word_contain_sentence_num": 118
+    },
+    {
+        "word": "適当",
+        "example": "記号 の 適当 な 場所",
+        "word_contain_sentence_num": 329
+    },
+    {
+        "word": "不 適当",
+        "example": "は 不 適当 で ある と",
+        "word_contain_sentence_num": 48
+    },
+    {
+        "word": "適",
+        "example": "緒方 洪庵 の 適 塾",
+        "word_contain_sentence_num": 69
+    },
+    {
+        "word": "上達",
+        "example": "演奏 が 上達 し た",
+        "word_contain_sentence_num": 70
+    },
+    {
+        "word": "伝達",
+        "example": "の 情報 の 伝達 を",
+        "word_contain_sentence_num": 640
+    },
+    {
+        "word": "意思",
+        "example": "の 意思 を 表明 し",
+        "word_contain_sentence_num": 1134
+    },
+    {
+        "word": "賢く",
+        "example": "賢く て 勇気 が ある",
+        "word_contain_sentence_num": 33
+    },
+    {
+        "word": "賢い",
+        "example": "ずる 賢い 上司 の 陰謀",
+        "word_contain_sentence_num": 35
+    },
+    {
+        "word": "真理",
+        "example": "の 真理 と は 何",
+        "word_contain_sentence_num": 280
+    },
+    {
+        "word": "思想",
+        "example": "中国 の 思想 を 述べる",
+        "word_contain_sentence_num": 2311
+    },
+    {
+        "word": "賢",
+        "example": "賢 胤 は 大内 氏",
+        "word_contain_sentence_num": 632
+    },
+    {
+        "word": "とにかく",
+        "example": "は とにかく 目立っ て い",
+        "word_contain_sentence_num": 134
+    },
+    {
+        "word": "本気",
+        "example": "は 山田 を 本気 で",
+        "word_contain_sentence_num": 160
+    },
+    {
+        "word": "完成",
+        "example": "年 に 完成 し た",
+        "word_contain_sentence_num": 5404
+    },
+    {
+        "word": "概念",
+        "example": "の 概念 を 用いる こと",
+        "word_contain_sentence_num": 2193
+    },
+    {
+        "word": "極めて",
+        "example": "と する こと は 極めて",
+        "word_contain_sentence_num": 1474
+    },
+    {
+        "word": "極",
+        "example": "戦 極 〜 第 一",
+        "word_contain_sentence_num": 804
+    },
+    {
+        "word": "概",
+        "example": "体温 の 概 日 リズム",
+        "word_contain_sentence_num": 71
+    },
+    {
+        "word": "あらゆる",
+        "example": "の あらゆる 地域 で 起き",
+        "word_contain_sentence_num": 1183
+    },
+    {
+        "word": "試し て",
+        "example": "を 試し て み たい と",
+        "word_contain_sentence_num": 30
+    },
+    {
+        "word": "試さ れ て",
+        "example": "が 試さ れ て き た が",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "純粋",
+        "example": "で は 純粋 な もの",
+        "word_contain_sentence_num": 682
+    },
+    {
+        "word": "理性",
+        "example": "に は 理性 的 な",
+        "word_contain_sentence_num": 233
+    },
+    {
+        "word": "理性 的",
+        "example": "原稿 に は 理性 的 な",
+        "word_contain_sentence_num": 28
+    },
+    {
+        "word": "実際",
+        "example": "作品 は 実際 に は",
+        "word_contain_sentence_num": 6261
+    },
+    {
+        "word": "粋",
+        "example": "の 粋 を 集め た",
+        "word_contain_sentence_num": 86
+    },
+    {
+        "word": "純",
+        "example": "煬帝 も 董 純 は",
+        "word_contain_sentence_num": 926
+    },
+    {
+        "word": "結局",
+        "example": "た 結局",
+        "word_contain_sentence_num": 2582
+    },
+    {
+        "word": "あるいは",
+        "example": "あるいは 4 つ の 宮殿",
+        "word_contain_sentence_num": 5366
+    },
+    {
+        "word": "ところで",
+        "example": "た ところで",
+        "word_contain_sentence_num": 55
+    },
+    {
+        "word": "コツ",
+        "example": "の コツ を 教え て",
+        "word_contain_sentence_num": 27
+    },
+    {
+        "word": "完璧",
+        "example": "完璧 な もの だっ た",
+        "word_contain_sentence_num": 335
+    },
+    {
+        "word": "あれこれ と",
+        "example": "あれこれ と 横槍 を 入れ て",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "あれこれ",
+        "example": "し て あれこれ と 振り返り",
+        "word_contain_sentence_num": 20
+    },
+    {
+        "word": "璧",
+        "example": "方 君 璧 の 姉",
+        "word_contain_sentence_num": 8
+    }
+]

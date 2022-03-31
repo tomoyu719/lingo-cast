@@ -1,0 +1,284 @@
+[
+    {
+        "word": "kwiatów",
+        "example": "z kwiatów i",
+        "probs": "0.09607843137254903, 0, 0.12244897959183673",
+        "word_contain_sentence_num": 1508
+    },
+    {
+        "word": "drzewo",
+        "example": "uderzył w drzewo",
+        "probs": "0.46153846153846156, 0.04933586337760911, 0",
+        "word_contain_sentence_num": 1476
+    },
+    {
+        "word": "trawa",
+        "example": "liście i trawa",
+        "probs": "0.21428571428571427, 0.08536585365853659, 0",
+        "word_contain_sentence_num": 158
+    },
+    {
+        "word": "niebo",
+        "example": "się w niebo",
+        "probs": "0.16071428571428573, 0.10980392156862745, 0",
+        "word_contain_sentence_num": 749
+    },
+    {
+        "word": "świata",
+        "example": "mistrzostwach świata w",
+        "probs": "0.5238095238095238, 0, 0.34552102376599636",
+        "word_contain_sentence_num": 48386
+    },
+    {
+        "word": "las",
+        "example": "de las américas",
+        "probs": "0.08801498127340825, 0, 0.14893617021276595",
+        "word_contain_sentence_num": 2431
+    },
+    {
+        "word": "rosną",
+        "example": "rosną na nich",
+        "probs": "0, 0.12326043737574553, 0.6935483870967742",
+        "word_contain_sentence_num": 1978
+    },
+    {
+        "word": "deszczu",
+        "example": "opady deszczu są",
+        "probs": "0.19094488188976377, 0, 0.17525773195876287",
+        "word_contain_sentence_num": 1431
+    },
+    {
+        "word": "śniegu",
+        "example": "opady śniegu w",
+        "probs": "0.14563106796116504, 0, 0.06666666666666667",
+        "word_contain_sentence_num": 1434
+    },
+    {
+        "word": "słońce",
+        "example": "słońce i księżyc",
+        "probs": "0, 0.06640625, 0.20588235294117646",
+        "word_contain_sentence_num": 783
+    },
+    {
+        "word": "chmura",
+        "example": "pojawiła się chmura",
+        "probs": "0.2, 0.06711409395973154, 0",
+        "word_contain_sentence_num": 145
+    },
+    {
+        "word": "tęczę",
+        "example": "tęczę można uzyskać",
+        "probs": "0, 0.08, 0.5",
+        "word_contain_sentence_num": 25
+    },
+    {
+        "word": "burza",
+        "example": "rozpętała się burza",
+        "probs": "0.24444444444444444, 0.13157894736842105, 0",
+        "word_contain_sentence_num": 340
+    },
+    {
+        "word": "wiatr",
+        "example": "są przez wiatr",
+        "probs": "0.21875, 0.25, 0",
+        "word_contain_sentence_num": 1541
+    },
+    {
+        "word": "pada",
+        "example": "wybór pada na",
+        "probs": "0.14150943396226415, 0, 0.20948616600790515",
+        "word_contain_sentence_num": 773
+    },
+    {
+        "word": "ognia",
+        "example": "do wymiany ognia",
+        "probs": "0.48484848484848486, 0.06560636182902585, 0",
+        "word_contain_sentence_num": 3490
+    },
+    {
+        "word": "przyrodę",
+        "example": "przyrodę i krajobraz",
+        "probs": "0, 0.18181818181818182, 0.10869565217391304",
+        "word_contain_sentence_num": 252
+    },
+    {
+        "word": "pogodzie",
+        "example": "przy dobrej pogodzie",
+        "probs": "0.953125, 0.2057877813504823, 0",
+        "word_contain_sentence_num": 311
+    },
+    {
+        "word": "gór",
+        "example": "z gór na",
+        "probs": "0.07751937984496124, 0, 0.075",
+        "word_contain_sentence_num": 2801
+    },
+    {
+        "word": "głębokie",
+        "example": "i głębokie wąwozy",
+        "probs": "0.072, 0, 0.08333333333333333",
+        "word_contain_sentence_num": 995
+    },
+    {
+        "word": "rzeka",
+        "example": "miasto przepływa rzeka",
+        "probs": "0.1111111111111111, 0.12138728323699421, 0",
+        "word_contain_sentence_num": 2796
+    },
+    {
+        "word": "jeziorze",
+        "example": "wody w jeziorze",
+        "probs": "0.1568627450980392, 0.3945841392649903, 0",
+        "word_contain_sentence_num": 1185
+    },
+    {
+        "word": "morze",
+        "example": "wyszedł w morze",
+        "probs": "0.1566265060240964, 0.3235867446393762, 0",
+        "word_contain_sentence_num": 1497
+    },
+    {
+        "word": "ziemia",
+        "example": "niebo i ziemia",
+        "probs": "0.2, 0.04734848484848485, 0",
+        "word_contain_sentence_num": 1242
+    },
+    {
+        "word": "księżyc",
+        "example": "podróż na księżyc",
+        "probs": "0.25, 0.06971677559912855, 0",
+        "word_contain_sentence_num": 441
+    },
+    {
+        "word": "gwiazdą",
+        "example": "półksiężyc z gwiazdą",
+        "probs": "0.08333333333333333, 0.14285714285714285, 0",
+        "word_contain_sentence_num": 1660
+    },
+    {
+        "word": "planety",
+        "example": "pochodzi z planety",
+        "probs": "0.11764705882352941, 0.06439393939393939, 0",
+        "word_contain_sentence_num": 2615
+    },
+    {
+        "word": "wybrzeżu",
+        "example": "na wybrzeżu morza",
+        "probs": "0.5, 0, 0.10236220472440945",
+        "word_contain_sentence_num": 2641
+    },
+    {
+        "word": "wyspie",
+        "example": "na wyspie jest",
+        "probs": "0.8678500986193294, 0, 0.02727272727272727",
+        "word_contain_sentence_num": 6705
+    },
+    {
+        "word": "światło",
+        "example": "ujrzał światło dzienne",
+        "probs": "0.25842696629213485, 0, 0.17281553398058253",
+        "word_contain_sentence_num": 2909
+    },
+    {
+        "word": "wszechświat",
+        "example": "cały wszechświat jest",
+        "probs": "0.17410714285714285, 0, 0.10256410256410256",
+        "word_contain_sentence_num": 220
+    },
+    {
+        "word": "zimno",
+        "example": "na zimno lub",
+        "probs": "0.6028985507246377, 0, 0.04326923076923077",
+        "word_contain_sentence_num": 342
+    },
+    {
+        "word": "gorąco",
+        "example": "się na gorąco",
+        "probs": "0.10067114093959731, 0.4209039548022599, 0",
+        "word_contain_sentence_num": 350
+    },
+    {
+        "word": "powietrza",
+        "example": "z powietrza w",
+        "probs": "0.09689922480620156, 0, 0.08",
+        "word_contain_sentence_num": 5354
+    },
+    {
+        "word": "klimatu",
+        "example": "w strefie klimatu",
+        "probs": "0.96, 0.1949317738791423, 0",
+        "word_contain_sentence_num": 2454
+    },
+    {
+        "word": "roślin",
+        "example": "roślin i grzybów",
+        "probs": "0, 0.11909262759924386, 0.5238095238095238",
+        "word_contain_sentence_num": 10095
+    },
+    {
+        "word": "zboże",
+        "example": "na zboże i",
+        "probs": "0.10026385224274406, 0, 0.15789473684210525",
+        "word_contain_sentence_num": 376
+    },
+    {
+        "word": "pole",
+        "example": "z pole position",
+        "probs": "0.3076923076923077, 0, 0.19366852886405958",
+        "word_contain_sentence_num": 4264
+    },
+    {
+        "word": "liść",
+        "example": "tj. liść laurowy",
+        "probs": "0.18181818181818182, 0, 0.04564315352697095",
+        "word_contain_sentence_num": 229
+    },
+    {
+        "word": "krajobrazie",
+        "example": "w krajobrazie dominują",
+        "probs": "0.6645569620253164, 0, 0.08571428571428572",
+        "word_contain_sentence_num": 315
+    },
+    {
+        "word": "środowisku",
+        "example": "w środowisku wodnym",
+        "probs": "0.7003968253968254, 0, 0.036827195467422094",
+        "word_contain_sentence_num": 3746
+    },
+    {
+        "word": "kamień",
+        "example": "kamień węgielny pod",
+        "probs": "0, 0.3145631067961165, 0.5925925925925926",
+        "word_contain_sentence_num": 2415
+    },
+    {
+        "word": "piasek",
+        "example": "piasek i żwir",
+        "probs": "0, 0.10103626943005181, 0.1794871794871795",
+        "word_contain_sentence_num": 380
+    },
+    {
+        "word": "horyzont",
+        "example": "przez horyzont zdarzeń",
+        "probs": "0.17857142857142858, 0, 0.16470588235294117",
+        "word_contain_sentence_num": 167
+    },
+    {
+        "word": "dym",
+        "example": "i dym z",
+        "probs": "0.10344827586206896, 0, 0.09206349206349207",
+        "word_contain_sentence_num": 305
+    },
+    {
+        "word": "łąką",
+        "example": "z łąką stanisławowi",
+        "probs": "0.1111111111111111, 0, 0.3333333333333333",
+        "word_contain_sentence_num": 27
+    },
+    {
+        "word": "pustynie",
+        "example": "pustynie i półpustynie",
+        "probs": "0, 0.14150943396226415, 0.5666666666666667",
+        "word_contain_sentence_num": 208
+    }
+]

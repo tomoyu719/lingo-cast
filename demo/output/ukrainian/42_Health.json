@@ -1,0 +1,107 @@
+[
+    {
+        "word": "здоров'я",
+        "example": "технології і охорони здоров'я",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "температура",
+        "example": "Середня температура січня −",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "почувається",
+        "example": "як вона почувається",
+        "word_contain_sentence_num": 119
+    },
+    {
+        "word": "втомитися",
+        "example": "може втомитися виконувати цю",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "руки",
+        "example": "країною у свої руки",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вуха",
+        "example": "спрямовує їх до вуха",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "зуби",
+        "example": "могутні щелепи і зуби",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "ноги",
+        "example": "встає на ноги",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "болить",
+        "example": "стіни і болить голова",
+        "word_contain_sentence_num": 50
+    },
+    {
+        "word": "голова",
+        "example": "року — голова Запорізької",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "горло",
+        "example": "перерізавши собі горло",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "живіт",
+        "example": "поранення у живіт",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "спина",
+        "example": "; спина і частина",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "сумно",
+        "example": "сумно відомий Муравський шлях",
+        "word_contain_sentence_num": 200
+    },
+    {
+        "word": "весело",
+        "example": "досить душевно і весело",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "нудно",
+        "example": "їй знову стало нудно",
+        "word_contain_sentence_num": 77
+    },
+    {
+        "word": "самотньо",
+        "example": "батьків він жив самотньо",
+        "word_contain_sentence_num": 110
+    },
+    {
+        "word": "смішно",
+        "example": "вельми парадоксально і смішно",
+        "word_contain_sentence_num": 57
+    },
+    {
+        "word": "ліки",
+        "example": "вимушена дати йому ліки",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "аптека",
+        "example": "побудована лікарня та аптека",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "лікарню",
+        "example": "Зчіплювач потрапляє в лікарню",
+        "word_contain_sentence_num": 201
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "word": "先生",
+        "example": "の 先生 が 教える 場合",
+        "word_contain_sentence_num": 776
+    },
+    {
+        "word": "おはよう",
+        "example": "の nhk ニュース おはよう 日本",
+        "word_contain_sentence_num": 165
+    },
+    {
+        "word": "ありがとう",
+        "example": "本当に ありがとう ござい まし た",
+        "word_contain_sentence_num": 160
+    },
+    {
+        "word": "ござい ます",
+        "example": "入っ た わけ で ござい ます",
+        "word_contain_sentence_num": 98
+    },
+    {
+        "word": "こんにちは",
+        "example": "ルック ルック こんにちは",
+        "word_contain_sentence_num": 67
+    },
+    {
+        "word": "先",
+        "example": "の モンスター を 先 に",
+        "word_contain_sentence_num": 5108
+    },
+    {
+        "word": "生",
+        "example": "兵種 の 士官 候補 生",
+        "word_contain_sentence_num": 5135
+    },
+    {
+        "word": "どうぞ",
+        "example": "奥様 お 手 を どうぞ",
+        "word_contain_sentence_num": 33
+    },
+    {
+        "word": "どうも",
+        "example": "は どうも 楽しみ かねる と",
+        "word_contain_sentence_num": 39
+    },
+    {
+        "word": "よろしく",
+        "example": "を よろしく お願い し ます",
+        "word_contain_sentence_num": 52
+    },
+    {
+        "word": "すみません",
+        "example": "て すみません と 謝る こと",
+        "word_contain_sentence_num": 11
+    },
+    {
+        "word": "お願い し ます",
+        "example": "た 私 を よろしく お願い し ます",
+        "word_contain_sentence_num": 19
+    },
+    {
+        "word": "あ",
+        "example": "言葉 で あ つた とか",
+        "word_contain_sentence_num": 1207
+    },
+    {
+        "word": "ごめん",
+        "example": "愛 おしくっ て ごめん ね",
+        "word_contain_sentence_num": 30
+    },
+    {
+        "word": "ごめんなさい",
+        "example": "ごめんなさい ね おかあさん",
+        "word_contain_sentence_num": 19
+    },
+    {
+        "word": "願",
+        "example": "願 証 寺 の 門徒",
+        "word_contain_sentence_num": 248
+    },
+    {
+        "word": "じゃあ ね",
+        "example": "じゃあ ね しか 言え ない",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "こちら こそ",
+        "example": "こちら こそ",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "こんばんは",
+        "example": "こんにちは ／ こんばんは",
+        "word_contain_sentence_num": 20
+    },
+    {
+        "word": "さようなら",
+        "example": "さようなら さようなら",
+        "word_contain_sentence_num": 33
+    },
+    {
+        "word": "どういたしまして",
+        "example": "どういたしまして ",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "じゃあ",
+        "example": "じゃあ ない だろ う な",
+        "word_contain_sentence_num": 35
+    },
+    {
+        "word": "じゃ",
+        "example": "いる から じゃ ない か",
+        "word_contain_sentence_num": 1043
+    },
+    {
+        "word": "では",
+        "example": "か では",
+        "word_contain_sentence_num": 61
+    },
+    {
+        "word": "おやすみなさい",
+        "example": "た おやすみなさい",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "おやすみ",
+        "example": "おやすみ モンスター",
+        "word_contain_sentence_num": 20
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "word": "завтра",
+        "example": "Вони прощаються до завтра",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "будете",
+        "example": "ви будете сидіти",
+        "word_contain_sentence_num": 166
+    },
+    {
+        "word": "післязавтра",
+        "example": "післязавтра буде сонячно",
+        "word_contain_sentence_num": 14
+    },
+    {
+        "word": "скоро",
+        "example": "дуже скоро більша",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "пізніше",
+        "example": "пізніше —",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "чекати",
+        "example": "довелося чекати до 1905",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "пам'ятати",
+        "example": "слід пам'ятати про складні",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "час",
+        "example": "під час російсько-української війни",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вдома",
+        "example": "виграють у себе вдома",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "україна",
+        "example": "україна зберігає",
+        "word_contain_sentence_num": 7
+    }
+]

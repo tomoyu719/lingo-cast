@@ -1,0 +1,292 @@
+[
+    {
+        "word": "年金",
+        "example": "の 年金 を 受け取っ て",
+        "word_contain_sentence_num": 402
+    },
+    {
+        "word": "という",
+        "example": "し た という 説 が",
+        "word_contain_sentence_num": 71590
+    },
+    {
+        "word": "退職",
+        "example": "を 退職 し た 後",
+        "word_contain_sentence_num": 1290
+    },
+    {
+        "word": "退職 後",
+        "example": "tbs を 定年 退職 後 は",
+        "word_contain_sentence_num": 140
+    },
+    {
+        "word": "与え ない で",
+        "example": "与え ない で 一 部分 だけ を",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "与え られ なかっ た",
+        "example": "の 出場 機会 を 与え られ なかっ た",
+        "word_contain_sentence_num": 25
+    },
+    {
+        "word": "与える",
+        "example": "影響 を 与える こと で",
+        "word_contain_sentence_num": 2039
+    },
+    {
+        "word": "与え られる",
+        "example": "の 出場 権 が 与え られる",
+        "word_contain_sentence_num": 782
+    },
+    {
+        "word": "与え た",
+        "example": "に 大きな 影響 を 与え た",
+        "word_contain_sentence_num": 1340
+    },
+    {
+        "word": "与え",
+        "example": "な 影響 を 与え た",
+        "word_contain_sentence_num": 7817
+    },
+    {
+        "word": "従業 員",
+        "example": "200 人 の 従業 員 の",
+        "word_contain_sentence_num": 742
+    },
+    {
+        "word": "与",
+        "example": "量 は 与 四球 率",
+        "word_contain_sentence_num": 419
+    },
+    {
+        "word": "従",
+        "example": "従 五 位 下 に",
+        "word_contain_sentence_num": 1351
+    },
+    {
+        "word": "会社 員",
+        "example": "秋 に 一般 の 会社 員",
+        "word_contain_sentence_num": 99
+    },
+    {
+        "word": "公務員",
+        "example": "国家 公務員 の 育児 休業",
+        "word_contain_sentence_num": 621
+    },
+    {
+        "word": "方法",
+        "example": "よう な 方法 論 を",
+        "word_contain_sentence_num": 5239
+    },
+    {
+        "word": "過労",
+        "example": "過労 死 が 社会 問題",
+        "word_contain_sentence_num": 58
+    },
+    {
+        "word": "過労 死",
+        "example": "過労 死 が 社会 問題 と",
+        "word_contain_sentence_num": 13
+    },
+    {
+        "word": "深刻",
+        "example": "年 に は 深刻 な",
+        "word_contain_sentence_num": 829
+    },
+    {
+        "word": "出張 中",
+        "example": "出張 中 に 急死 し た",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "出張",
+        "example": "市 に 出張 し た",
+        "word_contain_sentence_num": 277
+    },
+    {
+        "word": "労",
+        "example": "大和 民 労 会 は",
+        "word_contain_sentence_num": 190
+    },
+    {
+        "word": "同僚",
+        "example": "わけ で は 同僚 の",
+        "word_contain_sentence_num": 801
+    },
+    {
+        "word": "転勤",
+        "example": "父 の 転勤 に 伴い",
+        "word_contain_sentence_num": 172
+    },
+    {
+        "word": "面接",
+        "example": "面接 を 受け た ところ",
+        "word_contain_sentence_num": 195
+    },
+    {
+        "word": "支店",
+        "example": "支店 を 開設 し た",
+        "word_contain_sentence_num": 870
+    },
+    {
+        "word": "就職",
+        "example": "に 就職 し て い",
+        "word_contain_sentence_num": 852
+    },
+    {
+        "word": "就",
+        "example": "毛利 秀 就 の 実子",
+        "word_contain_sentence_num": 112
+    },
+    {
+        "word": "僚",
+        "example": "呉 王 僚 や 公子",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "編集 者",
+        "example": "な 雑誌 の 編集 者 の",
+        "word_contain_sentence_num": 596
+    },
+    {
+        "word": "編集",
+        "example": "副 編集 長 を 呼び出し",
+        "word_contain_sentence_num": 3893
+    },
+    {
+        "word": "募集 中",
+        "example": "男子 募集 中 で ある という",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "募集",
+        "example": "を 募集 し た が",
+        "word_contain_sentence_num": 946
+    },
+    {
+        "word": "労働",
+        "example": "労働 者 の 憩い の",
+        "word_contain_sentence_num": 5309
+    },
+    {
+        "word": "労働 者",
+        "example": "労働 者 の 労働 者 の",
+        "word_contain_sentence_num": 1527
+    },
+    {
+        "word": "組合 員",
+        "example": "の 組合 員 の 中 に",
+        "word_contain_sentence_num": 113
+    },
+    {
+        "word": "組合",
+        "example": "労働 組合 の 中 から",
+        "word_contain_sentence_num": 2632
+    },
+    {
+        "word": "組織",
+        "example": "の 組織 的 登山 が",
+        "word_contain_sentence_num": 7935
+    },
+    {
+        "word": "募",
+        "example": "募 穴 は 関 元",
+        "word_contain_sentence_num": 11
+    },
+    {
+        "word": "編",
+        "example": "殺戮 虫 編 の 音楽",
+        "word_contain_sentence_num": 1964
+    },
+    {
+        "word": "件",
+        "example": "件 の 評論 の うち",
+        "word_contain_sentence_num": 2112
+    },
+    {
+        "word": "店員",
+        "example": "別 の 店 の 店員",
+        "word_contain_sentence_num": 223
+    },
+    {
+        "word": "持ち主",
+        "example": "の 持ち主 で ある こと",
+        "word_contain_sentence_num": 313
+    },
+    {
+        "word": "建設 中",
+        "example": "機 が 建設 中 で ある",
+        "word_contain_sentence_num": 141
+    },
+    {
+        "word": "建設",
+        "example": "の 建設 に ほとんど 注意",
+        "word_contain_sentence_num": 10072
+    },
+    {
+        "word": "転職",
+        "example": "会社 に 転職 し た",
+        "word_contain_sentence_num": 194
+    },
+    {
+        "word": "履歴",
+        "example": "の 履歴 書 を 送り",
+        "word_contain_sentence_num": 211
+    },
+    {
+        "word": "履歴 書",
+        "example": "私 の 履歴 書 に も",
+        "word_contain_sentence_num": 64
+    },
+    {
+        "word": "設",
+        "example": "まで の コンクリート 打 設",
+        "word_contain_sentence_num": 73
+    },
+    {
+        "word": "調整",
+        "example": "の 調整 中 に は",
+        "word_contain_sentence_num": 1836
+    },
+    {
+        "word": "日程",
+        "example": "3 日間 の 日程 で",
+        "word_contain_sentence_num": 319
+    },
+    {
+        "word": "設計",
+        "example": "の 設計 に なっ て",
+        "word_contain_sentence_num": 6237
+    },
+    {
+        "word": "経営",
+        "example": "の 経営 を 引き継ぎ 1911",
+        "word_contain_sentence_num": 6150
+    },
+    {
+        "word": "建築",
+        "example": "の 建築 家 たち ⅰ",
+        "word_contain_sentence_num": 5194
+    },
+    {
+        "word": "建築 中",
+        "example": "建築 中 に 臨時 資金 調整",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "建築 家",
+        "example": "理解 は 日本 の 建築 家",
+        "word_contain_sentence_num": 575
+    },
+    {
+        "word": "築",
+        "example": "は 2 段 築 成",
+        "word_contain_sentence_num": 199
+    },
+    {
+        "word": "程",
+        "example": "も 間に合わ ない 程 の",
+        "word_contain_sentence_num": 1158
+    }
+]

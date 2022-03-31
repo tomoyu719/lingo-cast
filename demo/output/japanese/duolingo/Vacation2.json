@@ -1,0 +1,162 @@
+[
+    {
+        "word": "国",
+        "example": "国 の 各 々 全域",
+        "word_contain_sentence_num": 23183
+    },
+    {
+        "word": "見 た",
+        "example": "自分 は それ を 見 た",
+        "word_contain_sentence_num": 1186
+    },
+    {
+        "word": "外国",
+        "example": "外国 人 は 上海 で",
+        "word_contain_sentence_num": 3834
+    },
+    {
+        "word": "行っ た",
+        "example": "系 の 研究 を 行っ た",
+        "word_contain_sentence_num": 6151
+    },
+    {
+        "word": "事",
+        "example": "で あっ た 事 を",
+        "word_contain_sentence_num": 13447
+    },
+    {
+        "word": "こと",
+        "example": "成功 し た こと から",
+        "word_contain_sentence_num": 173721
+    },
+    {
+        "word": "が",
+        "example": "考案 さ れ た が",
+        "word_contain_sentence_num": 903879
+    },
+    {
+        "word": "たい",
+        "example": "たい と 思っ て い",
+        "word_contain_sentence_num": 5103
+    },
+    {
+        "word": "たく",
+        "example": "たく ない と 言っ た",
+        "word_contain_sentence_num": 841
+    },
+    {
+        "word": "旅館",
+        "example": "1 軒 の 旅館 が",
+        "word_contain_sentence_num": 458
+    },
+    {
+        "word": "つもり",
+        "example": "つもり で あっ た が",
+        "word_contain_sentence_num": 724
+    },
+    {
+        "word": "り",
+        "example": "一 発 録 り で",
+        "word_contain_sentence_num": 1323
+    },
+    {
+        "word": "後",
+        "example": "の 生放送 終了 後 に",
+        "word_contain_sentence_num": 65597
+    },
+    {
+        "word": "なり",
+        "example": "日 に dfa と なり",
+        "word_contain_sentence_num": 31733
+    },
+    {
+        "word": "チケット",
+        "example": "相手 陣営 の チケット を",
+        "word_contain_sentence_num": 470
+    },
+    {
+        "word": "たかっ た",
+        "example": "を シングル に し たかっ た",
+        "word_contain_sentence_num": 261
+    },
+    {
+        "word": "だんだん",
+        "example": "支持 者 は だんだん と",
+        "word_contain_sentence_num": 68
+    },
+    {
+        "word": "段々",
+        "example": "の 比重 は 段々 と",
+        "word_contain_sentence_num": 44
+    },
+    {
+        "word": "で",
+        "example": "の 講道館 杯 で は",
+        "word_contain_sentence_num": 875518
+    },
+    {
+        "word": "て",
+        "example": "開催 さ れ て いる",
+        "word_contain_sentence_num": 677408
+    },
+    {
+        "word": "便利",
+        "example": "の に 便利 で ある",
+        "word_contain_sentence_num": 283
+    },
+    {
+        "word": "小さく",
+        "example": "が 小さく なっ て い",
+        "word_contain_sentence_num": 973
+    },
+    {
+        "word": "大きく",
+        "example": "は 大きく 異なっ て いる",
+        "word_contain_sentence_num": 5687
+    },
+    {
+        "word": "利",
+        "example": "の 漁夫 の 利 を",
+        "word_contain_sentence_num": 704
+    },
+    {
+        "word": "便",
+        "example": "た 交通 の 便 が",
+        "word_contain_sentence_num": 1685
+    },
+    {
+        "word": "辺",
+        "example": "は 一 辺 が ただ",
+        "word_contain_sentence_num": 600
+    },
+    {
+        "word": "旅",
+        "example": "の 旅 を し た",
+        "word_contain_sentence_num": 1808
+    },
+    {
+        "word": "海外",
+        "example": "海外 の 物流 企業 の",
+        "word_contain_sentence_num": 3038
+    },
+    {
+        "word": "アイヌ",
+        "example": "これ は アイヌ 語 の",
+        "word_contain_sentence_num": 644
+    },
+    {
+        "word": "一周",
+        "example": "チーム の 世界 一周 を",
+        "word_contain_sentence_num": 258
+    },
+    {
+        "word": "辺",
+        "example": "は 一 辺 が ただ",
+        "word_contain_sentence_num": 600
+    },
+    {
+        "word": "周",
+        "example": "西 周 の 官制 について",
+        "word_contain_sentence_num": 2357
+    }
+]

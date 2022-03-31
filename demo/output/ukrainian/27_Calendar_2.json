@@ -1,0 +1,127 @@
+[
+    {
+        "word": "понеділок",
+        "example": "важкої роботи в понеділок",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вівторок",
+        "example": "у вівторок і суботу",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "середа",
+        "example": "резервний день використовувалася середа",
+        "word_contain_sentence_num": 71
+    },
+    {
+        "word": "четвер",
+        "example": "в четвер о",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "субота",
+        "example": "вихідний день — субота",
+        "word_contain_sentence_num": 178
+    },
+    {
+        "word": "неділя",
+        "example": "— субота та неділя",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "п'ятниця",
+        "example": ": понеділок — п'ятниця",
+        "word_contain_sentence_num": 135
+    },
+    {
+        "word": "день",
+        "example": "в день народження Ханса",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "сьогодні",
+        "example": "На сьогодні в селі",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "у понеділок",
+        "example": "доходить аж у понеділок",
+        "word_contain_sentence_num": 162
+    },
+    {
+        "word": "у вівторок",
+        "example": "у вівторок і суботу",
+        "word_contain_sentence_num": 183
+    },
+    {
+        "word": "у середу",
+        "example": "тиждень — у середу",
+        "word_contain_sentence_num": 101
+    },
+    {
+        "word": "у четвер",
+        "example": "Літургії годин у четвер",
+        "word_contain_sentence_num": 189
+    },
+    {
+        "word": "у п’ятницю",
+        "example": "у п’ятницю",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "у суботу",
+        "example": "Останні відбувалися у суботу",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "у неділю",
+        "example": "до обіду у неділю",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "коли",
+        "example": "коли в званні лейтенанта",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "уранці",
+        "example": "старий — уранці",
+        "word_contain_sentence_num": 57
+    },
+    {
+        "word": "удень",
+        "example": "Активний удень",
+        "word_contain_sentence_num": 115
+    },
+    {
+        "word": "увечері",
+        "example": "увечері в місті Маріуполь",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "уночі",
+        "example": "Активний уночі",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "влітку",
+        "example": "пересихають влітку",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "взимку",
+        "example": "вироблені восени і взимку",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "восени",
+        "example": "влітку і восени Вам",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "навесні",
+        "example": "особливо восени та навесні",
+        "word_contain_sentence_num": 201
+    }
+]

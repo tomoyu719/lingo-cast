@@ -1,0 +1,47 @@
+[
+    {
+        "word": "прочитали",
+        "example": "які прочитали його статті",
+        "word_contain_sentence_num": 74
+    },
+    {
+        "word": "написати",
+        "example": "хоче написати про це",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вже",
+        "example": "вже в наступному",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "приготувати",
+        "example": "можна приготувати з копченою",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "ще не",
+        "example": "залишається ще не визначеним",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "зробили",
+        "example": "які зробили внесок",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "з'їм",
+        "example": "з'їм в затишку",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "випили",
+        "example": "вперше випили через звичайну",
+        "word_contain_sentence_num": 28
+    },
+    {
+        "word": "нарешті",
+        "example": "нарешті — золота",
+        "word_contain_sentence_num": 201
+    }
+]

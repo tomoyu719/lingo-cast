@@ -1,0 +1,292 @@
+[
+    {
+        "word": "神社",
+        "example": "神社 の 境内 に あっ",
+        "word_contain_sentence_num": 3714
+    },
+    {
+        "word": "寺",
+        "example": "鞍馬 寺 の 門徒 は",
+        "word_contain_sentence_num": 3590
+    },
+    {
+        "word": "お寺",
+        "example": "館 は お寺 の 銀杏",
+        "word_contain_sentence_num": 19
+    },
+    {
+        "word": "信じ ない",
+        "example": "後 に 神 を 信じ ない",
+        "word_contain_sentence_num": 23
+    },
+    {
+        "word": "信じ",
+        "example": "を 信じ て い た",
+        "word_contain_sentence_num": 1181
+    },
+    {
+        "word": "信じ た",
+        "example": "異端 で ある と 信じ た",
+        "word_contain_sentence_num": 50
+    },
+    {
+        "word": "信じ て",
+        "example": "だ と 信じ て い た",
+        "word_contain_sentence_num": 313
+    },
+    {
+        "word": "信じる",
+        "example": "を 信じる よう に なっ",
+        "word_contain_sentence_num": 206
+    },
+    {
+        "word": "祈り",
+        "example": "の 祈り の スタイル が",
+        "word_contain_sentence_num": 416
+    },
+    {
+        "word": "祈っ た",
+        "example": "を 祈っ た ところ その 祈り",
+        "word_contain_sentence_num": 41
+    },
+    {
+        "word": "祈る",
+        "example": "冬至 に 豊作 を 祈る",
+        "word_contain_sentence_num": 125
+    },
+    {
+        "word": "祈っ て",
+        "example": "は 神 に 祈っ て いる",
+        "word_contain_sentence_num": 27
+    },
+    {
+        "word": "お祈り",
+        "example": "お祈り メール の 文面 を",
+        "word_contain_sentence_num": 70
+    },
+    {
+        "word": "神",
+        "example": "の 神 々 の 最終",
+        "word_contain_sentence_num": 6887
+    },
+    {
+        "word": "寺",
+        "example": "鞍馬 寺 の 門徒 は",
+        "word_contain_sentence_num": 3590
+    },
+    {
+        "word": "祈",
+        "example": "風 日 祈 宮 の",
+        "word_contain_sentence_num": 41
+    },
+    {
+        "word": "神道",
+        "example": "神道 の 神社 も 存在",
+        "word_contain_sentence_num": 495
+    },
+    {
+        "word": "宗教",
+        "example": "以外 の 宗教 的 な",
+        "word_contain_sentence_num": 3499
+    },
+    {
+        "word": "仏教",
+        "example": "的 に チベット 仏教 の",
+        "word_contain_sentence_num": 1526
+    },
+    {
+        "word": "信仰",
+        "example": "の 信仰 を 持つ 王",
+        "word_contain_sentence_num": 2082
+    },
+    {
+        "word": "仏",
+        "example": "英 仏 軍 と の",
+        "word_contain_sentence_num": 1999
+    },
+    {
+        "word": "仰",
+        "example": "被 仰 付 候 覚書",
+        "word_contain_sentence_num": 56
+    },
+    {
+        "word": "宗",
+        "example": "に 伊達 政 宗 が",
+        "word_contain_sentence_num": 3218
+    },
+    {
+        "word": "神",
+        "example": "の 神 々 の 最終",
+        "word_contain_sentence_num": 6887
+    },
+    {
+        "word": "神 々",
+        "example": "で 他 の 神 々 の",
+        "word_contain_sentence_num": 324
+    },
+    {
+        "word": "寺院",
+        "example": "の 寺院 を 宗派 別",
+        "word_contain_sentence_num": 1205
+    },
+    {
+        "word": "教会",
+        "example": "東方 の 教会 の 分裂",
+        "word_contain_sentence_num": 6696
+    },
+    {
+        "word": "ユダヤ 教",
+        "example": "に は ユダヤ 教 の 礼拝",
+        "word_contain_sentence_num": 188
+    },
+    {
+        "word": "ユダヤ 人",
+        "example": "の ユダヤ 人 戦闘 組織 の",
+        "word_contain_sentence_num": 1342
+    },
+    {
+        "word": "キリスト 教",
+        "example": "の スカーレット が キリスト 教 の",
+        "word_contain_sentence_num": 961
+    },
+    {
+        "word": "イスラム教",
+        "example": "宗教 は イスラム教 の モスク",
+        "word_contain_sentence_num": 339
+    },
+    {
+        "word": "ヒンドゥー 教",
+        "example": "的 に は ヒンドゥー 教 の",
+        "word_contain_sentence_num": 140
+    },
+    {
+        "word": "葬式",
+        "example": "父 の 葬式 を 仕切り",
+        "word_contain_sentence_num": 118
+    },
+    {
+        "word": "ユダヤ 教徒",
+        "example": "政府 は ユダヤ 教徒 の ため",
+        "word_contain_sentence_num": 102
+    },
+    {
+        "word": "ヒンドゥー 教徒",
+        "example": "アイヤーヴァリ 信者 が ヒンドゥー 教徒 の",
+        "word_contain_sentence_num": 59
+    },
+    {
+        "word": "キリスト教徒",
+        "example": "の キリスト教徒 を スパイ だ",
+        "word_contain_sentence_num": 384
+    },
+    {
+        "word": "存在",
+        "example": "が 存在 し ない 細胞",
+        "word_contain_sentence_num": 18074
+    },
+    {
+        "word": "結婚式",
+        "example": "と の 結婚式 に は",
+        "word_contain_sentence_num": 508
+    },
+    {
+        "word": "存",
+        "example": "存 保 は 阿波 と",
+        "word_contain_sentence_num": 223
+    },
+    {
+        "word": "葬",
+        "example": "合 葬 さ れ た",
+        "word_contain_sentence_num": 186
+    },
+    {
+        "word": "式",
+        "example": "式 の フィンスタビライザー を 備え",
+        "word_contain_sentence_num": 13009
+    },
+    {
+        "word": "魂",
+        "example": "ある 八雲 の 魂 を",
+        "word_contain_sentence_num": 895
+    },
+    {
+        "word": "不滅",
+        "example": "我ら が 不滅 の 記録",
+        "word_contain_sentence_num": 53
+    },
+    {
+        "word": "天国",
+        "example": "太平 天国 の 乱 が",
+        "word_contain_sentence_num": 461
+    },
+    {
+        "word": "お 坊さん",
+        "example": "お 坊さん バラエティ ぶっ ちゃ け",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "坊",
+        "example": "金 陵 老 便宜 坊",
+        "word_contain_sentence_num": 515
+    },
+    {
+        "word": "滅",
+        "example": "族 滅 さ れ た",
+        "word_contain_sentence_num": 65
+    },
+    {
+        "word": "魂",
+        "example": "ある 八雲 の 魂 を",
+        "word_contain_sentence_num": 895
+    },
+    {
+        "word": "聖書",
+        "example": "彼 は 聖書 の 無",
+        "word_contain_sentence_num": 1235
+    },
+    {
+        "word": "悪魔",
+        "example": "悪魔 の 絵本 の 歌",
+        "word_contain_sentence_num": 766
+    },
+    {
+        "word": "地獄",
+        "example": "地獄 の よう な 作家",
+        "word_contain_sentence_num": 549
+    },
+    {
+        "word": "生き 地獄",
+        "example": "まさに この世 の 生き 地獄 天国",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "奇跡 的",
+        "example": "的 に は 奇跡 的 に",
+        "word_contain_sentence_num": 96
+    },
+    {
+        "word": "奇跡",
+        "example": "は 奇跡 的 に 一命",
+        "word_contain_sentence_num": 375
+    },
+    {
+        "word": "奇",
+        "example": "3 年 奇 面 組",
+        "word_contain_sentence_num": 372
+    },
+    {
+        "word": "跡",
+        "example": "の 跡 を 継い だ",
+        "word_contain_sentence_num": 2147
+    },
+    {
+        "word": "聖",
+        "example": "た 聖 セルヴァティウス の 墓",
+        "word_contain_sentence_num": 3177
+    },
+    {
+        "word": "獄",
+        "example": "野山 獄 に 繋が れ",
+        "word_contain_sentence_num": 150
+    }
+]

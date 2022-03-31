@@ -1,0 +1,52 @@
+[
+    {
+        "word": "треба",
+        "example": "треба було його",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "мені треба",
+        "example": "мені треба буде",
+        "word_contain_sentence_num": 63
+    },
+    {
+        "word": "тобі треба",
+        "example": "тобі треба ? “",
+        "word_contain_sentence_num": 24
+    },
+    {
+        "word": "йому",
+        "example": "йому вдалося зберегти хороші",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "їй",
+        "example": "коли їй було 14",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "нам",
+        "example": "нам відомо про три",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "холодно",
+        "example": "Врубеля було дуже холодно",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "жарко",
+        "example": "Влітку жарко",
+        "word_contain_sentence_num": 49
+    },
+    {
+        "word": "дали",
+        "example": "землі людям не дали",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "дзвонив",
+        "example": "він дзвонив",
+        "word_contain_sentence_num": 39
+    }
+]

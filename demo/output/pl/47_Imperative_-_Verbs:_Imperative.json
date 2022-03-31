@@ -1,0 +1,134 @@
+[
+    {
+        "word": "jedz",
+        "example": "jedz mniej",
+        "probs": "0, 0.16666666666666666",
+        "word_contain_sentence_num": 11
+    },
+    {
+        "word": "chodźmy",
+        "example": "chodźmy panowie na",
+        "probs": "0, 0.09090909090909091, 1.0",
+        "word_contain_sentence_num": 11
+    },
+    {
+        "word": "róbcie",
+        "example": "róbcie dobre filmy",
+        "probs": "0, 0.5, 1.0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "zróbmy",
+        "example": "zróbmy to za",
+        "probs": "0, 0.5, 0.25",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "powiedzmy",
+        "example": "powiedzmy to wspak",
+        "probs": "0, 0.058823529411764705, 0.5",
+        "word_contain_sentence_num": 33
+    },
+    {
+        "word": "mówcie",
+        "example": "nie mówcie jej",
+        "probs": "0.8888888888888888, 0, 0.25",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "zamknij",
+        "example": "zamknij się i",
+        "probs": "0, 0.23529411764705882, 0.25",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "bądź",
+        "example": "bądź też w",
+        "probs": "0, 0.05849056603773585, 0.06451612903225806",
+        "word_contain_sentence_num": 10748
+    },
+    {
+        "word": "pijcie",
+        "example": "i pijcie z",
+        "probs": "0.75, 0, 0.3333333333333333",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "słuchaj",
+        "example": "i słuchaj X.strach",
+        "probs": "0.2857142857142857, 0, 0.5",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "pamiętaj",
+        "example": "pamiętaj o śmierci",
+        "probs": "0, 0.4666666666666667, 0.5714285714285714",
+        "word_contain_sentence_num": 14
+    },
+    {
+        "word": "kupcie",
+        "example": "kupcie",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "otwórzmy",
+        "example": "otwórzmy",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "uważajcie",
+        "example": "uważajcie",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "pokażmy",
+        "example": "pokażmy swoją przynależność",
+        "probs": "0, 0.5, 1.0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "weź",
+        "example": "znajdź i weź",
+        "probs": "0.5, 0.19047619047619047, 0",
+        "word_contain_sentence_num": 19
+    },
+    {
+        "word": "bierzcie",
+        "example": "nie bierzcie pomyłkowo",
+        "probs": "0.5, 0, 0.3333333333333333",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "pomóż",
+        "example": "pomóż nam stać",
+        "probs": "0, 0.16666666666666666, 0.3333333333333333",
+        "word_contain_sentence_num": 17
+    },
+    {
+        "word": "przynieście",
+        "example": "przynieście mi pudła",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "patrzmy",
+        "example": "patrzmy",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "czekajmy",
+        "example": "czekajmy",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "podaj",
+        "example": "tu podaj kiedy",
+        "probs": "0.2608695652173913, 0, 0.6666666666666666",
+        "word_contain_sentence_num": 23
+    }
+]

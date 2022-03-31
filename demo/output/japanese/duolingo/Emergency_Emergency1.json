@@ -1,0 +1,337 @@
+[
+    {
+        "word": "事故",
+        "example": "事故 が 発生 し た",
+        "word_contain_sentence_num": 3929
+    },
+    {
+        "word": "事件",
+        "example": "し た この 事件 の",
+        "word_contain_sentence_num": 9886
+    },
+    {
+        "word": "原因",
+        "example": "の 原因 と なる が",
+        "word_contain_sentence_num": 3325
+    },
+    {
+        "word": "起こる",
+        "example": "が 起こる と さ れ",
+        "word_contain_sentence_num": 1234
+    },
+    {
+        "word": "起こっ て",
+        "example": "れる 事件 が 起こっ て いる",
+        "word_contain_sentence_num": 294
+    },
+    {
+        "word": "起こっ た",
+        "example": "ある という 議論 が 起こっ た",
+        "word_contain_sentence_num": 995
+    },
+    {
+        "word": "起こり",
+        "example": "する という 事件 が 起こり",
+        "word_contain_sentence_num": 963
+    },
+    {
+        "word": "起こし た",
+        "example": "し て 反乱 を 起こし た",
+        "word_contain_sentence_num": 672
+    },
+    {
+        "word": "起こさ なかっ た",
+        "example": "後 に 行動 を 起こさ なかっ た",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "起こし",
+        "example": "は 反乱 を 起こし た",
+        "word_contain_sentence_num": 2582
+    },
+    {
+        "word": "起こす",
+        "example": "を 起こす こと が ある",
+        "word_contain_sentence_num": 921
+    },
+    {
+        "word": "故",
+        "example": "台北 故 宮 博物 院",
+        "word_contain_sentence_num": 388
+    },
+    {
+        "word": "件",
+        "example": "件 の 評論 の うち",
+        "word_contain_sentence_num": 2112
+    },
+    {
+        "word": "因",
+        "example": "幻 庵 因 碩 の",
+        "word_contain_sentence_num": 153
+    },
+    {
+        "word": "不明",
+        "example": "は 不明 で ある が",
+        "word_contain_sentence_num": 3483
+    },
+    {
+        "word": "危険",
+        "example": "の 危険 性 を 訴え",
+        "word_contain_sentence_num": 2538
+    },
+    {
+        "word": "明らか",
+        "example": "た こと を 明らか に",
+        "word_contain_sentence_num": 3684
+    },
+    {
+        "word": "大 火事",
+        "example": "1794 年 の 大 火事 で",
+        "word_contain_sentence_num": 11
+    },
+    {
+        "word": "火事",
+        "example": "年 の 火事 で 焼失",
+        "word_contain_sentence_num": 299
+    },
+    {
+        "word": "助ける",
+        "example": "を 助ける ため に は",
+        "word_contain_sentence_num": 341
+    },
+    {
+        "word": "助け て",
+        "example": "を 助け て くれ た こと",
+        "word_contain_sentence_num": 106
+    },
+    {
+        "word": "助け",
+        "example": "を 助け た の は",
+        "word_contain_sentence_num": 1298
+    },
+    {
+        "word": "不",
+        "example": "一心 同体 の 不 死人",
+        "word_contain_sentence_num": 2920
+    },
+    {
+        "word": "助",
+        "example": "し た 三浦 之 助",
+        "word_contain_sentence_num": 1221
+    },
+    {
+        "word": "険",
+        "example": "険 道 の 1 つ",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "警察",
+        "example": "警察 の ナチ 化 を",
+        "word_contain_sentence_num": 4266
+    },
+    {
+        "word": "逮捕",
+        "example": "が 逮捕 さ れ た",
+        "word_contain_sentence_num": 2725
+    },
+    {
+        "word": "突然",
+        "example": "アドフォカート の 突然 の 死",
+        "word_contain_sentence_num": 1045
+    },
+    {
+        "word": "捕",
+        "example": "追 捕 使 は 国内",
+        "word_contain_sentence_num": 247
+    },
+    {
+        "word": "突",
+        "example": "刺 突 が 行え ない",
+        "word_contain_sentence_num": 43
+    },
+    {
+        "word": "警",
+        "example": "民 警 が 圧力 を",
+        "word_contain_sentence_num": 43
+    },
+    {
+        "word": "察",
+        "example": "と 林 文 察 は",
+        "word_contain_sentence_num": 287
+    },
+    {
+        "word": "逮",
+        "example": "逮 ",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "交通",
+        "example": "公共 交通 機関 の 利用",
+        "word_contain_sentence_num": 4832
+    },
+    {
+        "word": "場合",
+        "example": "より 多く の 場合 は",
+        "word_contain_sentence_num": 22455
+    },
+    {
+        "word": "非常口",
+        "example": "の 非常口 と 上り 線",
+        "word_contain_sentence_num": 31
+    },
+    {
+        "word": "非常",
+        "example": "年代 に は 非常 に",
+        "word_contain_sentence_num": 4898
+    },
+    {
+        "word": "地震",
+        "example": "貞 観 地震 と 推定",
+        "word_contain_sentence_num": 1891
+    },
+    {
+        "word": "非",
+        "example": "といった 当時 は 非 ntt",
+        "word_contain_sentence_num": 4304
+    },
+    {
+        "word": "交",
+        "example": "九州 産 交 バス と",
+        "word_contain_sentence_num": 144
+    },
+    {
+        "word": "震",
+        "example": "免 震 構造 の 分譲",
+        "word_contain_sentence_num": 119
+    },
+    {
+        "word": "常",
+        "example": "常 総 ルート において ジェイアールバス",
+        "word_contain_sentence_num": 1233
+    },
+    {
+        "word": "床",
+        "example": "月 に 延べ 床 面積",
+        "word_contain_sentence_num": 1358
+    },
+    {
+        "word": "地面",
+        "example": "て 剣 を 地面 に",
+        "word_contain_sentence_num": 527
+    },
+    {
+        "word": "けが",
+        "example": "の 大 けが を し",
+        "word_contain_sentence_num": 80
+    },
+    {
+        "word": "落ち て",
+        "example": "恋 に 落ち て い た",
+        "word_contain_sentence_num": 258
+    },
+    {
+        "word": "落ちる",
+        "example": "ママ と 恋 に 落ちる",
+        "word_contain_sentence_num": 345
+    },
+    {
+        "word": "落ち た",
+        "example": "軍 の 手 に 落ち た",
+        "word_contain_sentence_num": 208
+    },
+    {
+        "word": "落ち",
+        "example": "の 手 に 落ち た",
+        "word_contain_sentence_num": 1267
+    },
+    {
+        "word": "倒れ",
+        "example": "が 倒れ た の だ",
+        "word_contain_sentence_num": 735
+    },
+    {
+        "word": "倒れ た",
+        "example": "子爵 が 病 に 倒れ た",
+        "word_contain_sentence_num": 158
+    },
+    {
+        "word": "倒れ て",
+        "example": "に 倒れ て いる の を",
+        "word_contain_sentence_num": 119
+    },
+    {
+        "word": "落",
+        "example": "体 落 で 有効 を",
+        "word_contain_sentence_num": 61
+    },
+    {
+        "word": "床",
+        "example": "月 に 延べ 床 面積",
+        "word_contain_sentence_num": 1358
+    },
+    {
+        "word": "必死",
+        "example": "は 必死 に なっ て",
+        "word_contain_sentence_num": 255
+    },
+    {
+        "word": "救急 車",
+        "example": "救急 車 で 病院 に 搬送",
+        "word_contain_sentence_num": 101
+    },
+    {
+        "word": "打っ て",
+        "example": "を 打っ て い た が",
+        "word_contain_sentence_num": 150
+    },
+    {
+        "word": "打っ た",
+        "example": "歴史 に 終止符 を 打っ た",
+        "word_contain_sentence_num": 173
+    },
+    {
+        "word": "落とし た",
+        "example": "壊血病 で 命 を 落とし た",
+        "word_contain_sentence_num": 222
+    },
+    {
+        "word": "落とし て",
+        "example": "を 落とし て いる と 推定",
+        "word_contain_sentence_num": 174
+    },
+    {
+        "word": "落とす",
+        "example": "を 落とす こと に なる",
+        "word_contain_sentence_num": 332
+    },
+    {
+        "word": "落とさ ない で",
+        "example": "落とさ ない で",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "落とし",
+        "example": "が 命 を 落とし た",
+        "word_contain_sentence_num": 953
+    },
+    {
+        "word": "打",
+        "example": "打 を 放っ た が",
+        "word_contain_sentence_num": 591
+    },
+    {
+        "word": "態",
+        "example": "期 の 硝酸 態 窒素",
+        "word_contain_sentence_num": 69
+    },
+    {
+        "word": "救",
+        "example": "方 救 と共に 常滑 焼",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "急",
+        "example": "は 急 な 坂 や",
+        "word_contain_sentence_num": 1129
+    }
+]

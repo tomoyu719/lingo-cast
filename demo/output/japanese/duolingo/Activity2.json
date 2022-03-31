@@ -1,0 +1,292 @@
+[
+    {
+        "word": "し て",
+        "example": "どの よう に し て いる",
+        "word_contain_sentence_num": 128902
+    },
+    {
+        "word": "洗濯",
+        "example": "洗濯 機 の 水 漏れ",
+        "word_contain_sentence_num": 165
+    },
+    {
+        "word": "掃除",
+        "example": "家庭 用 ロボット 掃除 機",
+        "word_contain_sentence_num": 261
+    },
+    {
+        "word": "それから",
+        "example": "た それから",
+        "word_contain_sentence_num": 709
+    },
+    {
+        "word": "除",
+        "example": "除 染 作業 員 の",
+        "word_contain_sentence_num": 232
+    },
+    {
+        "word": "掃",
+        "example": "掃 〔 はら 〕 い",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "濯",
+        "example": "濯 ",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "読ん で",
+        "example": "を 読ん で い た という",
+        "word_contain_sentence_num": 220
+    },
+    {
+        "word": "シャワー",
+        "example": "の シャワー の よう に",
+        "word_contain_sentence_num": 137
+    },
+    {
+        "word": "すぐ",
+        "example": "2 人 は すぐ に",
+        "word_contain_sentence_num": 3033
+    },
+    {
+        "word": "すぐ に",
+        "example": "駅北 東側 は すぐ に 閉鎖",
+        "word_contain_sentence_num": 1192
+    },
+    {
+        "word": "浴び",
+        "example": "で 注目 を 浴び た",
+        "word_contain_sentence_num": 625
+    },
+    {
+        "word": "浴び て",
+        "example": "として 注目 を 浴び て いる",
+        "word_contain_sentence_num": 92
+    },
+    {
+        "word": "帰り",
+        "example": "に 帰り たい と 心",
+        "word_contain_sentence_num": 410
+    },
+    {
+        "word": "帰っ て",
+        "example": "家 に 帰っ て き た",
+        "word_contain_sentence_num": 341
+    },
+    {
+        "word": "浴",
+        "example": "栄誉 に 浴 し た",
+        "word_contain_sentence_num": 116
+    },
+    {
+        "word": "帰",
+        "example": "に 帰 する もの と",
+        "word_contain_sentence_num": 333
+    },
+    {
+        "word": "食べ て",
+        "example": "を 食べ て い た と",
+        "word_contain_sentence_num": 191
+    },
+    {
+        "word": "飲ん で",
+        "example": "離 と 酒 を 飲ん で",
+        "word_contain_sentence_num": 101
+    },
+    {
+        "word": "書い て",
+        "example": "へ 手紙 を 書い て いる",
+        "word_contain_sentence_num": 873
+    },
+    {
+        "word": "座り",
+        "example": "大統領 の 椅子 に 座り",
+        "word_contain_sentence_num": 108
+    },
+    {
+        "word": "座っ て",
+        "example": "の 席 に 座っ て いる",
+        "word_contain_sentence_num": 112
+    },
+    {
+        "word": "開け",
+        "example": "に 穴 を 開け て",
+        "word_contain_sentence_num": 567
+    },
+    {
+        "word": "開け て",
+        "example": "に 穴 を 開け て いる",
+        "word_contain_sentence_num": 122
+    },
+    {
+        "word": "開",
+        "example": "の 開 創 し た",
+        "word_contain_sentence_num": 1036
+    },
+    {
+        "word": "座",
+        "example": "の 座 を 譲っ た",
+        "word_contain_sentence_num": 3796
+    },
+    {
+        "word": "電気",
+        "example": "金沢 電気 軌道 を も",
+        "word_contain_sentence_num": 3753
+    },
+    {
+        "word": "つけ",
+        "example": "差 を つけ て いる",
+        "word_contain_sentence_num": 3506
+    },
+    {
+        "word": "つけ て",
+        "example": "馬身 半 差 を つけ て",
+        "word_contain_sentence_num": 721
+    },
+    {
+        "word": "早く",
+        "example": "が 早く なり やすかっ た",
+        "word_contain_sentence_num": 1372
+    },
+    {
+        "word": "早",
+        "example": "の 早 さ で お化け",
+        "word_contain_sentence_num": 429
+    },
+    {
+        "word": "早い",
+        "example": "比較的 早い 時期 に は",
+        "word_contain_sentence_num": 663
+    },
+    {
+        "word": "閉め",
+        "example": "で ドア を 閉め て",
+        "word_contain_sentence_num": 59
+    },
+    {
+        "word": "閉め て",
+        "example": "脇 を 閉め て 手首 と",
+        "word_contain_sentence_num": 11
+    },
+    {
+        "word": "立ち",
+        "example": "会 を 立ち 上げ た",
+        "word_contain_sentence_num": 2035
+    },
+    {
+        "word": "立っ て",
+        "example": "に 立っ て い た が",
+        "word_contain_sentence_num": 484
+    },
+    {
+        "word": "閉",
+        "example": "戸 閉 装置 を 備える",
+        "word_contain_sentence_num": 91
+    },
+    {
+        "word": "早",
+        "example": "の 早 さ で お化け",
+        "word_contain_sentence_num": 429
+    },
+    {
+        "word": "そして",
+        "example": "た そして",
+        "word_contain_sentence_num": 11398
+    },
+    {
+        "word": "勤め て",
+        "example": "会社 に 勤め て い た",
+        "word_contain_sentence_num": 176
+    },
+    {
+        "word": "勤め",
+        "example": "吟味 役 を 勤め た",
+        "word_contain_sentence_num": 701
+    },
+    {
+        "word": "待ち",
+        "example": "呼ば れる の を 待ち",
+        "word_contain_sentence_num": 231
+    },
+    {
+        "word": "待っ て",
+        "example": "を 待っ て い た が",
+        "word_contain_sentence_num": 276
+    },
+    {
+        "word": "消し て",
+        "example": "から 姿 を 消し て いる",
+        "word_contain_sentence_num": 104
+    },
+    {
+        "word": "消し",
+        "example": "から 姿 を 消し た",
+        "word_contain_sentence_num": 619
+    },
+    {
+        "word": "待",
+        "example": "スペシャル オリジナル 待 受画 面",
+        "word_contain_sentence_num": 100
+    },
+    {
+        "word": "消",
+        "example": "地産 地 消 推進 協議",
+        "word_contain_sentence_num": 129
+    },
+    {
+        "word": "勤",
+        "example": "闕特 勤 の 功 で",
+        "word_contain_sentence_num": 163
+    },
+    {
+        "word": "台",
+        "example": "発進 台 の 若 桜",
+        "word_contain_sentence_num": 6594
+    },
+    {
+        "word": "話",
+        "example": "の 話 を クリア し",
+        "word_contain_sentence_num": 7176
+    },
+    {
+        "word": "ドア",
+        "example": "幌 ドア の 2 タイプ",
+        "word_contain_sentence_num": 982
+    },
+    {
+        "word": "携帯",
+        "example": "携帯 電話 の 操作 を",
+        "word_contain_sentence_num": 1626
+    },
+    {
+        "word": "持っ て",
+        "example": "を 持っ て いる こと を",
+        "word_contain_sentence_num": 4193
+    },
+    {
+        "word": "ゆっくり",
+        "example": "は ゆっくり と し た",
+        "word_contain_sentence_num": 320
+    },
+    {
+        "word": "ご ゆっくり",
+        "example": "ご ゆっくり",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "ゆっくり と",
+        "example": "に は ゆっくり と し た",
+        "word_contain_sentence_num": 156
+    },
+    {
+        "word": "携",
+        "example": "に 携 って い た",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "帯",
+        "example": "放送 休止 の 時間 帯",
+        "word_contain_sentence_num": 3178
+    }
+]

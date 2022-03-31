@@ -1,0 +1,134 @@
+[
+    {
+        "word": "chłopiec",
+        "example": "jako chłopiec na",
+        "probs": "0.09980430528375733, 0, 0.09803921568627451",
+        "word_contain_sentence_num": 1447
+    },
+    {
+        "word": "je",
+        "example": "je w XXXX",
+        "probs": "0, 0.10980392156862745, 0.14285714285714285",
+        "word_contain_sentence_num": 33938
+    },
+    {
+        "word": "jabłko",
+        "example": "lewej jabłko królewskie",
+        "probs": "0.5689655172413793, 0, 0.1939799331103679",
+        "word_contain_sentence_num": 287
+    },
+    {
+        "word": "mężczyzna",
+        "example": "jako mężczyzna żonaty",
+        "probs": "0.06126482213438735, 0, 0.4838709677419355",
+        "word_contain_sentence_num": 2240
+    },
+    {
+        "word": "dziewczynka",
+        "example": "jako mała dziewczynka",
+        "probs": "0.35, 0.11952191235059761, 0",
+        "word_contain_sentence_num": 601
+    },
+    {
+        "word": "kobieta",
+        "example": "jako pierwsza kobieta",
+        "probs": "0.6904761904761905, 0.08284023668639054, 0",
+        "word_contain_sentence_num": 3575
+    },
+    {
+        "word": "jestem",
+        "example": "nie jestem pewien",
+        "probs": "0.15532286212914484, 0, 0.0449438202247191",
+        "word_contain_sentence_num": 862
+    },
+    {
+        "word": "ja",
+        "example": "król i ja",
+        "probs": "0.10526315789473684, 0.10536044362292052, 0",
+        "word_contain_sentence_num": 1702
+    },
+    {
+        "word": "jest",
+        "example": "nie jest znana",
+        "probs": "0.045368620037807186, 0, 0.08333333333333333",
+        "word_contain_sentence_num": 463991
+    },
+    {
+        "word": "ona",
+        "example": "stała się ona",
+        "probs": "0.18181818181818182, 0.1312127236580517, 0",
+        "word_contain_sentence_num": 28668
+    },
+    {
+        "word": "on",
+        "example": "został on przyjęty",
+        "probs": "0.09233791748526522, 0, 0.0425531914893617",
+        "word_contain_sentence_num": 58236
+    },
+    {
+        "word": "kobietą",
+        "example": "była pierwszą kobietą",
+        "probs": "0.25773195876288657, 0.19284294234592445, 0",
+        "word_contain_sentence_num": 1837
+    },
+    {
+        "word": "mężczyzną",
+        "example": "się z mężczyzną",
+        "probs": "0.16666666666666666, 0.15476190476190477, 0",
+        "word_contain_sentence_num": 821
+    },
+    {
+        "word": "jem",
+        "example": "łaski jem wolności",
+        "probs": "1.0, 0, 0.1",
+        "word_contain_sentence_num": 10
+    },
+    {
+        "word": "chleb",
+        "example": "chleb i wino",
+        "probs": "0, 0.1519230769230769, 0.2911392405063291",
+        "word_contain_sentence_num": 579
+    },
+    {
+        "word": "pije",
+        "example": "pije się w",
+        "probs": "0, 0.14583333333333334, 0.10714285714285714",
+        "word_contain_sentence_num": 187
+    },
+    {
+        "word": "i",
+        "example": "i XX mieszkańców",
+        "probs": "0, 0.014657980456026058, 0.2222222222222222",
+        "word_contain_sentence_num": 2081694
+    },
+    {
+        "word": "wodę",
+        "example": "zaopatrzenia w wodę",
+        "probs": "0.2112676056338028, 0.13894324853228962, 0",
+        "word_contain_sentence_num": 3527
+    },
+    {
+        "word": "piję",
+        "example": "nie piję i",
+        "probs": "0.4, 0, 0.5",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "mleko",
+        "example": "i mleko wapienne",
+        "probs": "0.3283582089552239, 0, 0.1268939393939394",
+        "word_contain_sentence_num": 601
+    },
+    {
+        "word": "dziewczynką",
+        "example": "się z dziewczynką",
+        "probs": "0.16666666666666666, 0.18181818181818182, 0",
+        "word_contain_sentence_num": 164
+    },
+    {
+        "word": "chłopcem",
+        "example": "z chłopcem i",
+        "probs": "0.12605042016806722, 0, 0.13333333333333333",
+        "word_contain_sentence_num": 356
+    }
+]

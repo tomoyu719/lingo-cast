@@ -1,0 +1,50 @@
+[
+    {
+        "word": "іти",
+        "example": "іти и пр.",
+        "probs": "0, 0.3333333333333333, 1.0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "куди",
+        "example": "куди то просучий",
+        "probs": "0, 0.5, 1.0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "їхати",
+        "example": "їхати",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "ідете",
+        "example": "ідете",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "їдуть",
+        "example": "їдуть на берлін",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "гуляти",
+        "example": "гуляти раденька",
+        "probs": "0, 0.5",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "їздили",
+        "example": "їздили",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "ходили",
+        "example": "ходили слухи",
+        "probs": "0, 0.2654690618762475, 0.37593984962406013",
+        "word_contain_sentence_num": 2562
+    }
+]

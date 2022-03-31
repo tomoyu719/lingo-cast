@@ -1,0 +1,296 @@
+[
+    {
+        "word": "głodny",
+        "example": "jest głodny i",
+        "probs": "0.36363636363636365, 0, 0.1896551724137931",
+        "word_contain_sentence_num": 57
+    },
+    {
+        "word": "spragniony",
+        "example": "i spragniony kolejnych",
+        "probs": "0.2, 0, 0.25",
+        "word_contain_sentence_num": 20
+    },
+    {
+        "word": "chleb",
+        "example": "chleb i wino",
+        "probs": "0, 0.15606936416184972, 0.30864197530864196",
+        "word_contain_sentence_num": 579
+    },
+    {
+        "word": "mleka",
+        "example": "z mleka krowiego",
+        "probs": "0.11494252873563218, 0, 0.25",
+        "word_contain_sentence_num": 1019
+    },
+    {
+        "word": "pieprz",
+        "example": "sól i pieprz",
+        "probs": "0.7894736842105263, 0.16379310344827586, 0",
+        "word_contain_sentence_num": 111
+    },
+    {
+        "word": "sól",
+        "example": "pieprz i sól",
+        "probs": "0.24489795918367346, 0.09297912713472485, 0",
+        "word_contain_sentence_num": 531
+    },
+    {
+        "word": "cukrem",
+        "example": "z cukrem i",
+        "probs": "0.2849740932642487, 0, 0.12727272727272726",
+        "word_contain_sentence_num": 191
+    },
+    {
+        "word": "zupie",
+        "example": "chleb w zupie",
+        "probs": "0.18181818181818182, 0.44, 0",
+        "word_contain_sentence_num": 24
+    },
+    {
+        "word": "ciasteczka",
+        "example": "ciasteczka z marihuaną",
+        "probs": "0, 0.1, 0.2857142857142857",
+        "word_contain_sentence_num": 67
+    },
+    {
+        "word": "jedzeniu",
+        "example": "w jedzeniu i",
+        "probs": "0.33, 0, 0.2727272727272727",
+        "word_contain_sentence_num": 97
+    },
+    {
+        "word": "papryki",
+        "example": "papryki chili były",
+        "probs": "0, 0.10377358490566038, 0.09090909090909091",
+        "word_contain_sentence_num": 102
+    },
+    {
+        "word": "ziemniak",
+        "example": "wytwarza np. ziemniak",
+        "probs": "0.25, 0.13333333333333333, 0",
+        "word_contain_sentence_num": 30
+    },
+    {
+        "word": "cebula",
+        "example": "cebula i czosnek",
+        "probs": "0, 0.13513513513513514, 0.26666666666666666",
+        "word_contain_sentence_num": 110
+    },
+    {
+        "word": "marchewka",
+        "example": "marchewka określa się",
+        "probs": "0, 0.1111111111111111, 1.0",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "śniadań",
+        "example": "bezpłatnych śniadań",
+        "probs": "0.5909090909090909, 0",
+        "word_contain_sentence_num": 22
+    },
+    {
+        "word": "herbatę",
+        "example": "na herbatę do",
+        "probs": "0.12716763005780346, 0, 0.13636363636363635",
+        "word_contain_sentence_num": 170
+    },
+    {
+        "word": "kawie",
+        "example": "spotkania przy kawie",
+        "probs": "0.25, 0.3, 0",
+        "word_contain_sentence_num": 80
+    },
+    {
+        "word": "ciasto",
+        "example": "przepis na ciasto",
+        "probs": "0.2777777777777778, 0.06844106463878327, 0",
+        "word_contain_sentence_num": 260
+    },
+    {
+        "word": "makaron",
+        "example": "makaron z serem",
+        "probs": "0, 0.15151515151515152, 0.2",
+        "word_contain_sentence_num": 59
+    },
+    {
+        "word": "ryż",
+        "example": "ryż i inne",
+        "probs": "0, 0.10317460317460317, 0.15384615384615385",
+        "word_contain_sentence_num": 374
+    },
+    {
+        "word": "masła",
+        "example": "masła i sera",
+        "probs": "0, 0.1446280991735537, 0.14285714285714285",
+        "word_contain_sentence_num": 231
+    },
+    {
+        "word": "sok",
+        "example": "sok z cytryny",
+        "probs": "0, 0.19924812030075187, 0.24528301886792453",
+        "word_contain_sentence_num": 257
+    },
+    {
+        "word": "lody",
+        "example": "przez lody w",
+        "probs": "0.06666666666666667, 0, 0.18181818181818182",
+        "word_contain_sentence_num": 157
+    },
+    {
+        "word": "czekoladowe",
+        "example": "wieku litery czekoladowe",
+        "probs": "0.4, 0.09433962264150944, 0",
+        "word_contain_sentence_num": 51
+    },
+    {
+        "word": "truskawkowy",
+        "example": "język truskawkowy",
+        "probs": "0.5, 0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "jogurt",
+        "example": "i jogurt z",
+        "probs": "0.22727272727272727, 0, 0.4",
+        "word_contain_sentence_num": 44
+    },
+    {
+        "word": "cytryna",
+        "example": "cytryna lub ocet",
+        "probs": "0, 0.058823529411764705, 1.0",
+        "word_contain_sentence_num": 17
+    },
+    {
+        "word": "smak",
+        "example": "smak i zapach",
+        "probs": "0, 0.16470588235294117, 0.32142857142857145",
+        "word_contain_sentence_num": 769
+    },
+    {
+        "word": "posiłek",
+        "example": "się na posiłek",
+        "probs": "0.3142857142857143, 0.12280701754385964, 0",
+        "word_contain_sentence_num": 285
+    },
+    {
+        "word": "banany",
+        "example": "banany i ananasy",
+        "probs": "0, 0.16770186335403728, 0.14814814814814814",
+        "word_contain_sentence_num": 160
+    },
+    {
+        "word": "pomidorach",
+        "example": "w pomidorach strzępki",
+        "probs": "0.5714285714285714, 0, 0.25",
+        "word_contain_sentence_num": 14
+    },
+    {
+        "word": "pomarańcza",
+        "example": "burgessa mechaniczna pomarańcza",
+        "probs": "0.2222222222222222, 0.45, 0",
+        "word_contain_sentence_num": 39
+    },
+    {
+        "word": "owoc",
+        "example": "jako owoc współpracy",
+        "probs": "0.08013937282229965, 0, 0.17391304347826086",
+        "word_contain_sentence_num": 278
+    },
+    {
+        "word": "cukierki",
+        "example": "i cukierki w",
+        "probs": "0.07608695652173914, 0, 0.2857142857142857",
+        "word_contain_sentence_num": 89
+    },
+    {
+        "word": "frytki",
+        "example": "frytki i napoje",
+        "probs": "0, 0.12903225806451613, 0.25",
+        "word_contain_sentence_num": 29
+    },
+    {
+        "word": "ryb",
+        "example": "XX gatunków ryb",
+        "probs": "0.2708333333333333, 0.09411764705882353, 0",
+        "word_contain_sentence_num": 3398
+    },
+    {
+        "word": "kolacji",
+        "example": "podczas kolacji w",
+        "probs": "0.19111111111111112, 0, 0.13953488372093023",
+        "word_contain_sentence_num": 225
+    },
+    {
+        "word": "serem",
+        "example": "z serem i",
+        "probs": "0.25252525252525254, 0, 0.24",
+        "word_contain_sentence_num": 96
+    },
+    {
+        "word": "win",
+        "example": "win z winogron",
+        "probs": "0, 0.07550644567219153, 0.07317073170731707",
+        "word_contain_sentence_num": 750
+    },
+    {
+        "word": "piwo",
+        "example": "piwo w stylu",
+        "probs": "0, 0.04905660377358491, 0.11538461538461539",
+        "word_contain_sentence_num": 785
+    },
+    {
+        "word": "alkohol",
+        "example": "na alkohol i",
+        "probs": "0.125, 0, 0.12673267326732673",
+        "word_contain_sentence_num": 581
+    },
+    {
+        "word": "menu",
+        "example": "w menu start",
+        "probs": "0.19642857142857142, 0, 0.06493506493506493",
+        "word_contain_sentence_num": 378
+    },
+    {
+        "word": "kurczak",
+        "example": "kurczak lub wołowina",
+        "probs": "0, 0.06, 0.3333333333333333",
+        "word_contain_sentence_num": 49
+    },
+    {
+        "word": "wołowiny",
+        "example": "z wołowiny lub",
+        "probs": "0.11570247933884298, 0, 0.14285714285714285",
+        "word_contain_sentence_num": 120
+    },
+    {
+        "word": "wieprzowinę",
+        "example": "wołowinę i wieprzowinę",
+        "probs": "0.6666666666666666, 0.12, 0",
+        "word_contain_sentence_num": 25
+    },
+    {
+        "word": "wegetarianin",
+        "example": "się jako wegetarianin",
+        "probs": "0.6666666666666666, 0.42857142857142855, 0",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "grzyb",
+        "example": "za grzyb jadalny",
+        "probs": "0.28205128205128205, 0, 0.1813953488372093",
+        "word_contain_sentence_num": 398
+    },
+    {
+        "word": "oleju",
+        "example": "ton oleju napędowego",
+        "probs": "0.3870967741935484, 0, 0.1183206106870229",
+        "word_contain_sentence_num": 1099
+    },
+    {
+        "word": "smażymy",
+        "example": "smażymy",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    }
+]

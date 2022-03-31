@@ -1,4 +1,5 @@
 import random
+import re
 import string
 import json
 
@@ -18,6 +19,7 @@ class NgramLanguageModel():
         self.vocabulary = self.get_vocab(padded_sentences)
         self.forward_models = [self.create_language_model(n) for n in range(2, ngram_num + 1)]
         self.backward_models = [self.create_language_model(n, backward=True) for n in range(2, ngram_num + 1)]
+        
         self.sentence_util = SentenceUtil(language_code)
     
     def select_model(self, seed_words):
@@ -61,13 +63,15 @@ class NgramLanguageModel():
         word_prob_list.sort(key=lambda x: x[1], reverse=True) # 出現確率順
 
         for word, prob in word_prob_list:
-            if word not in ',.\'\'«»()!':
+            if not self.is_word_spchar(word):
                 return word, prob
-            # if word not in  ',.and\'\'':
-            # if exclude_stopwords:
-            # else:
-            #     return word, prob
         return '', 0
+
+    def is_word_spchar(self, word):
+        m = re.fullmatch(r'\W+', word)
+        if m == None:
+            return False
+        return True
     
     def get_context(self, words):
         # if ngram_num == 3
@@ -82,31 +86,30 @@ class NgramLanguageModel():
             words = word.split()
         else:
             words = [word]
-        
-        example_sentences = []
-
+        probs = ['0']
         while(len(words)) < max_sentence_length:
             prev_model, next_model = self.select_model(words)
             prev_context, next_context = self.get_context(words)
-
             prev_word, prev_word_prob = self.get_mle_word(prev_model, prev_context)
             next_word, next_word_prob = self.get_mle_word(next_model, next_context)
             
             if prev_word_prob == 0 and next_word_prob == 0: 
                 words = words + ['.END']
-                example_sentences.append(' '.join(words))  
-                return example_sentences
+                return ' '.join(words), probs
+                
             if prev_word_prob > next_word_prob:
                 if prev_word == '<s>':
                     max_sentence_length += 1
                     min_sentence_length += 1
+                else:
+                    probs = [str(prev_word_prob)] + probs
                 words = [prev_word] + words
             else:
                 if next_word == '</s>':
                     max_sentence_length += 1
                     min_sentence_length += 1
+                else:
+                    probs = probs + [str(next_word_prob)]
                 words = words + [next_word]    
-            if len(words) >= min_sentence_length:
-                example_sentences.append(' '.join(words))  
 
-        return example_sentences
+        return ' '.join(words), probs

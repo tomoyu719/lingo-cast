@@ -1,0 +1,322 @@
+[
+    {
+        "word": "ノート",
+        "example": "ノート を 読み上げ て いき",
+        "word_contain_sentence_num": 533
+    },
+    {
+        "word": "ニュース",
+        "example": "ごろ の ニュース で は",
+        "word_contain_sentence_num": 2410
+    },
+    {
+        "word": "見 ない で",
+        "example": "見つめ て 後 を 見 ない で",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "し ない で",
+        "example": "殺し合い の 戦争 を し ない で",
+        "word_contain_sentence_num": 74
+    },
+    {
+        "word": "取ら ない で",
+        "example": "取ら ない で",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "行か ない で",
+        "example": "人混み へ 行か ない で ほしい",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "取り",
+        "example": "牛 の 名 を 取り",
+        "word_contain_sentence_num": 1390
+    },
+    {
+        "word": "取る",
+        "example": "を 取る こと が できる",
+        "word_contain_sentence_num": 1249
+    },
+    {
+        "word": "取っ て",
+        "example": "の 責任 を 取っ て いる",
+        "word_contain_sentence_num": 867
+    },
+    {
+        "word": "取",
+        "example": "石 取 祭 で 引き回さ",
+        "word_contain_sentence_num": 275
+    },
+    {
+        "word": "なん",
+        "example": "妹尾 なん でも 鑑定 団",
+        "word_contain_sentence_num": 421
+    },
+    {
+        "word": "作文",
+        "example": "や 日本 作文 の 会",
+        "word_contain_sentence_num": 79
+    },
+    {
+        "word": "書く",
+        "example": "を 書く こと に し",
+        "word_contain_sentence_num": 845
+    },
+    {
+        "word": "コピー",
+        "example": "!!』 という キャッチ コピー は",
+        "word_contain_sentence_num": 1016
+    },
+    {
+        "word": "カレンダー",
+        "example": "カレンダー に 掲載 さ れ",
+        "word_contain_sentence_num": 149
+    },
+    {
+        "word": "文章",
+        "example": "文章 を 書く こと を",
+        "word_contain_sentence_num": 804
+    },
+    {
+        "word": "文",
+        "example": "文 永 7 年 と",
+        "word_contain_sentence_num": 4281
+    },
+    {
+        "word": "文",
+        "example": "文 永 7 年 と",
+        "word_contain_sentence_num": 4281
+    },
+    {
+        "word": "章",
+        "example": "13 章 107 条 で",
+        "word_contain_sentence_num": 2901
+    },
+    {
+        "word": "雑誌",
+        "example": "通信 社 や 雑誌 の",
+        "word_contain_sentence_num": 3887
+    },
+    {
+        "word": "ページ",
+        "example": "で は 32 ページ の",
+        "word_contain_sentence_num": 1427
+    },
+    {
+        "word": "返さ ない で",
+        "example": "返さ ない で",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "返し て",
+        "example": "勒 は 軍 を 返し て",
+        "word_contain_sentence_num": 69
+    },
+    {
+        "word": "返し",
+        "example": "は 軍 を 返し て",
+        "word_contain_sentence_num": 359
+    },
+    {
+        "word": "返す",
+        "example": "を 返す こと が できる",
+        "word_contain_sentence_num": 260
+    },
+    {
+        "word": "並ば ない で",
+        "example": "並ば ない で",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "並び",
+        "example": "と 並び 称さ れ た",
+        "word_contain_sentence_num": 604
+    },
+    {
+        "word": "誌",
+        "example": "の 写真 週刊 誌 の",
+        "word_contain_sentence_num": 4299
+    },
+    {
+        "word": "返",
+        "example": "大内 返 で 敗れ て",
+        "word_contain_sentence_num": 79
+    },
+    {
+        "word": "並",
+        "example": "と 並 走 する 道路",
+        "word_contain_sentence_num": 337
+    },
+    {
+        "word": "雑",
+        "example": "の 雑 化 による タイプ",
+        "word_contain_sentence_num": 205
+    },
+    {
+        "word": "貸す",
+        "example": "を 貸す こと に なっ",
+        "word_contain_sentence_num": 51
+    },
+    {
+        "word": "借りる",
+        "example": "を 借りる こと が できる",
+        "word_contain_sentence_num": 101
+    },
+    {
+        "word": "貸さ ない で",
+        "example": "に も 耳 を 貸さ ない で",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "借り ない で",
+        "example": "借り ない で",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "貸し て",
+        "example": "を 貸し て い た が",
+        "word_contain_sentence_num": 62
+    },
+    {
+        "word": "お 貸し",
+        "example": "お 貸し し ます",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "貸し",
+        "example": "を 貸し て い た",
+        "word_contain_sentence_num": 288
+    },
+    {
+        "word": "借り",
+        "example": "の 助け を 借り て",
+        "word_contain_sentence_num": 706
+    },
+    {
+        "word": "借り た",
+        "example": "ドキュメンタリー に 名 を 借り た",
+        "word_contain_sentence_num": 87
+    },
+    {
+        "word": "借り て",
+        "example": "の 助け を 借り て い",
+        "word_contain_sentence_num": 270
+    },
+    {
+        "word": "貸",
+        "example": "多額 の 大名 貸 の",
+        "word_contain_sentence_num": 119
+    },
+    {
+        "word": "借",
+        "example": "の 借 の 高 を",
+        "word_contain_sentence_num": 44
+    },
+    {
+        "word": "の",
+        "example": "年 の 講道館 杯 で",
+        "word_contain_sentence_num": 2076139
+    },
+    {
+        "word": "る",
+        "example": "当 ホール に 於け る",
+        "word_contain_sentence_num": 1214
+    },
+    {
+        "word": "いる",
+        "example": "実施 さ れ て いる",
+        "word_contain_sentence_num": 254362
+    },
+    {
+        "word": "来 て",
+        "example": "に 来 て い た という",
+        "word_contain_sentence_num": 652
+    },
+    {
+        "word": "買っ て",
+        "example": "を 買っ て い た という",
+        "word_contain_sentence_num": 218
+    },
+    {
+        "word": "い ない",
+        "example": "さ れ て い ない が",
+        "word_contain_sentence_num": 12255
+    },
+    {
+        "word": "やる",
+        "example": "よう に し て やる",
+        "word_contain_sentence_num": 589
+    },
+    {
+        "word": "やり",
+        "example": "を やり たい と 考え",
+        "word_contain_sentence_num": 576
+    },
+    {
+        "word": "やっ て",
+        "example": "を やっ て い た が",
+        "word_contain_sentence_num": 609
+    },
+    {
+        "word": "やら ない で",
+        "example": "は 絶対 に やら ない で ください",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "な の",
+        "example": "で 特徴 的 な の は",
+        "word_contain_sentence_num": 727
+    },
+    {
+        "word": "ある",
+        "example": "で ある こと を ヒント",
+        "word_contain_sentence_num": 241623
+    },
+    {
+        "word": "買う",
+        "example": "を 買う こと に なる",
+        "word_contain_sentence_num": 279
+    },
+    {
+        "word": "歩く",
+        "example": "を 歩く こと が でき",
+        "word_contain_sentence_num": 338
+    },
+    {
+        "word": "渡し",
+        "example": "を 渡し た 橋 が",
+        "word_contain_sentence_num": 494
+    },
+    {
+        "word": "やめる",
+        "example": "を やめる よう に 言う",
+        "word_contain_sentence_num": 129
+    },
+    {
+        "word": "やめ",
+        "example": "歌う の を やめ た",
+        "word_contain_sentence_num": 451
+    },
+    {
+        "word": "やめ ない で",
+        "example": "考える の を やめ ない で ！",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "お やめ",
+        "example": "お やめ",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "やめ て",
+        "example": "探求 する の を やめ て",
+        "word_contain_sentence_num": 92
+    },
+    {
+        "word": "渡",
+        "example": "御 渡 の 状況 と",
+        "word_contain_sentence_num": 454
+    }
+]

@@ -1,0 +1,188 @@
+[
+    {
+        "word": "rozmowa",
+        "example": "i rozmowa z",
+        "probs": "0.06329113924050633, 0, 0.24458204334365324",
+        "word_contain_sentence_num": 319
+    },
+    {
+        "word": "kanałów",
+        "example": "systemu kanałów została",
+        "probs": "0.051923076923076926, 0, 0.8518518518518519",
+        "word_contain_sentence_num": 1550
+    },
+    {
+        "word": "informacje",
+        "example": "pierwsze informacje o",
+        "probs": "0.06315789473684211, 0, 0.37037037037037035",
+        "word_contain_sentence_num": 6631
+    },
+    {
+        "word": "komentarz",
+        "example": "komentarz do księgi",
+        "probs": "0, 0.43258426966292135, 0.05627705627705628",
+        "word_contain_sentence_num": 592
+    },
+    {
+        "word": "komunikacja",
+        "example": "komunikacja autobusowa pks",
+        "probs": "0, 0.11394891944990176, 0.08620689655172414",
+        "word_contain_sentence_num": 641
+    },
+    {
+        "word": "zdaniu",
+        "example": "po zdaniu matury",
+        "probs": "0.5854616895874263, 0, 0.5335570469798657",
+        "word_contain_sentence_num": 1019
+    },
+    {
+        "word": "telewizyjny",
+        "example": "program telewizyjny o",
+        "probs": "0.18055555555555555, 0, 0.07692307692307693",
+        "word_contain_sentence_num": 1426
+    },
+    {
+        "word": "kontakcie",
+        "example": "w kontakcie z",
+        "probs": "0.4794952681388013, 0, 0.6314741035856574",
+        "word_contain_sentence_num": 668
+    },
+    {
+        "word": "liście",
+        "example": "się na liście",
+        "probs": "0.16342412451361868, 0.4895238095238095, 0",
+        "word_contain_sentence_num": 11959
+    },
+    {
+        "word": "wiadomości",
+        "example": "do wiadomości publicznej",
+        "probs": "0.1274131274131274, 0, 0.21212121212121213",
+        "word_contain_sentence_num": 3240
+    },
+    {
+        "word": "poczta",
+        "example": "najbliższa poczta i",
+        "probs": "0.16666666666666666, 0, 0.08171206225680934",
+        "word_contain_sentence_num": 635
+    },
+    {
+        "word": "pocztówka",
+        "example": "zostały odnalezione pocztówka",
+        "probs": "1.0, 0.09375, 0",
+        "word_contain_sentence_num": 32
+    },
+    {
+        "word": "tłumacza",
+        "example": "poety i tłumacza",
+        "probs": "0.16923076923076924, 0.1267056530214425, 0",
+        "word_contain_sentence_num": 586
+    },
+    {
+        "word": "zaproszenie",
+        "example": "na zaproszenie prezydenta",
+        "probs": "0.5317460317460317, 0, 0.029850746268656716",
+        "word_contain_sentence_num": 1761
+    },
+    {
+        "word": "języków",
+        "example": "nauki języków obcych",
+        "probs": "0.13114754098360656, 0, 0.11531190926275993",
+        "word_contain_sentence_num": 4955
+    },
+    {
+        "word": "paczkę",
+        "example": "mu paczkę z",
+        "probs": "0.23529411764705882, 0, 0.18478260869565216",
+        "word_contain_sentence_num": 92
+    },
+    {
+        "word": "listy",
+        "example": "XXXX z listy",
+        "probs": "0.14285714285714285, 0.505859375, 0",
+        "word_contain_sentence_num": 15446
+    },
+    {
+        "word": "prasą",
+        "example": "współpracował z prasą",
+        "probs": "0.23529411764705882, 0.5944055944055944, 0",
+        "word_contain_sentence_num": 281
+    },
+    {
+        "word": "wywiad",
+        "example": "przeprowadził wywiad z",
+        "probs": "0.102803738317757, 0, 0.21188118811881188",
+        "word_contain_sentence_num": 1270
+    },
+    {
+        "word": "dziennikarz",
+        "example": "pracował jako dziennikarz",
+        "probs": "0.39849624060150374, 0.2654690618762475, 0",
+        "word_contain_sentence_num": 3730
+    },
+    {
+        "word": "artykuł",
+        "example": "opublikował artykuł pt.",
+        "probs": "0.07647058823529412, 0, 0.1282051282051282",
+        "word_contain_sentence_num": 2009
+    },
+    {
+        "word": "opinia",
+        "example": "że opinia publiczna",
+        "probs": "0.07947019867549669, 0, 0.2966601178781925",
+        "word_contain_sentence_num": 646
+    },
+    {
+        "word": "dyskusję",
+        "example": "dyskusję na temat",
+        "probs": "0, 0.20987654320987653, 0.8137254901960784",
+        "word_contain_sentence_num": 485
+    },
+    {
+        "word": "sens",
+        "example": "ma sens tylko",
+        "probs": "0.06286836935166994, 0, 0.15625",
+        "word_contain_sentence_num": 836
+    },
+    {
+        "word": "klawiaturze",
+        "example": "klawisza na klawiaturze",
+        "probs": "0.07792207792207792, 0.7777777777777778, 0",
+        "word_contain_sentence_num": 97
+    },
+    {
+        "word": "internetu",
+        "example": "dostęp do internetu",
+        "probs": "0.2469879518072289, 0.3254901960784314, 0",
+        "word_contain_sentence_num": 599
+    },
+    {
+        "word": "plik",
+        "example": "zwykły plik tekstowy",
+        "probs": "0.14285714285714285, 0, 0.03932584269662921",
+        "word_contain_sentence_num": 465
+    },
+    {
+        "word": "dostępu",
+        "example": "bez dostępu do",
+        "probs": "0.05722070844686648, 0, 0.7153996101364523",
+        "word_contain_sentence_num": 2520
+    },
+    {
+        "word": "folder",
+        "example": "mały folder z",
+        "probs": "0.5, 0, 0.11764705882352941",
+        "word_contain_sentence_num": 31
+    },
+    {
+        "word": "hasła",
+        "example": "hasła do XX",
+        "probs": "0, 0.03522504892367906, 0.2777777777777778",
+        "word_contain_sentence_num": 1125
+    },
+    {
+        "word": "pobrać",
+        "example": "postanawiają się pobrać",
+        "probs": "0.16, 0.23510971786833856, 0",
+        "word_contain_sentence_num": 317
+    }
+]

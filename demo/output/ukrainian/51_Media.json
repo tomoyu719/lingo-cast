@@ -1,0 +1,102 @@
+[
+    {
+        "word": "новини",
+        "example": "публікувати новини про свою",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "повідомлення",
+        "example": "надійшло повідомлення про те",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "статті",
+        "example": "можете знайти в статті",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "канал",
+        "example": "Команди вибрати комбінований канал",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "відправити",
+        "example": "відправити до в'язниці",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "інформація",
+        "example": "відсутня інформація про те",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "для",
+        "example": "для здобуття коректурних відбитків",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "дзвонив",
+        "example": "він дзвонив",
+        "word_contain_sentence_num": 39
+    },
+    {
+        "word": "передзвонити",
+        "example": "СМС-запит із проханням передзвонити",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "мобільний",
+        "example": "як і мобільний телефон",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "планшет",
+        "example": "батьківський планшет з епізоду",
+        "word_contain_sentence_num": 70
+    },
+    {
+        "word": "технології",
+        "example": "використовуючи передові технології",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "смартфон",
+        "example": "при собі свій смартфон",
+        "word_contain_sentence_num": 185
+    },
+    {
+        "word": "сайт",
+        "example": "офіційний сайт групи —",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "файли",
+        "example": "просто виконавчі файли",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "імейл",
+        "example": "надсилають на імейл проекту",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "інтернету",
+        "example": "доступ до інтернету",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "скайп",
+        "example": "через скайп",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "по скайпу",
+        "example": "Мама по скайпу",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "завантажити",
+        "example": "можна завантажити на сайті",
+        "word_contain_sentence_num": 201
+    }
+]

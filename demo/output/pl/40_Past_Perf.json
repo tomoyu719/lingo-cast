@@ -1,0 +1,308 @@
+[
+    {
+        "word": "byłem",
+        "example": "nie byłem w",
+        "probs": "0.21862348178137653, 0, 0.2037037037037037",
+        "word_contain_sentence_num": 236
+    },
+    {
+        "word": "zjedli",
+        "example": "upiekli i zjedli",
+        "probs": "0.2857142857142857, 0.25, 0",
+        "word_contain_sentence_num": 28
+    },
+    {
+        "word": "zrobić",
+        "example": "może to zrobić",
+        "probs": "0.09574468085106383, 0.1865079365079365, 0",
+        "word_contain_sentence_num": 1854
+    },
+    {
+        "word": "znalazłyśmy",
+        "example": "znalazłyśmy",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "wczoraj",
+        "example": "wczoraj i dziś",
+        "probs": "0, 0.25925925925925924, 0.8928571428571429",
+        "word_contain_sentence_num": 106
+    },
+    {
+        "word": "napisał",
+        "example": "w XXXX napisał",
+        "probs": "0.625, 0.06349206349206349, 0",
+        "word_contain_sentence_num": 10050
+    },
+    {
+        "word": "mieliście",
+        "example": "mieliście gdzie usiąść",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "kupiłaś",
+        "example": "kupiłaś",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "sprzedała",
+        "example": "sprzedała się w",
+        "probs": "0, 0.244, 0.8278688524590164",
+        "word_contain_sentence_num": 982
+    },
+    {
+        "word": "widzieć",
+        "example": "widzieć w nim",
+        "probs": "0, 0.12967032967032968, 0.1864406779661017",
+        "word_contain_sentence_num": 449
+    },
+    {
+        "word": "przeczytali",
+        "example": "którzy przeczytali go",
+        "probs": "0.17391304347826086, 0, 0.25",
+        "word_contain_sentence_num": 23
+    },
+    {
+        "word": "pomogły",
+        "example": "nie pomogły i",
+        "probs": "0.1536050156739812, 0, 0.04081632653061224",
+        "word_contain_sentence_num": 319
+    },
+    {
+        "word": "ugotowali",
+        "example": "ugotowali tutaj podobno",
+        "probs": "0, 0.3333333333333333, 1.0",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "zobaczyć",
+        "example": "można zobaczyć w",
+        "probs": "0.3207171314741036, 0, 0.13664596273291926",
+        "word_contain_sentence_num": 2285
+    },
+    {
+        "word": "powiedział",
+        "example": "powiedział o nim",
+        "probs": "0, 0.049800796812749, 0.24",
+        "word_contain_sentence_num": 4129
+    },
+    {
+        "word": "pokazali",
+        "example": "pokazali się w",
+        "probs": "0, 0.19463087248322147, 0.20689655172413793",
+        "word_contain_sentence_num": 147
+    },
+    {
+        "word": "przyniosłem",
+        "example": "przyniosłem mu XX",
+        "probs": "0, 0.2, 1.0",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "wziąć",
+        "example": "wziąć udział w",
+        "probs": "0, 0.5329341317365269, 0.8352059925093633",
+        "word_contain_sentence_num": 2422
+    },
+    {
+        "word": "otworzyli",
+        "example": "otworzyli ogień do",
+        "probs": "0, 0.31, 0.2903225806451613",
+        "word_contain_sentence_num": 527
+    },
+    {
+        "word": "zamknął",
+        "example": "zamknął się w",
+        "probs": "0, 0.182, 0.4835164835164835",
+        "word_contain_sentence_num": 672
+    },
+    {
+        "word": "wysłali",
+        "example": "i wysłali do",
+        "probs": "0.058823529411764705, 0, 0.17",
+        "word_contain_sentence_num": 568
+    },
+    {
+        "word": "zmieniła",
+        "example": "zmieniła nazwę na",
+        "probs": "0, 0.281437125748503, 0.8865248226950354",
+        "word_contain_sentence_num": 3428
+    },
+    {
+        "word": "zadzwoniliśmy",
+        "example": "zadzwoniliśmy do salonu",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "wróciłyście",
+        "example": "wróciłyście",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "usłyszałeś",
+        "example": "usłyszałeś tego od",
+        "probs": "0, 0.5, 1.0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "pomyśleli",
+        "example": "pomyśleli mieszkańcy o",
+        "probs": "0, 0.14285714285714285, 1.0",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "dały",
+        "example": "punkty dały mu",
+        "probs": "0.3008849557522124, 0, 0.22554890219560877",
+        "word_contain_sentence_num": 1316
+    },
+    {
+        "word": "porozmawiałaś",
+        "example": "porozmawiałaś",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "spojrzał",
+        "example": "spojrzał na mnie",
+        "probs": "0, 0.6304347826086957, 0.13793103448275862",
+        "word_contain_sentence_num": 46
+    },
+    {
+        "word": "zacząć",
+        "example": "zacząć się w",
+        "probs": "0, 0.08565737051792828, 0.13953488372093023",
+        "word_contain_sentence_num": 660
+    },
+    {
+        "word": "posprzątał",
+        "example": "by posprzątał chlew",
+        "probs": "1.0, 0, 0.25",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "odwiedzić",
+        "example": "by odwiedzić matkę",
+        "probs": "0.08921161825726141, 0, 0.06976744186046512",
+        "word_contain_sentence_num": 480
+    },
+    {
+        "word": "wygrać",
+        "example": "udało się wygrać",
+        "probs": "0.4177215189873418, 0.15737051792828685, 0",
+        "word_contain_sentence_num": 1224
+    },
+    {
+        "word": "przegrał",
+        "example": "gdzie przegrał z",
+        "probs": "0.05660377358490566, 0, 0.31610337972166996",
+        "word_contain_sentence_num": 8968
+    },
+    {
+        "word": "uwierzyliśmy",
+        "example": "uwierzyliśmy",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "dotarły",
+        "example": "które dotarły do",
+        "probs": "0.08518518518518518, 0, 0.5357142857142857",
+        "word_contain_sentence_num": 1645
+    },
+    {
+        "word": "wyjaśniłyśmy",
+        "example": "wyjaśniłyśmy",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "zostać",
+        "example": "i może zostać",
+        "probs": "0.045454545454545456, 0.13043478260869565, 0",
+        "word_contain_sentence_num": 12519
+    },
+    {
+        "word": "przedstawiłeś",
+        "example": "przedstawiłeś",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "musiał",
+        "example": "i musiał on",
+        "probs": "0.07171314741035857, 0, 0.08333333333333333",
+        "word_contain_sentence_num": 8786
+    },
+    {
+        "word": "wypiłeś",
+        "example": "wypiłeś",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "móc",
+        "example": "aby móc się",
+        "probs": "0.4311377245508982, 0, 0.041666666666666664",
+        "word_contain_sentence_num": 1556
+    },
+    {
+        "word": "zgubiła",
+        "example": "zgubiła się podczas",
+        "probs": "0, 0.14, 0.2857142857142857",
+        "word_contain_sentence_num": 50
+    },
+    {
+        "word": "dotknęli",
+        "example": "dotknęli jej jednocześnie",
+        "probs": "0, 0.25, 1.0",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "wychowałam",
+        "example": "tu się wychowałam",
+        "probs": "1.0, 1.0, 0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "odpowiedziałam",
+        "example": "odpowiedziałam 'nie chcę",
+        "probs": "0, 0.5, 1.0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "zapytali",
+        "example": "zapytali go o",
+        "probs": "0, 0.24, 0.16666666666666666",
+        "word_contain_sentence_num": 25
+    },
+    {
+        "word": "użył",
+        "example": "raz pierwszy użył",
+        "probs": "0.5818181818181818, 0.10978043912175649, 0",
+        "word_contain_sentence_num": 1464
+    },
+    {
+        "word": "narysowali",
+        "example": "narysowali jego portrety",
+        "probs": "0, 0.25, 1.0",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "naprawił",
+        "example": "i naprawił też",
+        "probs": "0.09090909090909091, 0, 0.25",
+        "word_contain_sentence_num": 44
+    },
+    {
+        "word": "poszłam",
+        "example": "poszłam do piekła",
+        "probs": "0, 0.3333333333333333, 0.5",
+        "word_contain_sentence_num": 6
+    }
+]

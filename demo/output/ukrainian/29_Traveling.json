@@ -1,0 +1,57 @@
+[
+    {
+        "word": "касу",
+        "example": "організувати позичкову касу",
+        "word_contain_sentence_num": 159
+    },
+    {
+        "word": "багаж",
+        "example": "дітей та їх багаж",
+        "word_contain_sentence_num": 137
+    },
+    {
+        "word": "валіза",
+        "example": "знаходиться валіза з грошима",
+        "word_contain_sentence_num": 24
+    },
+    {
+        "word": "довідка",
+        "example": "довідка про смерть",
+        "word_contain_sentence_num": 127
+    },
+    {
+        "word": "розклад",
+        "example": "розклад руху пасажирських потягів",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "рейс",
+        "example": "у свій перший рейс",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "пасажир",
+        "example": "показових польотах як пасажир",
+        "word_contain_sentence_num": 180
+    },
+    {
+        "word": "провідник",
+        "example": "провідник ОУН на Холмщині",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вагон",
+        "example": "з вагона у вагон",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "купе",
+        "example": "седана і купе",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "місце",
+        "example": "друге місце в Першій",
+        "word_contain_sentence_num": 201
+    }
+]

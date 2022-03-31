@@ -1,0 +1,337 @@
+[
+    {
+        "word": "側",
+        "example": "年 に 古河 側 は",
+        "word_contain_sentence_num": 12884
+    },
+    {
+        "word": "新幹線",
+        "example": "北陸 新幹線 の 4 路線",
+        "word_contain_sentence_num": 938
+    },
+    {
+        "word": "オートバイ",
+        "example": "の オートバイ で ある bmw",
+        "word_contain_sentence_num": 425
+    },
+    {
+        "word": "売り場",
+        "example": "は 改札 と 切符 売り場",
+        "word_contain_sentence_num": 117
+    },
+    {
+        "word": "幹",
+        "example": "細胞 は 造血 幹 細胞",
+        "word_contain_sentence_num": 513
+    },
+    {
+        "word": "側",
+        "example": "年 に 古河 側 は",
+        "word_contain_sentence_num": 12884
+    },
+    {
+        "word": "到着",
+        "example": "ラバウル に 到着 し た",
+        "word_contain_sentence_num": 2924
+    },
+    {
+        "word": "終点",
+        "example": "駅 を 終点 と する",
+        "word_contain_sentence_num": 681
+    },
+    {
+        "word": "出発",
+        "example": "駅 を 出発 し た",
+        "word_contain_sentence_num": 1399
+    },
+    {
+        "word": "急行",
+        "example": "1 駅 間 の 急行",
+        "word_contain_sentence_num": 1262
+    },
+    {
+        "word": "ゆき",
+        "example": "に 変化 し て ゆき",
+        "word_contain_sentence_num": 506
+    },
+    {
+        "word": "行き",
+        "example": "は 名古屋 方面 行き の",
+        "word_contain_sentence_num": 1861
+    },
+    {
+        "word": "間もなく",
+        "example": "た 間もなく",
+        "word_contain_sentence_num": 807
+    },
+    {
+        "word": "到",
+        "example": "着 到 状 と も",
+        "word_contain_sentence_num": 39
+    },
+    {
+        "word": "席",
+        "example": "の 席 で は 17",
+        "word_contain_sentence_num": 2140
+    },
+    {
+        "word": "途中",
+        "example": "2013 年 の 途中 で",
+        "word_contain_sentence_num": 3961
+    },
+    {
+        "word": "拾い",
+        "example": "を 拾い 集め て いく",
+        "word_contain_sentence_num": 75
+    },
+    {
+        "word": "拾っ た",
+        "example": "彼ら が それ を 拾っ た",
+        "word_contain_sentence_num": 35
+    },
+    {
+        "word": "拾う",
+        "example": "を 拾う ため に 馬",
+        "word_contain_sentence_num": 52
+    },
+    {
+        "word": "拾っ て",
+        "example": "を 拾っ て き た 宝石",
+        "word_contain_sentence_num": 39
+    },
+    {
+        "word": "降り出し た",
+        "example": "ところ で 降り出し た の だ",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "途",
+        "example": "帰国 の 途 に つい",
+        "word_contain_sentence_num": 97
+    },
+    {
+        "word": "席",
+        "example": "の 席 で は 17",
+        "word_contain_sentence_num": 2140
+    },
+    {
+        "word": "拾",
+        "example": "拾 両 当たり 量目 5",
+        "word_contain_sentence_num": 53
+    },
+    {
+        "word": "専用",
+        "example": "タイプ の コウモリ 専用 の",
+        "word_contain_sentence_num": 3365
+    },
+    {
+        "word": "車両",
+        "example": "の 車両 は すぐ に",
+        "word_contain_sentence_num": 6867
+    },
+    {
+        "word": "女性",
+        "example": "の 女性 と 結婚 し",
+        "word_contain_sentence_num": 8517
+    },
+    {
+        "word": "年寄り",
+        "example": "お 年寄り の 森 が",
+        "word_contain_sentence_num": 24
+    },
+    {
+        "word": "お 年寄り",
+        "example": "お 年寄り の 相談 を 無料",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "寄",
+        "example": "へ の 最 寄 の",
+        "word_contain_sentence_num": 202
+    },
+    {
+        "word": "専",
+        "example": "強かっ た 長崎 経 専",
+        "word_contain_sentence_num": 88
+    },
+    {
+        "word": "用",
+        "example": "用 の 同社 製 em",
+        "word_contain_sentence_num": 12865
+    },
+    {
+        "word": "性",
+        "example": "性 を 重視 し た",
+        "word_contain_sentence_num": 27073
+    },
+    {
+        "word": "別",
+        "example": "jpl と は 別 の",
+        "word_contain_sentence_num": 6101
+    },
+    {
+        "word": "男性",
+        "example": "ジェレミー の 男性 器 を",
+        "word_contain_sentence_num": 3576
+    },
+    {
+        "word": "駐車",
+        "example": "センター ビル の 駐車 場",
+        "word_contain_sentence_num": 984
+    },
+    {
+        "word": "空い て",
+        "example": "に 穴 が 空い て いる",
+        "word_contain_sentence_num": 50
+    },
+    {
+        "word": "空き",
+        "example": "の 空き 部屋 に 隠れ",
+        "word_contain_sentence_num": 180
+    },
+    {
+        "word": "空い た",
+        "example": "大小 の 穴 の 空い た",
+        "word_contain_sentence_num": 70
+    },
+    {
+        "word": "乗り換え",
+        "example": "の 乗り換え が 必要 で",
+        "word_contain_sentence_num": 303
+    },
+    {
+        "word": "乗り換える",
+        "example": "に 乗り換える こと が できる",
+        "word_contain_sentence_num": 59
+    },
+    {
+        "word": "乗り換え た",
+        "example": "新幹線 に 乗り換え た 場合 は",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "できるだけ",
+        "example": "を できるだけ 低く する こと",
+        "word_contain_sentence_num": 149
+    },
+    {
+        "word": "換",
+        "example": "の 入 換 作業 を",
+        "word_contain_sentence_num": 118
+    },
+    {
+        "word": "駐",
+        "example": "駐 日 大使 に 任命",
+        "word_contain_sentence_num": 841
+    },
+    {
+        "word": "裏",
+        "example": "発展 において 秘密 裏 に",
+        "word_contain_sentence_num": 1769
+    },
+    {
+        "word": "駐車 場",
+        "example": "の 駐車 場 の 情報 と",
+        "word_contain_sentence_num": 685
+    },
+    {
+        "word": "エンジン",
+        "example": "エンジン を 搭載 し た",
+        "word_contain_sentence_num": 5915
+    },
+    {
+        "word": "進ん だ",
+        "example": "が 準々 決勝 に 進ん だ",
+        "word_contain_sentence_num": 1156
+    },
+    {
+        "word": "お 進み",
+        "example": "お 進み に なつ たら 宜",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "進む",
+        "example": "家族 化 が 進む と",
+        "word_contain_sentence_num": 1579
+    },
+    {
+        "word": "進ん で",
+        "example": "宅地 化 が 進ん で いる",
+        "word_contain_sentence_num": 723
+    },
+    {
+        "word": "信号",
+        "example": "信号 機 が 設置 さ",
+        "word_contain_sentence_num": 1527
+    },
+    {
+        "word": "赤信号",
+        "example": "赤信号 で 停車 し て",
+        "word_contain_sentence_num": 20
+    },
+    {
+        "word": "曲がっ て",
+        "example": "は 西 に 曲がっ て いる",
+        "word_contain_sentence_num": 51
+    },
+    {
+        "word": "曲がる",
+        "example": "状 に 内側 に 曲がる",
+        "word_contain_sentence_num": 95
+    },
+    {
+        "word": "裏",
+        "example": "発展 において 秘密 裏 に",
+        "word_contain_sentence_num": 1769
+    },
+    {
+        "word": "船",
+        "example": "ブレーメン の 船 が 就航",
+        "word_contain_sentence_num": 6038
+    },
+    {
+        "word": "港",
+        "example": "港 に 向かっ て い",
+        "word_contain_sentence_num": 3432
+    },
+    {
+        "word": "乗客",
+        "example": "の 乗客 が 搭乗 できる",
+        "word_contain_sentence_num": 925
+    },
+    {
+        "word": "歩道",
+        "example": "木製 の 歩道 が 無い",
+        "word_contain_sentence_num": 360
+    },
+    {
+        "word": "乗り物",
+        "example": "の 乗り物 と は 用途",
+        "word_contain_sentence_num": 141
+    },
+    {
+        "word": "運ん だ",
+        "example": "ため に 足 を 運ん だ",
+        "word_contain_sentence_num": 131
+    },
+    {
+        "word": "運べ",
+        "example": "衛星 を 運べ ない ので",
+        "word_contain_sentence_num": 13
+    },
+    {
+        "word": "運ぶ",
+        "example": "を 運ぶ ため に 使用",
+        "word_contain_sentence_num": 414
+    },
+    {
+        "word": "運ん で",
+        "example": "に 足 を 運ん で い",
+        "word_contain_sentence_num": 98
+    },
+    {
+        "word": "ホーム",
+        "example": "式 ホーム 2 面 2",
+        "word_contain_sentence_num": 4731
+    }
+]

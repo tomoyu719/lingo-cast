@@ -1,0 +1,77 @@
+[
+    {
+        "word": "у мене є",
+        "example": "у мене є",
+        "word_contain_sentence_num": 99
+    },
+    {
+        "word": "у вас є",
+        "example": "у вас є",
+        "word_contain_sentence_num": 75
+    },
+    {
+        "word": "ваш",
+        "example": "трафік на ваш сайт",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "ваша",
+        "example": "ваша країна може",
+        "word_contain_sentence_num": 129
+    },
+    {
+        "word": "ваші",
+        "example": "плюнути на ваші могили",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "дідусь",
+        "example": "бабуся і дідусь",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "онук",
+        "example": "син і онук прийняли",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "онука",
+        "example": "за його онука Андрія",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "хлопець",
+        "example": "хлопець Грег Рендалл",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "дівчина",
+        "example": "проект покинула 21 дівчина",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "бабуся",
+        "example": "дідусь і бабуся",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "старший",
+        "example": "року — старший інженер",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "старша",
+        "example": "нього є старша сестра",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "молодший",
+        "example": "успадкував його молодший брат",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "молодша",
+        "example": "нього є молодша сестра",
+        "word_contain_sentence_num": 201
+    }
+]

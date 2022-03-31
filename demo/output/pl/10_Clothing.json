@@ -1,0 +1,116 @@
+[
+    {
+        "word": "noszę",
+        "example": "noszę również z",
+        "probs": "0, 0.07692307692307693, 1.0",
+        "word_contain_sentence_num": 13
+    },
+    {
+        "word": "nosi",
+        "example": "ten nosi nazwę",
+        "probs": "0.03164556962025317, 0, 0.31287128712871287",
+        "word_contain_sentence_num": 4717
+    },
+    {
+        "word": "płaszcz",
+        "example": "czerwony płaszcz i",
+        "probs": "0.0625, 0, 0.09393346379647749",
+        "word_contain_sentence_num": 638
+    },
+    {
+        "word": "nosisz",
+        "example": "nosisz wakandę w",
+        "probs": "0, 0.3333333333333333, 1.0",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "koszula",
+        "example": "biała koszula z",
+        "probs": "0.21138211382113822, 0, 0.2692307692307692",
+        "word_contain_sentence_num": 114
+    },
+    {
+        "word": "sukienka",
+        "example": "sukienka z ok.",
+        "probs": "0, 0.125, 0.16666666666666666",
+        "word_contain_sentence_num": 47
+    },
+    {
+        "word": "spodnie",
+        "example": "kurtka i spodnie",
+        "probs": "0.31343283582089554, 0.1375770020533881, 0",
+        "word_contain_sentence_num": 478
+    },
+    {
+        "word": "ubrania",
+        "example": "na ubrania i",
+        "probs": "0.12307692307692308, 0, 0.12871287128712872",
+        "word_contain_sentence_num": 837
+    },
+    {
+        "word": "bluza",
+        "example": "ponadto bluza starego",
+        "probs": "0.2, 0, 0.3333333333333333",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "kapelusz",
+        "example": "kapelusz i trzon",
+        "probs": "0, 0.11554621848739496, 0.09090909090909091",
+        "word_contain_sentence_num": 466
+    },
+    {
+        "word": "spódnica",
+        "example": "spódnica z wełny",
+        "probs": "0, 0.09433962264150944, 0.2",
+        "word_contain_sentence_num": 51
+    },
+    {
+        "word": "but",
+        "example": "but i 'm",
+        "probs": "0, 0.07630522088353414, 0.21052631578947367",
+        "word_contain_sentence_num": 240
+    },
+    {
+        "word": "skarpeta",
+        "example": "jak stara skarpeta",
+        "probs": "1.0, 0.5, 0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "kurtka",
+        "example": "kurtka z wyłogami",
+        "probs": "0, 0.1125, 0.2222222222222222",
+        "word_contain_sentence_num": 75
+    },
+    {
+        "word": "czapkę",
+        "example": "czapkę z daszkiem",
+        "probs": "0, 0.13245033112582782, 0.25",
+        "word_contain_sentence_num": 149
+    },
+    {
+        "word": "majtki",
+        "example": "majtki z krótkimi",
+        "probs": "0, 0.08163265306122448, 0.25",
+        "word_contain_sentence_num": 49
+    },
+    {
+        "word": "noszą",
+        "example": "te noszą nazwę",
+        "probs": "0.08860759493670886, 0, 0.15768463073852296",
+        "word_contain_sentence_num": 1260
+    },
+    {
+        "word": "nosimy",
+        "example": "nosimy to dacz",
+        "probs": "0, 0.25, 1.0",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "nosicie",
+        "example": "nosicie",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    }
+]

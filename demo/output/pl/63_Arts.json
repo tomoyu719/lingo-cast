@@ -1,0 +1,170 @@
+[
+    {
+        "word": "obraz",
+        "example": "obraz matki boskiej",
+        "probs": "0, 0.07824427480916031, 0.7317073170731707",
+        "word_contain_sentence_num": 9324
+    },
+    {
+        "word": "kamerę",
+        "example": "wyposażona w kamerę",
+        "probs": "0.11627906976744186, 0.11375661375661375, 0",
+        "word_contain_sentence_num": 360
+    },
+    {
+        "word": "aparacie",
+        "example": "pracował w aparacie",
+        "probs": "0.20533333333333334, 0.7367387033398821, 0",
+        "word_contain_sentence_num": 512
+    },
+    {
+        "word": "filmu",
+        "example": "zdjęcia do filmu",
+        "probs": "0.25274725274725274, 0.1760154738878143, 0",
+        "word_contain_sentence_num": 15916
+    },
+    {
+        "word": "sztuki",
+        "example": "dzieł sztuki w",
+        "probs": "0.07330827067669173, 0, 0.05128205128205128",
+        "word_contain_sentence_num": 16746
+    },
+    {
+        "word": "zdjęcie",
+        "example": "zdjęcie z krzyża",
+        "probs": "0, 0.07677543186180422, 0.075",
+        "word_contain_sentence_num": 1285
+    },
+    {
+        "word": "galerii",
+        "example": "w galerii w",
+        "probs": "0.22648752399232247, 0, 0.0423728813559322",
+        "word_contain_sentence_num": 1803
+    },
+    {
+        "word": "sława",
+        "example": "jego sława zaczęła",
+        "probs": "0.21194029850746268, 0, 0.09859154929577464",
+        "word_contain_sentence_num": 328
+    },
+    {
+        "word": "gitara",
+        "example": "gitara basowa i",
+        "probs": "0, 0.29389312977099236, 0.030303030303030304",
+        "word_contain_sentence_num": 1200
+    },
+    {
+        "word": "skrzypcach",
+        "example": "gry na skrzypcach",
+        "probs": "0.5116822429906542, 0.8508946322067594, 0",
+        "word_contain_sentence_num": 768
+    },
+    {
+        "word": "piosenkę",
+        "example": "tę piosenkę w",
+        "probs": "0.06746031746031746, 0, 0.11764705882352941",
+        "word_contain_sentence_num": 3828
+    },
+    {
+        "word": "taniec",
+        "example": "muzyka i taniec",
+        "probs": "0.14285714285714285, 0.06578947368421052, 0",
+        "word_contain_sentence_num": 1122
+    },
+    {
+        "word": "grać",
+        "example": "zaczął grać w",
+        "probs": "0.3081395348837209, 0, 0.3426294820717131",
+        "word_contain_sentence_num": 3296
+    },
+    {
+        "word": "scena",
+        "example": "najlepsza scena seksu",
+        "probs": "0.14862385321100918, 0, 0.8024691358024691",
+        "word_contain_sentence_num": 1550
+    },
+    {
+        "word": "instrumentem",
+        "example": "jest instrumentem transponującym",
+        "probs": "0.08333333333333333, 0, 0.058823529411764705",
+        "word_contain_sentence_num": 407
+    },
+    {
+        "word": "stylu",
+        "example": "w stylu neogotyckim",
+        "probs": "0.6201550387596899, 0, 0.084375",
+        "word_contain_sentence_num": 14362
+    },
+    {
+        "word": "fotografia",
+        "example": "twórczości zajmuje fotografia",
+        "probs": "0.7565217391304347, 0.12378902045209902, 0",
+        "word_contain_sentence_num": 617
+    },
+    {
+        "word": "modzie",
+        "example": "w modzie i",
+        "probs": "0.32882882882882886, 0, 0.1095890410958904",
+        "word_contain_sentence_num": 221
+    },
+    {
+        "word": "rozrywki",
+        "example": "park rozrywki z",
+        "probs": "0.09306930693069307, 0, 0.10638297872340426",
+        "word_contain_sentence_num": 838
+    },
+    {
+        "word": "literatura",
+        "example": "język i literatura",
+        "probs": "0.12903225806451613, 0.056363636363636366, 0",
+        "word_contain_sentence_num": 956
+    },
+    {
+        "word": "teatru",
+        "example": "teatru i filmu",
+        "probs": "0, 0.055762081784386616, 0.06666666666666667",
+        "word_contain_sentence_num": 4309
+    },
+    {
+        "word": "poezję",
+        "example": "poezję i prozę",
+        "probs": "0, 0.08134920634920635, 0.17073170731707318",
+        "word_contain_sentence_num": 749
+    },
+    {
+        "word": "wydarzeniem",
+        "example": "ważnym wydarzeniem w",
+        "probs": "0.3269230769230769, 0, 0.208",
+        "word_contain_sentence_num": 1193
+    },
+    {
+        "word": "konkurs",
+        "example": "wygrał konkurs na",
+        "probs": "0.13559322033898305, 0, 0.22957198443579765",
+        "word_contain_sentence_num": 3401
+    },
+    {
+        "word": "koncert",
+        "example": "pierwszy koncert w",
+        "probs": "0.12121212121212122, 0, 0.18893129770992367",
+        "word_contain_sentence_num": 3850
+    },
+    {
+        "word": "zespołu",
+        "example": "przeszedł do zespołu",
+        "probs": "0.1509433962264151, 0.10515873015873016, 0",
+        "word_contain_sentence_num": 38145
+    },
+    {
+        "word": "publiczności",
+        "example": "otwarty dla publiczności",
+        "probs": "0.21052631578947367, 0.11354581673306773, 0",
+        "word_contain_sentence_num": 3112
+    },
+    {
+        "word": "architekturą",
+        "example": "z architekturą i",
+        "probs": "0.23260437375745527, 0, 0.08547008547008547",
+        "word_contain_sentence_num": 529
+    }
+]

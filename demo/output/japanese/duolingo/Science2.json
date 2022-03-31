@@ -1,0 +1,217 @@
+[
+    {
+        "word": "状態",
+        "example": "状態 に なっ た が",
+        "word_contain_sentence_num": 8264
+    },
+    {
+        "word": "全体",
+        "example": "集合 全体 の 成す σ",
+        "word_contain_sentence_num": 5471
+    },
+    {
+        "word": "物質",
+        "example": "物質 の こと で ある",
+        "word_contain_sentence_num": 2036
+    },
+    {
+        "word": "比較",
+        "example": "と 比較 し て いる",
+        "word_contain_sentence_num": 2288
+    },
+    {
+        "word": "溶け た",
+        "example": "コナー が 溶け た 鉄 を",
+        "word_contain_sentence_num": 21
+    },
+    {
+        "word": "溶け て",
+        "example": "に 溶け て いる タンタル の",
+        "word_contain_sentence_num": 24
+    },
+    {
+        "word": "溶ける",
+        "example": "に 溶ける と アンチモン 酸",
+        "word_contain_sentence_num": 62
+    },
+    {
+        "word": "心理",
+        "example": "心理 学 の よう に",
+        "word_contain_sentence_num": 1447
+    },
+    {
+        "word": "心理 学",
+        "example": "心理 学 の 研究 に よれ",
+        "word_contain_sentence_num": 406
+    },
+    {
+        "word": "較",
+        "example": "較 ",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "固体",
+        "example": "全段 固体 燃料 ロケット で",
+        "word_contain_sentence_num": 343
+    },
+    {
+        "word": "気体",
+        "example": "気体 定数 は 気体 の",
+        "word_contain_sentence_num": 253
+    },
+    {
+        "word": "液体",
+        "example": "液体 を 輸入 しよ う",
+        "word_contain_sentence_num": 794
+    },
+    {
+        "word": "無色",
+        "example": "圧 で は 無色 の",
+        "word_contain_sentence_num": 73
+    },
+    {
+        "word": "凍っ て",
+        "example": "メリマック 川 が 凍っ て おり",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "凍る",
+        "example": "凍る こと も なく 流れ",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "混合",
+        "example": "の 混合 ダブルス で の",
+        "word_contain_sentence_num": 815
+    },
+    {
+        "word": "混合 物",
+        "example": "体 の 混合 物 で ある",
+        "word_contain_sentence_num": 85
+    },
+    {
+        "word": "液",
+        "example": "毒 と 消化 液 を",
+        "word_contain_sentence_num": 682
+    },
+    {
+        "word": "仮説",
+        "example": "た という 仮説 を 立て",
+        "word_contain_sentence_num": 450
+    },
+    {
+        "word": "参考",
+        "example": "を 参考 に し た",
+        "word_contain_sentence_num": 936
+    },
+    {
+        "word": "生命",
+        "example": "生息 する 知的 生命 体",
+        "word_contain_sentence_num": 1402
+    },
+    {
+        "word": "分析",
+        "example": "を 分析 し て いる",
+        "word_contain_sentence_num": 1914
+    },
+    {
+        "word": "証明",
+        "example": "こと を 証明 し た",
+        "word_contain_sentence_num": 1844
+    },
+    {
+        "word": "仮",
+        "example": "スタジオ で の 仮 訳",
+        "word_contain_sentence_num": 1134
+    },
+    {
+        "word": "析",
+        "example": "晶 析 と 呼ば れる",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "元素",
+        "example": "人工 放射 性 元素 は",
+        "word_contain_sentence_num": 539
+    },
+    {
+        "word": "資料",
+        "example": "に ある 歴史 資料 館",
+        "word_contain_sentence_num": 2555
+    },
+    {
+        "word": "種",
+        "example": "他 の 犬 種 の",
+        "word_contain_sentence_num": 9761
+    },
+    {
+        "word": "種類",
+        "example": "ex の 2 種類 の",
+        "word_contain_sentence_num": 3513
+    },
+    {
+        "word": "記号",
+        "example": "の 記号 が 残さ れ",
+        "word_contain_sentence_num": 657
+    },
+    {
+        "word": "水素",
+        "example": "の 水素 原子 の 場合",
+        "word_contain_sentence_num": 910
+    },
+    {
+        "word": "酸素",
+        "example": "の 空気 中 の 酸素",
+        "word_contain_sentence_num": 704
+    },
+    {
+        "word": "酸",
+        "example": "リン 酸 三 カルシウム の",
+        "word_contain_sentence_num": 1481
+    },
+    {
+        "word": "酸",
+        "example": "リン 酸 三 カルシウム の",
+        "word_contain_sentence_num": 1481
+    },
+    {
+        "word": "酸類",
+        "example": "ヒドロキシ 酸類 は 生体 内",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "作用",
+        "example": "と の 相互 作用 を",
+        "word_contain_sentence_num": 1814
+    },
+    {
+        "word": "傾向",
+        "example": "重視 する 傾向 が ある",
+        "word_contain_sentence_num": 2409
+    },
+    {
+        "word": "標準 的",
+        "example": "の ため の 標準 的 な",
+        "word_contain_sentence_num": 340
+    },
+    {
+        "word": "標準",
+        "example": "の 標準 化 さ れ",
+        "word_contain_sentence_num": 2662
+    },
+    {
+        "word": "観察",
+        "example": "こと が 観察 さ れる",
+        "word_contain_sentence_num": 1177
+    },
+    {
+        "word": "起源",
+        "example": "が チーズ の 起源 は",
+        "word_contain_sentence_num": 1440
+    },
+    {
+        "word": "傾",
+        "example": "前 傾 姿勢 を 維持",
+        "word_contain_sentence_num": 25
+    }
+]

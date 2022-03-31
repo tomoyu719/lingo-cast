@@ -1,0 +1,102 @@
+[
+    {
+        "word": "футболка",
+        "example": "— футболка з Бобом",
+        "word_contain_sentence_num": 35
+    },
+    {
+        "word": "светр",
+        "example": "светр і залишився задоволений",
+        "word_contain_sentence_num": 63
+    },
+    {
+        "word": "шорти",
+        "example": "білі шорти та сині",
+        "word_contain_sentence_num": 85
+    },
+    {
+        "word": "костюм",
+        "example": "поширюється європейський костюм",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "купити",
+        "example": "можна купити в магазині",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "пальто",
+        "example": "нижня білизна і пальто",
+        "word_contain_sentence_num": 137
+    },
+    {
+        "word": "спідниця",
+        "example": "спідниця з тигрової шкури",
+        "word_contain_sentence_num": 96
+    },
+    {
+        "word": "сукня",
+        "example": "біла сукня з довгими",
+        "word_contain_sentence_num": 167
+    },
+    {
+        "word": "куртку",
+        "example": "чорну куртку з золотим",
+        "word_contain_sentence_num": 89
+    },
+    {
+        "word": "шапка",
+        "example": "шапка з червоним шликом",
+        "word_contain_sentence_num": 185
+    },
+    {
+        "word": "сорочка",
+        "example": "була біла сорочка",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "пасує",
+        "example": "добре пасує до цих",
+        "word_contain_sentence_num": 65
+    },
+    {
+        "word": "одяг",
+        "example": "Чоловічий святковий одяг",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "взуття",
+        "example": "виробництвом одягу та взуття",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "зручні",
+        "example": "були зручні для пересування",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "нові",
+        "example": "так і нові зразки",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "старі",
+        "example": "старі цибулини замінюються",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "туфлі",
+        "example": "туфлі на високих підборах",
+        "word_contain_sentence_num": 108
+    },
+    {
+        "word": "кросівки",
+        "example": "широкі джинси і кросівки",
+        "word_contain_sentence_num": 46
+    },
+    {
+        "word": "чоботи",
+        "example": "З взуття носили чоботи",
+        "word_contain_sentence_num": 201
+    }
+]

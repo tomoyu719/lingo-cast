@@ -1,0 +1,152 @@
+[
+    {
+        "word": "кетчуп",
+        "example": "варіанті — додають кетчуп",
+        "word_contain_sentence_num": 19
+    },
+    {
+        "word": "помідор",
+        "example": "гнилий помідор",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "яйце",
+        "example": "ямки відкладається одне яйце",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "моркву",
+        "example": "овочів слони люблять моркву",
+        "word_contain_sentence_num": 122
+    },
+    {
+        "word": "котлету",
+        "example": "котлету по-київськи необхідно безпосередньо",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "сосиску",
+        "example": "Свою сосиску",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "з кетчупом",
+        "example": "з кетчупом",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "з помідором",
+        "example": "у випадку з помідором",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "з морквою",
+        "example": "суміш горошку з морквою",
+        "word_contain_sentence_num": 26
+    },
+    {
+        "word": "з котлетою",
+        "example": "з котлетою",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "з сосискою",
+        "example": "з сосискою",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "сусід",
+        "example": "Його сусід по кімнаті",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "з яйцем",
+        "example": "рибою і з яйцем",
+        "word_contain_sentence_num": 42
+    },
+    {
+        "word": "кетчупу",
+        "example": "соусу чилі чи кетчупу",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "моркви",
+        "example": "допомогою хни або моркви",
+        "word_contain_sentence_num": 91
+    },
+    {
+        "word": "сосиски",
+        "example": "салямі іноді використовують сосиски",
+        "word_contain_sentence_num": 47
+    },
+    {
+        "word": "виноградом",
+        "example": "плющем і диким виноградом",
+        "word_contain_sentence_num": 51
+    },
+    {
+        "word": "полуницю",
+        "example": "полуницю і здавати",
+        "word_contain_sentence_num": 26
+    },
+    {
+        "word": "персик",
+        "example": "персик і фіга",
+        "word_contain_sentence_num": 49
+    },
+    {
+        "word": "площу",
+        "example": "році місто мало площу",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "піцерію",
+        "example": "реконструйовану піцерію XX століття",
+        "word_contain_sentence_num": 10
+    },
+    {
+        "word": "пляж",
+        "example": "йому дорогу на пляж",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "посольстві",
+        "example": "в посольстві Франції",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "на площі",
+        "example": "на площі біля Ратуші",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "на пляжі",
+        "example": "гурту відпочивають на пляжі",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "у зоопарку",
+        "example": "трапилось у зоопарку",
+        "word_contain_sentence_num": 155
+    },
+    {
+        "word": "у цирку",
+        "example": "задля виступів у цирку",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "заводі",
+        "example": "на заводі в місті",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "лазню",
+        "example": "облаштовано турецьку лазню",
+        "word_contain_sentence_num": 117
+    },
+    {
+        "word": "алеї",
+        "example": "на Голлівудській алеї слави",
+        "word_contain_sentence_num": 201
+    }
+]

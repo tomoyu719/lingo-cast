@@ -1,0 +1,202 @@
+[
+    {
+        "word": "сніг",
+        "example": "де півроку лежить сніг",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "дощ",
+        "example": "може викликати дощ",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "сонце",
+        "example": "над табором зійшло сонце",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вітер",
+        "example": "завжди віяв сильний вітер",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "мороз",
+        "example": "Америці щоночі був мороз",
+        "word_contain_sentence_num": 147
+    },
+    {
+        "word": "туман",
+        "example": "піку в туман",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "погода",
+        "example": "вдень стоїть сонячна погода",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "холодно",
+        "example": "Врубеля було дуже холодно",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "жарко",
+        "example": "Влітку жарко",
+        "word_contain_sentence_num": 49
+    },
+    {
+        "word": "тепло",
+        "example": "тобто перетворюються в тепло",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "хмарно",
+        "example": "влітку тут постійно хмарно",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "прохолодно",
+        "example": "влітку досить прохолодно",
+        "word_contain_sentence_num": 115
+    },
+    {
+        "word": "небі",
+        "example": "року в небі",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "землі",
+        "example": "мало 2613 га землі",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "гори",
+        "example": "переходить у справжні гори",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "річку",
+        "example": "впадає у річку",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "дніпро",
+        "example": "дніпро",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "карпати",
+        "example": "Українські карпати",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "озері",
+        "example": "рівень води в озері",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "море",
+        "example": "їх сісти в море",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "дерево",
+        "example": "намагався вилізти на дерево",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "лісі",
+        "example": "від села в лісі",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "росте",
+        "example": "росте на боках",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "траву",
+        "example": "опіків — на траву",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "квітка",
+        "example": "знизу біля канта квітка",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "квіти",
+        "example": "чарівні ароматні квіти",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "зірки",
+        "example": "штралами між променями зірки",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "хмара",
+        "example": "Заступила чорна хмара …",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "місяць",
+        "example": "через місяць після смерті",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "грім",
+        "example": "сприймали грім і блискавку",
+        "word_contain_sentence_num": 152
+    },
+    {
+        "word": "веселку",
+        "example": "з квітами і веселку",
+        "word_contain_sentence_num": 40
+    },
+    {
+        "word": "блискавку",
+        "example": "сприймали грім і блискавку",
+        "word_contain_sentence_num": 75
+    },
+    {
+        "word": "схід",
+        "example": "км на схід",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "захід",
+        "example": "км на захід",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "північ",
+        "example": "км на північ",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "південь",
+        "example": "км на південь",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "на сході",
+        "example": "на сході —",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "на заході",
+        "example": "на заході —",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "на півночі",
+        "example": "на півночі —",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "на півдні",
+        "example": "на півдні —",
+        "word_contain_sentence_num": 201
+    }
+]

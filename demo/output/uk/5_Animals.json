@@ -1,0 +1,86 @@
+[
+    {
+        "word": "слон",
+        "example": "зображений білий слон",
+        "probs": "0.08695652173913043, 0.08098591549295775, 0",
+        "word_contain_sentence_num": 271
+    },
+    {
+        "word": "птах",
+        "example": "перелітний птах",
+        "probs": "0.35185185185185186, 0",
+        "word_contain_sentence_num": 1488
+    },
+    {
+        "word": "павук",
+        "example": "з'являється велетенський павук",
+        "probs": "0.25, 0.14285714285714285, 0",
+        "word_contain_sentence_num": 135
+    },
+    {
+        "word": "кіт",
+        "example": "чорний кіт",
+        "probs": "0.1171875, 0, 0.016666666666666666",
+        "word_contain_sentence_num": 488
+    },
+    {
+        "word": "кінь",
+        "example": "смуги білий кінь",
+        "probs": "0.08333333333333333, 0.08695652173913043, 0",
+        "word_contain_sentence_num": 781
+    },
+    {
+        "word": "тварина",
+        "example": "переважно наземна тварина",
+        "probs": "0.3333333333333333, 0.0625, 0",
+        "word_contain_sentence_num": 1042
+    },
+    {
+        "word": "п'є молоко",
+        "example": "п'є молоко",
+        "probs": "0, 0.25",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "свиня",
+        "example": "свиня дика",
+        "probs": "0.044444444444444446, 0, 0.391304347826087",
+        "word_contain_sentence_num": 226
+    },
+    {
+        "word": "миша",
+        "example": "летюча миша йоганна",
+        "probs": "0.12131147540983607, 0, 0.02702702702702703",
+        "word_contain_sentence_num": 280
+    },
+    {
+        "word": "ведмідь",
+        "example": "камчатський бурий ведмідь",
+        "probs": "0.028169014084507043, 0.13813229571984437, 0",
+        "word_contain_sentence_num": 661
+    },
+    {
+        "word": "корова",
+        "example": "є корова",
+        "probs": "0.05555555555555555, 0",
+        "word_contain_sentence_num": 199
+    },
+    {
+        "word": "dog",
+        "example": "the lazy dog",
+        "probs": "1.0, 0.3382352941176471, 0",
+        "word_contain_sentence_num": 51
+    },
+    {
+        "word": "їсть мед",
+        "example": "їсть мед",
+        "probs": "1.0, 0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "заєць",
+        "example": "як заєць сірий",
+        "probs": "0.05434782608695652, 0, 0.2875",
+        "word_contain_sentence_num": 314
+    }
+]

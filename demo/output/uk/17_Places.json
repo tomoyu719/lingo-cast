@@ -1,0 +1,206 @@
+[
+    {
+        "word": "шукаємо",
+        "example": "ми шукаємо таланти",
+        "probs": "0.6111111111111112, 0, 0.5151515151515151",
+        "word_contain_sentence_num": 54
+    },
+    {
+        "word": "вулиця",
+        "example": "мала назву вулиця",
+        "probs": "0.3333333333333333, 0.06735751295336788, 0",
+        "word_contain_sentence_num": 6852
+    },
+    {
+        "word": "будинок",
+        "example": "сільський будинок культури",
+        "probs": "0.10204081632653061, 0, 0.0928030303030303",
+        "word_contain_sentence_num": 15087
+    },
+    {
+        "word": "готель",
+        "example": "повертається в готель",
+        "probs": "0.05, 0.1724137931034483, 0",
+        "word_contain_sentence_num": 1728
+    },
+    {
+        "word": "туристи",
+        "example": "часто відвідують туристи",
+        "probs": "0.16666666666666666, 0.08823529411764706, 0",
+        "word_contain_sentence_num": 423
+    },
+    {
+        "word": "центрі",
+        "example": "в центрі села",
+        "probs": "0.434, 0, 0.12442396313364056",
+        "word_contain_sentence_num": 14511
+    },
+    {
+        "word": "великий",
+        "example": "великий вплив на",
+        "probs": "0, 0.053465346534653464, 0.6296296296296297",
+        "word_contain_sentence_num": 14881
+    },
+    {
+        "word": "маленьке",
+        "example": "в маленьке містечко",
+        "probs": "0.34782608695652173, 0, 0.17647058823529413",
+        "word_contain_sentence_num": 391
+    },
+    {
+        "word": "хрещатик",
+        "example": "хрещатик",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "ресторан",
+        "example": "її в ресторан",
+        "probs": "0.16666666666666666, 0.10294117647058823, 0",
+        "word_contain_sentence_num": 1053
+    },
+    {
+        "word": "офісі",
+        "example": "в офісі",
+        "probs": "0.6340425531914894, 0",
+        "word_contain_sentence_num": 467
+    },
+    {
+        "word": "кінотеатр",
+        "example": "побудований літній кінотеатр",
+        "probs": "0.08695652173913043, 0.07407407407407407, 0",
+        "word_contain_sentence_num": 1026
+    },
+    {
+        "word": "школа",
+        "example": "діяла земська школа",
+        "probs": "0.2222222222222222, 0.07042253521126761, 0",
+        "word_contain_sentence_num": 17105
+    },
+    {
+        "word": "університеті",
+        "example": "при московському університеті",
+        "probs": "0.45454545454545453, 0.06451612903225806, 0",
+        "word_contain_sentence_num": 19708
+    },
+    {
+        "word": "в",
+        "example": "в XXXX році",
+        "probs": "0, 0.07109004739336493, 0.7555555555555555",
+        "word_contain_sentence_num": 1876595
+    },
+    {
+        "word": "магазин",
+        "example": "стадіон та магазин",
+        "probs": "0.06896551724137931, 0.13978494623655913, 0",
+        "word_contain_sentence_num": 2829
+    },
+    {
+        "word": "басейн",
+        "example": "вирушив в басейн",
+        "probs": "0.037037037037037035, 0.14634146341463414, 0",
+        "word_contain_sentence_num": 2046
+    },
+    {
+        "word": "пошту",
+        "example": "через електронну пошту",
+        "probs": "0.25555555555555554, 0.21844660194174756, 0",
+        "word_contain_sentence_num": 407
+    },
+    {
+        "word": "вокзал",
+        "example": "залізничний вокзал",
+        "probs": "0.30724070450097846, 0",
+        "word_contain_sentence_num": 1170
+    },
+    {
+        "word": "стадіон",
+        "example": "було збудовано стадіон",
+        "probs": "1.0, 0.05555555555555555, 0",
+        "word_contain_sentence_num": 2604
+    },
+    {
+        "word": "на",
+        "example": "на навчання",
+        "probs": "0, 0.0625, 1.0",
+        "word_contain_sentence_num": 1491097
+    },
+    {
+        "word": "на вокзалі",
+        "example": "на вокзалі",
+        "probs": "0",
+        "word_contain_sentence_num": 294
+    },
+    {
+        "word": "на пошті",
+        "example": "працював на пошті",
+        "probs": "0.22807017543859648, 0",
+        "word_contain_sentence_num": 87
+    },
+    {
+        "word": "парку",
+        "example": "національного природного парку",
+        "probs": "0.8235294117647058, 0.0847457627118644, 0",
+        "word_contain_sentence_num": 10100
+    },
+    {
+        "word": "банку",
+        "example": "національного банку україни",
+        "probs": "0.1583629893238434, 0, 0.8651685393258427",
+        "word_contain_sentence_num": 4698
+    },
+    {
+        "word": "аеропорту",
+        "example": "в аеропорту",
+        "probs": "0.16698292220113853, 0",
+        "word_contain_sentence_num": 3875
+    },
+    {
+        "word": "жити",
+        "example": "жити в мирі",
+        "probs": "0, 0.23076923076923078, 0.05982905982905983",
+        "word_contain_sentence_num": 4917
+    },
+    {
+        "word": "місто",
+        "example": "XXXX році місто",
+        "probs": "0.9591836734693877, 0.09423076923076923, 0",
+        "word_contain_sentence_num": 38669
+    },
+    {
+        "word": "селі",
+        "example": "року у селі",
+        "probs": "0.4297872340425532, 0.4662698412698413, 0",
+        "word_contain_sentence_num": 60703
+    },
+    {
+        "word": "столиці",
+        "example": "року в столиці",
+        "probs": "0.1076923076923077, 0.12845849802371542, 0",
+        "word_contain_sentence_num": 9691
+    },
+    {
+        "word": "київ",
+        "example": "XXXX київ",
+        "probs": "0.11627906976744186, 0",
+        "word_contain_sentence_num": 47
+    },
+    {
+        "word": "одесу",
+        "example": "одесу",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "денвері",
+        "example": "денвері",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "атланті",
+        "example": "атланті",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    }
+]

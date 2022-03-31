@@ -1,0 +1,382 @@
+[
+    {
+        "word": "申し訳",
+        "example": "に し て 申し訳 ない",
+        "word_contain_sentence_num": 98
+    },
+    {
+        "word": "お手数",
+        "example": "お手数 ",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "迷惑",
+        "example": "に 迷惑 を かけ て",
+        "word_contain_sentence_num": 180
+    },
+    {
+        "word": "ご 迷惑",
+        "example": "に ご 迷惑 を おかけ し",
+        "word_contain_sentence_num": 10
+    },
+    {
+        "word": "ござい ませ ん",
+        "example": "の 働き で は ござい ませ ん",
+        "word_contain_sentence_num": 13
+    },
+    {
+        "word": "ござい まし た",
+        "example": "ご 協力 いただき ありがとう ござい まし た",
+        "word_contain_sentence_num": 20
+    },
+    {
+        "word": "かけ た",
+        "example": "に 声 を かけ た が",
+        "word_contain_sentence_num": 508
+    },
+    {
+        "word": "かけ て",
+        "example": "トリガー は 時間 を かけ て",
+        "word_contain_sentence_num": 1125
+    },
+    {
+        "word": "おかけ し て",
+        "example": "おかけ し て",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "おかけ し ない",
+        "example": "おかけ し ない",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "かけ",
+        "example": "電話 を かけ て いる",
+        "word_contain_sentence_num": 3815
+    },
+    {
+        "word": "おかけ し",
+        "example": "に ご 迷惑 を おかけ し",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "迷",
+        "example": "クイズ 迷 探偵 neo",
+        "word_contain_sentence_num": 16
+    },
+    {
+        "word": "あり ませ ん",
+        "example": "で は あり ませ ん でし た",
+        "word_contain_sentence_num": 286
+    },
+    {
+        "word": "よろしけれ ば",
+        "example": "よろしけれ ば",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "致し",
+        "example": "成功 を お祈り 致し ます",
+        "word_contain_sentence_num": 41
+    },
+    {
+        "word": "ご 案内",
+        "example": "選考 結果 の ご 案内 !〜",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "それ じゃ",
+        "example": "それ じゃ 説明 的 で インパクト",
+        "word_contain_sentence_num": 10
+    },
+    {
+        "word": "それでは",
+        "example": "た それでは",
+        "word_contain_sentence_num": 76
+    },
+    {
+        "word": "で ござい ます",
+        "example": "に なっ た わけ で ござい ます",
+        "word_contain_sentence_num": 32
+    },
+    {
+        "word": "致",
+        "example": "の 畠山 慶 致 の",
+        "word_contain_sentence_num": 48
+    },
+    {
+        "word": "中止",
+        "example": "を 中止 し た が",
+        "word_contain_sentence_num": 2160
+    },
+    {
+        "word": "本日",
+        "example": "本日 の 放送 は さ",
+        "word_contain_sentence_num": 35
+    },
+    {
+        "word": "是非",
+        "example": "の 是非 を 問う 住民",
+        "word_contain_sentence_num": 189
+    },
+    {
+        "word": "あいにく",
+        "example": "が あいにく 当時 全盛期 だっ",
+        "word_contain_sentence_num": 13
+    },
+    {
+        "word": "協力",
+        "example": "に 協力 し て いる",
+        "word_contain_sentence_num": 4061
+    },
+    {
+        "word": "ご 協力",
+        "example": "維持 する ため に ご 協力",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "是",
+        "example": "庄三郎 及び 大黒 常 是",
+        "word_contain_sentence_num": 307
+    },
+    {
+        "word": "協",
+        "example": "協 と の 協 働",
+        "word_contain_sentence_num": 463
+    },
+    {
+        "word": "まま",
+        "example": "の まま で あっ た",
+        "word_contain_sentence_num": 5063
+    },
+    {
+        "word": "握手",
+        "example": "握手 会 の 握手 会",
+        "word_contain_sentence_num": 147
+    },
+    {
+        "word": "丁寧",
+        "example": "1 人 を 丁寧 に",
+        "word_contain_sentence_num": 153
+    },
+    {
+        "word": "ご 丁寧",
+        "example": "ご 丁寧 な 方 が お",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "お辞儀",
+        "example": "お辞儀 を し たり など",
+        "word_contain_sentence_num": 24
+    },
+    {
+        "word": "儀",
+        "example": "即位 礼 正殿 の 儀",
+        "word_contain_sentence_num": 598
+    },
+    {
+        "word": "丁",
+        "example": "い た 2 丁 の",
+        "word_contain_sentence_num": 601
+    },
+    {
+        "word": "寧",
+        "example": "寧 夏 省 政府 民政",
+        "word_contain_sentence_num": 676
+    },
+    {
+        "word": "者",
+        "example": "者 として 位置づけ られ て",
+        "word_contain_sentence_num": 70173
+    },
+    {
+        "word": "しばらく",
+        "example": "移籍 後 しばらく は レギュラー",
+        "word_contain_sentence_num": 1467
+    },
+    {
+        "word": "申し て",
+        "example": "由 を 申し て い ます",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "申す",
+        "example": "と 申す は 是 れ",
+        "word_contain_sentence_num": 32
+    },
+    {
+        "word": "願っ て",
+        "example": "する こと を 願っ て い",
+        "word_contain_sentence_num": 86
+    },
+    {
+        "word": "願い",
+        "example": "の 願い を 叶える か",
+        "word_contain_sentence_num": 482
+    },
+    {
+        "word": "お願い",
+        "example": "を よろしく お願い し ます",
+        "word_contain_sentence_num": 128
+    },
+    {
+        "word": "ご 遠慮",
+        "example": "は ご 遠慮 いただき まし た",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "遠慮",
+        "example": "に 遠慮 し て い",
+        "word_contain_sentence_num": 68
+    },
+    {
+        "word": "慮",
+        "example": "で あっ た 孫 慮",
+        "word_contain_sentence_num": 11
+    },
+    {
+        "word": "願",
+        "example": "願 証 寺 の 門徒",
+        "word_contain_sentence_num": 248
+    },
+    {
+        "word": "礼",
+        "example": "語 奉 神 礼 を",
+        "word_contain_sentence_num": 687
+    },
+    {
+        "word": "お礼",
+        "example": "その お礼 に と スー",
+        "word_contain_sentence_num": 80
+    },
+    {
+        "word": "おり ます",
+        "example": "う と し て おり ます",
+        "word_contain_sentence_num": 103
+    },
+    {
+        "word": "おり まし た",
+        "example": "を し て おり まし た が",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "参り",
+        "example": "を 飛ばし て 参り ます",
+        "word_contain_sentence_num": 44
+    },
+    {
+        "word": "お参り",
+        "example": "神棚 に お参り し た",
+        "word_contain_sentence_num": 23
+    },
+    {
+        "word": "お越し",
+        "example": "が お越し の 前 で",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "感謝",
+        "example": "ファンタシースター 感謝 祭 の 補完",
+        "word_contain_sentence_num": 780
+    },
+    {
+        "word": "申し上げ て",
+        "example": "中 1 番 と 申し上げ て",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "申し上げ",
+        "example": "健闘 を お祈り 申し上げ ます",
+        "word_contain_sentence_num": 52
+    },
+    {
+        "word": "謝",
+        "example": "の 謝 依 旻 は",
+        "word_contain_sentence_num": 179
+    },
+    {
+        "word": "何と",
+        "example": "何と 呼ぶ か という 問い",
+        "word_contain_sentence_num": 43
+    },
+    {
+        "word": "謝っ た",
+        "example": "と 謝っ た こと が ある",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "謝り",
+        "example": "謝り に 行き まし た",
+        "word_contain_sentence_num": 13
+    },
+    {
+        "word": "謝る",
+        "example": "老い ない こと を 謝る",
+        "word_contain_sentence_num": 17
+    },
+    {
+        "word": "ご 都合",
+        "example": "ご 都合",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "都合",
+        "example": "の スケジュール の 都合 で",
+        "word_contain_sentence_num": 630
+    },
+    {
+        "word": "では なかっ た",
+        "example": "では なかっ た",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "で は ない",
+        "example": "で は ない か と の 論争",
+        "word_contain_sentence_num": 1512
+    },
+    {
+        "word": "で ある",
+        "example": "と し た もの で ある",
+        "word_contain_sentence_num": 92570
+    },
+    {
+        "word": "なさっ て",
+        "example": "君 は 我慢 なさっ て ください",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "ください ませ ん",
+        "example": "ください ませ ん",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "ください ませ",
+        "example": "当て て ごらん ください ませ",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "ください まし た",
+        "example": "ラスト を 包み込ん で ください まし た",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "くださっ て",
+        "example": "くださっ て",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "おっしゃる",
+        "example": "と おっしゃる なら 私 と",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "おっしゃい",
+        "example": "よう に おっしゃい まし た",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "おっしゃっ て",
+        "example": "どんどん 直接 おっしゃっ て ください",
+        "word_contain_sentence_num": 1
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "word": "часто",
+        "example": "часто поводиться",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "рідко",
+        "example": "вживається дуже рідко",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "зазвичай",
+        "example": "зазвичай використовується для протичовнових",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "інколи",
+        "example": "інколи неприховані",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "завжди",
+        "example": "не завжди відповідає багатоколірному",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "ніколи не",
+        "example": "ніколи не був",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "щодня",
+        "example": "це 12-14 годин щодня",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "щовечора",
+        "example": "3 млн глядачів щовечора",
+        "word_contain_sentence_num": 78
+    },
+    {
+        "word": "щоночі",
+        "example": "які рухаються щоночі",
+        "word_contain_sentence_num": 115
+    },
+    {
+        "word": "щоранку",
+        "example": "сім і два щоранку",
+        "word_contain_sentence_num": 82
+    },
+    {
+        "word": "давно",
+        "example": "вже давно стала не",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "недавно",
+        "example": "їх винищили зовсім недавно",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "швидко",
+        "example": "усе робив дуже швидко",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "повільно",
+        "example": "Літають дуже повільно",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "туди",
+        "example": "команда направляється туди",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "сюди",
+        "example": "сюди з міста Ріу-Гранді",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "ідіть",
+        "example": "\" До мене ідіть",
+        "word_contain_sentence_num": 14
+    },
+    {
+        "word": "можливо",
+        "example": "не можливо виявити міношукачами",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "звичайно",
+        "example": "звичайно ж зла іронія",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "багато",
+        "example": "існує і багато інших",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "мало",
+        "example": "році місто мало площу",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "майже",
+        "example": "майже всі режисери",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "надто",
+        "example": "не надто фрагментовані",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "далеко",
+        "example": "далеко від берега",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "близько",
+        "example": "до райцентру становить близько",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "праворуч",
+        "example": "ліворуч і праворуч",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "ліворуч",
+        "example": "ліворуч від нього",
+        "word_contain_sentence_num": 201
+    }
+]

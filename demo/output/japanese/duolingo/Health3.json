@@ -1,0 +1,272 @@
+[
+    {
+        "word": "咳",
+        "example": "咳 について は 咳 止め",
+        "word_contain_sentence_num": 35
+    },
+    {
+        "word": "患者",
+        "example": "の 患者 の 場合 は",
+        "word_contain_sentence_num": 1697
+    },
+    {
+        "word": "効く",
+        "example": "に 効く と さ れ",
+        "word_contain_sentence_num": 57
+    },
+    {
+        "word": "効き",
+        "example": "舵 の 効き が 悪く",
+        "word_contain_sentence_num": 35
+    },
+    {
+        "word": "効い て",
+        "example": "が 効い て いる はず の",
+        "word_contain_sentence_num": 11
+    },
+    {
+        "word": "効か ない",
+        "example": "大 魔法 が 効か ない という",
+        "word_contain_sentence_num": 33
+    },
+    {
+        "word": "頭痛",
+        "example": "人 が 片 頭痛 の",
+        "word_contain_sentence_num": 233
+    },
+    {
+        "word": "効",
+        "example": "音 効 を 全て 担当",
+        "word_contain_sentence_num": 35
+    },
+    {
+        "word": "咳",
+        "example": "咳 について は 咳 止め",
+        "word_contain_sentence_num": 35
+    },
+    {
+        "word": "患",
+        "example": "患 を 憂う こと なく",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "くしゃみ",
+        "example": "咳 や くしゃみ など の",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "傷",
+        "example": "に 傷 を 負っ て",
+        "word_contain_sentence_num": 590
+    },
+    {
+        "word": "痛み",
+        "example": "の 痛み を 訴え て",
+        "word_contain_sentence_num": 374
+    },
+    {
+        "word": "痛む",
+        "example": "で も 胸 が 痛む",
+        "word_contain_sentence_num": 19
+    },
+    {
+        "word": "睡眠薬",
+        "example": "睡眠薬 を 服用 し た",
+        "word_contain_sentence_num": 56
+    },
+    {
+        "word": "睡眠",
+        "example": "睡眠 を とっ て おり",
+        "word_contain_sentence_num": 337
+    },
+    {
+        "word": "体温",
+        "example": "低 体温 症 で は",
+        "word_contain_sentence_num": 124
+    },
+    {
+        "word": "覚まし て",
+        "example": "目 を 覚まし て い て",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "覚まし",
+        "example": "で 目 を 覚まし た",
+        "word_contain_sentence_num": 61
+    },
+    {
+        "word": "覚まし た",
+        "example": "自室 で 目 を 覚まし た",
+        "word_contain_sentence_num": 35
+    },
+    {
+        "word": "睡",
+        "example": "可 睡 斎 と なっ",
+        "word_contain_sentence_num": 17
+    },
+    {
+        "word": "傷",
+        "example": "に 傷 を 負っ て",
+        "word_contain_sentence_num": 590
+    },
+    {
+        "word": "舌",
+        "example": "舌 を 出し て 両手",
+        "word_contain_sentence_num": 361
+    },
+    {
+        "word": "がん",
+        "example": "末期 がん の 痛み を",
+        "word_contain_sentence_num": 625
+    },
+    {
+        "word": "妊娠",
+        "example": "妊娠 中 の 女性 に対して",
+        "word_contain_sentence_num": 653
+    },
+    {
+        "word": "やけど",
+        "example": "大 やけど を 負っ て",
+        "word_contain_sentence_num": 19
+    },
+    {
+        "word": "舌",
+        "example": "舌 を 出し て 両手",
+        "word_contain_sentence_num": 361
+    },
+    {
+        "word": "娠",
+        "example": "娠 ",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "妊",
+        "example": "を 妊 んで いる ため",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "肺",
+        "example": "肺 の 機能 を 停止",
+        "word_contain_sentence_num": 340
+    },
+    {
+        "word": "肌",
+        "example": "肌 の 色 は 褐色",
+        "word_contain_sentence_num": 302
+    },
+    {
+        "word": "手首",
+        "example": "手首 を 骨折 し た",
+        "word_contain_sentence_num": 160
+    },
+    {
+        "word": "手術 中",
+        "example": "臀部 の 手術 中 に 急死",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "手術",
+        "example": "手術 を 受け た こと",
+        "word_contain_sentence_num": 1381
+    },
+    {
+        "word": "手術 後",
+        "example": "手術 後 の 合併症 により 病死",
+        "word_contain_sentence_num": 39
+    },
+    {
+        "word": "痛め",
+        "example": "を 痛め て い た",
+        "word_contain_sentence_num": 285
+    },
+    {
+        "word": "痛め た",
+        "example": "に 心 を 痛め た こと",
+        "word_contain_sentence_num": 46
+    },
+    {
+        "word": "肺",
+        "example": "肺 の 機能 を 停止",
+        "word_contain_sentence_num": 340
+    },
+    {
+        "word": "肌",
+        "example": "肌 の 色 は 褐色",
+        "word_contain_sentence_num": 302
+    },
+    {
+        "word": "腹",
+        "example": "腹 甲 の 色彩 は",
+        "word_contain_sentence_num": 756
+    },
+    {
+        "word": "車椅子",
+        "example": "車椅子 スペース を 全 車両",
+        "word_contain_sentence_num": 245
+    },
+    {
+        "word": "回復",
+        "example": "に 回復 し て いる",
+        "word_contain_sentence_num": 2206
+    },
+    {
+        "word": "ご 回復",
+        "example": "ご 回復",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "使わ れる",
+        "example": "に 使わ れる こと が 多い",
+        "word_contain_sentence_num": 2029
+    },
+    {
+        "word": "使わ れ た",
+        "example": "を 運ぶ の に 使わ れ た",
+        "word_contain_sentence_num": 722
+    },
+    {
+        "word": "復",
+        "example": "が 自民党 に 復 党",
+        "word_contain_sentence_num": 329
+    },
+    {
+        "word": "ストレス",
+        "example": "同様 に ストレス を 感じ",
+        "word_contain_sentence_num": 327
+    },
+    {
+        "word": "尻",
+        "example": "尻 を 触る シーン で",
+        "word_contain_sentence_num": 282
+    },
+    {
+        "word": "お 尻",
+        "example": "お 尻 を 見せる ため 全員",
+        "word_contain_sentence_num": 28
+    },
+    {
+        "word": "消化",
+        "example": "消化 管 の 温度 低下",
+        "word_contain_sentence_num": 472
+    },
+    {
+        "word": "食中毒",
+        "example": "食中毒 の 原因 として 本",
+        "word_contain_sentence_num": 81
+    },
+    {
+        "word": "中毒",
+        "example": "中毒 を 起こし て いる",
+        "word_contain_sentence_num": 427
+    },
+    {
+        "word": "尻",
+        "example": "尻 を 触る シーン で",
+        "word_contain_sentence_num": 282
+    },
+    {
+        "word": "毒",
+        "example": "また 体内 に 毒 を",
+        "word_contain_sentence_num": 577
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "word": "роблять",
+        "example": "це роблять кмсники",
+        "probs": "1.0, 0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "щось",
+        "example": "щось негаразд з",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "сплять",
+        "example": "сплять лиш цвіркуни",
+        "probs": "0, 1.0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "розуміють",
+        "example": "розуміють",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "мити",
+        "example": "онна но мити",
+        "probs": "0.5, 0.3333333333333333, 0",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "посуд",
+        "example": "посуд для хранения",
+        "probs": "0, 0.5, 1.0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "руки",
+        "example": "рук в руки",
+        "probs": "0.17365269461077845, 0.326171875, 0",
+        "word_contain_sentence_num": 19357
+    },
+    {
+        "word": "пишуть",
+        "example": "пишуть",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "лист",
+        "example": "на лист бумаги",
+        "probs": "0.23076923076923078, 0, 0.04990403071017274",
+        "word_contain_sentence_num": 2600
+    },
+    {
+        "word": "коментар",
+        "example": "науково-практичний коментар",
+        "probs": "0.5, 0",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "листи",
+        "example": "листи іоанъ",
+        "probs": "0, 0.25, 1.0",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "співати",
+        "example": "ще співати вмієш",
+        "probs": "1.0, 0, 1.0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "пісня",
+        "example": "укр. лісова пісня",
+        "probs": "0.3333333333333333, 0.25, 0",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "намагатися",
+        "example": "намагатися",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "усміхаються",
+        "example": "усміхаються",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "дивлюся",
+        "example": "дивлюся",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "фільми",
+        "example": "фільми",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "телевізор",
+        "example": "телевізор",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    }
+]

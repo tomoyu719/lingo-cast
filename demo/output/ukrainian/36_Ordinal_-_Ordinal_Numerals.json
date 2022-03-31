@@ -1,0 +1,77 @@
+[
+    {
+        "word": "друга",
+        "example": "захищаючи свого друга",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "третє",
+        "example": "матчі за третє місце",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "перший",
+        "example": "свій перший гол за",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "четвертий",
+        "example": "обраний на четвертий термін",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "котра",
+        "example": "котра не знає",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "останній",
+        "example": "останній момент в",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "п’ятий",
+        "example": "п’ятий",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "шостий",
+        "example": "на шостий місяць вони",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "сьома",
+        "example": "— сьома за величиною",
+        "word_contain_sentence_num": 143
+    },
+    {
+        "word": "восьма",
+        "example": "— восьма літера вірменської",
+        "word_contain_sentence_num": 118
+    },
+    {
+        "word": "дев’ятий",
+        "example": "дев’ятий",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "поверх",
+        "example": "Перший поверх будівлі рустований",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "десятий",
+        "example": "на десятий день після",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "одинадцятий",
+        "example": "— одинадцятий місяць",
+        "word_contain_sentence_num": 91
+    },
+    {
+        "word": "дванадцятий",
+        "example": "дванадцятий подвиг Геракла",
+        "word_contain_sentence_num": 61
+    }
+]

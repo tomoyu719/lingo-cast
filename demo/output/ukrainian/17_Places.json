@@ -1,0 +1,172 @@
+[
+    {
+        "word": "шукаємо",
+        "example": "ми шукаємо таланти",
+        "word_contain_sentence_num": 54
+    },
+    {
+        "word": "вулиця",
+        "example": "під назвою Нова вулиця",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "будинок",
+        "example": "51 — житловий будинок",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "готель",
+        "example": "тематичний парк та готель",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "туристи",
+        "example": "Влітку острів відвідують туристи",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "центрі",
+        "example": "— в центрі села",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "великий",
+        "example": "мала великий успіх",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "маленьке",
+        "example": "в маленьке містечко на",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "хрещатик",
+        "example": "хрещатик",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "ресторан",
+        "example": "міститься готель і ресторан",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "офісі",
+        "example": "безкоштовні буфети в офісі",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "кінотеатр",
+        "example": "великого цирку та кінотеатр",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "школа",
+        "example": "Була відкрита церковнопарафіяльна школа",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "університеті",
+        "example": "філософію у Львівському університеті",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "в",
+        "example": "року в місті американському",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "магазин",
+        "example": "спортивний майданчик та магазин",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "басейн",
+        "example": "у Нижньоікрійський нафтогазоносний басейн",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "пошту",
+        "example": "зв'язок через електронну пошту",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вокзал",
+        "example": "порт і залізничний вокзал",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "стадіон",
+        "example": "почала шукати новий стадіон",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "на",
+        "example": "на початку XX століття",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "на вокзалі",
+        "example": "залишила на вокзалі",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "на пошті",
+        "example": "одужання працював на пошті",
+        "word_contain_sentence_num": 87
+    },
+    {
+        "word": "парку",
+        "example": "отримав статус національного парку",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "банку",
+        "example": "фонду і Світового банку",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "аеропорту",
+        "example": "ранку в аеропорту Донецька",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "жити",
+        "example": "залишився жити в Гессені",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "місто",
+        "example": "простягається через все місто",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "селі",
+        "example": "року в селі мешкало",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "столиці",
+        "example": "в столиці країни місті",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "київ",
+        "example": "київ",
+        "word_contain_sentence_num": 47
+    },
+    {
+        "word": "одесу",
+        "example": "одесу",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "денвері",
+        "example": "денвері",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "атланті",
+        "example": "атланті",
+        "word_contain_sentence_num": 0
+    }
+]

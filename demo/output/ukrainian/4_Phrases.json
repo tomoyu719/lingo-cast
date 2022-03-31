@@ -1,0 +1,102 @@
+[
+    {
+        "word": "привіт",
+        "example": "його заступнику привіт",
+        "word_contain_sentence_num": 67
+    },
+    {
+        "word": "добрий день",
+        "example": "добрий день",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "добрий ранок",
+        "example": "добрий ранок",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "добрий вечір",
+        "example": "Святий вечір добрий вечір",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "до побачення",
+        "example": "сказати до побачення своїм",
+        "word_contain_sentence_num": 118
+    },
+    {
+        "word": "віктор",
+        "example": "віктор Четін розпочав",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "мені теж",
+        "example": "мені теж дуже подобається",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "вас звати",
+        "example": "вас звати",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "вікторія",
+        "example": "вікторія регія",
+        "word_contain_sentence_num": 11
+    },
+    {
+        "word": "мене звати",
+        "example": "Як мене звати",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "дуже приємно",
+        "example": "було дуже приємно",
+        "word_contain_sentence_num": 32
+    },
+    {
+        "word": "як",
+        "example": "як і в попередньому",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вибачте",
+        "example": "вибачте мене",
+        "word_contain_sentence_num": 14
+    },
+    {
+        "word": "мене звуть",
+        "example": "мене звуть Rouge",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "як справи?",
+        "example": "як справи?",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "дякую",
+        "example": "дякую за все",
+        "word_contain_sentence_num": 56
+    },
+    {
+        "word": "добре",
+        "example": "швидко і добре всмоктуються",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "погано",
+        "example": "іспанці грають дуже погано",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "так собі",
+        "example": "бухгалтерів йдуть так собі",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "будь ласка",
+        "example": "ПЕРЕКЛАДАЧІ : будь ласка",
+        "word_contain_sentence_num": 56
+    }
+]

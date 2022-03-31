@@ -1,0 +1,147 @@
+[
+    {
+        "word": "to eat",
+        "example": "to eat",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "to drink",
+        "example": "to drink the pump",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "на сніданок",
+        "example": "полюбляють пити на сніданок",
+        "word_contain_sentence_num": 120
+    },
+    {
+        "word": "на обід",
+        "example": "30-хвилинною перервою на обід",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "на вечерю",
+        "example": "запрошує його на вечерю",
+        "word_contain_sentence_num": 170
+    },
+    {
+        "word": "мюслі",
+        "example": "мюслі з сирого вівса",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "на десерт",
+        "example": "сушеному вигляді на десерт",
+        "word_contain_sentence_num": 59
+    },
+    {
+        "word": "фрукти",
+        "example": "їжу овочі та фрукти",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "яблука",
+        "example": "навіть руйнування очного яблука",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "банани",
+        "example": "цитрусовий і банани",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "orange",
+        "example": "orange wine запровадив",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "бутерброд",
+        "example": "Найбільший бутерброд з салом",
+        "word_contain_sentence_num": 22
+    },
+    {
+        "word": "лимони",
+        "example": "яблуні лимони",
+        "word_contain_sentence_num": 49
+    },
+    {
+        "word": "торт",
+        "example": "зруйнував весільний торт",
+        "word_contain_sentence_num": 158
+    },
+    {
+        "word": "сало",
+        "example": "китові шкіра і сало",
+        "word_contain_sentence_num": 158
+    },
+    {
+        "word": "овочі",
+        "example": "тропічні фрукти та овочі",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "сметану",
+        "example": "виробляє сир і сметану",
+        "word_contain_sentence_num": 62
+    },
+    {
+        "word": "картоплю",
+        "example": "вирощували кукурудзу і картоплю",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "цибуля",
+        "example": "числі : цибуля ведмежа",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "капусту",
+        "example": "козу і капусту",
+        "word_contain_sentence_num": 182
+    },
+    {
+        "word": "ці",
+        "example": "ці цифри включають",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "коштують",
+        "example": "місця там коштують дешевше",
+        "word_contain_sentence_num": 110
+    },
+    {
+        "word": "ця",
+        "example": "ця бязь була",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "дорого",
+        "example": "Європі коштували дуже дорого",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "дешево",
+        "example": "коштували вони не дешево",
+        "word_contain_sentence_num": 67
+    },
+    {
+        "word": "смачні",
+        "example": "дуже смачні і широко",
+        "word_contain_sentence_num": 70
+    },
+    {
+        "word": "свіжі",
+        "example": "свіжі овочі і фрукти",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "hungry",
+        "example": "hungry that if 50",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "їжа",
+        "example": "раціону становить рослинна їжа",
+        "word_contain_sentence_num": 201
+    }
+]

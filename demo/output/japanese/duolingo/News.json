@@ -1,0 +1,372 @@
+[
+    {
+        "word": "記者",
+        "example": "都内 の 記者 会見 で",
+        "word_contain_sentence_num": 2035
+    },
+    {
+        "word": "記事",
+        "example": "の 記事 で は なく",
+        "word_contain_sentence_num": 2918
+    },
+    {
+        "word": "報道",
+        "example": "の 報道 が あっ た",
+        "word_contain_sentence_num": 2822
+    },
+    {
+        "word": "発表",
+        "example": "声明 を 発表 し た",
+        "word_contain_sentence_num": 15058
+    },
+    {
+        "word": "結果",
+        "example": "その 結果 を 期待 し",
+        "word_contain_sentence_num": 11036
+    },
+    {
+        "word": "詳しい",
+        "example": "に 詳しい 者 で ない",
+        "word_contain_sentence_num": 345
+    },
+    {
+        "word": "詳しく",
+        "example": "詳しく は 後述 を 参照",
+        "word_contain_sentence_num": 524
+    },
+    {
+        "word": "詳",
+        "example": "元 詳 が 司 徒",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "再 放送",
+        "example": "の 再 放送 さ れ た",
+        "word_contain_sentence_num": 286
+    },
+    {
+        "word": "放送",
+        "example": "月 26 日 の 放送",
+        "word_contain_sentence_num": 22061
+    },
+    {
+        "word": "演説",
+        "example": "の 演説 を 行っ た",
+        "word_contain_sentence_num": 757
+    },
+    {
+        "word": "意外",
+        "example": "は 意外 な こと に",
+        "word_contain_sentence_num": 167
+    },
+    {
+        "word": "調査",
+        "example": "の 多い 時 の 調査",
+        "word_contain_sentence_num": 7248
+    },
+    {
+        "word": "調査 員",
+        "example": "ベトナム 日本国 大使館 専門 調査 員",
+        "word_contain_sentence_num": 52
+    },
+    {
+        "word": "正直",
+        "example": "正直 な ところ 浦和レッズ 関係",
+        "word_contain_sentence_num": 164
+    },
+    {
+        "word": "査",
+        "example": "こと は 特 査 の",
+        "word_contain_sentence_num": 22
+    },
+    {
+        "word": "放",
+        "example": "の 放 馬 など も",
+        "word_contain_sentence_num": 115
+    },
+    {
+        "word": "がち",
+        "example": "漫画 に あり がち な",
+        "word_contain_sentence_num": 532
+    },
+    {
+        "word": "無知",
+        "example": "無知 な 者 は この",
+        "word_contain_sentence_num": 74
+    },
+    {
+        "word": "噂",
+        "example": "という 噂 が 流れ て",
+        "word_contain_sentence_num": 877
+    },
+    {
+        "word": "述べ て",
+        "example": "し た と 述べ て いる",
+        "word_contain_sentence_num": 1752
+    },
+    {
+        "word": "述べる",
+        "example": "と 述べる と レバレッジド・リース と",
+        "word_contain_sentence_num": 594
+    },
+    {
+        "word": "述べ",
+        "example": "た と 述べ て いる",
+        "word_contain_sentence_num": 5942
+    },
+    {
+        "word": "述べ た",
+        "example": "こと で ある と 述べ た",
+        "word_contain_sentence_num": 1104
+    },
+    {
+        "word": "広まり",
+        "example": "が 広まり 始め た 事",
+        "word_contain_sentence_num": 193
+    },
+    {
+        "word": "広まっ た",
+        "example": "ワーム が 急速 に 広まっ た",
+        "word_contain_sentence_num": 192
+    },
+    {
+        "word": "広まっ て",
+        "example": "間 に 広まっ て いる が",
+        "word_contain_sentence_num": 145
+    },
+    {
+        "word": "述",
+        "example": "は 既 述 の 通り",
+        "word_contain_sentence_num": 140
+    },
+    {
+        "word": "噂",
+        "example": "という 噂 が 流れ て",
+        "word_contain_sentence_num": 877
+    },
+    {
+        "word": "せい",
+        "example": "て 彼 の せい で",
+        "word_contain_sentence_num": 993
+    },
+    {
+        "word": "偶然",
+        "example": "は 偶然 に も 三浦",
+        "word_contain_sentence_num": 721
+    },
+    {
+        "word": "記録",
+        "example": "位 を 記録 し た",
+        "word_contain_sentence_num": 14646
+    },
+    {
+        "word": "発言",
+        "example": "の 発言 は ピタリ と",
+        "word_contain_sentence_num": 2251
+    },
+    {
+        "word": "現実",
+        "example": "拡張 現実 は 仮想 現実",
+        "word_contain_sentence_num": 1746
+    },
+    {
+        "word": "現実 化",
+        "example": "性 が 現実 化 し た",
+        "word_contain_sentence_num": 28
+    },
+    {
+        "word": "録",
+        "example": "は 回顧 録 に は",
+        "word_contain_sentence_num": 1115
+    },
+    {
+        "word": "偶",
+        "example": "た 人物 に 偶 々",
+        "word_contain_sentence_num": 16
+    },
+    {
+        "word": "日記",
+        "example": "ほのか に アンネ の 日記",
+        "word_contain_sentence_num": 930
+    },
+    {
+        "word": "やがて",
+        "example": "た やがて",
+        "word_contain_sentence_num": 2288
+    },
+    {
+        "word": "広告",
+        "example": "広告 代理 店 で ある",
+        "word_contain_sentence_num": 1866
+    },
+    {
+        "word": "付け た",
+        "example": "を 付け た もの で ある",
+        "word_contain_sentence_num": 436
+    },
+    {
+        "word": "付け て",
+        "example": "を 付け て い た が",
+        "word_contain_sentence_num": 481
+    },
+    {
+        "word": "載せ",
+        "example": "を 載せ た もの で",
+        "word_contain_sentence_num": 534
+    },
+    {
+        "word": "載せ た",
+        "example": "トラブル について 記事 を 載せ た",
+        "word_contain_sentence_num": 84
+    },
+    {
+        "word": "載せ られ た",
+        "example": "人 の リスト に 載せ られ た",
+        "word_contain_sentence_num": 29
+    },
+    {
+        "word": "見出し 語",
+        "example": "見出し 語 は 二 万 あまり",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "見出し",
+        "example": "する こと を 見出し た",
+        "word_contain_sentence_num": 429
+    },
+    {
+        "word": "載",
+        "example": "学 や 張 載 の",
+        "word_contain_sentence_num": 136
+    },
+    {
+        "word": "世論",
+        "example": "た 世論 調査 で は",
+        "word_contain_sentence_num": 415
+    },
+    {
+        "word": "アンケート",
+        "example": "へ の アンケート で は",
+        "word_contain_sentence_num": 281
+    },
+    {
+        "word": "配ら れ た",
+        "example": "に マスコミ のみ に 配ら れ た",
+        "word_contain_sentence_num": 19
+    },
+    {
+        "word": "配っ た",
+        "example": "の 給付 金 を 配っ た",
+        "word_contain_sentence_num": 13
+    },
+    {
+        "word": "配っ て",
+        "example": "に も 気 を 配っ て",
+        "word_contain_sentence_num": 19
+    },
+    {
+        "word": "配り",
+        "example": "に 気 を 配り ながら",
+        "word_contain_sentence_num": 40
+    },
+    {
+        "word": "購読",
+        "example": "も グリット の 購読 者",
+        "word_contain_sentence_num": 153
+    },
+    {
+        "word": "購読 者",
+        "example": "の 購読 者 は 地方 文芸",
+        "word_contain_sentence_num": 33
+    },
+    {
+        "word": "政策",
+        "example": "社会 政策 学会 に 結集",
+        "word_contain_sentence_num": 4192
+    },
+    {
+        "word": "購",
+        "example": "を 購 はむ こと を",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "策",
+        "example": "問題 の 解決 策 を",
+        "word_contain_sentence_num": 1184
+    },
+    {
+        "word": "議論",
+        "example": "連合 で の 議論 が",
+        "word_contain_sentence_num": 2005
+    },
+    {
+        "word": "余地",
+        "example": "議論 の 余地 が ある",
+        "word_contain_sentence_num": 275
+    },
+    {
+        "word": "疑う",
+        "example": "を 疑う よう に なっ",
+        "word_contain_sentence_num": 115
+    },
+    {
+        "word": "疑い",
+        "example": "の 疑い で 逮捕 さ",
+        "word_contain_sentence_num": 690
+    },
+    {
+        "word": "疑っ て",
+        "example": "を 疑っ て い た が",
+        "word_contain_sentence_num": 58
+    },
+    {
+        "word": "疑っ た",
+        "example": "いる 可能 性 を 疑っ た",
+        "word_contain_sentence_num": 32
+    },
+    {
+        "word": "認め なかっ た",
+        "example": "を 認め なかっ た ため に その後",
+        "word_contain_sentence_num": 60
+    },
+    {
+        "word": "認める",
+        "example": "を 認める こと で あっ",
+        "word_contain_sentence_num": 949
+    },
+    {
+        "word": "認め られ た",
+        "example": "が 認め られ た こと は 沖縄",
+        "word_contain_sentence_num": 486
+    },
+    {
+        "word": "認め た",
+        "example": "参加 する こと を 認め た",
+        "word_contain_sentence_num": 442
+    },
+    {
+        "word": "認め て",
+        "example": "する こと を 認め て いる",
+        "word_contain_sentence_num": 476
+    },
+    {
+        "word": "避け て",
+        "example": "こと を 避け て いる が",
+        "word_contain_sentence_num": 202
+    },
+    {
+        "word": "避け た",
+        "example": "を 避け た ほう が いい",
+        "word_contain_sentence_num": 60
+    },
+    {
+        "word": "避ける",
+        "example": "こと を 避ける ため に",
+        "word_contain_sentence_num": 921
+    },
+    {
+        "word": "疑",
+        "example": "の 疑 兵 を 設け",
+        "word_contain_sentence_num": 24
+    }
+]

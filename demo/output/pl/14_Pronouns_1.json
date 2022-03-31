@@ -1,0 +1,80 @@
+[
+    {
+        "word": "mnie",
+        "example": "jest dla mnie",
+        "probs": "0.13333333333333333, 0.14150943396226415, 0",
+        "word_contain_sentence_num": 2546
+    },
+    {
+        "word": "cię",
+        "example": "kocham cię jak",
+        "probs": "0.14842300556586271, 0, 0.0625",
+        "word_contain_sentence_num": 499
+    },
+    {
+        "word": "ciebie",
+        "example": "dla ciebie i",
+        "probs": "0.1968503937007874, 0, 0.08",
+        "word_contain_sentence_num": 366
+    },
+    {
+        "word": "nas",
+        "example": "jest dla nas",
+        "probs": "0.14035087719298245, 0.10857142857142857, 0",
+        "word_contain_sentence_num": 2320
+    },
+    {
+        "word": "to",
+        "example": "jest to próba",
+        "probs": "0.08604206500956023, 0, 0.022222222222222223",
+        "word_contain_sentence_num": 268533
+    },
+    {
+        "word": "tego",
+        "example": "z tego powodu",
+        "probs": "0.1220472440944882, 0, 0.24193548387096775",
+        "word_contain_sentence_num": 143309
+    },
+    {
+        "word": "was",
+        "example": "i was born",
+        "probs": "0.06533575317604355, 0, 0.08333333333333333",
+        "word_contain_sentence_num": 626
+    },
+    {
+        "word": "go",
+        "example": "przeniesiono go do",
+        "probs": "0.06349206349206349, 0, 0.12280701754385964",
+        "word_contain_sentence_num": 105523
+    },
+    {
+        "word": "jego",
+        "example": "w jego barwach",
+        "probs": "0.07303370786516854, 0, 0.07692307692307693",
+        "word_contain_sentence_num": 255782
+    },
+    {
+        "word": "ją",
+        "example": "zabrać ją do",
+        "probs": "0.05454545454545454, 0, 0.10869565217391304",
+        "word_contain_sentence_num": 42030
+    },
+    {
+        "word": "je",
+        "example": "je w XXXX",
+        "probs": "0, 0.12085769980506822, 0.0967741935483871",
+        "word_contain_sentence_num": 33938
+    },
+    {
+        "word": "ich",
+        "example": "i ich syn",
+        "probs": "0.05631067961165048, 0, 0.06896551724137931",
+        "word_contain_sentence_num": 101964
+    },
+    {
+        "word": "jej",
+        "example": "w jej skład",
+        "probs": "0.0975609756097561, 0, 0.1346153846153846",
+        "word_contain_sentence_num": 133603
+    }
+]

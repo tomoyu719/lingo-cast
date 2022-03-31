@@ -1,0 +1,267 @@
+[
+    {
+        "word": "原宿",
+        "example": "に 原宿 で スカウト さ",
+        "word_contain_sentence_num": 238
+    },
+    {
+        "word": "渋谷",
+        "example": "東京 都 渋谷 区 の",
+        "word_contain_sentence_num": 1131
+    },
+    {
+        "word": "秋葉原",
+        "example": "月 に は 秋葉原 の",
+        "word_contain_sentence_num": 171
+    },
+    {
+        "word": "メイド",
+        "example": "合わせ て オーダー メイド の",
+        "word_contain_sentence_num": 231
+    },
+    {
+        "word": "谷",
+        "example": "鶴 ヶ 谷 東 1",
+        "word_contain_sentence_num": 1777
+    },
+    {
+        "word": "原",
+        "example": "在籍 当時 の 原 番号",
+        "word_contain_sentence_num": 2129
+    },
+    {
+        "word": "渋",
+        "example": "渋 さ 知ら ズ の",
+        "word_contain_sentence_num": 81
+    },
+    {
+        "word": "池袋",
+        "example": "など の 西武 池袋 線",
+        "word_contain_sentence_num": 316
+    },
+    {
+        "word": "新宿",
+        "example": "は 東京 都 新宿 区",
+        "word_contain_sentence_num": 1322
+    },
+    {
+        "word": "交差点",
+        "example": "踊場 交番 前 交差点 から",
+        "word_contain_sentence_num": 1310
+    },
+    {
+        "word": "コス プレ",
+        "example": "の コス プレ を し た",
+        "word_contain_sentence_num": 118
+    },
+    {
+        "word": "乗れる",
+        "example": "に 乗れる よう に なり",
+        "word_contain_sentence_num": 42
+    },
+    {
+        "word": "乗っ た",
+        "example": "あたかも 馬 に 乗っ た の",
+        "word_contain_sentence_num": 286
+    },
+    {
+        "word": "乗っ て",
+        "example": "に 乗っ て い た 馬",
+        "word_contain_sentence_num": 578
+    },
+    {
+        "word": "乗れ",
+        "example": "波 に 乗れ ず に",
+        "word_contain_sentence_num": 46
+    },
+    {
+        "word": "乗る",
+        "example": "に 乗る こと が できる",
+        "word_contain_sentence_num": 445
+    },
+    {
+        "word": "差",
+        "example": "の 差 を もつ 権利",
+        "word_contain_sentence_num": 3382
+    },
+    {
+        "word": "点",
+        "example": "する という 点 で ある",
+        "word_contain_sentence_num": 10574
+    },
+    {
+        "word": "メトロ",
+        "example": "東京 メトロ 丸ノ内線 とも に",
+        "word_contain_sentence_num": 397
+    },
+    {
+        "word": "山手 線",
+        "example": "山手 線 の 線路 に 接し",
+        "word_contain_sentence_num": 94
+    },
+    {
+        "word": "サラリーマン",
+        "example": "なかっ た 普通 の サラリーマン",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "混ん で",
+        "example": "混ん で い た ため 卓球",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "面し て",
+        "example": "イースト 川 に 面し て いる",
+        "word_contain_sentence_num": 309
+    },
+    {
+        "word": "線",
+        "example": "線 の 線路 は 台湾",
+        "word_contain_sentence_num": 17042
+    },
+    {
+        "word": "人口",
+        "example": "の 人口 は 約 40",
+        "word_contain_sentence_num": 4157
+    },
+    {
+        "word": "首都",
+        "example": "の 首都 で あっ た",
+        "word_contain_sentence_num": 2686
+    },
+    {
+        "word": "場所",
+        "example": "別 の 場所 で ある",
+        "word_contain_sentence_num": 8441
+    },
+    {
+        "word": "近所",
+        "example": "下宿 先 に 近所 の",
+        "word_contain_sentence_num": 292
+    },
+    {
+        "word": "大都市",
+        "example": "大都市 圏 に 含ま れる",
+        "word_contain_sentence_num": 495
+    },
+    {
+        "word": "市",
+        "example": "は ローマ 市 に ある",
+        "word_contain_sentence_num": 38678
+    },
+    {
+        "word": "都市",
+        "example": "の 都市 で ある ビュザンティオン",
+        "word_contain_sentence_num": 9157
+    },
+    {
+        "word": "市",
+        "example": "は ローマ 市 に ある",
+        "word_contain_sentence_num": 38678
+    },
+    {
+        "word": "線",
+        "example": "線 の 線路 は 台湾",
+        "word_contain_sentence_num": 17042
+    },
+    {
+        "word": "広島",
+        "example": "広島 県 広島 市 へ",
+        "word_contain_sentence_num": 3415
+    },
+    {
+        "word": "銀座",
+        "example": "で は 銀座 の 天金",
+        "word_contain_sentence_num": 483
+    },
+    {
+        "word": "減っ て",
+        "example": "出場 機会 が 減っ て いる",
+        "word_contain_sentence_num": 151
+    },
+    {
+        "word": "減り",
+        "example": "は 出場 機会 が 減り",
+        "word_contain_sentence_num": 231
+    },
+    {
+        "word": "減っ た",
+        "example": "が 減っ た こと で あり",
+        "word_contain_sentence_num": 102
+    },
+    {
+        "word": "増え た",
+        "example": "共闘 する 機会 が 増え た",
+        "word_contain_sentence_num": 299
+    },
+    {
+        "word": "増え て",
+        "example": "が 増え て いる こと を",
+        "word_contain_sentence_num": 598
+    },
+    {
+        "word": "減",
+        "example": "の ため の 減 歩",
+        "word_contain_sentence_num": 395
+    },
+    {
+        "word": "増",
+        "example": "形 の 増 備に より",
+        "word_contain_sentence_num": 1054
+    },
+    {
+        "word": "数",
+        "example": "で 演奏 者 数 は",
+        "word_contain_sentence_num": 20032
+    },
+    {
+        "word": "広場",
+        "example": "に 大月 駅前 広場 の",
+        "word_contain_sentence_num": 1349
+    },
+    {
+        "word": "住民",
+        "example": "の 住民 が 参加 し",
+        "word_contain_sentence_num": 3794
+    },
+    {
+        "word": "集まっ た",
+        "example": "て 200 人 が 集まっ た",
+        "word_contain_sentence_num": 383
+    },
+    {
+        "word": "集まり",
+        "example": "数 の 人 が 集まり",
+        "word_contain_sentence_num": 633
+    },
+    {
+        "word": "集まっ て",
+        "example": "が 集まっ て いる こと が",
+        "word_contain_sentence_num": 356
+    },
+    {
+        "word": "集まろ う",
+        "example": "集まろ う",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "集まる",
+        "example": "活動 に 注目 が 集まる",
+        "word_contain_sentence_num": 452
+    },
+    {
+        "word": "民",
+        "example": "御身 の 民 の 苦悩",
+        "word_contain_sentence_num": 2843
+    },
+    {
+        "word": "数",
+        "example": "で 演奏 者 数 は",
+        "word_contain_sentence_num": 20032
+    },
+    {
+        "word": "集",
+        "example": "1977 麻田 奈美 写真 集",
+        "word_contain_sentence_num": 2957
+    }
+]

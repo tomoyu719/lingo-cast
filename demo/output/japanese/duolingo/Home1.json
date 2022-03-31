@@ -1,0 +1,227 @@
+[
+    {
+        "word": "どこ",
+        "example": "どこ か に 埋葬 さ",
+        "word_contain_sentence_num": 1312
+    },
+    {
+        "word": "ペット",
+        "example": "ペット として 飼育 さ れる",
+        "word_contain_sentence_num": 501
+    },
+    {
+        "word": "トイレ",
+        "example": "トイレ は 改札 内 コンコース",
+        "word_contain_sentence_num": 649
+    },
+    {
+        "word": "テーブル",
+        "example": "の みどり の テーブル に",
+        "word_contain_sentence_num": 538
+    },
+    {
+        "word": "あり",
+        "example": "れ た もの で あり",
+        "word_contain_sentence_num": 57315
+    },
+    {
+        "word": "風呂",
+        "example": "風呂 場 で ケガ を",
+        "word_contain_sentence_num": 191
+    },
+    {
+        "word": "お 風呂",
+        "example": "お 風呂 の ラインナップ が ある",
+        "word_contain_sentence_num": 21
+    },
+    {
+        "word": "お 部屋",
+        "example": "お 部屋 ジャンプ リンク 使用 不可",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "部屋",
+        "example": "の 部屋 に 移っ て",
+        "word_contain_sentence_num": 2350
+    },
+    {
+        "word": "部",
+        "example": "部 に 分類 さ れる",
+        "word_contain_sentence_num": 28459
+    },
+    {
+        "word": "屋",
+        "example": "蔦 屋 書店 を 中核",
+        "word_contain_sentence_num": 3027
+    },
+    {
+        "word": "風",
+        "example": "風 の 微分 音 を",
+        "word_contain_sentence_num": 3916
+    },
+    {
+        "word": "呂",
+        "example": "田村 麻 呂 が 節",
+        "word_contain_sentence_num": 745
+    },
+    {
+        "word": "家",
+        "example": "の 歴史 家 たち の",
+        "word_contain_sentence_num": 31596
+    },
+    {
+        "word": "ここ",
+        "example": "ここ で は なく 金沢",
+        "word_contain_sentence_num": 5803
+    },
+    {
+        "word": "台所",
+        "example": "の 台所 で 調理 する",
+        "word_contain_sentence_num": 119
+    },
+    {
+        "word": "寝室",
+        "example": "の 寝室 に 入っ た",
+        "word_contain_sentence_num": 135
+    },
+    {
+        "word": "家",
+        "example": "の 歴史 家 たち の",
+        "word_contain_sentence_num": 31596
+    },
+    {
+        "word": "台",
+        "example": "発進 台 の 若 桜",
+        "word_contain_sentence_num": 6594
+    },
+    {
+        "word": "所",
+        "example": "私設 強制 収容 所 を",
+        "word_contain_sentence_num": 13672
+    },
+    {
+        "word": "い",
+        "example": "を し て い た",
+        "word_contain_sentence_num": 143438
+    },
+    {
+        "word": "庭",
+        "example": "らく の 庭 に は",
+        "word_contain_sentence_num": 678
+    },
+    {
+        "word": "窓",
+        "example": "の 窓 から は 西",
+        "word_contain_sentence_num": 1901
+    },
+    {
+        "word": "そこ",
+        "example": "そこ に は 誰 も",
+        "word_contain_sentence_num": 5028
+    },
+    {
+        "word": "あそこ",
+        "example": "あそこ まで 体重 を 落とす",
+        "word_contain_sentence_num": 19
+    },
+    {
+        "word": "庭",
+        "example": "らく の 庭 に は",
+        "word_contain_sentence_num": 678
+    },
+    {
+        "word": "窓",
+        "example": "の 窓 から は 西",
+        "word_contain_sentence_num": 1901
+    },
+    {
+        "word": "犬",
+        "example": "犬 種 の 作出 も",
+        "word_contain_sentence_num": 2155
+    },
+    {
+        "word": "羽",
+        "example": "福 羽 は やむなく 内務",
+        "word_contain_sentence_num": 1113
+    },
+    {
+        "word": "猫",
+        "example": "猫 の 生 を 受候",
+        "word_contain_sentence_num": 1085
+    },
+    {
+        "word": "鳥",
+        "example": "鳥 の 巣 が 調度",
+        "word_contain_sentence_num": 1293
+    },
+    {
+        "word": "犬",
+        "example": "犬 種 の 作出 も",
+        "word_contain_sentence_num": 2155
+    },
+    {
+        "word": "羽",
+        "example": "福 羽 は やむなく 内務",
+        "word_contain_sentence_num": 1113
+    },
+    {
+        "word": "猫",
+        "example": "猫 の 生 を 受候",
+        "word_contain_sentence_num": 1085
+    },
+    {
+        "word": "鳥",
+        "example": "鳥 の 巣 が 調度",
+        "word_contain_sentence_num": 1293
+    },
+    {
+        "word": "机",
+        "example": "は 机 の 上 に",
+        "word_contain_sentence_num": 173
+    },
+    {
+        "word": "椅子",
+        "example": "の 椅子 に 座っ て",
+        "word_contain_sentence_num": 347
+    },
+    {
+        "word": "子猫",
+        "example": "七 匹 の 子猫 を",
+        "word_contain_sentence_num": 45
+    },
+    {
+        "word": "子犬",
+        "example": "匹 の 子犬 を 家",
+        "word_contain_sentence_num": 36
+    },
+    {
+        "word": "子",
+        "example": "の 子 で は ない",
+        "word_contain_sentence_num": 8962
+    },
+    {
+        "word": "ソファ",
+        "example": "ソファ に 座っ た まま",
+        "word_contain_sentence_num": 16
+    },
+    {
+        "word": "ソファー",
+        "example": "夜明け の ソファー に 倒れ",
+        "word_contain_sentence_num": 22
+    },
+    {
+        "word": "椅",
+        "example": "小 椅",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "子",
+        "example": "の 子 で は ない",
+        "word_contain_sentence_num": 8962
+    },
+    {
+        "word": "机",
+        "example": "は 机 の 上 に",
+        "word_contain_sentence_num": 173
+    }
+]

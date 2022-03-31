@@ -1,0 +1,72 @@
+[
+    {
+        "word": "слон",
+        "example": "слон і свиня повинні",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "птах",
+        "example": "Крижень — перелітний птах",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "павук",
+        "example": "слова ungol — павук",
+        "word_contain_sentence_num": 135
+    },
+    {
+        "word": "кіт",
+        "example": "Чорний кіт був офіційно",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "кінь",
+        "example": "кінь — це сонце-небо",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "тварина",
+        "example": "куон всеїдна тварина",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "п'є молоко",
+        "example": "п'є молоко із грудей",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "свиня",
+        "example": "сарна і свиня дика",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "миша",
+        "example": "Летюча миша нім",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "ведмідь",
+        "example": "лісах — бурий ведмідь",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "корова",
+        "example": "зникла корова",
+        "word_contain_sentence_num": 199
+    },
+    {
+        "word": "dog",
+        "example": "over the lazy dog",
+        "word_contain_sentence_num": 51
+    },
+    {
+        "word": "їсть мед",
+        "example": "гнізда і їсть мед",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "заєць",
+        "example": "такими як заєць сірий",
+        "word_contain_sentence_num": 201
+    }
+]

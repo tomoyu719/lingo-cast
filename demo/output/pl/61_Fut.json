@@ -1,0 +1,128 @@
+[
+    {
+        "word": "znajdziecie",
+        "example": "już nie znajdziecie",
+        "probs": "0.42857142857142855, 0.5, 0",
+        "word_contain_sentence_num": 14
+    },
+    {
+        "word": "pójdziecie",
+        "example": "pójdziecie w moje",
+        "probs": "0, 0.3333333333333333, 1.0",
+        "word_contain_sentence_num": 3
+    },
+    {
+        "word": "zjedzą",
+        "example": "zjedzą rośliny pozostawione",
+        "probs": "0, 0.25, 1.0",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "napiszemy",
+        "example": "na czacie napiszemy",
+        "probs": "1.0, 1.0, 0",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "zrobią",
+        "example": "że zrobią wszystko",
+        "probs": "0.16666666666666666, 0, 0.3333333333333333",
+        "word_contain_sentence_num": 72
+    },
+    {
+        "word": "pojadę",
+        "example": "pojadę do grecji",
+        "probs": "0, 0.5, 0.5",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "powiesz",
+        "example": "nie powiesz nikomu",
+        "probs": "0.13333333333333333, 0, 0.5",
+        "word_contain_sentence_num": 14
+    },
+    {
+        "word": "przeczyta",
+        "example": "przeczyta ją aida",
+        "probs": "0, 0.25, 0.3333333333333333",
+        "word_contain_sentence_num": 11
+    },
+    {
+        "word": "kupisz",
+        "example": "nie kupisz miłości",
+        "probs": "0.6, 0, 0.6666666666666666",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "weźmiesz",
+        "example": "może weźmiesz wkrótce",
+        "probs": "1.0, 0, 0.2",
+        "word_contain_sentence_num": 5
+    },
+    {
+        "word": "odwiedzi",
+        "example": "że odwiedzi go",
+        "probs": "0.14285714285714285, 0, 0.5",
+        "word_contain_sentence_num": 28
+    },
+    {
+        "word": "spróbujemy",
+        "example": "spróbujemy ograniczyć pojęcie",
+        "probs": "0, 0.16666666666666666, 1.0",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "dasz",
+        "example": "mi panie dasz",
+        "probs": "1.0, 0.35714285714285715, 0",
+        "word_contain_sentence_num": 14
+    },
+    {
+        "word": "pomogę",
+        "example": "pomogę mu teraz",
+        "probs": "0, 0.25, 1.0",
+        "word_contain_sentence_num": 4
+    },
+    {
+        "word": "odpoczniemy",
+        "example": "odpoczniemy",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "przyniosą",
+        "example": "nie przyniosą spodziewanych",
+        "probs": "0.21428571428571427, 0, 0.2222222222222222",
+        "word_contain_sentence_num": 41
+    },
+    {
+        "word": "wrócisz",
+        "example": "nie wrócisz do",
+        "probs": "0.4, 0, 0.625",
+        "word_contain_sentence_num": 8
+    },
+    {
+        "word": "zadzwonią",
+        "example": "zadzwonią",
+        "probs": "0",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "zaczniemy",
+        "example": "kiedy zaczniemy obserwować",
+        "probs": "0.3333333333333333, 0, 0.5",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "skończy",
+        "example": "gdy skończy się",
+        "probs": "0.15254237288135594, 0, 0.37341772151898733",
+        "word_contain_sentence_num": 158
+    },
+    {
+        "word": "zostaną",
+        "example": "jeśli nie zostaną",
+        "probs": "0.17307692307692307, 0.10256410256410256, 0",
+        "word_contain_sentence_num": 2079
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "word": "napisać",
+        "example": "który miał napisać",
+        "probs": "0.1282051282051282, 0.07722772277227723, 0",
+        "word_contain_sentence_num": 562
+    },
+    {
+        "word": "zrobić",
+        "example": "można to zrobić",
+        "probs": "0.11538461538461539, 0.1541501976284585, 0",
+        "word_contain_sentence_num": 1854
+    },
+    {
+        "word": "przeczytać",
+        "example": "można przeczytać w",
+        "probs": "0.3959731543624161, 0, 0.13559322033898305",
+        "word_contain_sentence_num": 298
+    },
+    {
+        "word": "znaleźć",
+        "example": "można znaleźć w",
+        "probs": "0.2934131736526946, 0, 0.29931972789115646",
+        "word_contain_sentence_num": 5745
+    },
+    {
+        "word": "powiedzieć",
+        "example": "można powiedzieć o",
+        "probs": "0.2250996015936255, 0, 0.13274336283185842",
+        "word_contain_sentence_num": 1494
+    },
+    {
+        "word": "pomóc",
+        "example": "aby pomóc w",
+        "probs": "0.13253012048192772, 0, 0.166",
+        "word_contain_sentence_num": 2583
+    },
+    {
+        "word": "posprzątać",
+        "example": "posprzątać swoją sypialnię",
+        "probs": "0, 0.07692307692307693, 1.0",
+        "word_contain_sentence_num": 13
+    },
+    {
+        "word": "ugotować",
+        "example": "ugotować na sypko",
+        "probs": "0, 0.13333333333333333, 1.0",
+        "word_contain_sentence_num": 15
+    },
+    {
+        "word": "porozmawiać",
+        "example": "by porozmawiać z",
+        "probs": "0.09009009009009009, 0, 0.5441176470588235",
+        "word_contain_sentence_num": 204
+    },
+    {
+        "word": "odwiedzić",
+        "example": "by odwiedzić matkę",
+        "probs": "0.08921161825726141, 0, 0.06976744186046512",
+        "word_contain_sentence_num": 480
+    },
+    {
+        "word": "zjeść",
+        "example": "i zjeść posiłek",
+        "probs": "0.09417040358744394, 0, 0.19047619047619047",
+        "word_contain_sentence_num": 223
+    },
+    {
+        "word": "kupić",
+        "example": "można kupić w",
+        "probs": "0.1603960396039604, 0, 0.1728395061728395",
+        "word_contain_sentence_num": 799
+    },
+    {
+        "word": "sprzedać",
+        "example": "udało się sprzedać",
+        "probs": "0.22857142857142856, 0.13972055888223553, 0",
+        "word_contain_sentence_num": 866
+    },
+    {
+        "word": "pokazać",
+        "example": "aby pokazać swoje",
+        "probs": "0.12749003984063745, 0, 0.046875",
+        "word_contain_sentence_num": 735
+    },
+    {
+        "word": "przynieść",
+        "example": "jakie może przynieść",
+        "probs": "0.04938271604938271, 0.18, 0",
+        "word_contain_sentence_num": 449
+    },
+    {
+        "word": "wziąć",
+        "example": "wziąć udział w",
+        "probs": "0, 0.558, 0.7921146953405018",
+        "word_contain_sentence_num": 2422
+    },
+    {
+        "word": "otworzyć",
+        "example": "udało się otworzyć",
+        "probs": "0.38636363636363635, 0.088, 0",
+        "word_contain_sentence_num": 693
+    },
+    {
+        "word": "zamknąć",
+        "example": "i zamknąć w",
+        "probs": "0.1836734693877551, 0, 0.1031578947368421",
+        "word_contain_sentence_num": 475
+    },
+    {
+        "word": "wysłać",
+        "example": "się wysłać do",
+        "probs": "0.11267605633802817, 0, 0.1411530815109344",
+        "word_contain_sentence_num": 765
+    },
+    {
+        "word": "zmienić",
+        "example": "zdecydował się zmienić",
+        "probs": "0.18333333333333332, 0.11952191235059761, 0",
+        "word_contain_sentence_num": 2116
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "word": "літо",
+        "example": "Майдану припадає на літо",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "пора року",
+        "example": "дощова пора року —",
+        "word_contain_sentence_num": 62
+    },
+    {
+        "word": "осінь",
+        "example": "станом на осінь 2018",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "зима",
+        "example": "листопаді — м'яка зима",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "весну",
+        "example": "Станом на весну 2019",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "тепле",
+        "example": "тепле повітря і дим",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "грудень",
+        "example": "року по грудень 2016",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "січень",
+        "example": "1952 року по січень",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "лютий",
+        "example": "року по лютий 2015",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "березень",
+        "example": "року по березень 2010",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "квітень",
+        "example": "з лютого по квітень",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "травень",
+        "example": "1992 року по травень",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "місяць",
+        "example": "через місяць після смерті",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "червень",
+        "example": "року по червень 1992",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "липень",
+        "example": "року по липень 1944",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "серпень",
+        "example": "з червня по серпень",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "вересень",
+        "example": "з червня по вересень",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "жовтень",
+        "example": "року по жовтень 2002",
+        "word_contain_sentence_num": 201
+    },
+    {
+        "word": "листопад",
+        "example": "року по листопад 2007",
+        "word_contain_sentence_num": 201
+    }
+]

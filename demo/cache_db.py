@@ -23,8 +23,8 @@ class CacheDb():
             self._create_db()
         
     def _get_db_path(self):
-        name = 'cache.db'
-        path = os.path.join(CACHE_DIR, self.language_code, name)
+        name = self.language_code + '_' + 'cache.db'
+        path = os.path.join(CACHE_DIR,  name)
         return path
         
     def _create_db(self):

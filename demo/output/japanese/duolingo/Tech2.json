@@ -1,0 +1,217 @@
+[
+    {
+        "word": "つい",
+        "example": "順次 声優 が つい た",
+        "word_contain_sentence_num": 2017
+    },
+    {
+        "word": "リモコン",
+        "example": "に は wii リモコン を",
+        "word_contain_sentence_num": 264
+    },
+    {
+        "word": "プリンター",
+        "example": "これ は インクジェット プリンター の",
+        "word_contain_sentence_num": 116
+    },
+    {
+        "word": "ネットワーク",
+        "example": "ネットワーク の 中 に いる",
+        "word_contain_sentence_num": 1637
+    },
+    {
+        "word": "ダウンロード",
+        "example": "の ダウンロード 数 を 記録",
+        "word_contain_sentence_num": 755
+    },
+    {
+        "word": "接続",
+        "example": "部 パイプ に 接続 する",
+        "word_contain_sentence_num": 2651
+    },
+    {
+        "word": "ソフト",
+        "example": "新品 ゲーム ソフト の 販売",
+        "word_contain_sentence_num": 2061
+    },
+    {
+        "word": "特定",
+        "example": "の よう に 特定 の",
+        "word_contain_sentence_num": 3138
+    },
+    {
+        "word": "うっかり",
+        "example": "が うっかり し て しまう",
+        "word_contain_sentence_num": 35
+    },
+    {
+        "word": "プログラマー",
+        "example": "プログラマー が 明示 的 に",
+        "word_contain_sentence_num": 59
+    },
+    {
+        "word": "終了",
+        "example": "営業 を 終了 し た",
+        "word_contain_sentence_num": 7908
+    },
+    {
+        "word": "動画",
+        "example": "ニコニコ 動画 で 歌声 合成",
+        "word_contain_sentence_num": 1427
+    },
+    {
+        "word": "コンピュータ",
+        "example": "ほぼ 全て の コンピュータ の",
+        "word_contain_sentence_num": 1914
+    },
+    {
+        "word": "コンピューター",
+        "example": "は コンピューター の 天才 で",
+        "word_contain_sentence_num": 373
+    },
+    {
+        "word": "アプリケーション",
+        "example": "アプリケーション の ダウンロード を 防ぐ",
+        "word_contain_sentence_num": 819
+    },
+    {
+        "word": "アプリ",
+        "example": "電話 本体 の アプリ を",
+        "word_contain_sentence_num": 423
+    },
+    {
+        "word": "機能",
+        "example": "教育 関連 の 機能 を",
+        "word_contain_sentence_num": 6869
+    },
+    {
+        "word": "検索",
+        "example": "の 検索 が でき なく",
+        "word_contain_sentence_num": 677
+    },
+    {
+        "word": "開始",
+        "example": "活動 を 開始 し た",
+        "word_contain_sentence_num": 13896
+    },
+    {
+        "word": "共有",
+        "example": "を 共有 し て いる",
+        "word_contain_sentence_num": 1191
+    },
+    {
+        "word": "共有 物",
+        "example": "共有 物 と なる の が",
+        "word_contain_sentence_num": 1
+    },
+    {
+        "word": "形式 的",
+        "example": "で は 形式 的 に は",
+        "word_contain_sentence_num": 174
+    },
+    {
+        "word": "形式",
+        "example": "独自 の 形式 で ある",
+        "word_contain_sentence_num": 4786
+    },
+    {
+        "word": "変換",
+        "example": "に 変換 し て いる",
+        "word_contain_sentence_num": 1242
+    },
+    {
+        "word": "索",
+        "example": "聡 は 索 綝 は",
+        "word_contain_sentence_num": 229
+    },
+    {
+        "word": "設備",
+        "example": "設備 を 用い た 生産",
+        "word_contain_sentence_num": 2136
+    },
+    {
+        "word": "こたつ",
+        "example": "は こたつ を 使用 する",
+        "word_contain_sentence_num": 21
+    },
+    {
+        "word": "暖房",
+        "example": "暖房 装置 は エンジン 排",
+        "word_contain_sentence_num": 149
+    },
+    {
+        "word": "冷房",
+        "example": "2 番目 の 冷房 装置",
+        "word_contain_sentence_num": 397
+    },
+    {
+        "word": "読み込ん だ",
+        "example": "を 読み込ん だ 場合 は amiibo",
+        "word_contain_sentence_num": 12
+    },
+    {
+        "word": "読み込ん で",
+        "example": "を 読み込ん で 解除 する なんて",
+        "word_contain_sentence_num": 10
+    },
+    {
+        "word": "読み込む",
+        "example": "を 読み込む こと が でき",
+        "word_contain_sentence_num": 37
+    },
+    {
+        "word": "切り替え た",
+        "example": "に 切り替え た が 大半 の",
+        "word_contain_sentence_num": 53
+    },
+    {
+        "word": "ウェブ",
+        "example": "ウェブ 上 で 連載 さ",
+        "word_contain_sentence_num": 203
+    },
+    {
+        "word": "サイト",
+        "example": "の 公式 サイト で ある",
+        "word_contain_sentence_num": 3409
+    },
+    {
+        "word": "ウェブサイト",
+        "example": "自身 の ウェブサイト で は",
+        "word_contain_sentence_num": 779
+    },
+    {
+        "word": "データ",
+        "example": "npd グループ の データ を",
+        "word_contain_sentence_num": 3807
+    },
+    {
+        "word": "アクセス",
+        "example": "へ の アクセス が 読み取り",
+        "word_contain_sentence_num": 1503
+    },
+    {
+        "word": "パスワード",
+        "example": "から ローカル に パスワード を",
+        "word_contain_sentence_num": 229
+    },
+    {
+        "word": "ホームページ",
+        "example": "の ホームページ で は この",
+        "word_contain_sentence_num": 507
+    },
+    {
+        "word": "入力",
+        "example": "を 入力 する こと で",
+        "word_contain_sentence_num": 1038
+    },
+    {
+        "word": "掲載",
+        "example": "に 掲載 さ れ た",
+        "word_contain_sentence_num": 4138
+    },
+    {
+        "word": "掲",
+        "example": "上 掲 の 例 で",
+        "word_contain_sentence_num": 17
+    }
+]

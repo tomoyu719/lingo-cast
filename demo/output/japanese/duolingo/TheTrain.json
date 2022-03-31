@@ -1,0 +1,252 @@
+[
+    {
+        "word": "下さい",
+        "example": "手入れ を し て 下さい",
+        "word_contain_sentence_num": 141
+    },
+    {
+        "word": "化粧 室",
+        "example": "化粧 室 は 改札 外 に",
+        "word_contain_sentence_num": 30
+    },
+    {
+        "word": "お 足元",
+        "example": "お 足元",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "足元",
+        "example": "の 足元 に は 足元",
+        "word_contain_sentence_num": 111
+    },
+    {
+        "word": "ご 乗車",
+        "example": "ご 乗車 に なれ ませ ん",
+        "word_contain_sentence_num": 2
+    },
+    {
+        "word": "乗車 券",
+        "example": "という 事実 上 の 乗車 券",
+        "word_contain_sentence_num": 352
+    },
+    {
+        "word": "乗車",
+        "example": "の 乗車 券 を 発行",
+        "word_contain_sentence_num": 1363
+    },
+    {
+        "word": "閉まら ない",
+        "example": "閉まら ない",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "閉まる",
+        "example": "流れ て ドア が 閉まる",
+        "word_contain_sentence_num": 17
+    },
+    {
+        "word": "駆け込ん だ",
+        "example": "た まま トイレ に 駆け込ん だ",
+        "word_contain_sentence_num": 6
+    },
+    {
+        "word": "駆け込み",
+        "example": "に 駆け込み 捜索 を 依頼",
+        "word_contain_sentence_num": 32
+    },
+    {
+        "word": "駆",
+        "example": "第 二 駆 潜 隊",
+        "word_contain_sentence_num": 129
+    },
+    {
+        "word": "粧",
+        "example": "四天王 楓 江戸 粧",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "駅前",
+        "example": "駅前 の 約 4 ha",
+        "word_contain_sentence_num": 893
+    },
+    {
+        "word": "付近",
+        "example": "市 付近 に ある ものの",
+        "word_contain_sentence_num": 4277
+    },
+    {
+        "word": "特急",
+        "example": "の 特急 や 急行 を",
+        "word_contain_sentence_num": 1301
+    },
+    {
+        "word": "優先",
+        "example": "性 を 優先 する モード",
+        "word_contain_sentence_num": 1268
+    },
+    {
+        "word": "優先 席",
+        "example": "優先 席 と 同じ タイプ の",
+        "word_contain_sentence_num": 18
+    },
+    {
+        "word": "快速",
+        "example": "の 快速 列車 が 当",
+        "word_contain_sentence_num": 637
+    },
+    {
+        "word": "乗り場",
+        "example": "行き の 乗り場 が ある",
+        "word_contain_sentence_num": 145
+    },
+    {
+        "word": "快",
+        "example": "の 快 進撃 を 見せ",
+        "word_contain_sentence_num": 276
+    },
+    {
+        "word": "片道",
+        "example": "線 の 場合 は 片道",
+        "word_contain_sentence_num": 129
+    },
+    {
+        "word": "精算",
+        "example": "機 および 自動 精算 機",
+        "word_contain_sentence_num": 168
+    },
+    {
+        "word": "車掌",
+        "example": "車掌 が 乗務 する 際",
+        "word_contain_sentence_num": 204
+    },
+    {
+        "word": "路線 図",
+        "example": "京都 電気 鉄道 の 路線 図",
+        "word_contain_sentence_num": 33
+    },
+    {
+        "word": "路線",
+        "example": "の 路線 を 担当 し",
+        "word_contain_sentence_num": 6415
+    },
+    {
+        "word": "乗り越し た",
+        "example": "乗り越し た",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "乗り越し て",
+        "example": "乗り越し て",
+        "word_contain_sentence_num": 0
+    },
+    {
+        "word": "掌",
+        "example": "一般 的 に 掌 を",
+        "word_contain_sentence_num": 215
+    },
+    {
+        "word": "往復",
+        "example": "の 列車 が 1 往復",
+        "word_contain_sentence_num": 1069
+    },
+    {
+        "word": "目的 地",
+        "example": "の 目的 地 に 到着 し",
+        "word_contain_sentence_num": 206
+    },
+    {
+        "word": "通勤",
+        "example": "の 工場 へ の 通勤",
+        "word_contain_sentence_num": 576
+    },
+    {
+        "word": "通勤 者",
+        "example": "この 街 から の 通勤 者",
+        "word_contain_sentence_num": 27
+    },
+    {
+        "word": "鉄道",
+        "example": "元 の オーバーシーズ 鉄道 の",
+        "word_contain_sentence_num": 11793
+    },
+    {
+        "word": "運賃",
+        "example": "鉄道 線 運賃 は 1",
+        "word_contain_sentence_num": 724
+    },
+    {
+        "word": "賃",
+        "example": "まで の 電車 賃 を",
+        "word_contain_sentence_num": 34
+    },
+    {
+        "word": "往",
+        "example": "往 曲折 の 末 1357",
+        "word_contain_sentence_num": 7
+    },
+    {
+        "word": "ニューヨーク 州",
+        "example": "に トンプソン は ニューヨーク 州 道",
+        "word_contain_sentence_num": 476
+    },
+    {
+        "word": "州",
+        "example": "は モエシア 属 州 の",
+        "word_contain_sentence_num": 23275
+    },
+    {
+        "word": "フロリダ 州",
+        "example": "は フロリダ 州 の タンパ へ",
+        "word_contain_sentence_num": 354
+    },
+    {
+        "word": "頃",
+        "example": "2013 年 頃 に は",
+        "word_contain_sentence_num": 12300
+    },
+    {
+        "word": "今頃",
+        "example": "て いれ ば 今頃 は",
+        "word_contain_sentence_num": 9
+    },
+    {
+        "word": "その 頃",
+        "example": "その 頃 の 浦安 周辺 の",
+        "word_contain_sentence_num": 495
+    },
+    {
+        "word": "関西",
+        "example": "関東 と 関西 の 違い",
+        "word_contain_sentence_num": 1934
+    },
+    {
+        "word": "九州",
+        "example": "の 九州 征伐 が 始まる",
+        "word_contain_sentence_num": 2587
+    },
+    {
+        "word": "北部",
+        "example": "号線 は 郡 北部 の",
+        "word_contain_sentence_num": 3417
+    },
+    {
+        "word": "西部",
+        "example": "の 西部 に 位置 する",
+        "word_contain_sentence_num": 2428
+    },
+    {
+        "word": "南部",
+        "example": "南部 の 海岸 から 見",
+        "word_contain_sentence_num": 4210
+    },
+    {
+        "word": "頃",
+        "example": "2013 年 頃 に は",
+        "word_contain_sentence_num": 12300
+    },
+    {
+        "word": "州",
+        "example": "は モエシア 属 州 の",
+        "word_contain_sentence_num": 23275
+    }
+]

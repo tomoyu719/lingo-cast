@@ -1,0 +1,217 @@
+[
+    {
+        "word": "anyway",
+        "examples": [
+            "opened it anyway",
+            "they opened it anyway",
+            "but they opened it anyway",
+            "a.m. but they opened it anyway"
+        ],
+        "word_contain_sentence_num": 47
+    },
+    {
+        "word": "ship",
+        "examples": [
+            "<s> the ship",
+            "<s> <s> the ship",
+            "<s> <s> <s> the ship",
+            "<s> <s> <s> the ship was",
+            "<s> <s> <s> the ship was built",
+            "<s> <s> <s> the ship was built in",
+            "<s> <s> <s> the ship was built in XXXX"
+        ],
+        "word_contain_sentence_num": 1309
+    },
+    {
+        "word": "attend",
+        "examples": [
+            "to attend the",
+            "to attend the university",
+            "to attend the university of",
+            "to attend the university of north"
+        ],
+        "word_contain_sentence_num": 404
+    },
+    {
+        "word": "successful",
+        "examples": [
+            "after a successful",
+            "<s> after a successful",
+            "<s> <s> after a successful",
+            "<s> <s> <s> after a successful",
+            "<s> <s> <s> after a successful pilot",
+            "<s> <s> <s> after a successful pilot school",
+            "<s> <s> <s> after a successful pilot school test"
+        ],
+        "word_contain_sentence_num": 1193
+    },
+    {
+        "word": "employee",
+        "examples": [
+            "an employee of",
+            "an employee of the",
+            "as an employee of the",
+            "disguised as an employee of the"
+        ],
+        "word_contain_sentence_num": 170
+    },
+    {
+        "word": "expand",
+        "examples": [
+            "to expand the",
+            "plans to expand the",
+            "with plans to expand the",
+            "forward with plans to expand the"
+        ],
+        "word_contain_sentence_num": 220
+    },
+    {
+        "word": "copy",
+        "examples": [
+            "a copy of",
+            "a copy of the",
+            "a copy of the game",
+            "a copy of the game for"
+        ],
+        "word_contain_sentence_num": 211
+    },
+    {
+        "word": "close",
+        "examples": [
+            "close to the",
+            "very close to the",
+            "was very close to the",
+            "author was very close to the"
+        ],
+        "word_contain_sentence_num": 1267
+    },
+    {
+        "word": "weekly",
+        "examples": [
+            "as a weekly",
+            "as a weekly series",
+            "as a weekly series with",
+            "as a weekly series with a"
+        ],
+        "word_contain_sentence_num": 469
+    },
+    {
+        "word": "prefer",
+        "examples": [
+            "would prefer to",
+            "he would prefer to",
+            "that he would prefer to",
+            "responded that he would prefer to"
+        ],
+        "word_contain_sentence_num": 62
+    },
+    {
+        "word": "sign",
+        "examples": [
+            "to sign a",
+            "to sign a new",
+            "to sign a new treaty",
+            "to sign a new treaty with"
+        ],
+        "word_contain_sentence_num": 556
+    },
+    {
+        "word": "break",
+        "examples": [
+            "to break the",
+            "to break the news",
+            "to break the news in",
+            "to break the news in front"
+        ],
+        "word_contain_sentence_num": 520
+    },
+    {
+        "word": "document",
+        "examples": [
+            "<s> the document",
+            "<s> <s> the document",
+            "<s> <s> <s> the document",
+            "<s> <s> <s> the document was",
+            "<s> <s> <s> the document was written",
+            "<s> <s> <s> the document was written on",
+            "<s> <s> <s> the document was written on XX"
+        ],
+        "word_contain_sentence_num": 270
+    },
+    {
+        "word": "quarter",
+        "examples": [
+            "quarter of the",
+            "a quarter of the",
+            "a quarter of the XXth",
+            "a quarter of the XXth century"
+        ],
+        "word_contain_sentence_num": 302
+    },
+    {
+        "word": "department",
+        "examples": [
+            "the department of",
+            "of the department of",
+            "head of the department of",
+            "as head of the department of"
+        ],
+        "word_contain_sentence_num": 1956
+    },
+    {
+        "word": "accept",
+        "examples": [
+            "to accept the",
+            "refused to accept the",
+            "and refused to accept the",
+            "policy and refused to accept the"
+        ],
+        "word_contain_sentence_num": 283
+    },
+    {
+        "word": "allow",
+        "examples": [
+            "to allow the",
+            "order to allow the",
+            "in order to allow the",
+            "XXX in order to allow the"
+        ],
+        "word_contain_sentence_num": 733
+    },
+    {
+        "word": "connect",
+        "examples": [
+            "to connect with",
+            "to connect with the",
+            "to connect with the creator",
+            "to connect with the creator ("
+        ],
+        "word_contain_sentence_num": 178
+    },
+    {
+        "word": "recently",
+        "examples": [
+            "<s> more recently",
+            "<s> <s> more recently",
+            "<s> <s> <s> more recently",
+            "<s> <s> <s> more recently there",
+            "<s> <s> <s> more recently there has",
+            "<s> <s> <s> more recently there has been",
+            "<s> <s> <s> more recently there has been a"
+        ],
+        "word_contain_sentence_num": 679
+    },
+    {
+        "word": "another",
+        "examples": [
+            "<s> <s> another",
+            "<s> <s> <s> another",
+            "<s> <s> <s> another theory",
+            "<s> <s> <s> another theory put",
+            "<s> <s> <s> another theory put forward",
+            "<s> <s> <s> another theory put forward was",
+            "<s> <s> <s> another theory put forward was that"
+        ],
+        "word_contain_sentence_num": 3652
+    }
+]
